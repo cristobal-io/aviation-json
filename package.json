@@ -12,5 +12,9 @@
   },
   "author": "Cristobal Gomez",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/cristobal-io/aviation-data-json#readme"
+  "homepage": "https://bitbucket.org/cristobal-io/aviation-data-json#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
