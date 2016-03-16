@@ -1,0 +1,2157 @@
+[
+  {
+    "name": "Adria Airways",
+    "destinationsLink": "/wiki/Adria_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aegean Airlines",
+    "destinationsLink": "/wiki/Aegean_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aer Lingus",
+    "destinationsLink": "/wiki/Aer_Lingus_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aero California",
+    "destinationsLink": "/wiki/Aero_California_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Aero Lloyd",
+    "destinationsLink": "/wiki/Aero_Lloyd_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aeroflot",
+    "destinationsLink": "/wiki/Aeroflot_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aerolíneas Argentinas",
+    "destinationsLink": "/wiki/Aerol%C3%ADneas_Argentinas_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aeromar",
+    "destinationsLink": "/wiki/Aeromar_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aeroméxico",
+    "destinationsLink": "/wiki/Aerom%C3%A9xico_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aeroperú",
+    "destinationsLink": "/wiki/Aeroper%C3%BA_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "AeroSur",
+    "destinationsLink": "/wiki/AeroSur_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Aerosvit",
+    "destinationsLink": "/wiki/Aerosvit_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Afriqiyah Airways",
+    "destinationsLink": "/wiki/Afriqiyah_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aigle Azur",
+    "destinationsLink": "/wiki/Aigle_Azur_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Algérie",
+    "destinationsLink": "/wiki/Air_Alg%C3%A9rie_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Arabia",
+    "destinationsLink": "/wiki/Air_Arabia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Arabia Maroc",
+    "destinationsLink": "/wiki/Air_Arabia_Maroc_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Astana",
+    "destinationsLink": "/wiki/Air_Astana_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Berlin",
+    "destinationsLink": "/wiki/Air_Berlin_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Bucharest",
+    "destinationsLink": "/wiki/Air_Bucharest_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Canada",
+    "destinationsLink": "/wiki/Air_Canada_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Canada Rouge",
+    "destinationsLink": "/wiki/Air_Canada_Rouge_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Chathams",
+    "destinationsLink": "/wiki/Air_Chathams_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air China",
+    "destinationsLink": "/wiki/Air_China_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Dolomiti",
+    "destinationsLink": "/wiki/Air_Dolomiti_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Europa",
+    "destinationsLink": "/wiki/Air_Europa_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air France",
+    "destinationsLink": "/wiki/Air_France_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Greenland",
+    "destinationsLink": "/wiki/Air_Greenland_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Iceland",
+    "destinationsLink": "/wiki/Air_Iceland_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air India",
+    "destinationsLink": "/wiki/Air_India_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air India Express",
+    "destinationsLink": "/wiki/Air_India_Express_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air India Regional",
+    "destinationsLink": "/wiki/Air_India_Regional_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Italy",
+    "destinationsLink": "/wiki/Air_Italy_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Ivoire",
+    "destinationsLink": "/wiki/Air_Ivoire_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Koryo",
+    "destinationsLink": "/wiki/Air_Koryo_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Macau",
+    "destinationsLink": "/wiki/Air_Macau_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Madagascar",
+    "destinationsLink": "/wiki/Air_Madagascar_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Mali",
+    "destinationsLink": "/wiki/Air_Mali_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Malta",
+    "destinationsLink": "/wiki/Air_Malta_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Mauritius",
+    "destinationsLink": "/wiki/Air_Mauritius_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Méditerranée",
+    "destinationsLink": "/wiki/Air_M%C3%A9diterran%C3%A9e_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Midwest",
+    "destinationsLink": "/wiki/Air_Midwest_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Moldova",
+    "destinationsLink": "/wiki/Air_Moldova_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Namibia",
+    "destinationsLink": "/wiki/Air_Namibia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air New Zealand",
+    "destinationsLink": "/wiki/Air_New_Zealand_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Nigeria",
+    "destinationsLink": "/wiki/Air_Nigeria_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Nippon",
+    "destinationsLink": "/wiki/Air_Nippon_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Niugini",
+    "destinationsLink": "/wiki/Air_Niugini_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Nostrum",
+    "destinationsLink": "/wiki/Air_Nostrum_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air One",
+    "destinationsLink": "/wiki/Air_One_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Fiji Airways",
+    "destinationsLink": "/wiki/Fiji_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Panama",
+    "destinationsLink": "/wiki/Air_Panama_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Polonia",
+    "destinationsLink": "/wiki/Air_Polonia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Serbia",
+    "destinationsLink": "/wiki/Air_Serbia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Seychelles",
+    "destinationsLink": "/wiki/Air_Seychelles_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Tanzania",
+    "destinationsLink": "/wiki/Air_Tanzania_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Transat",
+    "destinationsLink": "/wiki/Air_Transat_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Air Uganda",
+    "destinationsLink": "/wiki/Air_Uganda_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air VIA",
+    "destinationsLink": "/wiki/Air_VIA_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Wales",
+    "destinationsLink": "/wiki/Air_Wales_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Air Wisconsin",
+    "destinationsLink": "/wiki/Air_Wisconsin_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "AirAsia Group",
+    "destinationsLink": "/wiki/AirAsia_Group_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "AirBaltic",
+    "destinationsLink": "/wiki/AirBaltic_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Airphil Express",
+    "destinationsLink": "/wiki/Airphil_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "AirTran Airways",
+    "destinationsLink": "/wiki/AirTran_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Airways International Cymru",
+    "destinationsLink": "/wiki/Airways_International_Cymru_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Alaska Airlines",
+    "destinationsLink": "/wiki/Alaska_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Albanian Airlines",
+    "destinationsLink": "/wiki/Albanian_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Alitalia",
+    "destinationsLink": "/wiki/Alitalia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Alitalia CityLiner",
+    "destinationsLink": "/wiki/Alitalia_CityLiner_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "All Nippon Airways",
+    "destinationsLink": "/wiki/All_Nippon_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Allegiant Air",
+    "destinationsLink": "/wiki/Allegiant_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "ALMA de México",
+    "destinationsLink": "/wiki/ALMA_de_M%C3%A9xico_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "America West Airlines",
+    "destinationsLink": "/wiki/America_West_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "America West Express",
+    "destinationsLink": "/wiki/America_West_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "American Airlines",
+    "destinationsLink": "/wiki/American_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "American Eagle Airlines",
+    "destinationsLink": "/wiki/American_Eagle_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Envoy Air",
+    "destinationsLink": "/wiki/Envoy_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "AnadoluJet",
+    "destinationsLink": "/wiki/AnadoluJet_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Ándalus Líneas Aéreas",
+    "destinationsLink": "/wiki/%C3%81ndalus_L%C3%ADneas_A%C3%A9reas_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Ariana Afghan Airlines",
+    "destinationsLink": "/wiki/Ariana_Afghan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Arik Air",
+    "destinationsLink": "/wiki/Arik_Air_destinations",
+    "scraper": "table_center"
+  },
+  {
+    "name": "TUI Airlines Netherlands",
+    "destinationsLink": "/wiki/TUI_Airlines_Netherlands_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Arkia",
+    "destinationsLink": "/wiki/Arkia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Armavia",
+    "destinationsLink": "/wiki/Armavia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Asiana Airlines",
+    "destinationsLink": "/wiki/Asiana_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "ASL Airlines France",
+    "destinationsLink": "/wiki/ASL_Airlines_France_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Astraeus",
+    "destinationsLink": "/wiki/Astraeus_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Aurora Airlines",
+    "destinationsLink": "/wiki/Aurora_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Austral Líneas Aéreas",
+    "destinationsLink": "/wiki/Austral_L%C3%ADneas_A%C3%A9reas_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Austrian Airlines Group",
+    "destinationsLink": "/wiki/Austrian_Airlines_Group_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Aviacsa",
+    "destinationsLink": "/wiki/Aviacsa_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Avianca Brazil",
+    "destinationsLink": "/wiki/Avianca_Brazil_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Avianca",
+    "destinationsLink": "/wiki/Avianca_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Avianca Ecuador",
+    "destinationsLink": "/wiki/Avianca_Ecuador_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Avolar",
+    "destinationsLink": "/wiki/Avolar_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Azerbaijan Airlines",
+    "destinationsLink": "/wiki/Azerbaijan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Azul Brazilian Airlines",
+    "destinationsLink": "/wiki/Azul_Brazilian_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "BA CityFlyer",
+    "destinationsLink": "/wiki/BA_CityFlyer_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Baboo",
+    "destinationsLink": "/wiki/Baboo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Bahamasair",
+    "destinationsLink": "/wiki/Bahamasair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Bahrain Air",
+    "destinationsLink": "/wiki/Bahrain_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Balkan Bulgarian Airlines",
+    "destinationsLink": "/wiki/Balkan_Bulgarian_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Batavia Air",
+    "destinationsLink": "/wiki/Batavia_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Belavia",
+    "destinationsLink": "/wiki/Belavia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Belle Air",
+    "destinationsLink": "/wiki/Belle_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "BH Air",
+    "destinationsLink": "/wiki/BH_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Biman Bangladesh Airlines",
+    "destinationsLink": "/wiki/Biman_Bangladesh_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Blue Air",
+    "destinationsLink": "/wiki/Blue_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Blue Panorama",
+    "destinationsLink": "/wiki/Blue_Panorama_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Blue1",
+    "destinationsLink": "/wiki/Blue1_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "British Midland International",
+    "destinationsLink": "/wiki/British_Midland_International_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "BMI Regional",
+    "destinationsLink": "/wiki/BMI_Regional_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Bmibaby",
+    "destinationsLink": "/wiki/Bmibaby_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Braniff International Airways",
+    "destinationsLink": "/wiki/Braniff_International_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Brit Air",
+    "destinationsLink": "/wiki/Brit_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "British Airways",
+    "destinationsLink": "/wiki/British_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "British Airways franchise",
+    "destinationsLink": "/wiki/British_Airways_franchise_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Brussels Airlines",
+    "destinationsLink": "/wiki/Brussels_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Bulgaria Air charter",
+    "destinationsLink": "/wiki/Bulgaria_Air_charter_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Bulgaria Air",
+    "destinationsLink": "/wiki/Bulgaria_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Bulgarian Air Charter",
+    "destinationsLink": "/wiki/Bulgarian_Air_Charter_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Canadian Airlines",
+    "destinationsLink": "/wiki/Canadian_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Canadian Pacific Air Lines",
+    "destinationsLink": "/wiki/Canadian_Pacific_Air_Lines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "CanJet",
+    "destinationsLink": "/wiki/CanJet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Cape Air",
+    "destinationsLink": "/wiki/Cape_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Cargolux",
+    "destinationsLink": "/wiki/Cargolux_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Caribair",
+    "destinationsLink": "/wiki/Caribair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Caribbean Airlines",
+    "destinationsLink": "/wiki/Caribbean_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Carpatair",
+    "destinationsLink": "/wiki/Carpatair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cathay Pacific",
+    "destinationsLink": "/wiki/Cathay_Pacific_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cayman Airways",
+    "destinationsLink": "/wiki/Cayman_Airways_destinations",
+    "scraper": "table_center"
+  },
+  {
+    "name": "Cebu Pacific",
+    "destinationsLink": "/wiki/Cebu_Pacific_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Centralwings",
+    "destinationsLink": "/wiki/Centralwings_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Centre-South",
+    "destinationsLink": "/wiki/Centre-South_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "China Airlines",
+    "destinationsLink": "/wiki/China_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "China Cargo Airlines",
+    "destinationsLink": "/wiki/China_Cargo_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "China Eastern Airlines",
+    "destinationsLink": "/wiki/China_Eastern_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "China Southern Airlines",
+    "destinationsLink": "/wiki/China_Southern_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cimber Sterling",
+    "destinationsLink": "/wiki/Cimber_Sterling_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "City Airline",
+    "destinationsLink": "/wiki/City_Airline_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "CityJet",
+    "destinationsLink": "/wiki/CityJet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Clickair",
+    "destinationsLink": "/wiki/Clickair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Condor Flugdienst",
+    "destinationsLink": "/wiki/Condor_Flugdienst_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Continental Airlines",
+    "destinationsLink": "/wiki/Continental_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Continental Express",
+    "destinationsLink": "/wiki/Continental_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Continental Micronesia",
+    "destinationsLink": "/wiki/Continental_Micronesia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Copa Airlines Colombia",
+    "destinationsLink": "/wiki/Copa_Airlines_Colombia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Copa Airlines",
+    "destinationsLink": "/wiki/Copa_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Corsair International",
+    "destinationsLink": "/wiki/Corsair_International_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Croatia Airlines",
+    "destinationsLink": "/wiki/Croatia_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cubana de Aviación",
+    "destinationsLink": "/wiki/Cubana_de_Aviaci%C3%B3n_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cyprus Airways",
+    "destinationsLink": "/wiki/Cyprus_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cyprus Turkish Airlines",
+    "destinationsLink": "/wiki/Cyprus_Turkish_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Czech Airlines",
+    "destinationsLink": "/wiki/Czech_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Danube Wings",
+    "destinationsLink": "/wiki/Danube_Wings_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Delta Air Lines",
+    "destinationsLink": "/wiki/Delta_Air_Lines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Delta Connection",
+    "destinationsLink": "/wiki/Delta_Connection_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Delta Express",
+    "destinationsLink": "/wiki/Delta_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Pacific Royale Airways",
+    "destinationsLink": "/wiki/Pacific_Royale_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Dniproavia",
+    "destinationsLink": "/wiki/Dniproavia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "East African Airways",
+    "destinationsLink": "/wiki/East_African_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Eastern Air Lines",
+    "destinationsLink": "/wiki/Eastern_Air_Lines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Eastern Airways",
+    "destinationsLink": "/wiki/Eastern_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "EasyJet",
+    "destinationsLink": "/wiki/EasyJet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "EasyJet Switzerland",
+    "destinationsLink": "/wiki/EasyJet_Switzerland_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Edelweiss Air",
+    "destinationsLink": "/wiki/Edelweiss_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "EgyptAir",
+    "destinationsLink": "/wiki/EgyptAir_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "El Al",
+    "destinationsLink": "/wiki/El_Al_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Emirates",
+    "destinationsLink": "/wiki/Emirates_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Emirates SkyCargo",
+    "destinationsLink": "/wiki/Emirates_SkyCargo_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Estonian Air",
+    "destinationsLink": "/wiki/Estonian_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Ethiopian Airlines",
+    "destinationsLink": "/wiki/Ethiopian_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Etihad Airways",
+    "destinationsLink": "/wiki/Etihad_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Eurocypria Airlines",
+    "destinationsLink": "/wiki/Eurocypria_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Eurowings",
+    "destinationsLink": "/wiki/Eurowings_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "EVA Air",
+    "destinationsLink": "/wiki/EVA_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "ExpressJet Airlines",
+    "destinationsLink": "/wiki/ExpressJet_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Finnair",
+    "destinationsLink": "/wiki/Finnair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "First Choice Airways",
+    "destinationsLink": "/wiki/First_Choice_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Fly Hellas",
+    "destinationsLink": "/wiki/Fly_Hellas_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Flybe",
+    "destinationsLink": "/wiki/Flybe_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Flybe franchise and codeshare",
+    "destinationsLink": "/wiki/Flybe_franchise_and_codeshare_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Flydubai",
+    "destinationsLink": "/wiki/Flydubai_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Flyglobespan",
+    "destinationsLink": "/wiki/Flyglobespan_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Freedom Air (New Zealand)",
+    "destinationsLink": "/wiki/Freedom_Air_(New_Zealand)_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Frontier Airlines",
+    "destinationsLink": "/wiki/Frontier_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Garuda Indonesia",
+    "destinationsLink": "/wiki/Garuda_Indonesia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Georgian Airways",
+    "destinationsLink": "/wiki/Georgian_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Germania",
+    "destinationsLink": "/wiki/Germania_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Germanwings",
+    "destinationsLink": "/wiki/Germanwings_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Gol Transportes Aéreos",
+    "destinationsLink": "/wiki/Gol_Transportes_A%C3%A9reos_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Gorkha Airlines",
+    "destinationsLink": "/wiki/Gorkha_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Great Lakes Airlines",
+    "destinationsLink": "/wiki/Great_Lakes_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Gulf Air",
+    "destinationsLink": "/wiki/Gulf_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "GX Airlines",
+    "destinationsLink": "/wiki/GX_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Hainan Airlines",
+    "destinationsLink": "/wiki/Hainan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Hawaiian Airlines",
+    "destinationsLink": "/wiki/Hawaiian_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Hello",
+    "destinationsLink": "/wiki/Hello_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Henan Airlines",
+    "destinationsLink": "/wiki/Henan_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Hewa Bora Airways",
+    "destinationsLink": "/wiki/Hewa_Bora_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Holidays Czech Airlines",
+    "destinationsLink": "/wiki/Holidays_Czech_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Hong Kong Airlines",
+    "destinationsLink": "/wiki/Hong_Kong_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Horizon Air",
+    "destinationsLink": "/wiki/Horizon_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Hunnu Air",
+    "destinationsLink": "/wiki/Hunnu_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Iberia",
+    "destinationsLink": "/wiki/Iberia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Orbest Orizonia Airlines",
+    "destinationsLink": "/wiki/Orbest_Orizonia_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Icelandair",
+    "destinationsLink": "/wiki/Icelandair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Independence Air",
+    "destinationsLink": "/wiki/Independence_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Indian",
+    "destinationsLink": "/wiki/Indian_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "IndiGo",
+    "destinationsLink": "/wiki/IndiGo_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Interjet",
+    "destinationsLink": "/wiki/Interjet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Iran Air",
+    "destinationsLink": "/wiki/Iran_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Iran Aseman Airlines",
+    "destinationsLink": "/wiki/Iran_Aseman_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Iraqi Airways",
+    "destinationsLink": "/wiki/Iraqi_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Israir Airlines",
+    "destinationsLink": "/wiki/Israir_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "IZair",
+    "destinationsLink": "/wiki/IZair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "JALways",
+    "destinationsLink": "/wiki/JALways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Japan Airlines",
+    "destinationsLink": "/wiki/Japan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jat Airways",
+    "destinationsLink": "/wiki/Jat_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jazeera Airways",
+    "destinationsLink": "/wiki/Jazeera_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jazz Aviation",
+    "destinationsLink": "/wiki/Jazz_Aviation_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Jeju Air",
+    "destinationsLink": "/wiki/Jeju_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jet Airways",
+    "destinationsLink": "/wiki/Jet_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jet2.com",
+    "destinationsLink": "/wiki/Jet2.com_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Jet4you",
+    "destinationsLink": "/wiki/Jet4you_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Jetairfly",
+    "destinationsLink": "/wiki/Jetairfly_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "JetBlue",
+    "destinationsLink": "/wiki/JetBlue_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jetstar Asia Airways",
+    "destinationsLink": "/wiki/Jetstar_Asia_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jetstar",
+    "destinationsLink": "/wiki/Jetstar_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Jetstar Pacific Airlines",
+    "destinationsLink": "/wiki/Jetstar_Pacific_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Juneyao Airlines",
+    "destinationsLink": "/wiki/Juneyao_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Kenya Airways",
+    "destinationsLink": "/wiki/Kenya_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Kingfisher Airlines",
+    "destinationsLink": "/wiki/Kingfisher_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "List of KLM Cityhopper",
+    "destinationsLink": "/wiki/List_of_KLM_Cityhopper_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "KLM",
+    "destinationsLink": "/wiki/KLM_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Korean Air",
+    "destinationsLink": "/wiki/Korean_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Kuban Airlines",
+    "destinationsLink": "/wiki/Kuban_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Kuwait Airways",
+    "destinationsLink": "/wiki/Kuwait_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Lacsa",
+    "destinationsLink": "/wiki/Lacsa_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TACA Costa Rica",
+    "destinationsLink": "/wiki/TACA_Costa_Rica_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "LAM Mozambique Airlines",
+    "destinationsLink": "/wiki/LAM_Mozambique_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "LAN Airlines",
+    "destinationsLink": "/wiki/LAN_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "LAN Argentina",
+    "destinationsLink": "/wiki/LAN_Argentina_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "LAN Colombia",
+    "destinationsLink": "/wiki/LAN_Colombia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "LAN Perú",
+    "destinationsLink": "/wiki/LAN_Per%C3%BA_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "LIAT",
+    "destinationsLink": "/wiki/LIAT_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "List of Libyan Airlines",
+    "destinationsLink": "/wiki/List_of_Libyan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Lion Air",
+    "destinationsLink": "/wiki/Lion_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "List of Braathens",
+    "destinationsLink": "/wiki/List_of_Braathens_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "List of Dragonair",
+    "destinationsLink": "/wiki/List_of_Dragonair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "List of LAN Ecuador",
+    "destinationsLink": "/wiki/List_of_LAN_Ecuador_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Livingston Energy Flight",
+    "destinationsLink": "/wiki/Livingston_Energy_Flight_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Loganair",
+    "destinationsLink": "/wiki/Loganair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "LOT Polish Airlines",
+    "destinationsLink": "/wiki/LOT_Polish_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "LTU International",
+    "destinationsLink": "/wiki/LTU_International_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Lufthansa Cargo",
+    "destinationsLink": "/wiki/Lufthansa_Cargo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Lufthansa CityLine",
+    "destinationsLink": "/wiki/Lufthansa_CityLine_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Lufthansa",
+    "destinationsLink": "/wiki/Lufthansa_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Luxair",
+    "destinationsLink": "/wiki/Luxair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Mahan Air",
+    "destinationsLink": "/wiki/Mahan_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Malaysia Airlines",
+    "destinationsLink": "/wiki/Malaysia_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Malév Hungarian Airlines",
+    "destinationsLink": "/wiki/Mal%C3%A9v_Hungarian_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Martinair Cargo",
+    "destinationsLink": "/wiki/Martinair_Cargo_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Martinair",
+    "destinationsLink": "/wiki/Martinair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Meridiana",
+    "destinationsLink": "/wiki/Meridiana_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "MexicanaClick",
+    "destinationsLink": "/wiki/MexicanaClick_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "MexicanaLink",
+    "destinationsLink": "/wiki/MexicanaLink_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "MIAT Mongolian Airlines",
+    "destinationsLink": "/wiki/MIAT_Mongolian_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Middle East Airlines",
+    "destinationsLink": "/wiki/Middle_East_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Midwest Connect",
+    "destinationsLink": "/wiki/Midwest_Connect_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Monarch Airlines",
+    "destinationsLink": "/wiki/Monarch_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Montenegro Airlines",
+    "destinationsLink": "/wiki/Montenegro_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "MyAir",
+    "destinationsLink": "/wiki/MyAir_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Flynas",
+    "destinationsLink": "/wiki/Flynas_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Neos",
+    "destinationsLink": "/wiki/Neos_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Nepal Airlines",
+    "destinationsLink": "/wiki/Nepal_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Nigeria Airways",
+    "destinationsLink": "/wiki/Nigeria_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Niki",
+    "destinationsLink": "/wiki/Niki_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Nordavia",
+    "destinationsLink": "/wiki/Nordavia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Nordic Regional Airlines",
+    "destinationsLink": "/wiki/Nordic_Regional_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Northwest Airlines",
+    "destinationsLink": "/wiki/Northwest_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Norwegian Air Shuttle",
+    "destinationsLink": "/wiki/Norwegian_Air_Shuttle_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Nouvelair",
+    "destinationsLink": "/wiki/Nouvelair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Novair",
+    "destinationsLink": "/wiki/Novair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Olympic Air",
+    "destinationsLink": "/wiki/Olympic_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Olympic Airlines",
+    "destinationsLink": "/wiki/Olympic_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Oman Air",
+    "destinationsLink": "/wiki/Oman_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Pakistan International Airlines",
+    "destinationsLink": "/wiki/Pakistan_International_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "PAL Express",
+    "destinationsLink": "/wiki/PAL_Express_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Palmair",
+    "destinationsLink": "/wiki/Palmair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Pan Am",
+    "destinationsLink": "/wiki/Pan_Am_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Panair do Brasil",
+    "destinationsLink": "/wiki/Panair_do_Brasil_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "PAWA Dominicana",
+    "destinationsLink": "/wiki/PAWA_Dominicana_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Pegasus Airlines",
+    "destinationsLink": "/wiki/Pegasus_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Philippine Airlines",
+    "destinationsLink": "/wiki/Philippine_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "PLUNA",
+    "destinationsLink": "/wiki/PLUNA_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Portugália",
+    "destinationsLink": "/wiki/Portug%C3%A1lia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Precision Air",
+    "destinationsLink": "/wiki/Precision_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Primera Air Destinations",
+    "destinationsLink": "/wiki/Primera_Air_Destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Pulkovo",
+    "destinationsLink": "/wiki/Pulkovo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Qantas",
+    "destinationsLink": "/wiki/Qantas_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Qatar Airways",
+    "destinationsLink": "/wiki/Qatar_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Régional Compagnie Aérienne Européenne",
+    "destinationsLink": "/wiki/R%C3%A9gional_Compagnie_A%C3%A9rienne_Europ%C3%A9enne_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Rossiya",
+    "destinationsLink": "/wiki/Rossiya_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Royal Air Maroc",
+    "destinationsLink": "/wiki/Royal_Air_Maroc_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Royal Brunei Airlines",
+    "destinationsLink": "/wiki/Royal_Brunei_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Royal Jordanian",
+    "destinationsLink": "/wiki/Royal_Jordanian_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Ryanair",
+    "destinationsLink": "/wiki/Ryanair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "S7 Airlines",
+    "destinationsLink": "/wiki/S7_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Santa Barbara Airlines",
+    "destinationsLink": "/wiki/Santa_Barbara_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SAS Braathens",
+    "destinationsLink": "/wiki/SAS_Braathens_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SAS Commuter",
+    "destinationsLink": "/wiki/SAS_Commuter_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SAS Group",
+    "destinationsLink": "/wiki/SAS_Group_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SATA Air Açores",
+    "destinationsLink": "/wiki/SATA_Air_A%C3%A7ores_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SATA International",
+    "destinationsLink": "/wiki/SATA_International_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "SATENA",
+    "destinationsLink": "/wiki/SATENA_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Saudia",
+    "destinationsLink": "/wiki/Saudia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "SBA",
+    "destinationsLink": "/wiki/SBA_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Scandinavian Airlines",
+    "destinationsLink": "/wiki/Scandinavian_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "SCAT Air",
+    "destinationsLink": "/wiki/SCAT_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Shaheen Air",
+    "destinationsLink": "/wiki/Shaheen_Air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Shanghai Airlines",
+    "destinationsLink": "/wiki/Shanghai_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Shenzhen Airlines",
+    "destinationsLink": "/wiki/Shenzhen_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Sichuan Airlines",
+    "destinationsLink": "/wiki/Sichuan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "SilkAir",
+    "destinationsLink": "/wiki/SilkAir_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Singapore Airlines Cargo",
+    "destinationsLink": "/wiki/Singapore_Airlines_Cargo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Singapore Airlines",
+    "destinationsLink": "/wiki/Singapore_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Sky Express (Greece)",
+    "destinationsLink": "/wiki/Sky_Express_(Greece)_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Sky Pasada",
+    "destinationsLink": "/wiki/Sky_Pasada_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Skybus Airlines",
+    "destinationsLink": "/wiki/Skybus_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SkyEurope",
+    "destinationsLink": "/wiki/SkyEurope_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SkyGreece Airlines",
+    "destinationsLink": "/wiki/SkyGreece_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Skyservice",
+    "destinationsLink": "/wiki/Skyservice_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Skyway Airlines",
+    "destinationsLink": "/wiki/Skyway_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SkyWest Airlines",
+    "destinationsLink": "/wiki/SkyWest_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SkyWork Airlines",
+    "destinationsLink": "/wiki/SkyWork_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SmartWings",
+    "destinationsLink": "/wiki/SmartWings_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SN Brussels Airlines",
+    "destinationsLink": "/wiki/SN_Brussels_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Solomon Airlines",
+    "destinationsLink": "/wiki/Solomon_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "South African Airways",
+    "destinationsLink": "/wiki/South_African_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Cebgo",
+    "destinationsLink": "/wiki/Cebgo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Southwest Airlines",
+    "destinationsLink": "/wiki/Southwest_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Spanair",
+    "destinationsLink": "/wiki/Spanair_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SpiceJet",
+    "destinationsLink": "/wiki/SpiceJet_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Spirit Airlines",
+    "destinationsLink": "/wiki/Spirit_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "SriLankan Airlines",
+    "destinationsLink": "/wiki/SriLankan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Sriwijaya Air",
+    "destinationsLink": "/wiki/Sriwijaya_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Star1 Airlines",
+    "destinationsLink": "/wiki/Star1_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Sudan Airways",
+    "destinationsLink": "/wiki/Sudan_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Sun Country Airlines",
+    "destinationsLink": "/wiki/Sun_Country_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Sun D'Or",
+    "destinationsLink": "/wiki/Sun_D%27Or_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Sunwing Airlines",
+    "destinationsLink": "/wiki/Sunwing_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Swiss Global Air Lines",
+    "destinationsLink": "/wiki/Swiss_Global_Air_Lines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Swiss International Air Lines",
+    "destinationsLink": "/wiki/Swiss_International_Air_Lines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Syphax Airlines",
+    "destinationsLink": "/wiki/Syphax_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Syrian Air",
+    "destinationsLink": "/wiki/Syrian_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TAAG Angola Airlines",
+    "destinationsLink": "/wiki/TAAG_Angola_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Taban Air",
+    "destinationsLink": "/wiki/Taban_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TACA Airlines Destinations",
+    "destinationsLink": "/wiki/TACA_Airlines_Destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Avianca Perú",
+    "destinationsLink": "/wiki/Avianca_Per%C3%BA_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TACV",
+    "destinationsLink": "/wiki/TACV_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TAM Airlines",
+    "destinationsLink": "/wiki/TAM_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TAME",
+    "destinationsLink": "/wiki/TAME_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TAP Portugal",
+    "destinationsLink": "/wiki/TAP_Portugal_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TAROM",
+    "destinationsLink": "/wiki/TAROM_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Tatarstan Airlines",
+    "destinationsLink": "/wiki/Tatarstan_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Ted",
+    "destinationsLink": "/wiki/Ted_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Texas International Airlines",
+    "destinationsLink": "/wiki/Texas_International_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Thai Airways",
+    "destinationsLink": "/wiki/Thai_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Thomas Cook Airlines Belgium",
+    "destinationsLink": "/wiki/Thomas_Cook_Airlines_Belgium_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Thomas Cook Airlines",
+    "destinationsLink": "/wiki/Thomas_Cook_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Thomas Cook Airlines Scandinavia",
+    "destinationsLink": "/wiki/Thomas_Cook_Airlines_Scandinavia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Thomson Airways",
+    "destinationsLink": "/wiki/Thomson_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Tianjin Airlines",
+    "destinationsLink": "/wiki/Tianjin_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Tigerair",
+    "destinationsLink": "/wiki/Tigerair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Tigerair Australia",
+    "destinationsLink": "/wiki/Tigerair_Australia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Tiger Group",
+    "destinationsLink": "/wiki/Tiger_Group_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TNT Airways",
+    "destinationsLink": "/wiki/TNT_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TMA Cargo",
+    "destinationsLink": "/wiki/TMA_Cargo_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Transaero",
+    "destinationsLink": "/wiki/Transaero_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Transavia",
+    "destinationsLink": "/wiki/Transavia_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Transavia France",
+    "destinationsLink": "/wiki/Transavia_France_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Transbrasil",
+    "destinationsLink": "/wiki/Transbrasil_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Travel Service Airlines",
+    "destinationsLink": "/wiki/Travel_Service_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TRIP Linhas Aéreas",
+    "destinationsLink": "/wiki/TRIP_Linhas_A%C3%A9reas_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TUIfly",
+    "destinationsLink": "/wiki/TUIfly_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Tunisair",
+    "destinationsLink": "/wiki/Tunisair_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Turkish Airlines",
+    "destinationsLink": "/wiki/Turkish_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Turkmenistan Airlines",
+    "destinationsLink": "/wiki/Turkmenistan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TWA",
+    "destinationsLink": "/wiki/TWA_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Ukraine International Airlines",
+    "destinationsLink": "/wiki/Ukraine_International_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "United Airlines",
+    "destinationsLink": "/wiki/United_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "United Express",
+    "destinationsLink": "/wiki/United_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Ural Airlines",
+    "destinationsLink": "/wiki/Ural_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "US Airways",
+    "destinationsLink": "/wiki/US_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "US Airways Express",
+    "destinationsLink": "/wiki/US_Airways_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "UTair Aviation",
+    "destinationsLink": "/wiki/UTair_Aviation_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Uzbekistan Airways",
+    "destinationsLink": "/wiki/Uzbekistan_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "ValuJet",
+    "destinationsLink": "/wiki/ValuJet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Varig",
+    "destinationsLink": "/wiki/Varig_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Viasa",
+    "destinationsLink": "/wiki/Viasa_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "VietJet Air",
+    "destinationsLink": "/wiki/VietJet_Air_destinations",
+    "scraper": "table_toccolours"
+  },
+  {
+    "name": "Vietnam Airlines",
+    "destinationsLink": "/wiki/Vietnam_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Viking Airlines",
+    "destinationsLink": "/wiki/Viking_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Virgin America",
+    "destinationsLink": "/wiki/Virgin_America_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Virgin Atlantic",
+    "destinationsLink": "/wiki/Virgin_Atlantic_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Virgin Australia",
+    "destinationsLink": "/wiki/Virgin_Australia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Virgin Express",
+    "destinationsLink": "/wiki/Virgin_Express_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Virgin Sun Airlines",
+    "destinationsLink": "/wiki/Virgin_Sun_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Vision Airlines",
+    "destinationsLink": "/wiki/Vision_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Viva Macau",
+    "destinationsLink": "/wiki/Viva_Macau_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "VivaAerobús",
+    "destinationsLink": "/wiki/VivaAerob%C3%BAs_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Vladivostok Air",
+    "destinationsLink": "/wiki/Vladivostok_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Volaris",
+    "destinationsLink": "/wiki/Volaris_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Volotea Destinations",
+    "destinationsLink": "/wiki/Volotea_Destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Vueling",
+    "destinationsLink": "/wiki/Vueling_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Wataniya Airways",
+    "destinationsLink": "/wiki/Wataniya_Airways_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "WestJet",
+    "destinationsLink": "/wiki/WestJet_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "WestJet Encore",
+    "destinationsLink": "/wiki/WestJet_Encore_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "White Airways",
+    "destinationsLink": "/wiki/White_Airways_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "List of Widerøe",
+    "destinationsLink": "/wiki/List_of_Wider%C3%B8e_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Wind Jet",
+    "destinationsLink": "/wiki/Wind_Jet_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Wizz Air",
+    "destinationsLink": "/wiki/Wizz_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Wizz Air Ukraine",
+    "destinationsLink": "/wiki/Wizz_Air_Ukraine_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "WOW air",
+    "destinationsLink": "/wiki/WOW_air_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "XiamenAir",
+    "destinationsLink": "/wiki/XiamenAir_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "XL Airways France",
+    "destinationsLink": "/wiki/XL_Airways_France_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Yakutia",
+    "destinationsLink": "/wiki/Yakutia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Yemenia",
+    "destinationsLink": "/wiki/Yemenia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Zest Airways",
+    "destinationsLink": "/wiki/Zest_Airways_destinations",
+    "scraper": "default"
+  }
+]
