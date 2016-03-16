@@ -1,0 +1,30 @@
+{
+  "rules": {
+    "indent": [2, 2],
+    "quotes": [2, "double"],
+    "no-multiple-empty-lines": [2, {
+      "max": 2
+    }],
+    "newline-after-var": [2, "always"],
+    "semi": [
+      2,
+      "always"
+    ],
+    "eol-last": 2,
+    "complexity": [2, 6],
+    "max-depth": [2, 10],
+    "curly": [2],
+    "no-plusplus": [2],
+    "strict": [2, "global"],
+    "no-console": [1],
+    "no-warning-comments": [1, { "terms": ["todo", "fixme", "bermi"], "location": "anywhere"}],
+    "no-debugger": [1],
+    "no-inner-declarations": [2, "both"]
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "extends": "eslint:recommended"
+}
