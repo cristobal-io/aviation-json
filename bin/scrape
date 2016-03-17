@@ -1,4 +1,7 @@
 #!/usr/bin/env node
 "use strict";
 
-console.log("hello world!");
+var airlineDestinations = require("../tmp/airline_destinations.json");
+var airports = require("../tmp/airports.json");
+
+

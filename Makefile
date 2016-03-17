@@ -17,7 +17,10 @@ lint:
 	eslint $(LINT_DIR)
 	echo "Linting finished without errors"
 
-test:
+test: lint
 	mocha test
+
+dev:
+	mocha test -w
 
 .PHONY: test

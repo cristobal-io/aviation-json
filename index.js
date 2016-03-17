@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = {
   airports: require("./data/airports.json"),
   cities: require("./data/cities.json"),
