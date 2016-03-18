@@ -4,7 +4,9 @@ var Ajv = require("ajv");
 var ajv = Ajv();
 var _ = require("lodash");
 
-var airlines = require("../bin/scrape.js").airlines;
+var scrapeJs = require("../bin/scrape.js");
+var airlines = scrapeJs.airlines;
+var airlinesIcao = scrapeJs.airlinesIcao;
 var airlinesSchema = require("../schema/airlines_names.schema.json");
 
 describe("bin/scrape.js tests", function() {
@@ -17,5 +19,9 @@ describe("bin/scrape.js tests", function() {
     var validAirlineSchema = validateAirlineSchema(airlines);
 
     assert.isTrue(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
+  });
+
+  it("should subsitute the destinations with the respective ICAO code", function () {
+    assert.typeOf(airlinesIcao, "array");
   });
 });
