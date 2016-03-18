@@ -7,7 +7,7 @@ var _ = require("lodash");
 var airlines = require("../bin/scrape.js").airlines;
 var airlinesSchema = require("../schema/airlines_names.schema.json");
 
-describe("bin/scrape tests", function() {
+describe("bin/scrape.js tests", function() {
   it("should return an array", function () {
     assert.typeOf(airlines, "array");
   });
