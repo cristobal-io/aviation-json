@@ -1,4 +1,4 @@
 [{
   "airline": "Adria Airways",
-  "destinations": [EHAM, EDDT, EBBR]
+  "destinations": ["EHAM", "EDDT", "EBBR"]
 }]

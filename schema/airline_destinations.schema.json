@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "/",
+  "type": "array",
+  "items": {
+    "id": "0",
+    "type": "object",
+    "properties": {
+      "airline": {
+        "id": "airline",
+        "type": "string"
+      },
+      "destinations": {
+        "id": "destinations",
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "id": "2",
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "airline",
+      "destinations"
+    ]
+  },
+  "required": [
+    "0"
+  ]
+}
