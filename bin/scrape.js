@@ -29,6 +29,8 @@ var airlines = _.reduce(airlineDestinations, function (result, value, key) {
 
 airlines = airlines.filter(Boolean);
 
+
+// todo: this takes really long time. need to fix it, at least for testing purposes.
 var airlinesIcao = _.map(airlines, function (value) {
   _.map(value.destinations, function (destination) {
     var airportIcao = getIcaoName(destination);
