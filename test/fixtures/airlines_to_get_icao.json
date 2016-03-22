@@ -1,0 +1,30 @@
+[{
+  "airline": "XL Airways France",
+  "destinations": ["/wiki/Roland_Garros_Airport",
+    "/wiki/Dzaoudzi%E2%80%93Pamandzi_International_Airport",
+    "/wiki/Juan_Gualberto_G%C3%B3mez_Airport",
+    "/wiki/Punta_Cana_International_Airport",
+    "/wiki/Pointe-%C3%A0-Pitre_International_Airport",
+    "/wiki/Martinique_Aim%C3%A9_C%C3%A9saire_International_Airport",
+    "/wiki/John_F._Kennedy_International_Airport",
+    "/wiki/Nantes_Atlantique_Airport",
+    "/wiki/Heraklion_International_Airport",
+    "/wiki/Palma_de_Mallorca_Airport"
+  ]
+}, {
+  "airline": "Zest Airways",
+  "destinations": ["/wiki/Quanzhou_Jinjiang_Airport",
+    "/wiki/Shanghai_Pudong_International_Airport",
+    "/wiki/Incheon_International_Airport",
+    "/wiki/Ninoy_Aquino_International_Airport",
+    "/wiki/Puerto_Princesa_International_Airport",
+    "/wiki/Francisco_Bangoy_International_Airport",
+    "/wiki/Laguindingan_International_Airport",
+    "/wiki/Bacolod-Silay_International_Airport",
+    "/wiki/Mactan-Cebu_International_Airport",
+    "/wiki/Iloilo_International_Airport",
+    "/wiki/Kalibo_International_Airport",
+    "/wiki/Daniel_Z._Romualdez_Airport",
+    "/wiki/Tagbilaran_Airport"
+  ]
+}]

@@ -1,0 +1,31 @@
+[{
+  "airline": "XL Airways France",
+  "destinations": ["FMEE",
+    "FMCZ",
+    "MUVR",
+    "MDPC",
+    "TFFR",
+    "TFFF",
+    "KJFK",
+    "LFRS",
+    "LGIR",
+    "LEPA"
+  ]
+}, {
+  "airline": "Zest Airways",
+  "destinations":
+    ["/wiki/Quanzhou_Jinjiang_Airport",
+    "ZSPD",
+    "RKSI",
+    "RPLL",
+    "/wiki/Puerto_Princesa_International_Airport",
+    "RPMD",
+    "/wiki/Laguindingan_International_Airport",
+    "/wiki/Bacolod-Silay_International_Airport",
+    "/wiki/Mactan-Cebu_International_Airport",
+    "RPVI",
+    "RPVK",
+    "RPVA",
+    "RPVT"
+  ]
+}]

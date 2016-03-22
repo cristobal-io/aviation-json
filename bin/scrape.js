@@ -28,18 +28,24 @@ var airlines = _.reduce(airlineDestinations, function (result, value, key) {
 }, []);
 
 airlines = airlines.filter(Boolean);
-
+// console.log(airlines);
 
 // todo: this takes really long time. need to fix it, at least for testing purposes.
-var airlinesIcao = function(airlines){
-  _.map(airlines, function (value) {
+var airlinesIcao = function(object){
+  var airlines = [];
+
+  _.map(object, function (value) {
+    var airline = {airline: value.airline, destinations: []};
+
     _.map(value.destinations, function (destination) {
       var airportIcao = getIcaoName(destination);
 
-      return airportIcao;
+      // console.log(airportIcao);
+      airline.destinations.push(airportIcao);
     });
-
+    airlines.push(airline);
   });
+  return airlines;
 };
 
 function getIcaoName(destination) {
