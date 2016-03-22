@@ -31,14 +31,16 @@ airlines = airlines.filter(Boolean);
 
 
 // todo: this takes really long time. need to fix it, at least for testing purposes.
-var airlinesIcao = _.map(airlines, function (value) {
-  _.map(value.destinations, function (destination) {
-    var airportIcao = getIcaoName(destination);
+var airlinesIcao = function(airlines){
+  _.map(airlines, function (value) {
+    _.map(value.destinations, function (destination) {
+      var airportIcao = getIcaoName(destination);
 
-    return airportIcao;
+      return airportIcao;
+    });
+
   });
-
-});
+};
 
 function getIcaoName(destination) {
   var airport = _.find(airports, function (o) {
@@ -59,3 +61,4 @@ function getIcaoName(destination) {
 
 module.exports.airlines = airlines;
 module.exports.airlinesIcao = airlinesIcao;
+module.exports.getIcaoName = getIcaoName;
