@@ -5,20 +5,23 @@ var ajv = Ajv();
 var _ = require("lodash");
 
 var scrapeJs = require("../bin/scrape.js");
-var airlines = scrapeJs.airlines;
+var reduceAirlines = scrapeJs.reduceAirlines;
 var airlinesIcao = scrapeJs.airlinesIcao;
 var getIcaoName = scrapeJs.getIcaoName;
 
 var airlinesSchema = require("../schema/airlines_names.schema.json");
+var airlineDestinations = require("../tmp/airline_destinations.json");
+
 
 describe("bin/scrape.js tests", function () {
   describe("airlines:", function () {
 
     it("should return an array", function () {
-      assert.typeOf(airlines, "array");
+      assert.typeOf(reduceAirlines, "function");
     });
 
     it("should meet the basic schema", function () {
+      var airlines = reduceAirlines(airlineDestinations);
       var validateAirlineSchema = ajv.compile(airlinesSchema);
       var validAirlineSchema = validateAirlineSchema(airlines);
 
