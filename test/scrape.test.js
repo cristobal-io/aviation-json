@@ -1,5 +1,5 @@
 "use strict";
-var assert = require("chai").assert;
+var assert = require("assert");
 var Ajv = require("ajv");
 var ajv = Ajv();
 var _ = require("lodash");
@@ -16,8 +16,9 @@ var airlineDestinations = require("../tmp/airline_destinations.json");
 describe("bin/scrape.js tests", function () {
   describe("airlines:", function () {
 
-    it("should return an array", function () {
-      assert.typeOf(reduceAirlines, "function");
+    it("should be a function", function () {
+      assert(typeof reduceAirlines === "function", "not a function!");
+      // assert.typeOf(reduceAirlines, "function");
     });
 
     it("should meet the basic schema", function () {
@@ -25,14 +26,14 @@ describe("bin/scrape.js tests", function () {
       var validateAirlineSchema = ajv.compile(airlinesSchema);
       var validAirlineSchema = validateAirlineSchema(airlines);
 
-      assert.isTrue(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
+      assert(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
     });
   });
   
   describe("switch airport name for ICAO name", function () {
 
     it("should subsitute the destinations with the respective ICAO code", function () {
-      assert.typeOf(changeUrltoIcao, "function");
+      assert(typeof changeUrltoIcao === "function");
     });
 
     it("should change the values using changeUrltoIcao fn", function () {
@@ -46,7 +47,7 @@ describe("bin/scrape.js tests", function () {
 
   describe("getIcaoName fn", function () {
     it("should be a function", function () {
-      assert.typeOf(getIcaoName, "function");
+      assert(typeof getIcaoName === "function");
     });
 
     it("should return the ICAO name", function () {
