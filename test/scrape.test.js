@@ -25,6 +25,7 @@ describe("bin/scrape.js tests", function () {
       assert.isTrue(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
     });
   });
+  
   describe("switch airport name for ICAO name", function () {
 
     it("should subsitute the destinations with the respective ICAO code", function () {
