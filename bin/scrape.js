@@ -30,7 +30,7 @@ var reduceAirlines = function (airlineDestinations) {
 };
 
 // bermi: this takes really long time.
-var airlinesIcao = function(object){
+var changeUrltoIcao = function(object){
   var airlines = [];
 
   _.map(object, function (value) {
@@ -64,5 +64,5 @@ function getIcaoName(destination) {
 
 
 module.exports.reduceAirlines = reduceAirlines;
-module.exports.airlinesIcao = airlinesIcao;
+module.exports.changeUrltoIcao = changeUrltoIcao;
 module.exports.getIcaoName = getIcaoName;
