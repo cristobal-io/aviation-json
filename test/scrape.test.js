@@ -28,7 +28,6 @@ describe("bin/scrape.js tests", function () {
     it("shouldn't have empty destinations or wiki urls", function () {
       _.map(airlines,function(airline) {
         assert(!(/\/wiki\//.test(Object.keys(airline))), "the key url contains wiki.");
-        // console.log(Object.keys(airline));
         _.map(airline, function(destinations) {
           assert(destinations.length > 0, "there are empty destinations");
           _.map(destinations, function(destination) {

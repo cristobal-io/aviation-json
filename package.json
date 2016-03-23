@@ -15,7 +15,6 @@
   "homepage": "https://bitbucket.org/cristobal-io/aviation-json#readme",
   "devDependencies": {
     "ajv": "^3.8.5",
-    "chai": "^3.5.0",
     "mocha": "^2.4.5"
   },
   "dependencies": {
