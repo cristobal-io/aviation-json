@@ -15,21 +15,33 @@ var airlineDestinations = require("../tmp/airline_destinations.json");
 
 describe("bin/scrape.js tests", function () {
   describe("airlines:", function () {
+    var airlines;
+
+    before(function () {
+      airlines = reduceAirlines(airlineDestinations);
+    });
 
     it("should be a function", function () {
       assert(typeof reduceAirlines === "function", "not a function!");
     });
 
-    it("should meet the basic schema", function () {
-      var airlines = reduceAirlines(airlineDestinations);
-      var validateAirlineSchema = ajv.compile(airlinesSchema);
-      var validAirlineSchema = validateAirlineSchema(airlines);
-
+    it("shouldn't have empty destinations or wiki urls", function () {
       _.map(airlines,function(airline) {
+        assert(!(/\/wiki\//.test(Object.keys(airline))), "the key url contains wiki.");
+        // console.log(Object.keys(airline));
         _.map(airline, function(destinations) {
           assert(destinations.length > 0, "there are empty destinations");
+          _.map(destinations, function(destination) {
+            assert(!(/\/wiki\//.test(destination)), "the destination url contains wiki.");
+          });
+
         });
       });
+    });
+
+    it("should meet the basic schema", function () {
+      var validateAirlineSchema = ajv.compile(airlinesSchema);
+      var validAirlineSchema = validateAirlineSchema(airlines);
 
       assert(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
     });
