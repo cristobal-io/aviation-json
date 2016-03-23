@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+
+"use strict";
+
+var program = require("commander");
+var version = require("../package.json").version;
+
+var reduceAirlines = require("scrape.js").reduceAirlines;
+var airlineDestinations = require("../tmp/airline_destinations.json");
+
+var fs = require("fs");
+var destinations;
+
+program
+  .version(version)
+  .description("This package uses aviation-scraper to get the information and prepare it for a database usage")
+  .option("-d, --destinations", "generates the destinations with only the primary keys.")
+  .parse(process.argv);
+
+if (program.destinations){
+  destinations = reduceAirlines(airlineDestinations);
+
+  fs.writeFile("../data/airline_destinations.json", destinations, function() {
+    console.log("file saved");
+  });
+}
