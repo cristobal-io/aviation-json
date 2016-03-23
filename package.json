@@ -1,7 +1,7 @@
 {
   "name": "aviation-json",
   "version": "0.0.1",
-  "description": "would be a module that uses aviation-data-scrapper as a dev dependency to generate using a single command the following JSON files:",
+  "description": "would be a module that uses aviation-scrapper as a dev dependency to generate using a single command the following JSON files:",
   "main": "index.js",
   "scripts": {
     "test": "make test"

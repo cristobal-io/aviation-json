@@ -1,6 +1,6 @@
-# aviation-data-json
+# aviation-json
 
-would be a module that uses aviation-data-scrapper as a dev dependency to generate using a single command the following JSON files:
+would be a module that uses aviation-scrapper as a dev dependency to generate using a single command the following JSON files:
 
 * airports.json (an array with all the airport data)
 * airlines.json (an array with all the airlines data)
