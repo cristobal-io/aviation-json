@@ -1,5 +1,5 @@
 {
-  "name": "aviation-data-json",
+  "name": "aviation-json",
   "version": "0.0.1",
   "description": "would be a module that uses aviation-data-scrapper as a dev dependency to generate using a single command the following JSON files:",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/cristobal-io/aviation-data-json.git"
+    "url": "git+ssh://git@bitbucket.org/cristobal-io/aviation-json.git"
   },
   "author": "Cristobal Gomez",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/cristobal-io/aviation-data-json#readme",
+  "homepage": "https://bitbucket.org/cristobal-io/aviation-json#readme",
   "devDependencies": {
     "ajv": "^3.8.5",
     "chai": "^3.5.0",
