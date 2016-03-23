@@ -18,13 +18,18 @@ describe("bin/scrape.js tests", function () {
 
     it("should be a function", function () {
       assert(typeof reduceAirlines === "function", "not a function!");
-      // assert.typeOf(reduceAirlines, "function");
     });
 
     it("should meet the basic schema", function () {
       var airlines = reduceAirlines(airlineDestinations);
       var validateAirlineSchema = ajv.compile(airlinesSchema);
       var validAirlineSchema = validateAirlineSchema(airlines);
+
+      _.map(airlines,function(airline) {
+        _.map(airline, function(destinations) {
+          assert(destinations.length > 0, "there are empty destinations");
+        });
+      });
 
       assert(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
     });

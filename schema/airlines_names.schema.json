@@ -3,28 +3,10 @@
   "id": "/",
   "type": "array",
   "items": {
-    "id": "0",
     "type": "object",
-    "properties": {
-      "airline": {
-        "id": "airline",
-        "type": "string"
-      },
-      "destinations": {
-        "id": "destinations",
-        "type": "array",
-        "minItems": 1,
-        "items": {
-          "id": "2",
-          "type": "string"
-        }
-      }
-    },
-    "required": [
-      "airline",
-      "destinations"
-    ]
+    "minProperties": 1
   },
+  "minItems": 1,
   "required": [
     "0"
   ]

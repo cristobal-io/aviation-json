@@ -11,16 +11,15 @@ var reduceAirlines = function (airlineDestinations) {
 
     _.map(value.destinations, function (value) {
       if (value.airport) {
-        destinations.push(value.airport.url);
+        destinations.push(cleanUrl(value.airport.url));
       }
     });
+    var airlineKey = cleanUrl(value.destinationsLink);
 
-    var airline = {
-      airline: value.name,
-      destinations: destinations
-    };
+    var airline = {};
 
-    if (airline.destinations.length) {
+    airline[airlineKey] = destinations;
+    if (airline[airlineKey].length) {
       result[key] = airline;
     }
     return result;
@@ -29,7 +28,10 @@ var reduceAirlines = function (airlineDestinations) {
   return airlines.filter(Boolean);
 };
 
-// bermi: this takes really long time.
+var cleanUrl = function(url) {
+  return url.replace(/\/wiki\//, "");
+};
+
 var changeUrltoIcao = function(object){
   var airlines = [];
 
