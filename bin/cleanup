@@ -10,33 +10,45 @@ var reduceAirlines = scrapeJs.reduceAirlines;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceDestinations = scrapeJs.reduceDestinations;
 
-var airlineDestinations = require("../tmp/airline_destinations.json");
+var destinationsRaw = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
+var airlinesRaw = require("../tmp/airlines_data.json");
+
+var DESTINATIONS_FILE = "./data/airline_destinations.json";
+var AIRPORTS_FILE = "./data/airports.json";
+var AIRLINES_FILE = "./data/airlines.json";
+
 
 var fs = require("fs");
-var destinations, airports;
+var destinations, airports, airlines;
 
 program
   .version(version)
   .description("This package uses aviation-scraper to get the information and prepare it for a database usage")
   .option("-d, --destinations", "generates the destinations with only the primary keys.")
   .option("-a, --airports", "generates the airports file.")
+  .option("-c, --companies", "generates the airlines file")
   .parse(process.argv);
 
-if (!program.destinations && !program.airports) {
+if (!program.destinations && !program.airports && !program.companies) {
   program.help();
 }
 
+if (program.companies) {
+  airlines = reduceAirlines(airlinesRaw);
+  saveFile(AIRLINES_FILE, airlines, logDone);
+}
+
 if (program.destinations){
-  destinations = reduceDestinations(airlineDestinations);
-  saveFile("./data/airline_destinations.json", destinations, logDone);
+  destinations = reduceDestinations(destinationsRaw);
+  saveFile(DESTINATIONS_FILE, destinations, logDone);
 }
 
 if (program.airports) {
   airports = reduceAirports(airportsRaw);
   console.log(airports);
 
-  saveFile("./data/airports.json", airports, logDone);
+  saveFile(AIRPORTS_FILE, airports, logDone);
 }
 
 function logDone() {
