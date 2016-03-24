@@ -13,13 +13,14 @@ var reduceDestinations = function (airlineDestinations) {
       }
     });
     var airlineKey = cleanUrl(value.destinationsLink);
-
-    if (destinations) {
+    
+    if (destinations.length) {
       result[airlineKey] = destinations;
     }
     return result;
   }, {});
 
+  // console.log(airlines);
   return airlines;
 };
 
