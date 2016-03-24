@@ -17,6 +17,10 @@ program
   .option("-d, --destinations", "generates the destinations with only the primary keys.")
   .parse(process.argv);
 
+if (!program.destinations) {
+  program.help();
+}
+
 if (program.destinations){
   destinations = reduceAirlines(airlineDestinations);
 
