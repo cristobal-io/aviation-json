@@ -5,7 +5,7 @@
 var program = require("commander");
 var version = require("../package.json").version;
 
-var reduceAirlines = require("scrape.js").reduceAirlines;
+var reduceAirlines = require("./scrape.js").reduceAirlines;
 var airlineDestinations = require("../tmp/airline_destinations.json");
 
 var fs = require("fs");
@@ -20,7 +20,8 @@ program
 if (program.destinations){
   destinations = reduceAirlines(airlineDestinations);
 
-  fs.writeFile("../data/airline_destinations.json", destinations, function() {
+  fs.writeFile("./data/airline_destinations.json", JSON.stringify(destinations,null, 2), function(err) {
+    if (err) {throw err;}
     console.log("file saved");
   });
 }
