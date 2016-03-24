@@ -1,10 +1,20 @@
 #!/usr/bin/env node
 
 "use strict";
+
 var _ = require("lodash");
 
-var reduceDestinations = function (airlineDestinations) {
-  var airlines = _.reduce(airlineDestinations, function (result, value) {
+var generateAirportCity = function(destinationsRaw) {
+  var airportCity = _.reduce(destinationsRaw, function(result, value) {
+    _.map(value.destinations, function(destination) {
+      airportKey = cleanUrl(value.airport.url);
+    });
+  });
+  
+};
+
+var reduceDestinations = function (destinationsRaw) {
+  var airlines = _.reduce(destinationsRaw, function (result, value) {
     var destinations = [];
 
     _.map(value.destinations, function (value) {
@@ -24,9 +34,6 @@ var reduceDestinations = function (airlineDestinations) {
   return airlines;
 };
 
-var cleanUrl = function (url) {
-  return url.replace(/\/wiki\//, "");
-};
 
 var reduceAirports = function (airportsRaw) {
   var airports = _.reduce(airportsRaw, function (result, value) {
@@ -86,6 +93,10 @@ function getIcaoName(destination, airports) {
   }
   return icaoAirport;
 }
+
+function cleanUrl (url) {
+  return url.replace(/\/wiki\//, "");
+};
 
 
 module.exports = {
