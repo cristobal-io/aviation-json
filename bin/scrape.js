@@ -23,12 +23,12 @@ var reduceDestinations = function (airlineDestinations) {
   return airlines;
 };
 
-var cleanUrl = function(url) {
+var cleanUrl = function (url) {
   return url.replace(/\/wiki\//, "");
 };
 
-var reduceAirports = function(airportsRaw) {
-  var airports = _.reduce(airportsRaw, function(result, value) {
+var reduceAirports = function (airportsRaw) {
+  var airports = _.reduce(airportsRaw, function (result, value) {
     var airportKey = getLastUrlPath(value.url);
     var airport = {
       latitude: value.data.coordinates.latitude,
@@ -50,10 +50,23 @@ var reduceAirports = function(airportsRaw) {
   }
 };
 
-var reduceAirlines = function(airlinesRaw) {
-  var airlines = _.reduce(airlinesRaw, function(result, value, key) {
-    
+var reduceAirlines = function (airlinesRaw) {
+  var airlines = _.reduce(airlinesRaw, function (result, value) {
+    var airlineKey = value.name;
+    var airlineData = {
+      "logoLink": value.logoLink,
+      "IATA": value.IATA,
+      "ICAO": value.ICAO,
+      "Callsign": value.Callsign,
+      "hubs": value.hubs,
+      "website": value.website
+    };
+
+    result[airlineKey] = airlineData;
+    return result;
   }, {});
+
+  return airlines;
 };
 
 
@@ -75,8 +88,8 @@ function getIcaoName(destination, airports) {
 
 
 module.exports = {
-  reduceDestinations : reduceDestinations,
-  getIcaoName : getIcaoName,
-  reduceAirports : reduceAirports,
-  reduceAirlines : reduceAirlines
+  reduceDestinations: reduceDestinations,
+  getIcaoName: getIcaoName,
+  reduceAirports: reduceAirports,
+  reduceAirlines: reduceAirlines
 };

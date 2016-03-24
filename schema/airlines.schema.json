@@ -1,0 +1,48 @@
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "airlines",
+  "type": "object",
+  "properties": {
+    "name": {
+      "id": "name",
+      "type": "string"
+    },
+    "logoLink": {
+      "id": "logoLink",
+      "type": "string"
+    },
+    "IATA": {
+      "id": "IATA",
+      "type": "string"
+    },
+    "ICAO": {
+      "id": "ICAO",
+      "type": "string"
+    },
+    "Callsign": {
+      "id": "Callsign",
+      "type": "string"
+    },
+    "hubs": {
+      "id": "hubs",
+      "type": "array",
+      "items": {
+        "id": "0",
+        "type": "object",
+        "properties": {
+          "name": {
+            "id": "name",
+            "type": "string"
+          },
+          "link": {
+            "id": "link",
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

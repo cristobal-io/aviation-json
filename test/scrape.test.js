@@ -8,10 +8,12 @@ var scrapeJs = require("../bin/scrape.js");
 var reduceDestinations = scrapeJs.reduceDestinations;
 var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;
+var reduceAirlines = scrapeJs.reduceAirlines;
 
 var airlinesSchema = require("../schema/airlines_names.schema.json");
 var airlineDestinations = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
+var airlinesRaw = require("../tmp/airlines_data.json");
 
 
 describe("bin/scrape.js tests", function () {
@@ -72,12 +74,31 @@ describe("bin/scrape.js tests", function () {
     });
   });
 
-  describe("airlines", function() {
-    it("should have all a name so we can use it as a primary key", function () {
-      var airlines = require("../tmp/airlines_data.json");
+  describe("reduceAirlines fn", function() {
+    var airlines;
 
-      _.map(airlines, function(airline) {
+    before(function () {
+      airlines = reduceAirlines(airlinesRaw);
+    });
+    it("should have all a name so we can use it as a primary key", function () {
+
+      _.map(airlinesRaw, function(airline) {
         assert.ok(airline.name, "doesn't has name" + airline.name);
+      });
+    });
+
+    it("should be a fn", function () {
+      assert.ok(typeof reduceAirlines === "function", "it is " + typeof reduceAirlines);
+    });
+
+    it("should meet the airline data schema", function () {
+      assert.ok(airlines, "airlines it's empty");
+      _.map(airlines, function(airline) {
+        var airlinesSchema = require("../schema/airlines.schema.json");
+        var validateAirlineSchema = ajv.compile(airlinesSchema);
+        var validAirline = validateAirlineSchema(airline);
+
+        assert.ok(validAirline, validateAirlineSchema);
       });
     });
   });
