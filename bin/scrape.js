@@ -3,8 +3,7 @@
 "use strict";
 var _ = require("lodash");
 
-var airports = require("../tmp/airports.json");
-
+// bermi: let's get with reduce method, I am using it as a map.
 var reduceAirlines = function (airlineDestinations) {
   var airlines = _.reduce(airlineDestinations, function (result, value, key) {
     var destinations = [];
@@ -32,23 +31,32 @@ var cleanUrl = function(url) {
   return url.replace(/\/wiki\//, "");
 };
 
-var changeUrltoIcao = function(object){
-  var airlines = [];
+var reduceAirports = function(airportsRaw) {
+  var airports = _.reduce(airportsRaw, function(result, value, key) {
+    var airportKey = getLastUrlPath(value.url);
+    var airport = {};
 
-  _.map(object, function (value) {
-    var airline = {airline: value.airline, destinations: []};
+    airport[airportKey] = {
+      latitude: value.data.coordinates.latitude,
+      longitude: value.data.coordinates.longitude,
+      name: value.data.name,
+      nickname: value.data.nickname,
+      iata: value.data.iata,
+      icao: value.data.icao
+    };
+    result[key] = airport;
+    return result;
+  }, []);
 
-    _.map(value.destinations, function (destination) {
-      var airportIcao = getIcaoName(destination);
+  return airports.filter(Boolean);
 
-      airline.destinations.push(airportIcao);
-    });
-    airlines.push(airline);
-  });
-  return airlines;
+  function getLastUrlPath(url) {
+    return url.split("/").pop();
+  }
 };
 
-function getIcaoName(destination) {
+
+function getIcaoName(destination, airports) {
   var airport = _.find(airports, function (o) {
       var regDest = new RegExp(destination);
 
@@ -66,5 +74,5 @@ function getIcaoName(destination) {
 
 
 module.exports.reduceAirlines = reduceAirlines;
-module.exports.changeUrltoIcao = changeUrltoIcao;
 module.exports.getIcaoName = getIcaoName;
+module.exports.reduceAirports = reduceAirports;

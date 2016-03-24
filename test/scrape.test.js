@@ -6,11 +6,12 @@ var _ = require("lodash");
 
 var scrapeJs = require("../bin/scrape.js");
 var reduceAirlines = scrapeJs.reduceAirlines;
-var changeUrltoIcao = scrapeJs.changeUrltoIcao;
 var getIcaoName = scrapeJs.getIcaoName;
+var reduceAirports = scrapeJs.reduceAirports;
 
 var airlinesSchema = require("../schema/airlines_names.schema.json");
 var airlineDestinations = require("../tmp/airline_destinations.json");
+var airportsRaw = require("../tmp/airports.json");
 
 
 describe("bin/scrape.js tests", function () {
@@ -26,11 +27,11 @@ describe("bin/scrape.js tests", function () {
     });
 
     it("shouldn't have empty destinations or wiki urls", function () {
-      _.map(airlines,function(airline) {
+      _.map(airlines, function (airline) {
         assert(!(/\/wiki\//.test(Object.keys(airline))), "the key url contains wiki.");
-        _.map(airline, function(destinations) {
+        _.map(airline, function (destinations) {
           assert(destinations.length > 0, "there are empty destinations");
-          _.map(destinations, function(destination) {
+          _.map(destinations, function (destination) {
             assert(!(/\/wiki\//.test(destination)), "the destination url contains wiki.");
           });
 
@@ -45,19 +46,32 @@ describe("bin/scrape.js tests", function () {
       assert(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
     });
   });
-  
-  describe("switch airport name for ICAO name", function () {
 
-    it("should subsitute the destinations with the respective ICAO code", function () {
-      assert(typeof changeUrltoIcao === "function");
-    });
+  describe("reduceAirports fn", function () {
 
-    it("should change the values using changeUrltoIcao fn", function () {
-      var airlinesToIcao = require("../test/fixtures/airlines_to_get_icao.json");
-      var expectedAirlinesIcao = require("./fixtures/expected_airlines_icao.json");
-      var changedIcaoAirlines = changeUrltoIcao(airlinesToIcao);
+    it("should meet the schema", function () {
 
-      assert.deepEqual(changedIcaoAirlines, expectedAirlinesIcao);
+      var airports = reduceAirports(airportsRaw);
+      var airportSchema = require("../schema/airport.schema.json");
+
+      assert(airports, "airports doesn't exist");
+
+      _.map(airports, function (airport) {
+        var airportKey = Object.keys(airport);
+        var validateAirport = ajv.compile(airportSchema);
+        var validAirport = validateAirport(airport[airportKey]);
+
+        // console.log(airport);
+        // console.log(JSON.stringify(validateAirport,null,2));
+
+        assert(validAirport, JSON.stringify(validateAirport,null,2));
+        // assert(airport[airportKey].latitude, "doesn't have latitude "+ Object.keys(airport));
+        // assert(airport.longitude, "doesn't have longitude");
+        // assert(airport.name, "doesn't have name");
+        // assert(airport.nickname, "doesn't have nickname");
+        // assert(airport.iata, "doesn't have iata");
+        // assert(airport.icao, "doesn't have icao");
+      });
     });
   });
 
@@ -67,7 +81,7 @@ describe("bin/scrape.js tests", function () {
     });
 
     it("should return the ICAO name", function () {
-      var icaoAirport = getIcaoName("/wiki/Amsterdam_Airport_Schiphol");
+      var icaoAirport = getIcaoName("/wiki/Amsterdam_Airport_Schiphol", airportsRaw);
       var expectedIcao = "EHAM";
 
       assert.equal(icaoAirport, expectedIcao, "the url is not being find.");

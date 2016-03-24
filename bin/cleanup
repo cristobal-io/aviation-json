@@ -5,8 +5,12 @@
 var program = require("commander");
 var version = require("../package.json").version;
 
-var reduceAirlines = require("./scrape.js").reduceAirlines;
+var scrapeJs = require("./scrape.js");
+var reduceAirlines = scrapeJs.reduceAirlines;
+var reduceAirports = scrapeJs.reduceAirports;
+
 var airlineDestinations = require("../tmp/airline_destinations.json");
+var airportsRaw = require("../tmp/airports.json");
 
 var fs = require("fs");
 var destinations;
@@ -15,6 +19,7 @@ program
   .version(version)
   .description("This package uses aviation-scraper to get the information and prepare it for a database usage")
   .option("-d, --destinations", "generates the destinations with only the primary keys.")
+  .option("-a, --airports", "generates the airports file.")
   .parse(process.argv);
 
 if (!program.destinations) {
@@ -23,9 +28,23 @@ if (!program.destinations) {
 
 if (program.destinations){
   destinations = reduceAirlines(airlineDestinations);
+  saveFile("./data/airline_destinations.json", destinations, logDone);
+}
 
-  fs.writeFile("./data/airline_destinations.json", JSON.stringify(destinations,null, 2), function(err) {
+if (program.airports) {
+  var airports = reduceAirports(airportsRaw);
+
+  saveFile("./data/airports.json", airports, logDone);
+}
+
+function logDone() {
+  console.log("file Saved");
+}
+
+function saveFile(dir, data, callback) {
+  fs.writeFile(dir, JSON.stringify(destinations,null, 2), function(err) {
     if (err) {throw err;}
-    console.log("file saved");
+    callback();
   });
+  
 }

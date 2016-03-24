@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "airportSchema",
+  "type": "object",
+  "properties": {
+    "latitude": {
+      "id": "latitude",
+      "type": "string"
+    },
+    "longitude": {
+      "id": "longitude",
+      "type": "string"
+    },
+    "name": {
+      "id": "name",
+      "type": "string"
+    },
+    "nickname": {
+      "id": "nickname",
+      "type": "string"
+    },
+    "iata": {
+      "id": "iata",
+      "type": "string"
+    },
+    "icao": {
+      "id": "icao",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
