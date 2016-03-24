@@ -13,7 +13,7 @@ var airlineDestinations = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
 
 var fs = require("fs");
-var destinations;
+var destinations, airports;
 
 program
   .version(version)
@@ -22,7 +22,7 @@ program
   .option("-a, --airports", "generates the airports file.")
   .parse(process.argv);
 
-if (!program.destinations) {
+if (!program.destinations && !program.airports) {
   program.help();
 }
 
@@ -32,7 +32,8 @@ if (program.destinations){
 }
 
 if (program.airports) {
-  var airports = reduceAirports(airportsRaw);
+  airports = reduceAirports(airportsRaw);
+  console.log(airports);
 
   saveFile("./data/airports.json", airports, logDone);
 }
@@ -42,7 +43,7 @@ function logDone() {
 }
 
 function saveFile(dir, data, callback) {
-  fs.writeFile(dir, JSON.stringify(destinations,null, 2), function(err) {
+  fs.writeFile(dir, JSON.stringify(data,null, 2), function(err) {
     if (err) {throw err;}
     callback();
   });

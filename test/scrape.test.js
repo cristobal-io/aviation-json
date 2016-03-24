@@ -57,15 +57,12 @@ describe("bin/scrape.js tests", function () {
       assert(airports, "airports doesn't exist");
 
       _.map(airports, function (airport) {
-        var airportKey = Object.keys(airport);
         var validateAirport = ajv.compile(airportSchema);
-        var validAirport = validateAirport(airport[airportKey]);
-
-        // console.log(airport);
-        // console.log(JSON.stringify(validateAirport,null,2));
+        var validAirport = validateAirport(airport);
+        
 
         assert(validAirport, JSON.stringify(validateAirport,null,2));
-        // assert(airport[airportKey].latitude, "doesn't have latitude "+ Object.keys(airport));
+        // assert(airport.latitude, "doesn't have latitude ");
         // assert(airport.longitude, "doesn't have longitude");
         // assert(airport.name, "doesn't have name");
         // assert(airport.nickname, "doesn't have nickname");

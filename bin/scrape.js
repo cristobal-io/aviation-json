@@ -32,11 +32,9 @@ var cleanUrl = function(url) {
 };
 
 var reduceAirports = function(airportsRaw) {
-  var airports = _.reduce(airportsRaw, function(result, value, key) {
+  var airports = _.reduce(airportsRaw, function(result, value) {
     var airportKey = getLastUrlPath(value.url);
-    var airport = {};
-
-    airport[airportKey] = {
+    var airport = {
       latitude: value.data.coordinates.latitude,
       longitude: value.data.coordinates.longitude,
       name: value.data.name,
@@ -44,11 +42,12 @@ var reduceAirports = function(airportsRaw) {
       iata: value.data.iata,
       icao: value.data.icao
     };
-    result[key] = airport;
-    return result;
-  }, []);
 
-  return airports.filter(Boolean);
+    result[airportKey] = airport;
+    return result;
+  }, {});
+
+  return airports;
 
   function getLastUrlPath(url) {
     return url.split("/").pop();
