@@ -6,6 +6,7 @@
   "scripts": {
     "test": "make test"
   },
+  "bin":{"aviation-json": "./bin/cleanup"},
   "repository": {
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/cristobal-io/aviation-json.git"
