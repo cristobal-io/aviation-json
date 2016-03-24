@@ -10,18 +10,18 @@ var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceAirlines = scrapeJs.reduceAirlines;
 
-var airlinesSchema = require("../schema/airlines_names.schema.json");
-var airlineDestinations = require("../tmp/airline_destinations.json");
+var destinationsSchema = require("../schema/destinations.schema.json");
+var destinationsRaw = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
 var airlinesRaw = require("../tmp/airlines_data.json");
 
 
 describe("bin/scrape.js tests", function () {
   describe("destinations:", function () {
-    var airlines;
+    var destinations;
 
     before(function () {
-      airlines = reduceDestinations(airlineDestinations);
+      destinations = reduceDestinations(destinationsRaw);
     });
 
     it("should be a function", function () {
@@ -29,7 +29,7 @@ describe("bin/scrape.js tests", function () {
     });
 
     it("shouldn't have empty destinations or wiki urls", function () {
-      _.map(airlines, function (airline) {
+      _.map(destinations, function (airline) {
         assert(!(/\/wiki\//.test(Object.keys(airline))), "the key url contains wiki.");
         _.map(airline, function (destinations) {
           assert(destinations.length > 0, "there are empty destinations");
@@ -42,10 +42,10 @@ describe("bin/scrape.js tests", function () {
     });
 
     it("should meet the basic schema", function () {
-      var validateAirlineSchema = ajv.compile(airlinesSchema);
-      var validAirlineSchema = validateAirlineSchema(airlines);
+      var validateDestinationsSchema = ajv.compile(destinationsSchema);
+      var validDestination = validateDestinationsSchema(destinations);
 
-      assert(validAirlineSchema, _.get(validateAirlineSchema, "errors[0].message"));
+      assert(validDestination, _.get(validateDestinationsSchema, "errors[0].message"));
     });
   });
 
@@ -98,7 +98,7 @@ describe("bin/scrape.js tests", function () {
         var validateAirlineSchema = ajv.compile(airlinesSchema);
         var validAirline = validateAirlineSchema(airline);
 
-        assert.ok(validAirline, validateAirlineSchema);
+        assert.ok(validAirline, _.get(validateAirlineSchema, "errors[0].message"));
       });
     });
   });

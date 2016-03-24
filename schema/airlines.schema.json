@@ -24,6 +24,10 @@
       "id": "Callsign",
       "type": "string"
     },
+    "website":{
+      "id": "website",
+      "type": "string"
+      },
     "hubs": {
       "id": "hubs",
       "type": "array",
