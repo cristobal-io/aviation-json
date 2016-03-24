@@ -5,7 +5,7 @@ var ajv = Ajv();
 var _ = require("lodash");
 
 var scrapeJs = require("../bin/scrape.js");
-var reduceAirlines = scrapeJs.reduceAirlines;
+var reduceDestinations = scrapeJs.reduceDestinations;
 var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;
 
@@ -15,15 +15,15 @@ var airportsRaw = require("../tmp/airports.json");
 
 
 describe("bin/scrape.js tests", function () {
-  describe("airlines:", function () {
+  describe("destinations:", function () {
     var airlines;
 
     before(function () {
-      airlines = reduceAirlines(airlineDestinations);
+      airlines = reduceDestinations(airlineDestinations);
     });
 
     it("should be a function", function () {
-      assert(typeof reduceAirlines === "function", "not a function!");
+      assert(typeof reduceDestinations === "function", "not a function!");
     });
 
     it("shouldn't have empty destinations or wiki urls", function () {
@@ -68,6 +68,16 @@ describe("bin/scrape.js tests", function () {
         // assert(airport.nickname, "doesn't have nickname");
         // assert(airport.iata, "doesn't have iata");
         // assert(airport.icao, "doesn't have icao");
+      });
+    });
+  });
+
+  describe("airlines", function() {
+    it("should have all a name so we can use it as a primary key", function () {
+      var airlines = require("../tmp/airlines_data.json");
+
+      _.map(airlines, function(airline) {
+        assert.ok(airline.name, "doesn't has name" + airline.name);
       });
     });
   });

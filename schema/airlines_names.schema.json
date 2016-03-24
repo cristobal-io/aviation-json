@@ -1,13 +1,10 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "id": "/",
-  "type": "array",
+  "type": "object",
   "items": {
-    "type": "object",
-    "minProperties": 1
+    "type": "array",
+    "minItems": 1
   },
-  "minItems": 1,
-  "required": [
-    "0"
-  ]
+  "minProperties": 1
 }

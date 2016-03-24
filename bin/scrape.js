@@ -3,9 +3,8 @@
 "use strict";
 var _ = require("lodash");
 
-// bermi: let's get with reduce method, I am using it as a map.
-var reduceAirlines = function (airlineDestinations) {
-  var airlines = _.reduce(airlineDestinations, function (result, value, key) {
+var reduceDestinations = function (airlineDestinations) {
+  var airlines = _.reduce(airlineDestinations, function (result, value) {
     var destinations = [];
 
     _.map(value.destinations, function (value) {
@@ -15,16 +14,13 @@ var reduceAirlines = function (airlineDestinations) {
     });
     var airlineKey = cleanUrl(value.destinationsLink);
 
-    var airline = {};
-
-    airline[airlineKey] = destinations;
-    if (airline[airlineKey].length) {
-      result[key] = airline;
+    if (destinations) {
+      result[airlineKey] = destinations;
     }
     return result;
-  }, []);
+  }, {});
 
-  return airlines.filter(Boolean);
+  return airlines;
 };
 
 var cleanUrl = function(url) {
@@ -54,6 +50,12 @@ var reduceAirports = function(airportsRaw) {
   }
 };
 
+var reduceAirlines = function(airlinesRaw) {
+  var airlines = _.reduce(airlinesRaw, function(result, value, key) {
+    
+  }, {});
+};
+
 
 function getIcaoName(destination, airports) {
   var airport = _.find(airports, function (o) {
@@ -72,6 +74,9 @@ function getIcaoName(destination, airports) {
 }
 
 
-module.exports.reduceAirlines = reduceAirlines;
-module.exports.getIcaoName = getIcaoName;
-module.exports.reduceAirports = reduceAirports;
+module.exports = {
+  reduceDestinations : reduceDestinations,
+  getIcaoName : getIcaoName,
+  reduceAirports : reduceAirports,
+  reduceAirlines : reduceAirlines
+};
