@@ -4,16 +4,18 @@
 
 var _ = require("lodash");
 
-var getCityAirports = function(destinationsRaw) {
-  var cityAirports = _.reduce(destinationsRaw, function(result, airlineDestinations, key) {
-    var cities = _.reduce(airlineDestinations.destinations, function(result, destination) {
+var getCityAirports = function (destinationsRaw) {
+  var cityAirports = _.reduce(destinationsRaw, function (result, airlineDestinations, key) {
+    var cities = _.reduce(airlineDestinations.destinations, function (result, destination) {
+      var cityKey;
+
       if (destination.airport) {
 
-        var cityKey = destination.city.name;
+        cityKey = destination.city.name;
         result[cityKey] = destination.airport.name;
       }
       return result;
-    },{});
+    }, {});
 
     result[key] = cities;
     return result;
@@ -22,14 +24,14 @@ var getCityAirports = function(destinationsRaw) {
   console.log(cityAirports);
 
   return cityAirports;
-  
+
 };
 
-var generateAirportCity = function(destinationsRaw) {
+var generateAirportCity = function (destinationsRaw) {
   var airportKey;
-  var airportsCities = _.reduce(destinationsRaw, function(result, value) {
+  var airportsCities = _.reduce(destinationsRaw, function (result, value) {
     if (value.destinations) {
-      _.map(value.destinations, function(destination) {
+      _.map(value.destinations, function (destination) {
         if (destination.airport) {
           airportKey = cleanUrl(destination.airport.url);
 
@@ -53,7 +55,7 @@ var reduceDestinations = function (destinationsRaw) {
       }
     });
     var airlineKey = cleanUrl(value.destinationsLink);
-    
+
     if (destinations.length) {
       result[airlineKey] = destinations;
     }
@@ -85,21 +87,21 @@ var reduceAirports = function (airportsRaw) {
 
 };
 
-var getAirportRunways = function(airportsRaw) {
+var getAirportRunways = function (airportsRaw) {
 
-  var airportRunways = _.reduce(airportsRaw, function(result, value) {
+  var airportRunways = _.reduce(airportsRaw, function (result, value) {
     var airportKey = getLastUrlPath(value.url);
 
-    var runways = _.reduce(value.data.runway, function(result, value) {
+    var runways = _.reduce(value.data.runway, function (result, value) {
       result.push(value);
       return result;
-    },[]);
-    
+    }, []);
+
     if (runways.length) {
       result[airportKey] = runways;
     }
     return result;
-  },{});
+  }, {});
 
   return airportRunways;
 };
@@ -116,12 +118,12 @@ var reduceAirlines = function (airlinesRaw) {
       "website": value.website
     };
 
-    airlineData = _.reduce(airlineData, function(result, value, key) {
+    airlineData = _.reduce(airlineData, function (result, value, key) {
       if (value !== undefined) {
         result[key] = value;
       }
       return result;
-    },{});
+    }, {});
 
     result[airlineKey] = airlineData;
     return result;
@@ -147,7 +149,7 @@ function getIcaoName(destination, airports) {
   return icaoAirport;
 }
 
-function cleanUrl (url) {
+function cleanUrl(url) {
   return url.replace(/\/wiki\//, "");
 }
 

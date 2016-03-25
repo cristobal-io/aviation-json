@@ -42,7 +42,7 @@ describe("bin/scrape.js tests", function () {
       assert.ok(cityAirports, "the object is empty.");
       _.map(cityAirports, function(airport) {
         console.log(airport);
-      })
+      });
     });
   });
 
