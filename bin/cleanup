@@ -43,13 +43,11 @@ if (!program.destinations && !program.airports
 
 if (program.runways) {
   airportRunways = getAirportRunways(airportsRaw);
-
   saveFile(RUNWAYS_FILE, airportRunways, logDone);
 }
 
 if (program.cities) {
   airlineCities = generateAirportCity(destinationsRaw);
-
   saveFile(CITIES_FILE,airlineCities, logDone);
 }
 if (program.airlines) {
