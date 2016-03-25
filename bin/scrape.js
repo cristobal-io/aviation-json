@@ -4,6 +4,27 @@
 
 var _ = require("lodash");
 
+var getCityAirports = function(destinationsRaw) {
+  var cityAirports = _.reduce(destinationsRaw, function(result, airlineDestinations, key) {
+    var cities = _.reduce(airlineDestinations.destinations, function(result, destination) {
+      if (destination.airport) {
+
+        var cityKey = destination.city.name;
+        result[cityKey] = destination.airport.name;
+      }
+      return result;
+    },{});
+
+    result[key] = cities;
+    return result;
+  }, []);
+
+  console.log(cityAirports);
+
+  return cityAirports;
+  
+};
+
 var generateAirportCity = function(destinationsRaw) {
   var airportKey;
   var airportsCities = _.reduce(destinationsRaw, function(result, value) {
@@ -141,5 +162,6 @@ module.exports = {
   reduceAirlines: reduceAirlines,
   reduceAirports: reduceAirports,
   getAirportRunways: getAirportRunways,
-  generateAirportCity: generateAirportCity
+  generateAirportCity: generateAirportCity,
+  getCityAirports: getCityAirports
 };

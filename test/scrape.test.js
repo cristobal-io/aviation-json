@@ -11,6 +11,7 @@ var reduceAirports = scrapeJs.reduceAirports;
 var reduceAirlines = scrapeJs.reduceAirlines;
 var generateAirportCity = scrapeJs.generateAirportCity;
 var getAirportRunways = scrapeJs.getAirportRunways;
+var getCityAirports = scrapeJs.getCityAirports;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 
@@ -20,6 +21,31 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 
 
 describe("bin/scrape.js tests", function () {
+
+  describe("getCityAirports fn", function() {
+    it("all the destinations must have a name on city field", function () {
+
+      _.map(destinationsRaw, function(airlineDestinations) {
+        _.map(airlineDestinations.destinations, function(destination) {
+          assert.ok(destination.city.name, "doesn't have a name for the city" + destination.city.name);
+        });
+      });
+    });
+
+    it("should be a fn", function () {
+      assert.ok(typeof getCityAirports === "function", "this is not a function");
+    });
+
+    it("should return a correct object", function () {
+      var cityAirports = getCityAirports(destinationsRaw);
+
+      assert.ok(cityAirports, "the object is empty.");
+      _.map(cityAirports, function(airport) {
+        console.log(airport);
+      })
+    });
+  });
+
 
   describe("generateAirportCity fn", function() {
     it("should meet the schema", function () {
