@@ -95,7 +95,6 @@ describe("bin/scrape.js tests", function () {
     it("should return an object", function () {
       var airportRunways = getAirportRunways(airportsRaw);
 
-      // console.log(airportRunways);
       assert.ok(airportRunways, "it doesn't return an object");
       _.map(airportRunways, function(runway) {
         assert.ok(runway.length > 0, "there are no runway");

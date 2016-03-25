@@ -2,6 +2,7 @@
 
 "use strict";
 
+var fs = require("fs");
 var program = require("commander");
 var version = require("../package.json").version;
 
@@ -10,6 +11,7 @@ var reduceAirlines = scrapeJs.reduceAirlines;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceDestinations = scrapeJs.reduceDestinations;
 var generateAirportCity = scrapeJs.generateAirportCity;
+var getAirportRunways = scrapeJs.getAirportRunways;
 
 var destinationsRaw = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
@@ -19,9 +21,9 @@ var DESTINATIONS_FILE = "./data/airline_destinations.json";
 var AIRPORTS_FILE = "./data/airports.json";
 var AIRLINES_FILE = "./data/airlines.json";
 var CITIES_FILE = "./data/airport_cities.json";
+var RUNWAYS_FILE = "./data/airport_runways.json";
 
-var fs = require("fs");
-var destinations, airports, airlines, airlineCities;
+var destinations, airports, airlines, airlineCities, airportRunways;
 
 program
   .version(version)
@@ -30,10 +32,19 @@ program
   .option("airports", "generates the airports file.")
   .option("airlines", "generates the airlines file")
   .option("cities", "generates the airports - cities file")
+  .option("runways", "generates the airport_runway.json file")
   .parse(process.argv);
 
-if (!program.destinations && !program.airports && !program.airlines && !program.cities) {
+if (!program.destinations && !program.airports 
+  && !program.airlines && !program.cities
+  && !program.runways) {
   program.help();
+}
+
+if (program.runways) {
+  airportRunways = getAirportRunways(airportsRaw);
+
+  saveFile(RUNWAYS_FILE, airportRunways, logDone);
 }
 
 if (program.cities) {
