@@ -110,6 +110,9 @@ describe("bin/scrape.js tests", function () {
         var validAirline = validateAirlineSchema(airline);
 
         assert.ok(validAirline, _.get(validateAirlineSchema, "errors[0].message"));
+        _.map(airline, function(value) {
+          assert.ok(value, "no empty values on airlines");
+        });
       });
     });
   });

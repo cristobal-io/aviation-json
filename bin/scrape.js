@@ -79,6 +79,13 @@ var reduceAirlines = function (airlinesRaw) {
       "website": value.website
     };
 
+    airlineData = _.reduce(airlineData, function(result, value, key) {
+      if (value !== undefined) {
+        result[key] = value;
+      }
+      return result;
+    },{});
+
     result[airlineKey] = airlineData;
     return result;
   }, {});
