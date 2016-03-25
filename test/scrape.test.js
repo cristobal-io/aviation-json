@@ -18,6 +18,7 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 
 
 describe("bin/scrape.js tests", function () {
+
   describe("generateAirportCity fn", function() {
     it("should meet the schema", function () {
       var airportsCities = generateAirportCity(destinationsRaw);
@@ -29,7 +30,9 @@ describe("bin/scrape.js tests", function () {
       });
     });
   });
-  describe("destinations:", function () {
+
+
+  describe("reduceDestinations fn:", function () {
     var destinations;
 
     before(function () {
@@ -61,6 +64,7 @@ describe("bin/scrape.js tests", function () {
     });
   });
 
+
   describe("reduceAirports fn", function () {
 
     it("should meet the schema", function () {
@@ -76,15 +80,10 @@ describe("bin/scrape.js tests", function () {
         
 
         assert(validAirport, JSON.stringify(validateAirport,null,2));
-        // assert(airport.latitude, "doesn't have latitude ");
-        // assert(airport.longitude, "doesn't have longitude");
-        // assert(airport.name, "doesn't have name");
-        // assert(airport.nickname, "doesn't have nickname");
-        // assert(airport.iata, "doesn't have iata");
-        // assert(airport.icao, "doesn't have icao");
       });
     });
   });
+
 
   describe("reduceAirlines fn", function() {
     var airlines;
@@ -115,6 +114,7 @@ describe("bin/scrape.js tests", function () {
     });
   });
 
+
   describe("getIcaoName fn", function () {
     it("should be a function", function () {
       assert(typeof getIcaoName === "function");
@@ -127,4 +127,5 @@ describe("bin/scrape.js tests", function () {
       assert.equal(icaoAirport, expectedIcao, "the url is not being find.");
     });
   });
+
 });

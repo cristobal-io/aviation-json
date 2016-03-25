@@ -53,13 +53,11 @@ if (program.destinations){
 
 if (program.airports) {
   airports = reduceAirports(airportsRaw);
-  console.log(airports);
-
   saveFile(AIRPORTS_FILE, airports, logDone);
 }
 
 function logDone() {
-  console.log("file Saved");
+  console.log("file Saved");//eslint-disable-line no-console
 }
 
 function saveFile(dir, data, callback) {
