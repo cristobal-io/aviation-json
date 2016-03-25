@@ -9,6 +9,7 @@ var reduceDestinations = scrapeJs.reduceDestinations;
 var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceAirlines = scrapeJs.reduceAirlines;
+var generateAirportCity = scrapeJs.generateAirportCity;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 var destinationsRaw = require("../tmp/airline_destinations.json");
@@ -17,6 +18,17 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 
 
 describe("bin/scrape.js tests", function () {
+  describe("generateAirportCity fn", function() {
+    it("should meet the schema", function () {
+      var airportsCities = generateAirportCity(destinationsRaw);
+
+      assert.ok(airportsCities, "the airportsCities is empty");
+      _.map(airportsCities, function(airport) {
+        assert.ok(airport, "there is an airport without city");
+        assert.ok(airport.name, "there is no name");
+      });
+    });
+  });
   describe("destinations:", function () {
     var destinations;
 

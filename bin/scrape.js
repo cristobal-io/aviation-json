@@ -5,12 +5,21 @@
 var _ = require("lodash");
 
 var generateAirportCity = function(destinationsRaw) {
-  var airportCity = _.reduce(destinationsRaw, function(result, value) {
-    _.map(value.destinations, function(destination) {
-      airportKey = cleanUrl(value.airport.url);
-    });
-  });
-  
+  var airportKey;
+  var airportsCities = _.reduce(destinationsRaw, function(result, value) {
+    if (value.destinations) {
+      _.map(value.destinations, function(destination) {
+        if (destination.airport) {
+          airportKey = cleanUrl(destination.airport.url);
+
+          result[airportKey] = destination.city;
+        }
+      });
+    }
+    return result;
+  }, {});
+
+  return airportsCities;
 };
 
 var reduceDestinations = function (destinationsRaw) {
@@ -96,12 +105,13 @@ function getIcaoName(destination, airports) {
 
 function cleanUrl (url) {
   return url.replace(/\/wiki\//, "");
-};
+}
 
 
 module.exports = {
   reduceDestinations: reduceDestinations,
   getIcaoName: getIcaoName,
   reduceAirports: reduceAirports,
-  reduceAirlines: reduceAirlines
+  reduceAirlines: reduceAirlines,
+  generateAirportCity: generateAirportCity
 };
