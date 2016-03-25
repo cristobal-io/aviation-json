@@ -62,9 +62,25 @@ var reduceAirports = function (airportsRaw) {
 
   return airports;
 
-  function getLastUrlPath(url) {
-    return url.split("/").pop();
-  }
+};
+
+var getAirportRunways = function(airportsRaw) {
+
+  var airportRunways = _.reduce(airportsRaw, function(result, value) {
+    var airportKey = getLastUrlPath(value.url);
+
+    var runways = _.reduce(value.data.runway, function(result, value) {
+      result.push(value);
+      return result;
+    },[]);
+    
+    if (runways.length) {
+      result[airportKey] = runways;
+    }
+    return result;
+  },{});
+
+  return airportRunways;
 };
 
 var reduceAirlines = function (airlinesRaw) {
@@ -114,11 +130,16 @@ function cleanUrl (url) {
   return url.replace(/\/wiki\//, "");
 }
 
+function getLastUrlPath(url) {
+  return url.split("/").pop();
+}
+
 
 module.exports = {
   reduceDestinations: reduceDestinations,
   getIcaoName: getIcaoName,
-  reduceAirports: reduceAirports,
   reduceAirlines: reduceAirlines,
+  reduceAirports: reduceAirports,
+  getAirportRunways: getAirportRunways,
   generateAirportCity: generateAirportCity
 };

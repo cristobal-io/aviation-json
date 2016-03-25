@@ -10,8 +10,10 @@ var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceAirlines = scrapeJs.reduceAirlines;
 var generateAirportCity = scrapeJs.generateAirportCity;
+var getAirportRunways = scrapeJs.getAirportRunways;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
+
 var destinationsRaw = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
 var airlinesRaw = require("../tmp/airlines_data.json");
@@ -84,6 +86,22 @@ describe("bin/scrape.js tests", function () {
     });
   });
 
+
+  describe("getAirportRunways fn", function() {
+    it("should be a fn", function () {
+      assert.ok(typeof getAirportRunways === "function", "this is not a fn");
+    });
+
+    it("should return an object", function () {
+      var airportRunways = getAirportRunways(airportsRaw);
+
+      // console.log(airportRunways);
+      assert.ok(airportRunways, "it doesn't return an object");
+      _.map(airportRunways, function(runway) {
+        assert.ok(runway.length > 0, "there are no runway");
+      });
+    });
+  });
 
   describe("reduceAirlines fn", function() {
     var airlines;
