@@ -38,38 +38,26 @@ describe("bin/scrape.js tests", function () {
       var validateAirportAirlinesSchema = ajv.compile(objectSchema);
       var validAirportAirlines = validateAirportAirlinesSchema(airportAirlines);
 
-      // var fs = require("fs");
-  
-      // fs.writeFile("./tmp.json", JSON.stringify(airportAirlines,null,2));
-
-      // console.log(airportAirlines);
       assert.ok(validAirportAirlines, "doesn't meet the proper schema: " + 
           _.get(validateAirportAirlinesSchema, "errors[0].message")
         );
-      // _.map(airportAirlines, function(airport) {
-        // console.log(airport);
-      // });
+      _.map(airportAirlines, function(airport) {
+        assert.ok(!detectDuplicatesInArray(airport), "found duplicated values inside array");
+      });
 
     });
   });
-  it("has to detect duplicates", function() {
-    var arrayDuplicates = ["hi","hello","bye", "hi"];
-    var arrayWithoutDuplicates = ["hi","hello","bye"];
+  describe("helper fn", function() {
+    
+    it("has to detect duplicates", function() {
+      var arrayDuplicates = ["hi","hello","bye", "hi"];
+      var arrayWithoutDuplicates = ["hi","hello","bye"];
 
-    assert.ok(detectDuplicatesInArray(arrayDuplicates), "it is not detecting the duplicated values");
-    assert.ok(!detectDuplicatesInArray(arrayWithoutDuplicates), "it is giving false positive");
-  });
-  function detectDuplicatesInArray(collection) {
-    var duplicatesFound= false;
-
-    _.map(collection, function(value, index, col) {
-      if (duplicatesFound) {return;}
-      col.splice(index,index+1);
-      duplicatesFound = _.includes(col, value);
+      assert.ok(detectDuplicatesInArray(arrayDuplicates), "it is not detecting the duplicated values");
+      assert.ok(!detectDuplicatesInArray(arrayWithoutDuplicates), "it is giving false positive");
     });
-    return duplicatesFound;
-  }
-  // detectDuplicatesInArray(["hi","hello","bye", "hi"]);
+  });
+
   describe("getCityAirports fn", function () {
     it("all the destinations must have a name on city field", function () {
 
@@ -241,3 +229,14 @@ describe("bin/scrape.js tests", function () {
   });
 
 });
+
+function detectDuplicatesInArray(collection) {
+  var duplicatesFound= false;
+
+  _.map(collection, function(value, index, col) {
+    if (duplicatesFound) {return;}
+    col.splice(index,index+1);
+    duplicatesFound = _.includes(col, value);
+  });
+  return duplicatesFound;
+}

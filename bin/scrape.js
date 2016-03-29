@@ -16,7 +16,9 @@ var getAirportAirlines = function(destinationsRaw) {
       var airportName = cleanUrl(destination.airport.url);
 
       if (result[airportName] !== undefined) {
-        result[airportName].push(airlineName);
+        if (hasDuplicates(result[airportName], airlineName) === -1) {
+          result[airportName].push(airlineName);
+        }
       } else {
         result[airportName] = [airlineName];
       }
@@ -53,7 +55,7 @@ function groupAirports(cityAirports) {
   _.map(cityAirports, function (value) {
     _.map(value, function (city, key) {
       if (cityObject[key] !== undefined) {
-        if (findCity(cityObject[key], city) === -1) {
+        if (hasDuplicates(cityObject[key], city) === -1) {
           cityObject[key].push(city);
         }
       } else {
@@ -186,7 +188,7 @@ function getIcaoName(destination, airports) {
   return icaoAirport;
 }
 
-function findCity (cityArray, city) {
+function hasDuplicates (cityArray, city) {
   return cityArray.findIndex(function (value) {
     return value === city;
   });
