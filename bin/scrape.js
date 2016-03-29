@@ -21,9 +21,13 @@ var getCityAirports = function (destinationsRaw) {
     return result;
   }, []);
 
+  return groupAirports(cityAirports);
+};
+
+function groupAirports(cityAirports) {
   var cityObject = {};
 
-  cityAirports = _.map(cityAirports, function (value) {
+  _.map(cityAirports, function (value) {
     _.map(value, function (city, key) {
       if (cityObject[key] !== undefined) {
         if (findCity(cityObject[key], city) === -1) {
@@ -35,8 +39,7 @@ var getCityAirports = function (destinationsRaw) {
     });
   });
   return cityObject;
-
-};
+}
 
 var generateAirportCity = function (destinationsRaw) {
   var airportKey;
