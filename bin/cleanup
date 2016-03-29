@@ -12,6 +12,7 @@ var reduceAirports = scrapeJs.reduceAirports;
 var reduceDestinations = scrapeJs.reduceDestinations;
 var generateAirportCity = scrapeJs.generateAirportCity;
 var getAirportRunways = scrapeJs.getAirportRunways;
+var getCityAirports = scrapeJs.getCityAirports;
 
 var destinationsRaw = require("../tmp/airline_destinations.json");
 var airportsRaw = require("../tmp/airports.json");
@@ -20,10 +21,11 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 var DESTINATIONS_FILE = "./data/airline_destinations.json";
 var AIRPORTS_FILE = "./data/airports.json";
 var AIRLINES_FILE = "./data/airlines.json";
-var CITIES_FILE = "./data/airport_cities.json";
+var AIRPORT_CITIES_FILE = "./data/airport_cities.json";
 var RUNWAYS_FILE = "./data/airport_runways.json";
+var CITIES_FILE = "./data/cities.json";
 
-var destinations, airports, airlines, airlineCities, airportRunways;
+var destinations, airports, airlines, airlineCities, airportRunways,cityAirports;
 
 program
   .version(version)
@@ -48,7 +50,10 @@ if (program.runways) {
 
 if (program.cities) {
   airlineCities = generateAirportCity(destinationsRaw);
-  saveFile(CITIES_FILE,airlineCities, logDone);
+  cityAirports = getCityAirports(destinationsRaw);
+
+  saveFile(AIRPORT_CITIES_FILE,airlineCities, logDone);
+  saveFile(CITIES_FILE, cityAirports, logDone);
 }
 if (program.airlines) {
   airlines = reduceAirlines(airlinesRaw);
