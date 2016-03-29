@@ -37,14 +37,14 @@ program
   .option("airlines", "generates the airlines file")
   .option("cities", "generates the airports - cities file")
   .option("runways", "generates the airport_runway.json file")
-  .option("airportAirlines", "generates the file with list of airlines per airport.")
+  .option("airport_airlines", "generates the file with list of airlines per airport.")
   .parse(process.argv);
 
 if (!process.argv.slice(2).length) {
   program.help();
 }
 
-if (program.airportAirlines) {
+if (program.airport_airlines) {
   airportAirlines = getAirportAirlines(destinationsRaw);
   saveFile(AIRPORT_AIRLINES_FILE, airportAirlines, logDone);
 }
