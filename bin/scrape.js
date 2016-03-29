@@ -22,11 +22,6 @@ var getCityAirports = function (destinationsRaw) {
   }, []);
 
   var cityObject = {};
-  var findCity = function (cityArray, city) {
-    return cityArray.findIndex(function (value) {
-      return value === city;
-    });
-  };
 
   cityAirports = _.map(cityAirports, function (value) {
     _.map(value, function (city, key) {
@@ -163,6 +158,12 @@ function getIcaoName(destination, airports) {
     icaoAirport = destination;
   }
   return icaoAirport;
+}
+
+function findCity (cityArray, city) {
+  return cityArray.findIndex(function (value) {
+    return value === city;
+  });
 }
 
 function cleanUrl(url) {
