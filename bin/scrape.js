@@ -6,11 +6,11 @@ var _ = require("lodash");
 
 var getCityAirports = function (destinationsRaw) {
   var cityAirports = _.reduce(destinationsRaw, function (result, airlineDestinations, key) {
+
     var cities = _.reduce(airlineDestinations.destinations, function (result, destination) {
       var cityKey;
 
       if (destination.airport) {
-
         cityKey = destination.city.name;
         result[cityKey] = destination.airport.name;
       }
@@ -21,9 +21,25 @@ var getCityAirports = function (destinationsRaw) {
     return result;
   }, []);
 
-  console.log(cityAirports);
+  var cityObject = {};
+  var findCity = function (cityArray, city) {
+    return cityArray.findIndex(function (value) {
+      return value === city;
+    });
+  };
 
-  return cityAirports;
+  cityAirports = _.map(cityAirports, function (value) {
+    _.map(value, function (city, key) {
+      if (cityObject[key] !== undefined) {
+        if (findCity(cityObject[key], city) === -1) {
+          cityObject[key].push(city);
+        }
+      } else {
+        cityObject[key] = [city];
+      }
+    });
+  });
+  return cityObject;
 
 };
 

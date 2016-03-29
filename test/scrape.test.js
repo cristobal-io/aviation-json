@@ -22,11 +22,11 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 
 describe("bin/scrape.js tests", function () {
 
-  describe("getCityAirports fn", function() {
+  describe("getCityAirports fn", function () {
     it("all the destinations must have a name on city field", function () {
 
-      _.map(destinationsRaw, function(airlineDestinations) {
-        _.map(airlineDestinations.destinations, function(destination) {
+      _.map(destinationsRaw, function (airlineDestinations) {
+        _.map(airlineDestinations.destinations, function (destination) {
           assert.ok(destination.city.name, "doesn't have a name for the city" + destination.city.name);
         });
       });
@@ -39,20 +39,38 @@ describe("bin/scrape.js tests", function () {
     it("should return a correct object", function () {
       var cityAirports = getCityAirports(destinationsRaw);
 
+      var arraySchema = {
+        "type": "array",
+        "minItems": 1
+      };
+      var validateAirportSchema = ajv.compile(arraySchema);
+      var findCity = function (cityArray, city) {
+        return cityArray.findIndex(function (value) {
+          return value === city;
+        });
+      };
+
       assert.ok(cityAirports, "the object is empty.");
-      _.map(cityAirports, function(airport) {
-        console.log(airport);
+      _.map(cityAirports, function (airport) {
+        var validAirportSchema = validateAirportSchema(airport);
+
+        assert.ok(validAirportSchema, "the airport doesn't meet the schema: " +
+          _.get(validateAirportSchema, "errors[0].message"));
+        airport.map(function(value, index, collection) {
+          collection.splice(index,1);
+          assert.ok(findCity(collection,value) === -1, "there are duplicated airports");
+        });
       });
     });
   });
 
 
-  describe("generateAirportCity fn", function() {
+  describe("generateAirportCity fn", function () {
     it("should meet the schema", function () {
       var airportsCities = generateAirportCity(destinationsRaw);
 
       assert.ok(airportsCities, "the airportsCities is empty");
-      _.map(airportsCities, function(airport) {
+      _.map(airportsCities, function (airport) {
         assert.ok(airport, "there is an airport without city");
         assert.ok(airport.name, "there is no name");
       });
@@ -105,15 +123,15 @@ describe("bin/scrape.js tests", function () {
       _.map(airports, function (airport) {
         var validateAirport = ajv.compile(airportSchema);
         var validAirport = validateAirport(airport);
-        
 
-        assert(validAirport, JSON.stringify(validateAirport,null,2));
+
+        assert(validAirport, JSON.stringify(validateAirport, null, 2));
       });
     });
   });
 
 
-  describe("getAirportRunways fn", function() {
+  describe("getAirportRunways fn", function () {
     it("should be a fn", function () {
       assert.ok(typeof getAirportRunways === "function", "this is not a fn");
     });
@@ -122,13 +140,13 @@ describe("bin/scrape.js tests", function () {
       var airportRunways = getAirportRunways(airportsRaw);
 
       assert.ok(airportRunways, "it doesn't return an object");
-      _.map(airportRunways, function(runway) {
+      _.map(airportRunways, function (runway) {
         assert.ok(runway.length > 0, "there are no runway");
       });
     });
   });
 
-  describe("reduceAirlines fn", function() {
+  describe("reduceAirlines fn", function () {
     var airlines;
 
     before(function () {
@@ -136,7 +154,7 @@ describe("bin/scrape.js tests", function () {
     });
     it("should have all a name so we can use it as a primary key", function () {
 
-      _.map(airlinesRaw, function(airline) {
+      _.map(airlinesRaw, function (airline) {
         assert.ok(airline.name, "doesn't has name" + airline.name);
       });
     });
@@ -147,13 +165,13 @@ describe("bin/scrape.js tests", function () {
 
     it("should meet the airline data schema", function () {
       assert.ok(airlines, "airlines it's empty");
-      _.map(airlines, function(airline) {
+      _.map(airlines, function (airline) {
         var airlinesSchema = require("../schema/airlines.schema.json");
         var validateAirlineSchema = ajv.compile(airlinesSchema);
         var validAirline = validateAirlineSchema(airline);
 
         assert.ok(validAirline, _.get(validateAirlineSchema, "errors[0].message"));
-        _.map(airline, function(value) {
+        _.map(airline, function (value) {
           assert.ok(value, "no empty values on airlines");
         });
       });
