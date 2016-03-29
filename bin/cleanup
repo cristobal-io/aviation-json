@@ -23,7 +23,7 @@ var AIRPORTS_FILE = "./data/airports.json";
 var AIRLINES_FILE = "./data/airlines.json";
 var AIRPORT_CITIES_FILE = "./data/airport_cities.json";
 var RUNWAYS_FILE = "./data/airport_runways.json";
-var CITIES_FILE = "./data/cities.json";
+var CITIES_FILE = "./data/city_airports.json";
 
 var destinations, airports, airlines, airlineCities, airportRunways,cityAirports;
 
@@ -52,8 +52,9 @@ if (program.cities) {
   airlineCities = generateAirportCity(destinationsRaw);
   cityAirports = getCityAirports(destinationsRaw);
 
-  saveFile(AIRPORT_CITIES_FILE,airlineCities, logDone);
-  saveFile(CITIES_FILE, cityAirports, logDone);
+  saveFile(AIRPORT_CITIES_FILE,airlineCities,function() {
+    saveFile(CITIES_FILE, cityAirports, logDone);
+  });
 }
 if (program.airlines) {
   airlines = reduceAirlines(airlinesRaw);
