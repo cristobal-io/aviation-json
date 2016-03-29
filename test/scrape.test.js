@@ -12,6 +12,7 @@ var reduceAirlines = scrapeJs.reduceAirlines;
 var generateAirportCity = scrapeJs.generateAirportCity;
 var getAirportRunways = scrapeJs.getAirportRunways;
 var getCityAirports = scrapeJs.getCityAirports;
+var getAirportAirlines = scrapeJs.getAirportAirlines;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 
@@ -22,6 +23,53 @@ var airlinesRaw = require("../tmp/airlines_data.json");
 
 describe("bin/scrape.js tests", function () {
 
+  describe("getAirportAirlines fn", function() {
+    it("should be a function", function() {
+      assert.ok(typeof getAirportAirlines === "function", "it's not a function");
+    });
+
+    it("should return an object", function() {
+      var objectSchema = {
+        "type": "object",
+        "minProperties": 1
+      };
+
+      var airportAirlines = getAirportAirlines(destinationsRaw);
+      var validateAirportAirlinesSchema = ajv.compile(objectSchema);
+      var validAirportAirlines = validateAirportAirlinesSchema(airportAirlines);
+
+      // var fs = require("fs");
+  
+      // fs.writeFile("./tmp.json", JSON.stringify(airportAirlines,null,2));
+
+      // console.log(airportAirlines);
+      assert.ok(validAirportAirlines, "doesn't meet the proper schema: " + 
+          _.get(validateAirportAirlinesSchema, "errors[0].message")
+        );
+      // _.map(airportAirlines, function(airport) {
+        // console.log(airport);
+      // });
+
+    });
+  });
+  it("has to detect duplicates", function() {
+    var arrayDuplicates = ["hi","hello","bye", "hi"];
+    var arrayWithoutDuplicates = ["hi","hello","bye"];
+
+    assert.ok(detectDuplicatesInArray(arrayDuplicates), "it is not detecting the duplicated values");
+    assert.ok(!detectDuplicatesInArray(arrayWithoutDuplicates), "it is giving false positive");
+  });
+  function detectDuplicatesInArray(collection) {
+    var duplicatesFound= false;
+
+    _.map(collection, function(value, index, col) {
+      if (duplicatesFound) {return;}
+      col.splice(index,index+1);
+      duplicatesFound = _.includes(col, value);
+    });
+    return duplicatesFound;
+  }
+  // detectDuplicatesInArray(["hi","hello","bye", "hi"]);
   describe("getCityAirports fn", function () {
     it("all the destinations must have a name on city field", function () {
 
