@@ -32,13 +32,13 @@ var destinations, airports, airlines, airlineCities, airportRunways,cityAirports
 program
   .version(version)
   .description("This package uses aviation-scraper to get the information and prepare it for a database usage")
-  .option("airports", "generates the airports file.")
-  .option("airport_airlines", "generates the file with list of airlines per airport.")
+  .option("airline_destinations", "generates the destinations with only the primary keys.")
   .option("airlines", "generates the airlines file")
-  .option("airline_cities", "generates the airline - cities file")
+  .option("airport_airlines", "generates the file with list of airlines per airport.")
+  .option("airport_cities", "generates the airline - cities file")
+  .option("airport_runways", "generates the airport_runway.json file")
+  .option("airports", "generates the airports file.")
   .option("city_airports", "generates the citiy airports file")
-  .option("destinations", "generates the destinations with only the primary keys.")
-  .option("runways", "generates the airport_runway.json file")
   .parse(process.argv);
 
 if (!process.argv.slice(2).length) {
@@ -50,11 +50,11 @@ if (program.airport_airlines) {
   saveFile(AIRPORT_AIRLINES_FILE, airportAirlines, logDone);
 }
 
-if (program.runways) {
+if (program.airport_runways) {
   airportRunways = getAirportRunways(airportsRaw);
   saveFile(RUNWAYS_FILE, airportRunways, logDone);
 }
-if (program.airline_cities) {
+if (program.airport_cities) {
   airlineCities = generateAirportCity(destinationsRaw);
   saveFile(AIRPORT_CITIES_FILE,airlineCities,logDone);
   
@@ -68,7 +68,7 @@ if (program.airlines) {
   saveFile(AIRLINES_FILE, airlines, logDone);
 }
 
-if (program.destinations){
+if (program.airline_destinations){
   destinations = reduceDestinations(destinationsRaw);
   saveFile(DESTINATIONS_FILE, destinations, logDone);
 }
