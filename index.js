@@ -7,7 +7,5 @@ module.exports = {
   airport_cities: require("./data/airport_cities.json"),
   airport_runways: require("./data/airport_runways.json"),
   airports: require("./data/airports.json"),
-  cities: require("./data/cities.json"),
   city_airports: require("./data/city_airports.json")
-
 };
