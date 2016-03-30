@@ -15,11 +15,11 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/cristobal-io/aviation-json#readme",
   "devDependencies": {
-    "ajv": "^3.8.5",
-    "mocha": "^2.4.5"
+    "ajv": "3.8.5",
+    "mocha": "2.4.5"
   },
   "dependencies": {
-    "commander": "^2.9.0",
-    "lodash": "^4.6.1"
+    "commander": "2.9.0",
+    "lodash": "4.6.1"
   }
 }
