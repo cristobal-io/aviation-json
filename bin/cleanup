@@ -32,13 +32,13 @@ var destinations, airports, airlines, airlineCities, airportRunways,cityAirports
 program
   .version(version)
   .description("This package uses aviation-scraper to get the information and prepare it for a database usage")
-  .option("destinations", "generates the destinations with only the primary keys.")
   .option("airports", "generates the airports file.")
+  .option("airport_airlines", "generates the file with list of airlines per airport.")
   .option("airlines", "generates the airlines file")
   .option("airline_cities", "generates the airline - cities file")
   .option("city_airports", "generates the citiy airports file")
+  .option("destinations", "generates the destinations with only the primary keys.")
   .option("runways", "generates the airport_runway.json file")
-  .option("airport_airlines", "generates the file with list of airlines per airport.")
   .parse(process.argv);
 
 if (!process.argv.slice(2).length) {
