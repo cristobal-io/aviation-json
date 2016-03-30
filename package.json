@@ -1,19 +1,26 @@
 {
   "name": "aviation-json",
   "version": "0.0.1",
-  "description": "would be a module that uses aviation-scrapper as a dev dependency to generate using a single command the following JSON files:",
+  "description": "would be a module that uses aviation-scrapper as a dev dependency to generate using a single command files ready.",
   "main": "index.js",
+  "keywords": ["aviation", "airline", "data"],
   "scripts": {
     "test": "make test"
   },
-  "bin":{"aviation-json": "./bin/cleanup"},
+  "author": "Cristobal Gomez",
+  "homepage": "https://github.com/cristobal-io/aviation-json",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/cristobal-io/aviation-json.git"
+    "url": "git+ssh://git@github.com/cristobal-io/aviation-json.git"
   },
-  "author": "Cristobal Gomez",
+  "bugs": {
+    "url": "http://github.com/cristobal-io/aviation-json/issues",
+    "email": "me@cristobal.io"
+  },
   "license": "MIT",
-  "homepage": "https://bitbucket.org/cristobal-io/aviation-json#readme",
+  "bin": {
+    "aviation-json": "./bin/cleanup"
+  },
   "devDependencies": {
     "ajv": "3.8.5",
     "mocha": "2.4.5"
