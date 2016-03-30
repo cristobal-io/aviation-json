@@ -439,10 +439,6 @@
     "name": "Kiev",
     "url": "/wiki/Kiev"
   },
-  "Kyiv_International_Airport_(Zhuliany)": {
-    "name": "Kiev",
-    "url": "/wiki/Kiev"
-  },
   "Birmingham_Airport": {
     "name": "Birmingham",
     "url": "/wiki/Birmingham"
@@ -450,10 +446,6 @@
   "Heathrow_Airport": {
     "name": "London",
     "url": "/wiki/London"
-  },
-  "London_Stansted_Airport": {
-    "name": "United Kingdom",
-    "url": "/wiki/Sumburgh_Airport"
   },
   "Aberdeen_Airport": {
     "name": "United Kingdom"
@@ -637,6 +629,10 @@
   "Southend_Airport": {
     "name": "Southend",
     "url": "/wiki/Southend"
+  },
+  "London_Stansted_Airport": {
+    "name": "United Kingdom",
+    "url": "/wiki/Sumburgh_Airport"
   },
   "Los_Angeles_International_Airport": {
     "name": "Los Angeles\nbegins 15 June 2016",
@@ -1335,7 +1331,7 @@
     "url": "/wiki/Ko%C5%A1ice"
   },
   "John_Paul_II_International_Airport_Krak%C3%B3w-Balice": {
-    "name": "Kraków\n(begins 25 March 2016)",
+    "name": "Kraków",
     "url": "/wiki/Krak%C3%B3w"
   },
   "Pashkovsky_Airport": {
@@ -2422,10 +2418,6 @@
     "name": "San Salvador",
     "url": "/wiki/San_Salvador"
   },
-  "Las_Am%C3%A9ricas_International_Airport": {
-    "name": "Santo Domingo",
-    "url": "/wiki/Santo_Domingo"
-  },
   "Tapachula_International_Airport": {
     "name": "Tapachula",
     "url": "/wiki/Tapachula"
@@ -2596,7 +2588,7 @@
   },
   "Capit%C3%A1n_Oriel_Lea_Plaza_Airport": {
     "name": "Tarija",
-    "url": "/wiki/Tarija,_Bolivia"
+    "url": "/wiki/Tarija"
   },
   "Dabolim_Airport": {
     "name": "Goa",
@@ -3238,6 +3230,10 @@
     "name": "Fort Myers",
     "url": "/wiki/Fort_Myers,_Florida"
   },
+  "Al_Maktoum_International_Airport": {
+    "name": "Dubai",
+    "url": "/wiki/Dubai"
+  },
   "Graz_Airport": {
     "name": "Graz",
     "url": "/wiki/Graz"
@@ -3325,10 +3321,6 @@
   "La_Palma_Airport": {
     "name": "La Palma",
     "url": "/wiki/La_Palma"
-  },
-  "Tenerife_North_Airport": {
-    "name": "Tenerife",
-    "url": "/wiki/Tenerife"
   },
   "Mal%C3%A9_Airport": {
     "name": "Malé",
@@ -3693,6 +3685,10 @@
   "Abel_Santa_Mar%C3%ADa_Airport": {
     "name": "Santa Clara",
     "url": "/wiki/Santa_Clara,_Cuba"
+  },
+  "Las_Am%C3%A9ricas_International_Airport": {
+    "name": "Santo Domingo",
+    "url": "/wiki/Santo_Domingo"
   },
   "Sarasota-Bradenton_International_Airport": {
     "name": "Sarasota",
@@ -4441,6 +4437,10 @@
   "S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport": {
     "name": "São Paulo",
     "url": "/wiki/S%C3%A3o_Paulo"
+  },
+  "Tenerife_North_Airport": {
+    "name": "Tenerife",
+    "url": "/wiki/Tenerife"
   },
   "Tunis-Carthage_International_Airport": {
     "name": "Tunis",
@@ -6270,7 +6270,7 @@
     "name": "Santiago de Veraguas",
     "url": "/wiki/Santiago_de_Veraguas"
   },
-  "Aguadulce,_Cocl%C3%A9": {
+  "Aguadulce_Airport": {
     "name": "Aguadulce",
     "url": "/wiki/Aguadulce,_Cocl%C3%A9"
   },
@@ -6298,7 +6298,7 @@
     "name": "El Real",
     "url": "/wiki/El_Real"
   },
-  "Col%C3%B3n,_Panama": {
+  "Enrique_Adolfo_Jim%C3%A9nez_Airport": {
     "name": "Colón",
     "url": "/wiki/Col%C3%B3n,_Panama"
   },
@@ -6353,6 +6353,10 @@
   "Sabiha_Gokcen_Airport": {
     "name": "Istanbul",
     "url": "/wiki/Istanbul"
+  },
+  "Ohrid_St._Paul_the_Apostle_Airport": {
+    "name": "Ohrid",
+    "url": "/wiki/Ohrid"
   },
   "Sochi_Airport": {
     "name": "Sochi",
@@ -7113,6 +7117,10 @@
   "S%C3%A1rmell%C3%A9k_International_Airport": {
     "name": "Sármellék",
     "url": "/wiki/S%C3%A1rmell%C3%A9k"
+  },
+  "Kyiv_International_Airport_(Zhuliany)": {
+    "name": "Kiev",
+    "url": "/wiki/Kiev"
   },
   "Palanga_International_Airport": {
     "name": "Palanga",
@@ -8294,6 +8302,10 @@
     "name": "Boa Vista",
     "url": "/wiki/Boa_Vista,_Cape_Verde"
   },
+  "Ces%C3%A1ria_%C3%89vora_Airport": {
+    "name": "São Vicente",
+    "url": "/wiki/S%C3%A3o_Vicente,_Cape_Verde"
+  },
   "Flamingo_International_Airport": {
     "name": "Kralendijk",
     "url": "/wiki/Kralendijk"
@@ -8301,10 +8313,6 @@
   "Orlando_Sanford_International_Airport": {
     "name": "Orlando",
     "url": "/wiki/Orlando,_Florida"
-  },
-  "Al_Maktoum_International_Airport": {
-    "name": "Dubai",
-    "url": "/wiki/Dubai"
   },
   "Tenerife-South_Airport": {
     "name": "Tenerife",
@@ -8318,10 +8326,6 @@
     "name": "Ivalo",
     "url": "/wiki/Ivalo"
   },
-  "Ajaccio_Napoleon_Bonaparte_Airport": {
-    "name": "Ajaccio",
-    "url": "/wiki/Ajaccio"
-  },
   "Ohrid_%22St._Paul_the_Apostle%22_Airport": {
     "name": "Ohrid",
     "url": "/wiki/Ohrid"
@@ -8329,6 +8333,10 @@
   "Groningen_Airport_Eelde": {
     "name": "Groningen",
     "url": "/wiki/Groningen"
+  },
+  "Pico_Airport": {
+    "name": "Pico",
+    "url": "/wiki/Pico_Island"
   },
   "Barcelona-El_Prat_Airport": {
     "name": "Barcelona",
@@ -8341,6 +8349,10 @@
   "Eilat_Airport": {
     "name": "Eilat",
     "url": "/wiki/Eilat"
+  },
+  "Ohrid_Airport": {
+    "name": "Ohrid",
+    "url": "/wiki/Ohrid"
   },
   "Haifa_Airport": {
     "name": "Haifa",
@@ -8413,6 +8425,10 @@
   "Angkor_International_Airport": {
     "name": "Siem Reap",
     "url": "/wiki/Siem_Reap"
+  },
+  "Haneda_International_Airport": {
+    "name": "Tokyo",
+    "url": "/wiki/Tokyo"
   },
   "Ulsan_Airport": {
     "name": "Ulsan",
@@ -9646,6 +9662,18 @@
     "name": "Mahón",
     "url": "/wiki/Mah%C3%B3n"
   },
+  "Captain_An%C3%ADbal_Arab_Airport": {
+    "name": "Cobija",
+    "url": "/wiki/Cobija"
+  },
+  "Teniente_Jorge_Henrich_Arauz_Airport": {
+    "name": "Trinidad",
+    "url": "/wiki/Trinidad,_Bolivia"
+  },
+  "Uyuni_Airport": {
+    "name": "Uyuni",
+    "url": "/wiki/Uyuni"
+  },
   "Cerro_Moreno_Airport": {
     "name": "Antofagasta",
     "url": "/wiki/Antofagasta,_Chile"
@@ -9857,6 +9885,10 @@
   "Stockholm-Bromma_Airport": {
     "name": "Stockholm",
     "url": "/wiki/Stockholm"
+  },
+  "Ajaccio_Napoleon_Bonaparte_Airport": {
+    "name": "Ajaccio",
+    "url": "/wiki/Ajaccio"
   },
   "Cagliari_Elmas_Airport": {
     "name": "Cagliari",
@@ -10426,6 +10458,10 @@
     "name": "Yichun",
     "url": "/wiki/Yichun,_Heilongjiang"
   },
+  "Yingkou_Lanqi_Airport": {
+    "name": "Yingkou",
+    "url": "/wiki/Yingkou"
+  },
   "Yushu_Batang_Airport": {
     "name": "Yushu",
     "url": "/wiki/Yushu_City,_Qinghai"
@@ -10557,10 +10593,6 @@
   "Tacheng_Airport": {
     "name": "Tacheng",
     "url": "/wiki/Tacheng"
-  },
-  "Haneda_International_Airport": {
-    "name": "Tokyo",
-    "url": "/wiki/Tokyo"
   },
   "Tongren_Fenghuang_Airport": {
     "name": "Tongren",
@@ -10749,6 +10781,10 @@
   "Simon_Bolivar_International_Airport_(Colombia)": {
     "name": "Santa Marta",
     "url": "/wiki/Santa_Marta,_Colombia"
+  },
+  "FAP_Captain_Jos%C3%A9_Abelardo_Qui%C3%B1ones_Gonz%C3%A1les_International_Airport": {
+    "name": "Chiclayo\nbegins 28 June 2016",
+    "url": "/wiki/Chiclayo"
   },
   "Ingeniero_Aeron%C3%A1utico_Ambrosio_L.V._Taravella_International_Airport": {
     "name": "Córdoba",
@@ -12350,6 +12386,10 @@
     "name": "Scottsbluff",
     "url": "/wiki/Scottsbluff,_Nebraska"
   },
+  "Purdue_University_Airport": {
+    "name": "Lafayette",
+    "url": "/wiki/Lafayette,_Indiana"
+  },
   "Southern_Illinois_Airport": {
     "name": "Carbondale",
     "url": "/wiki/Carbondale,_Illinois"
@@ -12477,10 +12517,6 @@
   "Kefalonia_Island_International_Airport": {
     "name": "Kefalonia",
     "url": "/wiki/Kefalonia"
-  },
-  "Ohrid_Airport": {
-    "name": "Ohrid",
-    "url": "/wiki/Ohrid"
   },
   "Manzhouli_Airport": {
     "name": "Manzhouli",
@@ -15498,10 +15534,6 @@
     "name": "Graciosa Island",
     "url": "/wiki/Graciosa_Island"
   },
-  "Pico_Airport": {
-    "name": "Pico",
-    "url": "/wiki/Pico_Island"
-  },
   "S%C3%A3o_Jorge_Airport": {
     "name": "São Jorge Island",
     "url": "/wiki/S%C3%A3o_Jorge_Island"
@@ -16094,14 +16126,6 @@
     "name": "Belgaum",
     "url": "/wiki/Belgaum"
   },
-  "Nanded_Airport": {
-    "name": "Nanded",
-    "url": "/wiki/Nanded"
-  },
-  "Pondicherry_Airport": {
-    "name": "Pondicherry",
-    "url": "/wiki/Pondicherry"
-  },
   "Niagara_Falls_International_Airport": {
     "name": "Niagara Falls",
     "url": "/wiki/Niagara_Falls,_New_York"
@@ -16361,10 +16385,6 @@
   "Pregui%C3%A7a_Airport": {
     "name": "Sao Nicolau",
     "url": "/wiki/S%C3%A3o_Nicolau,_Cape_Verde"
-  },
-  "Ces%C3%A1ria_%C3%89vora_Airport": {
-    "name": "São Vicente",
-    "url": "/wiki/S%C3%A3o_Vicente,_Cape_Verde"
   },
   "Bauru_Airport": {
     "name": "Bauru",
@@ -16769,6 +16789,10 @@
   "Gafsa_-_Ksar_International_Airport": {
     "name": "Gafsa",
     "url": "/wiki/Gafsa"
+  },
+  "Montreal%E2%80%93Pierre_Elliott_Trudeau_International_Airport": {
+    "name": "Montreal^\nbegins 18 June 2016",
+    "url": "/wiki/Montreal"
   },
   "Tabarka%E2%80%93Ain_Draham_International_Airport": {
     "name": "Tabarka",

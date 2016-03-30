@@ -53,6 +53,7 @@
     "Brussels International Airport",
     "Brussels International Airport [T]",
     "Brussels National Airport",
+    "Brussels Airport\nFormer Hub",
     "Brussels Airport[Cargo]",
     "Brussels Airport [S]",
     "Zaventem Airport",
@@ -100,9 +101,8 @@
   ],
   "London": [
     "Gatwick Airport Summer",
-    "Stansted Airport Ø",
-    "London Stansted Airport",
     "Heathrow Airport",
+    "London Stansted Airport",
     "London Heathrow Airport",
     "Gatwick Airport",
     "London Stansted Airport [T]",
@@ -807,12 +807,6 @@
     "Mykonos Island National Airport [T]",
     "Mykonos Island National Airport [S]"
   ],
-  "Mytilene": [
-    "Mytilene International Airport",
-    "Mytilene International Airport [Seasonal]",
-    "Mytilene Airport",
-    "Lesbos"
-  ],
   "Santorini": [
     "Santorini (Thira) National Airport",
     "Santorini National Airport [Seasonal]",
@@ -1099,6 +1093,7 @@
     "Henri Coandă International Airport",
     "Otopeni Airport",
     "Henri Coandă Airport",
+    "Henri Coandă International Airport [Seasonal]",
     "Henri Coandă International Airport [hub]",
     "Henri Coandă International Airport [T]",
     "Henri Coandă International Airport‡",
@@ -1111,6 +1106,8 @@
     "Pulkovo Airport",
     "Pulkovo International Airport",
     "Pulkovo Airport [S]",
+    "Pulkovo International Airport [Seasonal]",
+    "Pulkovo international Airport",
     "Pulkovo Airport[20]",
     "Pulkovo Airport[2]",
     "Pulkovo Airport [F]\nbegins 1 June 2016",
@@ -1224,12 +1221,12 @@
     "Istanbul Atatürk Airport [T]",
     "Sabiha Gökçen Airport",
     "Ataturk International Airport",
+    "Istanbul Atatürk International Airport",
     "Ataturk Airport",
     "Istanbul Atatürk Airport[9]",
     "Atatürk International Airport[1]",
     "Atatürk International Airport*",
     "Sabiha Gokcen International Airport",
-    "Istanbul Atatürk International Airport",
     "Atatürk International Airport[T]",
     "Atatürk International Airport Charter",
     "Sabiha Gökçen International Airport#",
@@ -1243,13 +1240,13 @@
     "Adnan Menderes Airport ‡"
   ],
   "Kiev": [
-    "Kyiv International Airport (Zhuliany)",
-    "Boryspil International Airport#",
     "Boryspil International Airport",
+    "Boryspil International Airport#",
     "Boryspil Airport",
     "Boryspil International Airport [T]",
     "Zhuliany Airport",
     "Kyiv Zhuliany International Airport",
+    "Kyiv International Airport (Zhuliany)",
     "Boryspil International Airport‡",
     "Kyiv International Airport",
     "Boryspil International Airport[2]",
@@ -1288,8 +1285,8 @@
   ],
   "Alicante": [
     "Alicante Airport",
-    "Alicante airport",
     "Alicante–Elche Airport",
+    "Alicante airport",
     "Alicante Elche Airport",
     "Alicante-Elche Airport",
     "Alicante International Airport†",
@@ -1444,9 +1441,9 @@
   "Glasgow": [
     "Glasgow Airport",
     "Glasgow Airport [T]",
+    "Glasgow International Airport",
     "Glasgow Airport #",
     "Glasgow Prestwick Airport",
-    "Glasgow International Airport",
     "Glasgow Airport[Charter]",
     "Glasgow Airport Seasonal"
   ],
@@ -1883,6 +1880,12 @@
     "Murcia–San Javier Airport",
     "Murcia--San Javier Airport"
   ],
+  "Mytilene": [
+    "Mytilene International Airport [Seasonal]",
+    "Mytilene International Airport",
+    "Mytilene Airport",
+    "Lesbos"
+  ],
   "Olbia": [
     "Costa Smeralda Airport [Seasonal]",
     "Olbia - Costa Smeralda Airport",
@@ -2079,8 +2082,8 @@
     "Bangkok Suvarnabhumi Airport",
     "Suvarnabhumi Airport #",
     "Don Mueang International Airport",
-    "Don Mueang Airport",
     "Suvarnabhumi International Airport",
+    "Don Mueang Airport",
     "Suvarnabhumi Airport*",
     "Suvarnabhumi Airport[5]",
     "Don Mueang Airport[1]",
@@ -2435,9 +2438,9 @@
   "Jakarta": [
     "Soekarno–Hatta International Airport #",
     "Soekarno–Hatta International Airport",
+    "Soekarno–Hatta International Airport [T]",
     "Soekarno-Hatta International Airport",
     "Soekarno--Hatta International Airport",
-    "Soekarno–Hatta International Airport [T]",
     "Jakarta-Soekarno Hatta",
     "Kemayoran Airport",
     "Soekarno–Hatta International Airport [Hub]",
@@ -2710,6 +2713,7 @@
     "Minsk International Airport",
     "Minsk National Airport",
     "Minsk Airport",
+    "Minsk National Airport [Seasonal]",
     "Minsk International Airport [T]",
     "Minsk National Airport #"
   ],
@@ -2767,7 +2771,7 @@
     "Chhatrapati Shivaji International Airport[3]",
     "Chhatrapati Shivaji International Airport Hub",
     "Chhatrapati Shivaji International Airport[T]",
-    "Chatrapati Shivaji International Airport ^^"
+    "Chhatrapati Shivaji International Airport ^^"
   ],
   "Murmansk": [
     "Murmansk Airport",
@@ -3284,7 +3288,7 @@
     "Franjo Tuđman Airport Hub",
     "Zagreb International Airport",
     "Zagreb Airport[3]",
-    "Zagreb Airport [Charter]",
+    "Zagreb International Airport [Charter]",
     "Zagreb Airport#"
   ],
   "Zaporizhia": [
@@ -3581,8 +3585,8 @@
   ],
   "Auckland": [
     "Auckland Airport",
-    "Auckland Airport [T]",
     "Auckland International Airport",
+    "Auckland Airport [T]",
     "Auckland International Airport [T]",
     "Auckland Airport[1]",
     "Auckland Airport Terminated",
@@ -3957,9 +3961,6 @@
     "San Salvador Airport",
     "Comalapa International Airport"
   ],
-  "Santo Domingo\n(begins March 16, 2016)": [
-    "Las Américas International Airport"
-  ],
   "Tapachula": [
     "Tapachula International Airport"
   ],
@@ -4077,7 +4078,8 @@
     "La Chinita International Airport"
   ],
   "Cobija": [
-    "Capitan Anibal Arab Airport"
+    "Capitan Anibal Arab Airport",
+    "Captain Aníbal Arab Airport"
   ],
   "Puerto Suárez": [
     "Puerto Suárez International Airport"
@@ -4325,6 +4327,9 @@
     "Basra International Airport",
     "Basra International Airport[3]",
     "Basra International Airport [T]"
+  ],
+  "Batumi\nbegins 2 July 2016": [
+    "Batumi International Airport ^"
   ],
   "Chennai": [
     "Chennai International Airport",
@@ -5948,10 +5953,10 @@
   ],
   "Ajaccio": [
     "Ajaccio – Napoléon Bonaparte",
-    "Ajaccio Napoleon Bonaparte Airport",
     "Ajaccio - Campo dell'Oro Airport",
     "Ajaccio Napoleon Bonaparte Airport [S]",
     "Napoleon Bonaparte Airport",
+    "Ajaccio Napoleon Bonaparte Airport",
     "Campo dell'Oro Airport"
   ],
   "Annecy": [
@@ -6088,12 +6093,6 @@
   "Gaborone": [
     "Sir Seretse Khama International Airport [T]",
     "Sir Seretse Khama International Airport"
-  ],
-  "Glasgow\nresumes 23 March 2016": [
-    "Glasgow International Airport"
-  ],
-  "Jakarta\nends 26 March 2016": [
-    "Soekarno–Hatta International Airport"
   ],
   "Kinshasa": [
     "N'djili Airport",
@@ -6557,8 +6556,7 @@
     "Bhuntar Airport"
   ],
   "Mysore": [
-    "Mysore Airport[T]",
-    "Mysore Airport"
+    "Mysore Airport[T]"
   ],
   "Agatti": [
     "Agatti Aerodrome"
@@ -7035,7 +7033,6 @@
     "Cairns Airport",
     "Cairns Airport [#][2]",
     "Cairns Airport [T]",
-    "Cairns Airport¤",
     "Cairns Airport[4]"
   ],
   "Dunedin": [
@@ -7045,7 +7042,6 @@
   "Gold Coast": [
     "Gold Coast Airport",
     "Coolangatta Airport",
-    "Gold Coast Airport¤",
     "Gold Coast Airport ^"
   ],
   "Ho Chi Minh City\nbegins 4 June 2016": [
@@ -7475,7 +7471,7 @@
     "El Real Airport"
   ],
   "Colón": [
-    "Colón Airport"
+    "Enrique Adolfo Jiménez Airport"
   ],
   "Río Hato": [
     "Río Hato Airport",
@@ -7524,8 +7520,24 @@
     "Banja Luka International Airport",
     "Mahovljani Airport"
   ],
+  "Hamburg\nbegins 16 June 2016": [
+    "Hamburg Airport"
+  ],
+  "Kiev\nbegins 16 June 2016": [
+    "Boryspil International Airport"
+  ],
   "New York City\nbegins 23 June 2016": [
     "John F. Kennedy International Airport"
+  ],
+  "Ohrid": [
+    "Ohrid St. Paul the Apostle Airport",
+    "Ohrid \"St. Paul the Apostle\" Airport",
+    "\"St. Paul the Apostle\" Airport [Seasonal]",
+    "St. Paul the Apostle Airport",
+    "Ohrid Airport"
+  ],
+  "Saint Petersburg\nresumes 18 June 2016": [
+    "Pulkovo Airport"
   ],
   "Mombasa": [
     "Moi International Airport #",
@@ -7602,7 +7614,8 @@
     "Tanga Airport"
   ],
   "Zanzibar City": [
-    "Abeid Amani Karume International Airport"
+    "Abeid Amani Karume International Airport",
+    "Abeid Amani Karume International Airport [Seasonal]"
   ],
   "Entebbe": [
     "Entebbe International Airport",
@@ -7879,9 +7892,6 @@
   "Alor Setar": [
     "Sultan Abdul Halim Airport"
   ],
-  "Auckland\nD7 begins 22 March 2016": [
-    "Auckland Airport"
-  ],
   "Bacolod": [
     "Bacolod-Silay International Airport",
     "Bacolod–Silay International Airport",
@@ -8080,7 +8090,7 @@
   "Semarang": [
     "Achmad Yani International Airport"
   ],
-  "Shantou\nAK begins 25 March 2016": [
+  "Shantou\nFD begins 27 May 2016": [
     "Jieyang Chaoshan International Airport"
   ],
   "Sibu": [
@@ -8815,7 +8825,8 @@
     "Baton Rouge Metropolitan Airport"
   ],
   "Lafayette": [
-    "Lafayette Regional Airport"
+    "Lafayette Regional Airport",
+    "Purdue University Airport"
   ],
   "Lake Charles": [
     "Lake Charles Regional Airport"
@@ -9122,6 +9133,10 @@
     "Atlas Brasil Cantanhede International Airport",
     "Rabil Airport"
   ],
+  "São Vicente": [
+    "Cesária Évora Airport",
+    "São Pedro Airport"
+  ],
   "Kralendijk": [
     "Flamingo International Airport"
   ],
@@ -9137,13 +9152,11 @@
     "Ivalo Airport",
     "Ivalo Airport#"
   ],
-  "Ohrid": [
-    "Ohrid \"St. Paul the Apostle\" Airport",
-    "St. Paul the Apostle Airport",
-    "Ohrid Airport"
-  ],
   "Groningen": [
     "Groningen Airport Eelde"
+  ],
+  "Pico Island": [
+    "Pico Airport"
   ],
   "São Miguel": [
     "João Paulo II Airport"
@@ -9151,9 +9164,6 @@
   "Terceira": [
     "Lajes Field",
     "Lajes Air Base"
-  ],
-  "Jerez": [
-    "Jerez Airport"
   ],
   "Haifa": [
     "Haifa Airport",
@@ -10069,6 +10079,12 @@
     "Birmingham Airport, England",
     "Afonso Pena International Airport"
   ],
+  "Trinidad": [
+    "Teniente Jorge Henrich Arauz Airport"
+  ],
+  "Uyuni": [
+    "Uyuni Airport"
+  ],
   "Ft. Lauderdale": [
     "Fort Lauderdale-Hollywood International Airport"
   ],
@@ -10083,6 +10099,9 @@
     "V. C. Bird International Airport",
     "VC Bird International Airport",
     "V.C. Bird International Airport"
+  ],
+  "Baku\n(ends 29 April, 2016)[16]": [
+    "Heydar Aliyev International Airport"
   ],
   "Barbados": [
     "Grantley Adams International Airport"
@@ -10652,6 +10671,9 @@
     "Yichun Lindu Airport",
     "Yichun Airport"
   ],
+  "Yingkou": [
+    "Yingkou Lanqi Airport"
+  ],
   "Yushu": [
     "Yushu Batang Airport"
   ],
@@ -10852,6 +10874,9 @@
   ],
   "Cartago": [
     "Santa Ana Airport"
+  ],
+  "Chiclayo\nbegins 28 June 2016": [
+    "FAP Captain José Abelardo Quiñones Gonzáles International Airport"
   ],
   "Holguín\nbegins 21 June 2016": [
     "Frank País Airport"
@@ -11363,8 +11388,14 @@
   "Milas/Bodrum": [
     "Milas–Bodrum Airport"
   ],
+  "Pula\nbegins 25 June 2016": [
+    "Pula Airport"
+  ],
   "Rio de Janeiro\nbegins 22 April 2016": [
     "Rio de Janeiro-Galeão International Airport"
+  ],
+  "Seville\nbegins 4 June 2016": [
+    "Seville Airport"
   ],
   "Abu Simbel": [
     "Abu Simbel Airport"
@@ -11892,7 +11923,8 @@
     "Timika Airport"
   ],
   "Kutaisi": [
-    "David the Builder Kutaisi International Airport"
+    "David the Builder Kutaisi International Airport",
+    "David the Builder Kutaisi International Airport[T]"
   ],
   "Bergamo[citation needed]": [
     "Il Caravaggio International Airport [Charter]"
@@ -12642,9 +12674,6 @@
     "Whitsunday Coast Airport",
     "Proserpine / Whitsunday Coast Airport"
   ],
-  "Rarotonga *\nbegins 22 March 2016": [
-    "Rarotonga International Airport"
-  ],
   "Rockhampton": [
     "Rockhampton Airport"
   ],
@@ -12777,12 +12806,6 @@
   ],
   "Samara\nbegins 10 December 2012[5]": [
     "Kurumoch International Airport"
-  ],
-  "Jakarta\n(ends 28 March 2016)[4][5]": [
-    "Soekarno–Hatta International Airport"
-  ],
-  "Kuala Lumpur\n(ends 28 March 2016)[6][7]": [
-    "Kuala Lumpur International Airport"
   ],
   "Synerjet": [
     "Senior Táxi Aéreo"
@@ -12981,9 +13004,6 @@
   ],
   "Italy": [
     "1949*"
-  ],
-  "San Cristóbal": [
-    "San Cristóbal Airport"
   ],
   "Boavista": [
     "Rabil Airport"
@@ -14257,9 +14277,6 @@
   "Graciosa Island": [
     "Graciosa Airport"
   ],
-  "Pico Island": [
-    "Pico Airport"
-  ],
   "São Jorge Island": [
     "São Jorge Airport"
   ],
@@ -14368,17 +14385,8 @@
   "Boston\n(begins 29 March 2016)": [
     "Logan International Airport"
   ],
-  "Kraków\n(begins 25 March 2016)": [
-    "John Paul II Airport"
-  ],
-  "Los Angeles\n(resumes 14 March 2016)": [
-    "Los Angeles Airport"
-  ],
   "Miami\n(begins 28 September 2016)": [
     "Miami International Airport"
-  ],
-  "Vienna\n(resumes 24 March 2016)": [
-    "Vienna International Airport"
   ],
   "Makhachkala": [
     "Uytash Airport",
@@ -14606,12 +14614,6 @@
   "Belgaum": [
     "Belgaum Airport"
   ],
-  "Nanded": [
-    "Nanded Airport"
-  ],
-  "Pondicherry": [
-    "Pondicherry Airport"
-  ],
   "Niagara Falls": [
     "Niagara Falls International Airport"
   ],
@@ -14730,9 +14732,6 @@
   "Swiss Global Air Lines": [
     "Swiss International Air Lines"
   ],
-  "Alicante\nbegins 19 March 2016": [
-    "Alicante-Elche Airport"
-  ],
   "Helsinki\n(ends 30 April 2016)[3]": [
     "Helsinki Airport"
   ],
@@ -14849,15 +14848,14 @@
   "Salinas": [
     "General Ulpiano Paez Airport"
   ],
+  "San Cristóbal": [
+    "San Cristóbal Airport"
+  ],
   "Tena": [
     "Jumandy Airport"
   ],
   "Tulcan": [
     "Teniente Coronel Luis a Mantilla International Airport"
-  ],
-  "São Vicente": [
-    "São Pedro Airport",
-    "Cesária Évora Airport"
   ],
   "Pico": [
     "Pico Airport"
@@ -14965,6 +14963,9 @@
   ],
   "Jönköping": [
     "Jönköping Airport"
+  ],
+  "Jerez": [
+    "Jerez Airport"
   ],
   "London Gatwick": [
     "Gatwick Airport"
@@ -15085,6 +15086,9 @@
   ],
   "Kuwait City[F]": [
     "Kuwait International Airport[F]"
+  ],
+  "Montreal^\nbegins 18 June 2016": [
+    "Montreal–Pierre Elliott Trudeau International Airport^"
   ],
   "Moscow^\nbegins 26 March 2016": [
     "Moscow Domodedovo Airport^"

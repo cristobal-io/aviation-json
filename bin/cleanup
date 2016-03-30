@@ -77,14 +77,14 @@ if (program.airports) {
   saveFile(AIRPORTS_FILE, airports, logDone);
 }
 
-function logDone() {
-  console.log("file Saved");//eslint-disable-line no-console
+function logDone(name) {
+  return console.log(name + " file Saved");//eslint-disable-line no-console
 }
 
 function saveFile(dir, data, callback) {
   fs.writeFile(dir, JSON.stringify(data,null, 2), function(err) {
     if (err) {throw err;}
-    callback();
+    callback(dir);
   });
   
 }

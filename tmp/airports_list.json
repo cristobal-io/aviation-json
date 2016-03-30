@@ -632,7 +632,7 @@
     "url": "/wiki/Aiome_Airport"
   },
   {
-    "name": "Assis Airport",
+    "name": "Assis Airport (former ICAO: SBAS)",
     "url": "/wiki/Assis_Airport"
   },
   {
@@ -1762,10 +1762,6 @@
   {
     "name": "Ayawasi Airport",
     "url": "/wiki/Ayawasi_Airport"
-  },
-  {
-    "name": "Zahn's Airport[1] (closed 1980)",
-    "url": "/wiki/Zahn%27s_Airport"
   },
   {
     "name": "Phoenix–Mesa Gateway Airport (FAA: IWA)",
@@ -3744,8 +3740,8 @@
     "url": "/wiki/Bindlacher_Berg_Airport"
   },
   {
-    "name": "Bonanza Airport",
-    "url": "/wiki/Bonanza_Airport"
+    "name": "San Pedro Airport",
+    "url": "/wiki/San_Pedro_Airport,_Nicaragua"
   },
   {
     "name": "Bazaruto Island Airport",
@@ -6636,6 +6632,10 @@
     "url": "/wiki/Echuca_Airport"
   },
   {
+    "name": "Costa Esmeralda Airport[1]",
+    "url": "/wiki/Costa_Esmeralda_Airport"
+  },
+  {
     "name": "Ercan International Airport[1]",
     "url": "/wiki/Ercan_International_Airport"
   },
@@ -6762,10 +6762,6 @@
   {
     "name": "Cape Newenham LRRS Airport",
     "url": "/wiki/Cape_Newenham_LRRS_Airport"
-  },
-  {
-    "name": "Rentschler Field",
-    "url": "/wiki/Rentschler_Field"
   },
   {
     "name": "Yeniseysk Airport",
@@ -7176,8 +7172,8 @@
     "url": "/wiki/Ohkay_Owingeh_Airport"
   },
   {
-    "name": "Birchwood-Pocono Airpark[1]",
-    "url": "/wiki/Birchwood-Pocono_Airpark"
+    "name": "Stroudsburg–Pocono Airport[1] (FAA: N53)",
+    "url": "/wiki/Stroudsburg%E2%80%93Pocono_Airport"
   },
   {
     "name": "Ricardo García Posada Airport",
@@ -13408,6 +13404,10 @@
     "url": "/wiki/Lumbo_Airport"
   },
   {
+    "name": "Langley Air Force Base[2]",
+    "url": "/wiki/Langley_Field"
+  },
+  {
     "name": "Angelina County Airport",
     "url": "/wiki/Angelina_County_Airport"
   },
@@ -14448,11 +14448,11 @@
     "url": "/wiki/Nyingchi_Mainling_Airport"
   },
   {
-    "name": "Chennai International Airport (Madras International Airport)",
+    "name": "Chennai International Airport",
     "url": "/wiki/Chennai_International_Airport"
   },
   {
-    "name": "Marabá Airport",
+    "name": "João Correa da Rocha Airport",
     "url": "/wiki/Marab%C3%A1_Airport"
   },
   {
@@ -14460,23 +14460,23 @@
     "url": "/wiki/Macon_Downtown_Airport"
   },
   {
-    "name": "Madrid–Barajas Airport",
-    "url": "/wiki/Madrid%E2%80%93Barajas_Airport"
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "url": "/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
   },
   {
     "name": "Madera Municipal Airport",
     "url": "/wiki/Madera_Municipal_Airport"
   },
   {
-    "name": "Midland International Airport",
-    "url": "/wiki/Midland_International_Airport"
+    "name": "Midland International Air and Space Port",
+    "url": "/wiki/Midland_International_Air_and_Space_Port"
   },
   {
     "name": "Madang Airport",
     "url": "/wiki/Madang_Airport"
   },
   {
-    "name": "Mahon Airport",
+    "name": "Menorca Airport (Mahón Airport)",
     "url": "/wiki/Menorca_Airport"
   },
   {
@@ -14512,8 +14512,8 @@
     "url": "/wiki/Momote_Airport"
   },
   {
-    "name": "Tshimpi Airport (Matadi Airport)",
-    "url": "/wiki/Tshimpi_Airport"
+    "name": "Matadi Tshimpi Airport",
+    "url": "/wiki/Matadi_Tshimpi_Airport"
   },
   {
     "name": "Maupiti Airport",
@@ -14536,20 +14536,24 @@
     "url": "/wiki/Clarence_A._Bain_Airport"
   },
   {
-    "name": "Eugenio Maria de Hostos Airport",
-    "url": "/wiki/Eugenio_Maria_de_Hostos_Airport"
+    "name": "Eugenio María de Hostos Airport",
+    "url": "/wiki/Eugenio_Mar%C3%ADa_de_Hostos_Airport"
   },
   {
     "name": "Moi International Airport",
     "url": "/wiki/Moi_International_Airport"
   },
   {
-    "name": "Mafikeng International Airport",
-    "url": "/wiki/Mafikeng_International_Airport"
+    "name": "Mahikeng Airport (Mmabatho Airport)",
+    "url": "/wiki/Mahikeng_Airport"
   },
   {
     "name": "Monbetsu Airport",
     "url": "/wiki/Monbetsu_Airport"
+  },
+  {
+    "name": "Porepunkah Airfield",
+    "url": "/wiki/Porepunkah_Airfield"
   },
   {
     "name": "Mobridge Municipal Airport",
@@ -14568,12 +14572,12 @@
     "url": "/wiki/Sangster_International_Airport"
   },
   {
-    "name": "Matupá Airport",
+    "name": "Orlando Villas-Bôas Regional Airport",
     "url": "/wiki/Matup%C3%A1_Airport"
   },
   {
-    "name": "Manistee County-Blacker Airport",
-    "url": "/wiki/Manistee_County-Blacker_Airport"
+    "name": "Manistee County Blacker Airport",
+    "url": "/wiki/Manistee_County_Blacker_Airport"
   },
   {
     "name": "Mamburao Airport",
@@ -14588,7 +14592,7 @@
     "url": "/wiki/MBS_International_Airport"
   },
   {
-    "name": "Moises R. Espinosa Airport (Masbate Airport)",
+    "name": "Moises R. Espinosa Airport",
     "url": "/wiki/Moises_R._Espinosa_Airport"
   },
   {
@@ -14600,8 +14604,8 @@
     "url": "/wiki/Moorabbin_Airport"
   },
   {
-    "name": "Maribor Airport",
-    "url": "/wiki/Maribor_Airport"
+    "name": "Maribor Edvard Rusjan Airport",
+    "url": "/wiki/Maribor_Edvard_Rusjan_Airport"
   },
   {
     "name": "Maués Airport",
@@ -14612,8 +14616,8 @@
     "url": "/wiki/Macenta_Airport"
   },
   {
-    "name": "McComb-Pike County Airport (John E. Lewis Field)",
-    "url": "/wiki/McComb-Pike_County_Airport"
+    "name": "McComb–Pike County Airport (John E. Lewis Field)",
+    "url": "/wiki/McComb%E2%80%93Pike_County_Airport"
   },
   {
     "name": "McClellan Airfield",
@@ -14624,8 +14628,8 @@
     "url": "/wiki/Mackinac_Island_Airport"
   },
   {
-    "name": "Merced Municipal Airport (Macready Field)",
-    "url": "/wiki/Merced_Municipal_Airport"
+    "name": "Merced Regional Airport (MacReady Field)",
+    "url": "/wiki/Merced_Regional_Airport"
   },
   {
     "name": "MacDill Air Force Base",
@@ -14636,6 +14640,10 @@
     "url": "/wiki/McGrath_Airport"
   },
   {
+    "name": "General Manuel Serrano Airport",
+    "url": "/wiki/General_Manuel_Serrano_Airport"
+  },
+  {
     "name": "Kansas City International Airport",
     "url": "/wiki/Kansas_City_International_Airport"
   },
@@ -14644,16 +14652,12 @@
     "url": "/wiki/Jorge_Isaacs_Airport"
   },
   {
-    "name": "McCook Regional Airport",
-    "url": "/wiki/McCook_Regional_Airport"
+    "name": "McCook Ben Nelson Regional Airport",
+    "url": "/wiki/McCook_Ben_Nelson_Regional_Airport"
   },
   {
     "name": "McKinley National Park Airport (FAA: INR)",
     "url": "/wiki/McKinley_National_Park_Airport"
-  },
-  {
-    "name": "Monaco Heliport",
-    "url": "/wiki/Monaco_Heliport"
   },
   {
     "name": "Middle Georgia Regional Airport",
@@ -14664,7 +14668,7 @@
     "url": "/wiki/Orlando_International_Airport"
   },
   {
-    "name": "Macapá International Airport",
+    "name": "Alberto Alcolumbre International Airport",
     "url": "/wiki/Macap%C3%A1_International_Airport"
   },
   {
@@ -14676,16 +14680,16 @@
     "url": "/wiki/Monte_Caseros_Airport"
   },
   {
-    "name": "Muscat International Airport (formerly Seeb Airport)",
+    "name": "Muscat International Airport",
     "url": "/wiki/Muscat_International_Airport"
   },
   {
-    "name": "Montluçon - Guéret Airport",
-    "url": "/wiki/Montlu%C3%A7on_-_Gu%C3%A9ret_Airport"
+    "name": "Montluçon – Guéret Airport",
+    "url": "/wiki/Montlu%C3%A7on_%E2%80%93_Gu%C3%A9ret_Airport"
   },
   {
-    "name": "McArthur River Airport",
-    "url": "/wiki/McArthur_River_Airport_(Australia)"
+    "name": "McArthur River Mine Airport",
+    "url": "/wiki/McArthur_River_Mine_Airport"
   },
   {
     "name": "Mason City Municipal Airport",
@@ -14700,8 +14704,8 @@
     "url": "/wiki/Sunshine_Coast_Airport"
   },
   {
-    "name": "Zumbi dos Palmares Airport",
-    "url": "/wiki/Zumbi_dos_Palmares_Airport"
+    "name": "Zumbi dos Palmares International Airport",
+    "url": "/wiki/Zumbi_dos_Palmares_International_Airport"
   },
   {
     "name": "Melinda Airport",
@@ -14724,8 +14728,8 @@
     "url": "/wiki/Taylor_County_Airport_(Wisconsin)"
   },
   {
-    "name": "Mudanjiang Airport",
-    "url": "/wiki/Mudanjiang_Airport"
+    "name": "Mudanjiang Hailang Airport",
+    "url": "/wiki/Mudanjiang_Hailang_Airport"
   },
   {
     "name": "Southern Illinois Airport",
@@ -14792,7 +14796,7 @@
     "url": "/wiki/Governor_Francisco_Gabrielli_International_Airport"
   },
   {
-    "name": "Macaé Airport",
+    "name": "Benedito Lacerda Airport",
     "url": "/wiki/Maca%C3%A9_Airport"
   },
   {
@@ -14801,11 +14805,11 @@
   },
   {
     "name": "Eloy Alfaro International Airport",
-    "url": "/wiki/Manta_Air_Base"
+    "url": "/wiki/Eloy_Alfaro_International_Airport"
   },
   {
-    "name": "Prince Mohammad Bin Abdulaziz Airport",
-    "url": "/wiki/Prince_Mohammad_Bin_Abdulaziz_Airport"
+    "name": "Prince Mohammad bin Abdulaziz Airport",
+    "url": "/wiki/Prince_Mohammad_bin_Abdulaziz_Airport"
   },
   {
     "name": "Maré Airport",
@@ -14816,20 +14820,24 @@
     "url": "/wiki/Melfi_Airport"
   },
   {
-    "name": "Malange Airport",
-    "url": "/wiki/Malange_Airport"
+    "name": "Malanje Airport",
+    "url": "/wiki/Malanje_Airport"
   },
   {
     "name": "Mehamn Airport",
     "url": "/wiki/Mehamn_Airport"
   },
   {
-    "name": "Key Field",
-    "url": "/wiki/Key_Field"
+    "name": "Meridian Regional Airport (Key Field)",
+    "url": "/wiki/Meridian_Regional_Airport"
   },
   {
     "name": "Port Meadville Airport (FAA: GKJ)",
     "url": "/wiki/Port_Meadville_Airport"
+  },
+  {
+    "name": "Bassatine Air Base[1]",
+    "url": "/wiki/Bassatine_Air_Base"
   },
   {
     "name": "Melbourne Airport",
@@ -14856,16 +14864,16 @@
     "url": "/wiki/Castle_Airport"
   },
   {
-    "name": "Polonia International Airport",
-    "url": "/wiki/Polonia_International_Airport"
+    "name": "Soewondo Air Force Base",
+    "url": "/wiki/Soewondo_Air_Force_Base"
   },
   {
-    "name": "Monte Dourado Airport",
+    "name": "Serra do Areão Airport",
     "url": "/wiki/Monte_Dourado_Airport"
   },
   {
-    "name": "Minden-Tahoe Airport",
-    "url": "/wiki/Minden-Tahoe_Airport"
+    "name": "Minden–Tahoe Airport",
+    "url": "/wiki/Minden%E2%80%93Tahoe_Airport"
   },
   {
     "name": "Mweka Airport",
@@ -14880,6 +14888,10 @@
     "url": "/wiki/Meghauli_Airport"
   },
   {
+    "name": "Mafia Airport",
+    "url": "/wiki/Mafia_Airport"
+  },
+  {
     "name": "Mafeteng Airport",
     "url": "/wiki/Mafeteng_Airport"
   },
@@ -14888,8 +14900,8 @@
     "url": "/wiki/Mansfield_Lahm_Regional_Airport"
   },
   {
-    "name": "McAllen-Miller International Airport",
-    "url": "/wiki/McAllen-Miller_International_Airport"
+    "name": "McAllen Miller International Airport",
+    "url": "/wiki/McAllen_Miller_International_Airport"
   },
   {
     "name": "Moanda Airport",
@@ -14912,6 +14924,10 @@
     "url": "/wiki/Moala_Airport"
   },
   {
+    "name": "Matsu Beigan Airport[1]",
+    "url": "/wiki/Matsu_Beigan_Airport"
+  },
+  {
     "name": "Macau International Airport",
     "url": "/wiki/Macau_International_Airport"
   },
@@ -14928,8 +14944,8 @@
     "url": "/wiki/Maradi_Airport"
   },
   {
-    "name": "Rogue Valley International-Medford Airport",
-    "url": "/wiki/Rogue_Valley_International-Medford_Airport"
+    "name": "Rogue Valley International–Medford Airport",
+    "url": "/wiki/Rogue_Valley_International%E2%80%93Medford_Airport"
   },
   {
     "name": "Mfuwe Airport",
@@ -14940,8 +14956,8 @@
     "url": "/wiki/Accomack_County_Airport"
   },
   {
-    "name": "Meribel Airport",
-    "url": "/wiki/Meribel_Airport"
+    "name": "Méribel Altiport",
+    "url": "/wiki/M%C3%A9ribel_Altiport"
   },
   {
     "name": "Augusto C. Sandino International Airport",
@@ -14960,12 +14976,12 @@
     "url": "/wiki/Magdalena_Airport"
   },
   {
-    "name": "Dobbins Air Reserve Base (NAS Atlanta)",
+    "name": "Dobbins Air Reserve Base",
     "url": "/wiki/Dobbins_Air_Reserve_Base"
   },
   {
-    "name": "Maringá - Sílvio Name Júnior Regional Airport",
-    "url": "/wiki/Maring%C3%A1_-_S%C3%ADlvio_Name_J%C3%BAnior_Regional_Airport"
+    "name": "Sílvio Name Júnior Regional Airport",
+    "url": "/wiki/Maring%C3%A1_Regional_Airport"
   },
   {
     "name": "Margate Airport",
@@ -14976,12 +14992,16 @@
     "url": "/wiki/Orange_County_Airport_(New_York)"
   },
   {
-    "name": "Düsseldorf-Mönchengladbach Airport",
-    "url": "/wiki/D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport"
+    "name": "Düsseldorf Mönchengladbach Airport",
+    "url": "/wiki/D%C3%BCsseldorf_M%C3%B6nchengladbach_Airport"
   },
   {
     "name": "Montgomery Regional Airport (Dannelly Field)",
     "url": "/wiki/Montgomery_Regional_Airport"
+  },
+  {
+    "name": "Baracoa Regional Airport",
+    "url": "/wiki/Baracoa_Regional_Airport"
   },
   {
     "name": "Aden Adde International Airport",
@@ -14992,8 +15012,8 @@
     "url": "/wiki/Moultrie_Municipal_Airport"
   },
   {
-    "name": "Mangaia Island Airport",
-    "url": "/wiki/Mangaia_Island_Airport"
+    "name": "Mangaia Airport",
+    "url": "/wiki/Mangaia_Airport"
   },
   {
     "name": "Milingimbi Airport",
@@ -15008,8 +15028,8 @@
     "url": "/wiki/Morgantown_Municipal_Airport"
   },
   {
-    "name": "Dayton-Wright Brothers Airport",
-    "url": "/wiki/Dayton-Wright_Brothers_Airport"
+    "name": "Dayton–Wright Brothers Airport",
+    "url": "/wiki/Dayton%E2%80%93Wright_Brothers_Airport"
   },
   {
     "name": "Myeik Airport",
@@ -15048,12 +15068,8 @@
     "url": "/wiki/Marshall_Memorial_Municipal_Airport"
   },
   {
-    "name": "Minchumina Airport",
-    "url": "/wiki/Minchumina_Airport"
-  },
-  {
     "name": "Minsk-1 Airport",
-    "url": "/wiki/Minsk-1"
+    "url": "/wiki/Minsk-1_Airport"
   },
   {
     "name": "Mariehamn Airport",
@@ -15064,16 +15080,24 @@
     "url": "/wiki/Sacramento_Mather_Airport"
   },
   {
-    "name": "Manchester-Boston Regional Airport",
-    "url": "/wiki/Manchester-Boston_Regional_Airport"
+    "name": "Dunsmuir Municipal-Mott Airport[1] (FAA: 1O6)",
+    "url": "/wiki/Dunsmuir_Municipal-Mott_Airport"
+  },
+  {
+    "name": "Manchester–Boston Regional Airport",
+    "url": "/wiki/Manchester%E2%80%93Boston_Regional_Airport"
   },
   {
     "name": "Mount Hotham Airport",
     "url": "/wiki/Mount_Hotham_Airport"
   },
   {
-    "name": "Mojave Airport",
-    "url": "/wiki/Mojave_Airport"
+    "name": "Mojave Air and Space Port",
+    "url": "/wiki/Mojave_Air_and_Space_Port"
+  },
+  {
+    "name": "Monteagudo Airport[1]",
+    "url": "/wiki/Monteagudo_Airport"
   },
   {
     "name": "Manihiki Island Airport",
@@ -15100,15 +15124,15 @@
     "url": "/wiki/Manuel_Crescencio_Rej%C3%B3n_International_Airport"
   },
   {
-    "name": "Delaware County Airport (Johnson Field)",
-    "url": "/wiki/Delaware_County_Airport"
+    "name": "Delaware County Regional Airport",
+    "url": "/wiki/Delaware_County_Regional_Airport"
   },
   {
     "name": "Mianyang Nanjiao Airport",
     "url": "/wiki/Mianyang_Nanjiao_Airport"
   },
   {
-    "name": "Marília Airport",
+    "name": "Frank Miloye Milenkowichi–Marília State Airport",
     "url": "/wiki/Mar%C3%ADlia_Airport"
   },
   {
@@ -15128,8 +15152,8 @@
     "url": "/wiki/Miami_Municipal_Airport"
   },
   {
-    "name": "Mitzpe Ramon Airfield",
-    "url": "/wiki/Mitzpe_Ramon_Airfield"
+    "name": "Mitzpe Ramon Airport",
+    "url": "/wiki/Mitzpe_Ramon_Airport"
   },
   {
     "name": "Millard Airport (FAA: MLE)",
@@ -15137,14 +15161,14 @@
   },
   {
     "name": "Monastir Habib Bourguiba International Airport",
-    "url": "/wiki/Monastir_International_Airport"
+    "url": "/wiki/Monastir_Habib_Bourguiba_International_Airport"
   },
   {
     "name": "Misima Island Airport",
     "url": "/wiki/Misima_Island_Airport"
   },
   {
-    "name": "Shafter Airport",
+    "name": "Shafter Airport (Minter Field)",
     "url": "/wiki/Shafter_Airport"
   },
   {
@@ -15200,6 +15224,10 @@
     "url": "/wiki/Amborovy_Airport"
   },
   {
+    "name": "Mount Etjo Airport[1]",
+    "url": "/wiki/Mount_Etjo_Airport"
+  },
+  {
     "name": "Manjimup Airport",
     "url": "/wiki/Manjimup_Airport"
   },
@@ -15216,12 +15244,12 @@
     "url": "/wiki/Mytilene_International_Airport"
   },
   {
-    "name": "Mamuju Airport",
+    "name": "Tampa Padang Airport",
     "url": "/wiki/Tampa_Padang_Airport"
   },
   {
-    "name": "Murcia-San Javier Airport",
-    "url": "/wiki/Murcia-San_Javier_Airport"
+    "name": "Murcia–San Javier Airport",
+    "url": "/wiki/Murcia%E2%80%93San_Javier_Airport"
   },
   {
     "name": "Robert J. Miller Air Park",
@@ -15558,10 +15586,6 @@
   {
     "name": "Monghsat Airport",
     "url": "/wiki/Monghsat_Airport"
-  },
-  {
-    "name": "Mohanbari Airport",
-    "url": "/wiki/Mohanbari_Airport"
   },
   {
     "name": "Mitiaro Island Airport",
@@ -17252,6 +17276,10 @@
     "url": "/wiki/Ouargla_Ain_Beida_Airport"
   },
   {
+    "name": "Ordu-Giresun Airport",
+    "url": "/wiki/Ordu-Giresun_Airport"
+  },
+  {
     "name": "Beslan Airport",
     "url": "/wiki/Beslan_Airport"
   },
@@ -17858,6 +17886,10 @@
   {
     "name": "Captain Rolden International Airport",
     "url": "/wiki/Captain_Rolden_International_Airport"
+  },
+  {
+    "name": "Picton Aerodrome",
+    "url": "/wiki/Picton_Aerodrome"
   },
   {
     "name": "Puerto Carreño Airport",
@@ -23730,6 +23762,10 @@
   {
     "name": "Waspam Airport",
     "url": "/wiki/Waspam_Airport"
+  },
+  {
+    "name": "Westerly State Airport",
+    "url": "/wiki/Westerly_State_Airport"
   },
   {
     "name": "Whitsunday Airport",

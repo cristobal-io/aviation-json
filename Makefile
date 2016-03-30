@@ -2,9 +2,6 @@ SHELL = /bin/bash
 MAKEFLAGS += --no-print-directory --silent
 export PATH := ./node_modules/.bin:$(PATH):./bin
 LINT_DIR = $(wildcard bin/* *.js src/*.js test/*.js scrapers/*.js spikes/*.js test/*/*.js scrapers/*/*.js spikes/*/*.js)
-DIST_DIR= $(wildcard src/*.js)
-
-# export NODE_ENV=production
 
 default: setup test
 
@@ -22,5 +19,21 @@ test: lint
 
 dev:
 	mocha test -w
+
+aviation-json:
+	aviation-json destinations
+	aviation-json airports
+	aviation-json airlines
+	aviation-json cities
+	aviation-json runways
+	aviation-json airport_airlines
+
+sync: aviation-scrapper aviation-json
+
+aviation-scrapper:
+	aviation-scrapper -d
+	aviation-scrapper -l
+	aviation-scrapper -c
+	aviation-scrapper -a
 
 .PHONY: test

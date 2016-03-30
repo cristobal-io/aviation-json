@@ -570,6 +570,11 @@
     "scraper": "default"
   },
   {
+    "name": "Boliviana de Aviación",
+    "destinationsLink": "/wiki/Boliviana_de_Aviaci%C3%B3n_destinations",
+    "scraper": "table"
+  },
+  {
     "name": "Braniff International Airways",
     "destinationsLink": "/wiki/Braniff_International_Airways_destinations",
     "scraper": "default"
@@ -1257,7 +1262,7 @@
   {
     "name": "List of LAN Ecuador",
     "destinationsLink": "/wiki/List_of_LAN_Ecuador_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Livingston Energy Flight",
