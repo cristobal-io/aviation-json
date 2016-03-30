@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "would be a module that uses aviation-scrapper as a dev dependency to generate using a single command files ready.",
   "main": "index.js",
-  "keywords": ["aviation", "airline", "data"],
+  "keywords": [
+    "aviation",
+    "airline",
+    "data"
+  ],
   "scripts": {
     "test": "make test"
   },
@@ -22,6 +26,7 @@
     "aviation-json": "./bin/cleanup"
   },
   "devDependencies": {
+    "aviation-scrapper": "0.0.10",
     "ajv": "3.8.5",
     "mocha": "2.4.5"
   },
