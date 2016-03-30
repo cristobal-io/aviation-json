@@ -27,8 +27,9 @@
     "aviation-json": "./bin/cleanup"
   },
   "devDependencies": {
-    "aviation-scrapper": "0.0.10",
     "ajv": "3.8.5",
+    "aviation-scrapper": "0.0.10",
+    "coveralls": "^2.11.9",
     "mocha": "2.4.5"
   },
   "dependencies": {
