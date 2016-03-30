@@ -26,6 +26,12 @@ test-coverage-report:
 	nyc mocha && nyc report --reporter=html
 	open coverage/index.html
 
+# For coveralls integration on Travis-ci
+test-coveralls:
+	test -d node_modules/nyc/ || npm install nyc
+	nyc mocha && nyc report --reporter=text-lcov | coveralls
+
+
 aviation-json:
 	./bin/cleanup airline_destinations
 	./bin/cleanup airlines
