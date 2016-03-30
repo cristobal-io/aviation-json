@@ -36,8 +36,10 @@ var getCityAirports = function (destinationsRaw) {
       var cityKey;
 
       if (destination.airport) {
-        cityKey = destination.city.name;
-        result[cityKey] = destination.airport.name;
+        if (destination.airport.url && destination.city.url)  {
+          cityKey = cleanUrl(destination.city.url);
+          result[cityKey] = cleanUrl(destination.airport.url);
+        }
       }
       return result;
     }, {});
