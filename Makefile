@@ -20,6 +20,12 @@ test: lint
 dev:
 	mocha test -w
 
+test-coverage-report:
+	echo "Generating coverage report, please stand by"
+	test -d node_modules/nyc/ || npm install nyc
+	nyc mocha && nyc report --reporter=html
+	open coverage/index.html
+
 aviation-json:
 	aviation-json destinations
 	aviation-json airports
