@@ -38,7 +38,7 @@ var airlines = aviationJson.airlines;
 
 Go to the node_modules/aviation-json directory and run 'make sync'
 
-  This is going to take a while and depending on your internet connection you may have troubles, after the 5 time trying to reach the wikipedia page to scrape the information, it will throw and err.
+> This is going to take a while and depending on your internet connection you may have troubles, after the 5 time trying to reach the wikipedia page to scrape the information, it will throw and err.
 
 ## Testing.
 
