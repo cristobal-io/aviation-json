@@ -27,12 +27,13 @@ test-coverage-report:
 	open coverage/index.html
 
 aviation-json:
-	aviation-json destinations
-	aviation-json airports
-	aviation-json airlines
-	aviation-json cities
-	aviation-json runways
-	aviation-json airport_airlines
+	./bin/cleanup destinations
+	./bin/cleanup airports
+	./bin/cleanup airlines
+	./bin/cleanup city_airports
+	./bin/cleanup airline_cities
+	./bin/cleanup runways
+	./bin/cleanup airport_airlines
 
 sync: aviation-scrapper aviation-json
 

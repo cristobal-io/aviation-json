@@ -35,7 +35,8 @@ program
   .option("destinations", "generates the destinations with only the primary keys.")
   .option("airports", "generates the airports file.")
   .option("airlines", "generates the airlines file")
-  .option("cities", "generates the airports - cities file")
+  .option("airline_cities", "generates the airline - cities file")
+  .option("city_airports", "generates the citiy airports file")
   .option("runways", "generates the airport_runway.json file")
   .option("airport_airlines", "generates the file with list of airlines per airport.")
   .parse(process.argv);
@@ -53,14 +54,14 @@ if (program.runways) {
   airportRunways = getAirportRunways(airportsRaw);
   saveFile(RUNWAYS_FILE, airportRunways, logDone);
 }
-
-if (program.cities) {
+if (program.airline_cities) {
   airlineCities = generateAirportCity(destinationsRaw);
+  saveFile(AIRPORT_CITIES_FILE,airlineCities,logDone);
+  
+}
+if (program.city_airports) {
   cityAirports = getCityAirports(destinationsRaw);
-
-  saveFile(AIRPORT_CITIES_FILE,airlineCities,function() {
-    saveFile(CITIES_FILE, cityAirports, logDone);
-  });
+  saveFile(CITIES_FILE, cityAirports, logDone);
 }
 if (program.airlines) {
   airlines = reduceAirlines(airlinesRaw);
