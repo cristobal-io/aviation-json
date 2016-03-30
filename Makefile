@@ -43,4 +43,7 @@ aviation-scrapper:
 	aviation-scrapper -c
 	aviation-scrapper -a
 
+help:
+	./bin/cleanup -h
+
 .PHONY: test
