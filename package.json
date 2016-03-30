@@ -9,7 +9,8 @@
     "data"
   ],
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "author": "Cristobal Gomez",
   "homepage": "https://github.com/cristobal-io/aviation-json",
