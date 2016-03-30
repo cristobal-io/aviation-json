@@ -59,14 +59,6 @@ describe("bin/scrape.js tests", function () {
   });
 
   describe("getCityAirports fn", function () {
-    it("all the destinations must have a name on city field", function () {
-
-      _.map(destinationsRaw, function (airlineDestinations) {
-        _.map(airlineDestinations.destinations, function (destination) {
-          assert.ok(destination.city.name, "doesn't have a name for the city" + destination.city.name);
-        });
-      });
-    });
 
     it("should be a fn", function () {
       assert.ok(typeof getCityAirports === "function", "this is not a function");
@@ -74,7 +66,6 @@ describe("bin/scrape.js tests", function () {
 
     it("should return a correct object", function () {
       var cityAirports = getCityAirports(destinationsRaw);
-
       var arraySchema = {
         "type": "array",
         "minItems": 1
