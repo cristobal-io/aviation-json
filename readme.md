@@ -1,4 +1,5 @@
 [ ![Codeship Status for cristobal-io/aviation-json](https://codeship.com/projects/78fc3fa0-d958-0133-edc2-427380cff3d6/status?branch=master)](https://codeship.com/projects/143475)
+[![Coverage Status](https://coveralls.io/repos/github/cristobal-io/aviation-json/badge.svg?branch=master)](https://coveralls.io/github/cristobal-io/aviation-json?branch=master)
 
 # aviation-json
 
