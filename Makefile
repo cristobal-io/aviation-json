@@ -43,7 +43,7 @@ aviation-json:
 
 sync: aviation-scrapper aviation-json
 
-aviation-scrapper:
+aviation-scrapper: setup
 	aviation-scrapper -d
 	aviation-scrapper -l
 	aviation-scrapper -c
