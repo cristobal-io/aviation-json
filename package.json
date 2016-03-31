@@ -6,7 +6,13 @@
   "keywords": [
     "aviation",
     "airline",
-    "data"
+    "data",
+    "flight",
+    "travel",
+    "destinations",
+    "dataset",
+    "database",
+    "air travel"
   ],
   "scripts": {
     "test": "make test",
