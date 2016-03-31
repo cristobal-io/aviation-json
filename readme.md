@@ -26,10 +26,13 @@ npm install aviation-json --save
 var aviationJson = require("aviation-json");
 // then you will have available all the information.
 
-var airlineDestinations = aviationJson.airlineDestinations;
+var airlineDestinations = aviationJson.airline_destinations;
 var airlines = aviationJson.airlines;
-
-// all the json files are available the same way.
+var airportAirlines = aviationJson.airport_airlines;
+var airportsCities = aviationJson.airport_cities;
+var airportRunways = aviationJson.airport_runways;
+var airports = aviationJson.airports;
+var cityAirports = aviationJson.city_airports;
 
 ```
 
