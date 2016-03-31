@@ -1,3 +1,5 @@
+[ ![Codeship Status for cristobal-io/aviation-json](https://codeship.com/projects/78fc3fa0-d958-0133-edc2-427380cff3d6/status?branch=master)](https://codeship.com/projects/143475)
+
 # aviation-json
 
 ## Description:
