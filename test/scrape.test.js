@@ -4,7 +4,7 @@ var Ajv = require("ajv");
 var ajv = Ajv();
 var _ = require("lodash");
 
-var scrapeJs = require("../bin/scrape.js");
+var scrapeJs = require("../src/scrape.js");
 var reduceDestinations = scrapeJs.reduceDestinations;
 var getIcaoName = scrapeJs.getIcaoName;
 var reduceAirports = scrapeJs.reduceAirports;

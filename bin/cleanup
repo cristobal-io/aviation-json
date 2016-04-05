@@ -6,7 +6,7 @@ var fs = require("fs");
 var program = require("commander");
 var version = require("../package.json").version;
 
-var scrapeJs = require("./scrape.js");
+var scrapeJs = require("../src/scrape.js");
 var reduceAirlines = scrapeJs.reduceAirlines;
 var reduceAirports = scrapeJs.reduceAirports;
 var reduceDestinations = scrapeJs.reduceDestinations;
