@@ -130,8 +130,8 @@
     "scraper": "table"
   },
   {
-    "name": "Air France",
-    "destinationsLink": "/wiki/Air_France_destinations",
+    "name": "List of Air France",
+    "destinationsLink": "/wiki/List_of_Air_France_destinations",
     "scraper": "table"
   },
   {
@@ -482,6 +482,11 @@
   {
     "name": "Azerbaijan Airlines",
     "destinationsLink": "/wiki/Azerbaijan_Airlines_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "SATA International",
+    "destinationsLink": "/wiki/SATA_International_destinations",
     "scraper": "table"
   },
   {
@@ -1580,11 +1585,6 @@
     "scraper": "default"
   },
   {
-    "name": "SATA International",
-    "destinationsLink": "/wiki/SATA_International_destinations",
-    "scraper": "table"
-  },
-  {
     "name": "SATENA",
     "destinationsLink": "/wiki/SATENA_destinations",
     "scraper": "default"
@@ -1642,7 +1642,7 @@
   {
     "name": "Singapore Airlines",
     "destinationsLink": "/wiki/Singapore_Airlines_destinations",
-    "scraper": "table"
+    "scraper": "default"
   },
   {
     "name": "Sky Express (Greece)",

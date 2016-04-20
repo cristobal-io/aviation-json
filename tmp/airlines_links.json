@@ -99,10 +99,12 @@
     "Country": "South Africa"
   },
   {
-    "ICAO": "ACZ"
-  },
-  {
-    "ICAO": "AFT"
+    "ICAO": "WSM",
+    "airline": {
+      "name": "Advanced Air"
+    },
+    "CallSign": "WINGSPAN",
+    "Country": "United States"
   },
   {
     "ICAO": "GBT",
@@ -1250,10 +1252,12 @@
   },
   {
     "IATA": "P8",
+    "ICAO": "MKG",
     "airline": {
       "name": "Air Mekong",
       "link": "/wiki/Air_Mekong"
     },
+    "CallSign": "MEKONG",
     "Country": "Vietnam"
   },
   {
@@ -5267,7 +5271,7 @@
   {
     "ICAO": "XXX",
     "airline": {
-      "name": "ASL"
+      "name": "ASL (Air Service Liege)"
     },
     "Country": "Belgium"
   },
@@ -13495,6 +13499,14 @@
     },
     "CallSign": "BISON-AIR",
     "Country": "United States"
+  },
+  {
+    "ICAO": "BIO",
+    "airline": {
+      "name": "Bioflight A/S"
+    },
+    "CallSign": "BIOFLIGHT",
+    "Country": "Denmark"
   },
   {
     "ICAO": "BIR",
@@ -26416,6 +26428,14 @@
     "Country": "United States"
   },
   {
+    "ICAO": "IJW",
+    "airline": {
+      "name": "Interjet Inc."
+    },
+    "CallSign": "JET WEST",
+    "Country": "United States"
+  },
+  {
     "ICAO": "IIC",
     "airline": {
       "name": "Inter Island Air Charter"
@@ -31482,6 +31502,14 @@
     },
     "CallSign": "SURAMERICANO",
     "Country": "Colombia"
+  },
+  {
+    "ICAO": "MMH",
+    "airline": {
+      "name": "McMahon Helicopter"
+    },
+    "CallSign": "NIGHT RIDER",
+    "Country": "United States"
   },
   {
     "ICAO": "HOG",
@@ -47619,7 +47647,7 @@
     "Country": "Moldova"
   },
   {
-    "IATA": "7O[27]",
+    "IATA": "7O[28]",
     "ICAO": "TVL",
     "airline": {
       "name": "Travel Service",
@@ -50671,6 +50699,7 @@
     "Country": "Canada"
   },
   {
+    "IATA": "W7",
     "ICAO": "KMR",
     "airline": {
       "name": "Western Pacific Airlines",
