@@ -149,8 +149,10 @@ var getAirportRunways = function (airportsRaw) {
 
 var reduceAirlines = function (airlinesRaw) {
   var airlines = _.reduce(airlinesRaw, function (result, value) {
-    var airlineKey = value.name;
+
+    var airlineKey = cleanUrl(value.url);
     var airlineData = {
+      "name": value.name,
       "logoLink": value.logoLink,
       "IATA": value.IATA,
       "ICAO": value.ICAO,
