@@ -144,6 +144,12 @@ describe("bin/scrape.js tests", function () {
 
 
   describe("reduceAirports fn", function () {
+    var airports;
+
+    before(function (done) {
+      airports = reduceAirports(airportsRaw);
+      done();
+    });
 
 
     it("should meet the schema", function () {
@@ -158,6 +164,25 @@ describe("bin/scrape.js tests", function () {
         assert(validAirport, JSON.stringify(validateAirport, null, 2));
       });
     });
+
+    it("has decimal coordinates", function () {
+      var expectedAirport = {
+        "latitude": "17°20′56″S",
+        "longitude": "145°30′44″W",
+        "name": "Anaa Airport",
+        "nickname": "Aérodrome de Anna",
+        "iata": "AAA",
+        "icao": "NTGA",
+        "dd_latitude": -17.348888888888887,
+        "dd_longitude": -145.51222222222222
+      };
+
+      assert.deepEqual(airports.Anaa_Airport, expectedAirport, "there are missing properties");
+      assert.ok(true, "hello world");
+    });
+  });
+
+
   describe("getDDCoordinates", function () {
 
     it("should convert latitude DMS to DD", function () {

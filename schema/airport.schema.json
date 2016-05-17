@@ -26,6 +26,14 @@
     "icao": {
       "id": "icao",
       "type": "string"
+    },
+    "dd_latitude": {
+      "id": "dd_latitude",
+      "type": "number"
+    },
+    "dd_longitude":{
+      "id": "dd_longitude",
+      "type": "number"
     }
   },
   "additionalProperties": false

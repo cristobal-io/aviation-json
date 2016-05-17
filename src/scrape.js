@@ -145,7 +145,9 @@ var reduceAirports = function (airportsRaw) {
       name: value.data.name,
       nickname: value.data.nickname,
       iata: value.data.iata,
-      icao: value.data.icao
+      icao: value.data.icao,
+      dd_latitude: getDDCoordinates(value.data.coordinates.latitude),
+      dd_longitude: getDDCoordinates(value.data.coordinates.longitude)
     };
 
     result[airportKey] = airport;
