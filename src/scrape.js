@@ -107,6 +107,34 @@ var reduceDestinations = function (destinationsRaw) {
   return airlines;
 };
 
+function getDDCoordinates(coordinates) {
+  coordinates = coordinates.split(/°|′|″/);
+  var degrees = coordinates[0];
+  var minutes = coordinates[1];
+  var seconds, direction;
+
+  if (coordinates.length < 4) {
+    seconds = null;
+    direction = coordinates[2];
+  } else {
+    seconds = coordinates[2];
+    direction = coordinates[3];
+  }
+
+  var ddCoordinates = convertDMSToDD(degrees, minutes, seconds, direction);
+
+  return ddCoordinates;
+}
+
+function convertDMSToDD(degrees, minutes, seconds, direction) {
+  var dd = + degrees + minutes / 60 + seconds / (60 * 60);
+
+  if (direction == "S" || direction == "W") {
+    dd = dd * -1;
+  } // Don't do anything for N or E
+  return dd;
+}
+
 
 var reduceAirports = function (airportsRaw) {
   var airports = _.reduce(airportsRaw, function (result, value) {
@@ -215,5 +243,6 @@ module.exports = {
   getAirportRunways: getAirportRunways,
   generateAirportCity: generateAirportCity,
   getCityAirports: getCityAirports,
-  getAirportAirlines:getAirportAirlines
+  getAirportAirlines:getAirportAirlines,
+  getDDCoordinates: getDDCoordinates
 };

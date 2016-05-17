@@ -13,6 +13,7 @@ var generateAirportCity = scrapeJs.generateAirportCity;
 var getAirportRunways = scrapeJs.getAirportRunways;
 var getCityAirports = scrapeJs.getCityAirports;
 var getAirportAirlines = scrapeJs.getAirportAirlines;
+var getDDCoordinates = scrapeJs.getDDCoordinates;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 
@@ -155,6 +156,17 @@ describe("bin/scrape.js tests", function () {
         assert(validAirport, JSON.stringify(validateAirport, null, 2));
       });
     });
+  describe("getDDCoordinates", function () {
+
+    it("should convert latitude DMS to DD", function () {
+      var coordinates = require("./fixtures/coordinates.json");
+
+      _.map(coordinates, function (coordinates) {
+        assertConversion(coordinates.latitude, coordinates.dd_latitude);
+        assertConversion(coordinates.longitude, coordinates.dd_longitude);
+      });
+    });
+
   });
 
 
@@ -230,4 +242,10 @@ function detectDuplicatesInArray(collection) {
     duplicatesFound = _.includes(col, value);
   });
   return duplicatesFound;
+}
+
+function assertConversion(actualCoordinates, expectedCoordinates) {
+  actualCoordinates = getDDCoordinates(actualCoordinates);
+  assert.equal(actualCoordinates, expectedCoordinates,
+    "the latitude is not properly converted, expected " + expectedCoordinates + " and got " + actualCoordinates);
 }
