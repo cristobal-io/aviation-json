@@ -1,6 +1,6 @@
 {
   "name": "aviation-json",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Module that uses aviation-scrapper as a dev dependency to generate using a single command aviation files ready.",
   "main": "index.js",
   "keywords": [
