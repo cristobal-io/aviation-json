@@ -121,13 +121,11 @@ function getDDCoordinates(coordinates) {
     direction = coordinates[3];
   }
 
-  var ddCoordinates = convertDMSToDD(degrees, minutes, seconds, direction);
-
-  return ddCoordinates;
+  return convertDMSToDD(+degrees, +minutes, +seconds, direction);
 }
 
 function convertDMSToDD(degrees, minutes, seconds, direction) {
-  var dd = + degrees + minutes / 60 + seconds / (60 * 60);
+  var dd = degrees + minutes / 60 + seconds / (60 * 60);
 
   if (direction == "S" || direction == "W") {
     dd = dd * -1;

@@ -188,7 +188,7 @@ describe("bin/scrape.js tests", function () {
     it("should convert latitude DMS to DD", function () {
       var coordinates = require("./fixtures/coordinates.json");
 
-      _.map(coordinates, function (coordinates) {
+      _.each(coordinates, function (coordinates) {
         assertConversion(coordinates.latitude, coordinates.dd_latitude);
         assertConversion(coordinates.longitude, coordinates.dd_longitude);
       });
