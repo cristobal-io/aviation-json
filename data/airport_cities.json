@@ -445,7 +445,7 @@
   },
   "Heathrow_Airport": {
     "name": "London",
-    "url": "London"
+    "url": "Gatwick_Airport"
   },
   "Aberdeen_Airport": {
     "name": "United Kingdom",
@@ -536,8 +536,8 @@
     "url": "Dubai"
   },
   "Durham_Tees_Valley_Airport": {
-    "name": "Teesside",
-    "url": "Teesside"
+    "name": "Durham Tees Valley",
+    "url": "Durham_Tees_Valley"
   },
   "East_Midlands_Airport": {
     "name": "Nottingham",
@@ -744,7 +744,7 @@
     "url": "Stavanger_Airport,_Sola"
   },
   "Toronto_Pearson_International_Airport": {
-    "name": "Toronto\nbegins 20 May 2016",
+    "name": "Toronto",
     "url": "Toronto"
   },
   "Blagnac_Airport": {
@@ -820,8 +820,8 @@
     "url": "Monterrey"
   },
   "Hermanos_Serd%C3%A1n_International_Airport": {
-    "name": "Puebla",
-    "url": "Puebla,_Puebla"
+    "name": "Puebla City",
+    "url": "Puebla_City"
   },
   "Federal_de_Bachigualato_International_Airport": {
     "name": "Culiacán",
@@ -829,7 +829,7 @@
   },
   "Federal_del_Valle_del_Fuerte_International_Airport": {
     "name": "Los Mochis",
-    "url": "Los_Mochis"
+    "url": "Los_Mochis,_Sinaloa"
   },
   "General_Rafael_Buelna_International_Airport": {
     "name": "Mazatlan",
@@ -841,7 +841,7 @@
   },
   "General_Ignacio_Pesqueira_Garcia_International_Airport": {
     "name": "Hermosillo",
-    "url": "Hermosillo"
+    "url": "/w/index.php?title=Hermosillo,_Hermosillo&action=edit&redlink=1"
   },
   "Adana_%C5%9Eakirpa%C5%9Fa_Airport": {
     "name": "Adana",
@@ -1388,8 +1388,8 @@
     "url": "Magnitogorsk"
   },
   "Seychelles_International_Airport": {
-    "name": "Mahé",
-    "url": "Mah%C3%A9,_Seychelles"
+    "name": "Mahé ^\nbegins 31 October 2016",
+    "url": "Mah%C3%A9"
   },
   "Ibrahim_Nasir_International_Airport": {
     "name": "Malé",
@@ -1612,8 +1612,8 @@
     "url": "Saratov"
   },
   "Seattle%E2%80%93Tacoma_International_Airport": {
-    "name": "Seattle",
-    "url": "Seattle"
+    "name": "Seattle/Tacoma",
+    "url": "Seattle/Tacoma"
   },
   "Incheon_International_Airport": {
     "name": "Seoul",
@@ -2113,7 +2113,7 @@
   },
   "Austin%E2%80%93Bergstrom_International_Airport": {
     "name": "Austin",
-    "url": "Austin,_Texas"
+    "url": "Austin"
   },
   "Ciudad_del_Carmen_International_Airport": {
     "name": "Ciudad del Carmen",
@@ -2293,7 +2293,7 @@
   },
   "Fort_Lauderdale-Hollywood_International_Airport": {
     "name": "Fort Lauderdale",
-    "url": "Fort_Lauderdale,_Florida"
+    "url": "Fort_Lauderdale"
   },
   "Fresno_Yosemite_International_Airport": {
     "name": "Fresno",
@@ -2301,7 +2301,7 @@
   },
   "Miguel_Hidalgo_y_Costilla_International_Airport": {
     "name": "Guadalajara",
-    "url": "Guadalajara,_Jalisco"
+    "url": "Guadalajara"
   },
   "La_Aurora_International_Airport": {
     "name": "Guatemala",
@@ -2832,7 +2832,7 @@
     "url": "Montpellier"
   },
   "Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport": {
-    "name": "Montreal\nbegins 12 May 2016",
+    "name": "Montreal",
     "url": "Montreal"
   },
   "Diori_Hamani_International_Airport": {
@@ -2878,6 +2878,10 @@
   "Sidi_Mahdi_Airport": {
     "name": "Touggourt",
     "url": "Touggourt"
+  },
+  "Z%C3%BCrich_International_Airport": {
+    "name": "Zürich",
+    "url": "Z%C3%BCrich"
   },
   "Abadan_Airport": {
     "name": "Abadan",
@@ -3479,6 +3483,10 @@
     "name": "Charlotte",
     "url": "Charlotte"
   },
+  "Cleveland_Hopkins_International_Airport": {
+    "name": "Cleveland",
+    "url": "Cleveland,_Ohio"
+  },
   "Columbia_Metropolitan_Airport": {
     "name": "Columbia",
     "url": "Columbia,_South_Carolina"
@@ -3855,7 +3863,7 @@
     "name": "Changzhou",
     "url": "Changzhou"
   },
-  "Shuangliu_International_Airport": {
+  "Chengdu_Shuangliu_International_Airport": {
     "name": "Chengdu",
     "url": "Chengdu"
   },
@@ -3879,11 +3887,11 @@
     "name": "Chongqing",
     "url": "Chongqing"
   },
-  "Daegu_Airport": {
+  "Daegu_International_Airport": {
     "name": "Daegu",
     "url": "Daegu"
   },
-  "Zhoushuizi_International_Airport": {
+  "Dalian_Zhoushuizi_International_Airport": {
     "name": "Dalian",
     "url": "Dalian"
   },
@@ -3931,10 +3939,6 @@
     "name": "Guangyuan",
     "url": "Guangyuan"
   },
-  "Baiyun_International_Airport": {
-    "name": "Guangzhou",
-    "url": "Guangzhou"
-  },
   "Guilin_Liangjiang_International_Airport": {
     "name": "Guilin",
     "url": "Guilin"
@@ -3943,7 +3947,7 @@
     "name": "Guiyang",
     "url": "Guiyang"
   },
-  "Meilan_International_Airport": {
+  "Haikou_Meilan_International_Airport": {
     "name": "Haikou",
     "url": "Haikou"
   },
@@ -4099,7 +4103,7 @@
     "name": "Nanchang",
     "url": "Nanchang"
   },
-  "Lukou_International_Airport": {
+  "Nanjing_Lukou_International_Airport": {
     "name": "Nanjing",
     "url": "Nanjing"
   },
@@ -4187,10 +4191,6 @@
     "name": "Siem Reap",
     "url": "Siem_Reap"
   },
-  "Arlanda_Airport": {
-    "name": "Stockholm",
-    "url": "Stockholm"
-  },
   "Surat_Thani_Airport": {
     "name": "Surat Thani",
     "url": "Surat_Thani"
@@ -4215,7 +4215,7 @@
     "name": "Taizhou",
     "url": "Taizhou,_Zhejiang"
   },
-  "Binhai_International_Airport": {
+  "Tianjin_Binhai_International_Airport": {
     "name": "Tianjin",
     "url": "Tianjin"
   },
@@ -4251,7 +4251,7 @@
     "name": "Wuhai",
     "url": "Wuhai"
   },
-  "Tianhe_International_Airport": {
+  "Wuhan_Tianhe_International_Airport": {
     "name": "Wuhan",
     "url": "Wuhan"
   },
@@ -4263,7 +4263,7 @@
     "name": "Xiamen",
     "url": "Xiamen"
   },
-  "Xianyang_International_Airport": {
+  "Xi%27an_Xianyang_International_Airport": {
     "name": "Xi'an",
     "url": "Xi%27an"
   },
@@ -4731,10 +4731,6 @@
     "name": "Stavanger",
     "url": "Stavanger"
   },
-  "Kingsford_Smith_Airport": {
-    "name": "Sydney",
-    "url": "Sydney"
-  },
   "Tarbes-Lourdes-Pyr%C3%A9n%C3%A9es_Airport": {
     "name": "Lourdes",
     "url": "Lourdes"
@@ -4762,10 +4758,6 @@
   "Verona_Villafranca_Airport": {
     "name": "Verona",
     "url": "Verona"
-  },
-  "Wuhan_Tianhe_International_Airport": {
-    "name": "Wuhan",
-    "url": "Wuhan"
   },
   "Yaound%C3%A9_Nsimalen_International_Airport": {
     "name": "Yaoundé",
@@ -5003,6 +4995,10 @@
     "name": "Indore",
     "url": "Indore"
   },
+  "Jabalpur_Airport": {
+    "name": "Jabalpur",
+    "url": "Jabalpur"
+  },
   "Khajuraho_Airport": {
     "name": "Khajuraho",
     "url": "Khajuraho"
@@ -5143,10 +5139,6 @@
     "name": "Gwalior",
     "url": "Gwalior"
   },
-  "Jabalpur_Airport": {
-    "name": "Jabalpur",
-    "url": "Jabalpur"
-  },
   "Ozar_Airport": {
     "name": "Nasik",
     "url": "Nasik"
@@ -5211,10 +5203,6 @@
     "name": "Lagos",
     "url": "Lagos"
   },
-  "Dalian_Zhoushuizi_International_Airport": {
-    "name": "Dalian",
-    "url": "Dalian"
-  },
   "Budapest_Ferihegy_International_Airport": {
     "name": "Budapest",
     "url": "Budapest"
@@ -5275,14 +5263,6 @@
     "name": "Yangyang",
     "url": "Yangyang"
   },
-  "Chengdu_Shuangliu_International_Airport": {
-    "name": "Chengdu",
-    "url": "Chengdu"
-  },
-  "Daegu_International_Airport": {
-    "name": "Daegu",
-    "url": "Daegu"
-  },
   "Danang_International_Airport": {
     "name": "Danang",
     "url": "Danang"
@@ -5290,10 +5270,6 @@
   "Kaohsiung_International_Airport": {
     "name": "Kaohsiung",
     "url": "Kaohsiung"
-  },
-  "Nanjing_Lukou_International_Airport": {
-    "name": "Nanjing",
-    "url": "Nanjing"
   },
   "Wenzhou_Yongqiang_International_Airport": {
     "name": "Wenzhou",
@@ -6347,6 +6323,10 @@
     "name": "Rome",
     "url": "Riga_International_Airport"
   },
+  "Arlanda_Airport": {
+    "name": "Stockholm",
+    "url": "Stockholm"
+  },
   "Skavsta_Airport": {
     "name": "Stockholm",
     "url": "Stockholm"
@@ -6891,10 +6871,6 @@
     "name": "Davao",
     "url": "Davao_City"
   },
-  "Haikou_Meilan_International_Airport": {
-    "name": "Haikou",
-    "url": "Haikou"
-  },
   "Hat_Yai_International_Airport": {
     "name": "Hatyai",
     "url": "Hatyai"
@@ -7091,10 +7067,6 @@
     "name": "Tawau",
     "url": "Tawau"
   },
-  "Tianjin_Binhai_International_Airport": {
-    "name": "Tianjin",
-    "url": "Tianjin"
-  },
   "Trang_Airport": {
     "name": "Trang",
     "url": "Trang,_Thailand"
@@ -7110,10 +7082,6 @@
   "Wenzhou_Longwan_International_Airport": {
     "name": "Wenzhou",
     "url": "Wenzhou"
-  },
-  "Xi%27an_Xianyang_International_Airport": {
-    "name": "Xi'an\nbegins May 9, 2016",
-    "url": "Xi%27an"
   },
   "Adisucipto_International_Airport": {
     "name": "Yogyakarta",
@@ -7321,7 +7289,7 @@
   },
   "Chicago_Midway_International_Airport": {
     "name": "Chicago",
-    "url": "Chicago,_Illinois"
+    "url": "Chicago"
   },
   "Quad_City_International_Airport": {
     "name": "Moline",
@@ -7583,6 +7551,10 @@
     "name": "Yamaguchi-Ube",
     "url": "Yamaguchi,_Yamaguchi"
   },
+  "K%C5%8Dchi_Airport": {
+    "name": "Kōchi",
+    "url": "K%C5%8Dchi,_K%C5%8Dchi"
+  },
   "Odate-Noshiro_Airport": {
     "name": "Odate",
     "url": "Odate,_Akita"
@@ -7591,33 +7563,365 @@
     "name": "Guam",
     "url": "Guam"
   },
+  "Naypyidaw_International_Airport": {
+    "name": "Naypyidaw",
+    "url": "Naypyidaw"
+  },
   "Saipan_International_Airport": {
     "name": "Saipan",
     "url": "Saipan"
   },
-  "Clearwater,_Florida": {
-    "name": "St. Petersburg",
-    "url": "St._Petersburg,_Florida"
+  "Abilene_Regional_Airport": {
+    "name": "Abilene",
+    "url": "Abilene,_Texas"
   },
-  "St._Louis": {
+  "Akron%E2%80%93Canton_Airport": {
+    "name": "Akron",
+    "url": "Akron,_Ohio"
+  },
+  "Appleton_International_Airport": {
+    "name": "Appleton",
+    "url": "Appleton,_Wisconsin"
+  },
+  "Baltimore%E2%80%93Washington_International_Airport": {
+    "name": "Baltimore-Washington D.C.",
+    "url": "Baltimore%E2%80%93Washington_metropolitan_area"
+  },
+  "MidAmerica_St._Louis_Airport": {
     "name": "Belleville",
     "url": "Belleville,_Illinois"
   },
-  "Charlotte,_North_Carolina": {
+  "Billings_Logan_International_Airport": {
+    "name": "Billings",
+    "url": "Billings,_Montana"
+  },
+  "Bismarck_Municipal_Airport": {
+    "name": "Bismarck",
+    "url": "Bismarck,_North_Dakota"
+  },
+  "Boise_Airport": {
+    "name": "Boise",
+    "url": "Boise"
+  },
+  "Bozeman_Yellowstone_International_Airport": {
+    "name": "Bozeman",
+    "url": "Bozeman,_Montana"
+  },
+  "Tri-Cities_Regional_Airport": {
+    "name": "Tri-Cities",
+    "url": "Tri-Cities,_Tennessee"
+  },
+  "Casper%E2%80%93Natrona_County_International_Airport": {
+    "name": "Casper",
+    "url": "Casper,_Wyoming"
+  },
+  "The_Eastern_Iowa_Airport": {
+    "name": "Cedar Rapids",
+    "url": "Cedar_Rapids,_Iowa"
+  },
+  "University_of_Illinois_Willard_Airport": {
+    "name": "Champaign",
+    "url": "Champaign,_Illinois"
+  },
+  "Charlottesville%E2%80%93Albemarle_Airport": {
+    "name": "Charlottesville",
+    "url": "Charlottesville,_Virginia"
+  },
+  "North_Central_West_Virginia_Airport": {
+    "name": "Clarksburg",
+    "url": "Clarksburg,_West_Virginia"
+  },
+  "Colorado_Springs_Airport": {
+    "name": "Colorado Springs",
+    "url": "Colorado_Springs,_Colorado"
+  },
+  "Rickenbacker_International_Airport": {
+    "name": "Columbus",
+    "url": "Columbus,_Ohio"
+  },
+  "Concord_Regional_Airport": {
     "name": "Concord",
     "url": "Concord,_North_Carolina"
   },
-  "Durham,_North_Carolina": {
-    "name": "Raleigh",
-    "url": "Raleigh,_North_Carolina"
+  "Duluth_International_Airport": {
+    "name": "Duluth",
+    "url": "Duluth,_Minnesota"
   },
-  "Spartanburg,_South_Carolina": {
+  "Elmira/Corning_Regional_Airport": {
+    "name": "Elmira/Corning",
+    "url": "Elmira,_New_York"
+  },
+  "Eugene_Airport": {
+    "name": "Eugene",
+    "url": "Eugene,_Oregon"
+  },
+  "Evansville_Regional_Airport": {
+    "name": "Evansville",
+    "url": "Evansville,_Indiana"
+  },
+  "Hector_International_Airport": {
+    "name": "Fargo",
+    "url": "Fargo,_North_Dakota"
+  },
+  "Northwest_Arkansas_Regional_Airport": {
+    "name": "Fayetteville",
+    "url": "Fayetteville,_Arkansas"
+  },
+  "Fort_Collins%E2%80%93Loveland_Municipal_Airport": {
+    "name": "Fort Collins",
+    "url": "Fort_Collins,_Colorado"
+  },
+  "Destin%E2%80%93Fort_Walton_Beach_Airport": {
+    "name": "Fort Walton Beach\nbegins May 20, 2016",
+    "url": "Fort_Walton_Beach,_Florida"
+  },
+  "Gary/Chicago_International_Airport": {
+    "name": "Gary",
+    "url": "Gary,_Indiana"
+  },
+  "Grand_Forks_International_Airport": {
+    "name": "Grand Forks",
+    "url": "Grand_Forks,_North_Dakota"
+  },
+  "Grand_Junction_Regional_Airport": {
+    "name": "Grand Junction",
+    "url": "Grand_Junction,_Colorado"
+  },
+  "Great_Falls_International_Airport": {
+    "name": "Great Falls",
+    "url": "Great_Falls,_Montana"
+  },
+  "Austin_Straubel_International_Airport": {
+    "name": "Green Bay",
+    "url": "Green_Bay,_Wisconsin"
+  },
+  "Greenville%E2%80%93Spartanburg_International_Airport": {
     "name": "Greenville",
     "url": "Greenville,_South_Carolina"
   },
-  "Loveland,_Colorado": {
-    "name": "Fort Collins",
-    "url": "Fort_Collins,_Colorado"
+  "Hagerstown_Regional_Airport": {
+    "name": "Hagerstown",
+    "url": "Hagerstown,_Maryland"
+  },
+  "Tri-State_Airport": {
+    "name": "Huntington",
+    "url": "Huntington,_West_Virginia"
+  },
+  "Idaho_Falls_Regional_Airport": {
+    "name": "Idaho Falls",
+    "url": "Idaho_Falls,_Idaho"
+  },
+  "Glacier_Park_International_Airport": {
+    "name": "Kalispell",
+    "url": "Kalispell,_Montana"
+  },
+  "Killeen%E2%80%93Fort_Hood_Regional_Airport": {
+    "name": "Killeen",
+    "url": "Killeen,_Texas"
+  },
+  "Kinston_Regional_Jetport": {
+    "name": "Kinston",
+    "url": "Kinston,_North_Carolina"
+  },
+  "Lafayette_Regional_Airport": {
+    "name": "Lafayette",
+    "url": "Lafayette,_Louisiana"
+  },
+  "Capital_Region_International_Airport": {
+    "name": "Lansing",
+    "url": "Lansing,_Michigan"
+  },
+  "Laredo_International_Airport": {
+    "name": "Laredo",
+    "url": "Laredo,_Texas"
+  },
+  "Lincoln_Airport_(Nebraska)": {
+    "name": "Lincoln",
+    "url": "Lincoln,_Nebraska"
+  },
+  "Clinton_National_Airport": {
+    "name": "Little Rock",
+    "url": "Little_Rock,_Arkansas"
+  },
+  "Dane_County_Regional_Airport": {
+    "name": "Madison",
+    "url": "Madison,_Wisconsin"
+  },
+  "McAllen_Miller_International_Airport": {
+    "name": "McAllen",
+    "url": "McAllen,_Texas"
+  },
+  "Rogue_Valley_International%E2%80%93Medford_Airport": {
+    "name": "Medford",
+    "url": "Medford,_Oregon"
+  },
+  "Minot_International_Airport": {
+    "name": "Minot",
+    "url": "Minot,_North_Dakota"
+  },
+  "Missoula_International_Airport": {
+    "name": "Missoula",
+    "url": "Missoula,_Montana"
+  },
+  "Monterey_Regional_Airport": {
+    "name": "Monterey",
+    "url": "Monterey,_California"
+  },
+  "Montrose_Regional_Airport": {
+    "name": "Montrose",
+    "url": "Montrose,_Colorado"
+  },
+  "Niagara_Falls_International_Airport": {
+    "name": "Niagara Falls",
+    "url": "Niagara_Falls,_New_York"
+  },
+  "Ogden-Hinckley_Airport": {
+    "name": "Ogden",
+    "url": "Ogden,_Utah"
+  },
+  "Orlando_Sanford_International_Airport": {
+    "name": "Orlando",
+    "url": "Orlando,_Florida"
+  },
+  "Owensboro%E2%80%93Daviess_County_Regional_Airport": {
+    "name": "Owensboro",
+    "url": "Owensboro,_Kentucky"
+  },
+  "Tri-Cities_Airport_(Washington)": {
+    "name": "Pasco/Richland/Kennewick",
+    "url": "Pasco,_Washington"
+  },
+  "General_Wayne_A._Downing_Peoria_International_Airport": {
+    "name": "Peoria",
+    "url": "Peoria,_Illinois"
+  },
+  "Phoenix%E2%80%93Mesa_Gateway_Airport": {
+    "name": "Phoenix",
+    "url": "Phoenix,_Arizona"
+  },
+  "Plattsburgh_International_Airport": {
+    "name": "Plattsburgh",
+    "url": "Plattsburgh"
+  },
+  "Portsmouth_International_Airport_at_Pease": {
+    "name": "Portsmouth",
+    "url": "Portsmouth,_New_Hampshire"
+  },
+  "Provo_Municipal_Airport": {
+    "name": "Provo",
+    "url": "Provo,_Utah"
+  },
+  "Pueblo_Memorial_Airport": {
+    "name": "Pueblo",
+    "url": "Pueblo,_Colorado"
+  },
+  "Punta_Gorda_Airport_(Florida)": {
+    "name": "Punta Gorda",
+    "url": "Punta_Gorda,_Florida"
+  },
+  "Raleigh%E2%80%93Durham_International_Airport": {
+    "name": "Raleigh/Durham",
+    "url": "Research_Triangle"
+  },
+  "Rapid_City_Regional_Airport": {
+    "name": "Rapid City",
+    "url": "Rapid_City,_South_Dakota"
+  },
+  "Roberts_Field": {
+    "name": "Redmond/Bend",
+    "url": "Redmond,_Oregon"
+  },
+  "Reno%E2%80%93Tahoe_International_Airport": {
+    "name": "Reno/Tahoe",
+    "url": "Reno,_Nevada"
+  },
+  "Roanoke%E2%80%93Blacksburg_Regional_Airport": {
+    "name": "Roanoke",
+    "url": "Roanoke,_Virginia"
+  },
+  "Rochester_International_Airport": {
+    "name": "Rochester",
+    "url": "Rochester,_Minnesota"
+  },
+  "Chicago_Rockford_International_Airport": {
+    "name": "Rockford",
+    "url": "Rockford,_Illinois"
+  },
+  "MBS_International_Airport": {
+    "name": "Saginaw",
+    "url": "Saginaw,_Michigan"
+  },
+  "St._Cloud_Regional_Airport": {
+    "name": "St. Cloud",
+    "url": "St._Cloud,_Minnesota"
+  },
+  "St._Pete%E2%80%93Clearwater_International_Airport": {
+    "name": "St. Petersburg",
+    "url": "St._Petersburg,_Florida"
+  },
+  "Salisbury%E2%80%93Ocean_City%E2%80%93Wicomico_Regional_Airport": {
+    "name": "Salisbury",
+    "url": "Salisbury,_Maryland"
+  },
+  "Santa_Maria_Public_Airport": {
+    "name": "Santa Maria",
+    "url": "Santa_Maria,_California"
+  },
+  "Charles_M._Schulz%E2%80%93Sonoma_County_Airport": {
+    "name": "Santa Rosa\nbegins May 19, 2016",
+    "url": "Santa_Rosa,_California"
+  },
+  "Savannah/Hilton_Head_International_Airport": {
+    "name": "Savannah",
+    "url": "Savannah,_Georgia"
+  },
+  "Shreveport_Regional_Airport": {
+    "name": "Shreveport",
+    "url": "Shreveport,_Louisiana"
+  },
+  "Sioux_Falls_Regional_Airport": {
+    "name": "Sioux Falls",
+    "url": "Sioux_Falls,_South_Dakota"
+  },
+  "South_Bend_International_Airport": {
+    "name": "South Bend",
+    "url": "South_Bend,_Indiana"
+  },
+  "Abraham_Lincoln_Capital_Airport": {
+    "name": "Springfield",
+    "url": "Springfield,_Illinois"
+  },
+  "Springfield%E2%80%93Branson_National_Airport": {
+    "name": "Springfield",
+    "url": "Springfield,_Missouri"
+  },
+  "Stockton_Metropolitan_Airport": {
+    "name": "Stockton",
+    "url": "Stockton,_California"
+  },
+  "Toledo_Express_Airport": {
+    "name": "Toledo",
+    "url": "Toledo,_Ohio"
+  },
+  "Topeka_Regional_Airport": {
+    "name": "Topeka",
+    "url": "Topeka,_Kansas"
+  },
+  "Tulsa_International_Airport": {
+    "name": "Tulsa",
+    "url": "Tulsa,_Oklahoma"
+  },
+  "Magic_Valley_Regional_Airport": {
+    "name": "Twin Falls",
+    "url": "Twin_Falls,_Idaho"
+  },
+  "Worcester_Regional_Airport": {
+    "name": "Worcester",
+    "url": "Worcester,_Massachusetts"
+  },
+  "Youngstown%E2%80%93Warren_Regional_Airport": {
+    "name": "Youngstown",
+    "url": "Youngstown,_Ohio"
   },
   "Ing._Alberto_Acu%C3%B1a_Ongay_International_Airport": {
     "name": "Campeche",
@@ -7625,7 +7929,7 @@
   },
   "Quer%C3%A9taro_International_Airport": {
     "name": "Querétaro",
-    "url": "Quer%C3%A9taro,_Quer%C3%A9taro"
+    "url": "Quer%C3%A9taro"
   },
   "Chetumal_International_Airport": {
     "name": "Chetumal",
@@ -7643,16 +7947,8 @@
     "name": "Long Beach",
     "url": "Long_Beach,_California"
   },
-  "Boise_Airport": {
-    "name": "Boise",
-    "url": "Boise"
-  },
-  "Glacier_Park_International_Airport": {
-    "name": "Kalispell",
-    "url": "Kalispell,_Montana"
-  },
   "Reno/Tahoe_International_Airport": {
-    "name": "Reno/Tahoe",
+    "name": "Reno",
     "url": "Reno,_Nevada"
   },
   "Flagstaff_Pulliam_Airport": {
@@ -7695,10 +7991,6 @@
     "name": "Aspen",
     "url": "Aspen,_Colorado"
   },
-  "Colorado_Springs_Airport": {
-    "name": "Colorado Springs",
-    "url": "Colorado_Springs,_Colorado"
-  },
   "Durango-La_Plata_County_Airport": {
     "name": "Durango",
     "url": "Durango,_Colorado"
@@ -7711,17 +8003,9 @@
     "name": "Wichita",
     "url": "Wichita,_Kansas"
   },
-  "Billings_Logan_International_Airport": {
-    "name": "Billings",
-    "url": "Billings,_Montana"
-  },
   "Santa_Fe_Municipal_Airport": {
     "name": "Santa Fe",
     "url": "Santa_Fe,_New_Mexico"
-  },
-  "Eugene_Airport": {
-    "name": "Eugene",
-    "url": "Eugene,_Oregon"
   },
   "Rogue_Valley_International-Medford_Airport": {
     "name": "Medford",
@@ -7759,9 +8043,9 @@
     "name": "Merida",
     "url": "M%C3%A9rida,_Yucat%C3%A1n"
   },
-  "Northwest_Arkansas_Regional_Airport": {
-    "name": "Fayetteville",
-    "url": "Fayetteville,_Arkansas"
+  "Barcelona_El-Prat_Airport": {
+    "name": "Barcelona",
+    "url": "Barcelona"
   },
   "Tweed_New_Haven_Regional_Airport": {
     "name": "New Haven",
@@ -7791,14 +8075,6 @@
     "name": "Reno",
     "url": "Reno,_Nevada"
   },
-  "Cleveland_Hopkins_International_Airport": {
-    "name": "Cleveland",
-    "url": "Cleveland,_Ohio"
-  },
-  "Tulsa_International_Airport": {
-    "name": "Tulsa",
-    "url": "Tulsa,_Oklahoma"
-  },
   "Jackson_Hole_Airport": {
     "name": "Jackson Hole",
     "url": "Jackson_Hole,_Wyoming"
@@ -7810,6 +8086,14 @@
   "Cyril_E._King_Airport": {
     "name": "Saint Thomas",
     "url": "Saint_Thomas,_U.S._Virgin_Islands"
+  },
+  "Envoy_Air_destinations": {
+    "name": "Envoy Air",
+    "url": "Envoy_Air"
+  },
+  "Texas": {
+    "name": "Fort Worth",
+    "url": "Fort_Worth"
   },
   "American_Eagle_destinations": {
     "name": "d/b/a",
@@ -7855,18 +8139,6 @@
     "name": "Texarkana",
     "url": "Texarkana,_Arkansas"
   },
-  "Monterey_Regional_Airport": {
-    "name": "Monterey",
-    "url": "Monterey,_California"
-  },
-  "Montrose_Regional_Airport": {
-    "name": "Montrose",
-    "url": "Montrose,_Colorado"
-  },
-  "Grand_Junction_Regional_Airport": {
-    "name": "Grand Junction",
-    "url": "Grand_Junction,_Colorado"
-  },
   "Gunnison-Crested_Butte_Regional_Airport": {
     "name": "Gunnison",
     "url": "Gunnison,_Colorado"
@@ -7883,29 +8155,9 @@
     "name": "Tallahassee",
     "url": "Tallahassee,_Florida"
   },
-  "Savannah/Hilton_Head_International_Airport": {
-    "name": "Savannah",
-    "url": "Savannah,_Georgia"
-  },
-  "University_of_Illinois_Willard_Airport": {
-    "name": "Champaign",
-    "url": "Champaign,_Illinois"
-  },
   "General_Wayne_Downing_Peoria_International_Airport": {
     "name": "Peoria",
     "url": "Peoria,_Illinois"
-  },
-  "Abraham_Lincoln_Capital_Airport": {
-    "name": "Springfield",
-    "url": "Springfield,_Illinois"
-  },
-  "Evansville_Regional_Airport": {
-    "name": "Evansville",
-    "url": "Evansville,_Indiana"
-  },
-  "The_Eastern_Iowa_Airport": {
-    "name": "Cedar Rapids",
-    "url": "Cedar_Rapids,_Iowa"
   },
   "Dubuque_Regional_Airport": {
     "name": "Dubuque",
@@ -7927,10 +8179,6 @@
     "name": "Baton Rouge",
     "url": "Baton_Rouge,_Louisiana"
   },
-  "Lafayette_Regional_Airport": {
-    "name": "Lafayette",
-    "url": "Lafayette,_Louisiana"
-  },
   "Lake_Charles_Regional_Airport": {
     "name": "Lake Charles",
     "url": "Lake_Charles,_Louisiana"
@@ -7938,10 +8186,6 @@
   "Louis_Armstrong_International_Airport": {
     "name": "New Orleans",
     "url": "New_Orleans,_Louisiana"
-  },
-  "Shreveport_Regional_Airport": {
-    "name": "Shreveport",
-    "url": "Shreveport,_Louisiana"
   },
   "Kalamazoo-Battle_Creek_International_Airport": {
     "name": "Kalamazoo",
@@ -7954,10 +8198,6 @@
   "Cherry_Capital_Airport": {
     "name": "Traverse City",
     "url": "Traverse_City,_Michigan"
-  },
-  "Rochester_International_Airport": {
-    "name": "Rochester",
-    "url": "Rochester,_Minnesota"
   },
   "Jackson-Evers_International_Airport": {
     "name": "Jackson",
@@ -7975,37 +8215,13 @@
     "name": "Springfield",
     "url": "Springfield,_Missouri"
   },
-  "Hector_International_Airport": {
-    "name": "Fargo",
-    "url": "Fargo,_North_Dakota"
-  },
-  "Toledo_Express_Airport": {
-    "name": "Toledo",
-    "url": "Toledo,_Ohio"
-  },
   "Lawton-Fort_Sill_Regional_Airport": {
     "name": "Lawton",
     "url": "Lawton,_Oklahoma"
   },
-  "Roberts_Field": {
-    "name": "Redmond/Bend",
-    "url": "Redmond,_Oregon"
-  },
   "Greenville-Spartanburg_International_Airport": {
     "name": "Greer",
     "url": "Greer,_South_Carolina"
-  },
-  "Rapid_City_Regional_Airport": {
-    "name": "Rapid City",
-    "url": "Rapid_City,_South_Dakota"
-  },
-  "Sioux_Falls_Regional_Airport": {
-    "name": "Sioux Falls",
-    "url": "Sioux_Falls,_South_Dakota"
-  },
-  "Abilene_Regional_Airport": {
-    "name": "Abilene",
-    "url": "Abilene,_Texas"
   },
   "Rick_Husband_Amarillo_International_Airport": {
     "name": "Amarillo",
@@ -8026,10 +8242,6 @@
   "Killeen-Fort_Hood_Regional_Airport": {
     "name": "Fort Hood",
     "url": "Fort_Hood,_Texas"
-  },
-  "Laredo_International_Airport": {
-    "name": "Laredo",
-    "url": "Laredo,_Texas"
   },
   "East_Texas_Regional_Airport": {
     "name": "Longview",
@@ -8059,17 +8271,9 @@
     "name": "Wichita Falls",
     "url": "Wichita_Falls,_Texas"
   },
-  "Austin_Straubel_International_Airport": {
-    "name": "Green Bay",
-    "url": "Green_Bay,_Wisconsin"
-  },
   "La_Crosse_Regional_Airport": {
     "name": "La Crosse",
     "url": "La_Crosse"
-  },
-  "Dane_County_Regional_Airport": {
-    "name": "Madison",
-    "url": "Madison,_Wisconsin"
   },
   "Central_Wisconsin_Airport": {
     "name": "Wausau",
@@ -8093,7 +8297,7 @@
   },
   "Puebla_International_Airport": {
     "name": "Puebla",
-    "url": "Puebla"
+    "url": "Puebla,_Puebla"
   },
   "Ad%C4%B1yaman_Airport": {
     "name": "Adiyaman !Adıyaman",
@@ -8319,10 +8523,6 @@
     "name": "Kralendijk",
     "url": "Kralendijk"
   },
-  "Orlando_Sanford_International_Airport": {
-    "name": "Orlando",
-    "url": "Orlando,_Florida"
-  },
   "Tenerife-South_Airport": {
     "name": "Tenerife",
     "url": "Tenerife"
@@ -8434,6 +8634,10 @@
   "Angkor_International_Airport": {
     "name": "Siem Reap",
     "url": "Siem_Reap"
+  },
+  "Binhai_International_Airport": {
+    "name": "Tianjin",
+    "url": "Tianjin"
   },
   "Haneda_International_Airport": {
     "name": "Tokyo",
@@ -8635,17 +8839,21 @@
     "name": "Erbil",
     "url": "Arbil"
   },
-  "Havana_International_Airport": {
-    "name": "Havana\nbegins 25 October 2016",
-    "url": "Havana"
-  },
   "Isfahan_Airport": {
     "name": "Isfahan\nbegins 4 September 2016",
     "url": "Isfahan"
   },
+  "Istanbul": {
+    "name": "Ankara",
+    "url": "Ankara"
+  },
   "Krasnodar_International_Airport": {
     "name": "Krasnodar",
     "url": "Krasnodar"
+  },
+  "Vaclav_Havel_Airport_Prague": {
+    "name": "Prague",
+    "url": "Prague"
   },
   "St._Gallen-Altenrhein_Airport": {
     "name": "St. Gallen",
@@ -9167,6 +9375,10 @@
     "name": "Lábrea",
     "url": "L%C3%A1brea"
   },
+  "Lages_Airport": {
+    "name": "Lages",
+    "url": "Lages"
+  },
   "Len%C3%A7%C3%B3is_Airport": {
     "name": "Lençóis",
     "url": "Len%C3%A7%C3%B3is"
@@ -9212,7 +9424,7 @@
     "url": "Parintins"
   },
   "Parna%C3%ADba-Prefeito_Dr._Jo%C3%A3o_Silva_Filho_International_Airport": {
-    "name": "Parnaíba",
+    "name": "Parnaíba(begins June 4, 2016)",
     "url": "Parna%C3%ADba"
   },
   "Patos_de_Minas_Airport": {
@@ -9359,6 +9571,10 @@
     "name": "Angers",
     "url": "Angers"
   },
+  "Bergerac_Dordogne_P%C3%A9rigord_Airport": {
+    "name": "Bergerac",
+    "url": "Bergerac,_Dordogne"
+  },
   "Thira_Airport": {
     "name": "Santorini",
     "url": "Santorini"
@@ -9370,10 +9586,6 @@
   "Granada_Airport": {
     "name": "Granada",
     "url": "Granada"
-  },
-  "Aberdeen_International_Airport": {
-    "name": "Aberdeen",
-    "url": "Aberdeen"
   },
   "Chambery_Airport": {
     "name": "Chambery",
@@ -9671,6 +9883,10 @@
     "name": "Esbjerg",
     "url": "Esbjerg"
   },
+  "Bastia-Poretta_Airport": {
+    "name": "Bastia",
+    "url": "Bastia"
+  },
   "Charles_De_Gaulle_Airport": {
     "name": "Paris",
     "url": "Paris"
@@ -9721,7 +9937,7 @@
   },
   "Midway_International_Airport": {
     "name": "Chicago",
-    "url": "Chicago"
+    "url": "Chicago,_Illinois"
   },
   "Dallas_Love_Field": {
     "name": "Dallas",
@@ -10111,10 +10327,6 @@
     "name": "Tulcea",
     "url": "Tulcea"
   },
-  "Rickenbacker_International_Airport": {
-    "name": "Columbus",
-    "url": "Columbus,_Ohio"
-  },
   "Shah_Jalal_International_Airport": {
     "name": "Dhaka",
     "url": "Dhaka"
@@ -10223,16 +10435,12 @@
     "name": "Medan",
     "url": "Medan"
   },
-  "Hongqiao_International_Airport": {
-    "name": "Shanghai",
-    "url": "Shanghai"
-  },
   "Tainan_Airport": {
     "name": "Tainan\nbegins 22 June 2016",
     "url": "Tainan"
   },
   "Sunan_Shuofang_International_Airport": {
-    "name": "Wuxi\nbegins 28 April 2016",
+    "name": "Wuxi",
     "url": "Wuxi"
   },
   "Xuzhou_Guanyin_Airport": {
@@ -10242,10 +10450,6 @@
   "Soekarno_Hatta_International_Airport": {
     "name": "Jakarta",
     "url": "Jakarta"
-  },
-  "Anchorage_International_Airport": {
-    "name": "Anchorage",
-    "url": "Anchorage"
   },
   "Anqing_Tianzhushan_Airport": {
     "name": "Anqing",
@@ -10262,10 +10466,6 @@
   "Baise_Bama_Airport": {
     "name": "Baise",
     "url": "Baise_City"
-  },
-  "Jiangbei_International_Airport": {
-    "name": "Chongqing",
-    "url": "Chongqing"
   },
   "Dali_Airport": {
     "name": "Dali",
@@ -10287,21 +10487,17 @@
     "name": "Enshi",
     "url": "Enshi_City"
   },
-  "Changle_International_Airport": {
-    "name": "Fuzhou",
-    "url": "Fuzhou"
-  },
   "Golmud_Airport": {
     "name": "Golmud",
     "url": "Golmud"
   },
+  "Meilan_International_Airport": {
+    "name": "Haikou",
+    "url": "Haikou"
+  },
   "Handan_Airport": {
     "name": "Handan",
     "url": "Handan"
-  },
-  "Xiaoshan_International_Airport": {
-    "name": "Hangzhou",
-    "url": "Hangzhou"
   },
   "Hanzhong_Chenggu_Airport": {
     "name": "Hanzhong",
@@ -10383,6 +10579,10 @@
     "name": "Luzhou",
     "url": "Luzhou"
   },
+  "Madrid-Barajas_International_Airport": {
+    "name": "Madrid",
+    "url": "Madrid"
+  },
   "Dehong_Mangshi_Airport": {
     "name": "Dehong",
     "url": "Dehong"
@@ -10431,7 +10631,7 @@
     "name": "Qiqihar",
     "url": "Qiqihar"
   },
-  "Rizhao_Airport": {
+  "Rizhao_Shanzihe_Airport": {
     "name": "Rizhao",
     "url": "Rizhao"
   },
@@ -10439,19 +10639,11 @@
     "name": "Seattle",
     "url": "Seattle"
   },
-  "Pudong_International_Airport": {
-    "name": "Shanghai",
-    "url": "Shanghai"
-  },
   "Shennongjia_Hongping_Airport": {
     "name": "Shennongjia",
     "url": "Shennongjia"
   },
-  "Taoxian_International_Airport": {
-    "name": "Shenyang",
-    "url": "Shenyang"
-  },
-  "Shijiazhuang_Daguocun_International_Airport": {
+  "Shijiazhuang_Zhengding_International_Airport": {
     "name": "Shijiazhuang",
     "url": "Shijiazhuang"
   },
@@ -10463,10 +10655,6 @@
     "name": "Tengchong",
     "url": "Tengchong"
   },
-  "Diwopu_International_Airport": {
-    "name": "Urumqi",
-    "url": "Urumqi"
-  },
   "Wenshan_Puzhehei_Airport": {
     "name": "Wenshan",
     "url": "Wenshan_City"
@@ -10474,10 +10662,6 @@
   "Nanping_Wuyishan_Airport": {
     "name": "Wuyishan",
     "url": "Wuyishan,_Fujian"
-  },
-  "Gaoqi_International_Airport": {
-    "name": "Xiamen",
-    "url": "Xiamen"
   },
   "Xingyi_Wanfenglin_Airport": {
     "name": "Xingyi",
@@ -10490,6 +10674,10 @@
   "Yichun_Lindu_Airport": {
     "name": "Yichun",
     "url": "Yichun,_Heilongjiang"
+  },
+  "Yining_Airport": {
+    "name": "Yining",
+    "url": "Yining_City"
   },
   "Yingkou_Lanqi_Airport": {
     "name": "Yingkou",
@@ -10535,10 +10723,6 @@
     "name": "Baotou",
     "url": "Baotou"
   },
-  "Capital_International_Airport": {
-    "name": "Beijing",
-    "url": "Beijing"
-  },
   "Bijie_Feixiong_Airport": {
     "name": "Bijie",
     "url": "Bijie"
@@ -10546,10 +10730,6 @@
   "Kanas_Airport": {
     "name": "Burqin",
     "url": "Burqin_County"
-  },
-  "Cheongju_Airport": {
-    "name": "Cheongju",
-    "url": "Cheongju"
   },
   "Chizhou_Jiuhuashan_Airport": {
     "name": "Chizhou",
@@ -10619,9 +10799,13 @@
     "name": "Osh",
     "url": "Osh"
   },
-  "Changi_Airport": {
-    "name": "Singapore",
-    "url": "Singapore"
+  "Phu_Quoc_International_Airport": {
+    "name": "Phu Quoc",
+    "url": "Phu_Quoc"
+  },
+  "Shijiazhuang_Daguocun_International_Airport": {
+    "name": "Shijiazhuang",
+    "url": "Shijiazhuang"
   },
   "Tacheng_Airport": {
     "name": "Tacheng",
@@ -10631,6 +10815,10 @@
     "name": "Tongren",
     "url": "Tongren"
   },
+  "Xianyang_International_Airport": {
+    "name": "Xi'an",
+    "url": "Xi%27an"
+  },
   "Nalati_Airport": {
     "name": "Xinyuan",
     "url": "K%C3%BCnes_County"
@@ -10638,10 +10826,6 @@
   "Yancheng_Airport": {
     "name": "Yancheng",
     "url": "Yancheng"
-  },
-  "Yining_Airport": {
-    "name": "Yining",
-    "url": "Yining_City"
   },
   "Yongzhou_Lingling_Airport": {
     "name": "Yongzhou",
@@ -10999,25 +11183,13 @@
     "name": "Salerno",
     "url": "Salerno"
   },
-  "Appleton_International_Airport": {
-    "name": "Appleton",
-    "url": "Appleton,_Wisconsin"
-  },
   "Jack_Brooks_Regional_Airport": {
     "name": "Beaumont/Port Arthur",
     "url": "Beaumont,_Texas"
   },
-  "Bismarck_Municipal_Airport": {
-    "name": "Bismarck",
-    "url": "Bismarck,_North_Dakota"
-  },
   "Gallatin_Field_Airport": {
     "name": "Bozeman",
     "url": "Bozeman,_Montana"
-  },
-  "Tri-Cities_Regional_Airport": {
-    "name": "Tri-Cities",
-    "url": "Tri-Cities,_Tennessee"
   },
   "Malcolm_McKinnon_Airport": {
     "name": "Brunswick",
@@ -11039,10 +11211,6 @@
     "name": "Fort Worth",
     "url": "Fort_Worth"
   },
-  "Great_Falls_International_Airport": {
-    "name": "Great Falls",
-    "url": "Great_Falls,_Montana"
-  },
   "Greenville_Downtown_Airport": {
     "name": "Greenville",
     "url": "Greenville-Spartanburg_International_Airport"
@@ -11055,10 +11223,6 @@
     "name": "Helena",
     "url": "Helena,_Montana"
   },
-  "Idaho_Falls_Regional_Airport": {
-    "name": "Idaho Falls",
-    "url": "Idaho_Falls,_Idaho"
-  },
   "Dillant-Hopkins_Airport": {
     "name": "Keene",
     "url": "Keene,_New_Hampshire"
@@ -11067,10 +11231,6 @@
     "name": "Kokomo",
     "url": "Kokomo,_Indiana"
   },
-  "Capital_Region_International_Airport": {
-    "name": "Lansing",
-    "url": "Lansing,_Michigan"
-  },
   "Lebanon_Municipal_Airport_(New_Hampshire)": {
     "name": "Lebanon",
     "url": "Lebanon,_New_Hampshire"
@@ -11078,14 +11238,6 @@
   "Meridian_Regional_Airport": {
     "name": "Meridian",
     "url": "Meridian,_Mississippi"
-  },
-  "Minot_International_Airport": {
-    "name": "Minot",
-    "url": "Minot,_North_Dakota"
-  },
-  "Missoula_International_Airport": {
-    "name": "Missoula",
-    "url": "Missoula,_Montana"
   },
   "Monroe_Regional_Airport_(Louisiana)": {
     "name": "Monroe",
@@ -11107,10 +11259,6 @@
     "name": "Panama City",
     "url": "Panama_City,_Florida"
   },
-  "Tri-Cities_Airport_(Washington)": {
-    "name": "Pasco/Richland/Kennewick",
-    "url": "Pasco,_Washington"
-  },
   "Northern_Maine_Regional_Airport_at_Presque_Isle": {
     "name": "Presque Isle",
     "url": "Presque_Isle,_Maine"
@@ -11123,10 +11271,6 @@
     "name": "St. Petersburg",
     "url": "St._Petersburg,_Florida"
   },
-  "South_Bend_International_Airport": {
-    "name": "South Bend",
-    "url": "South_Bend,_Indiana"
-  },
   "Spartanburg_Downtown_Memorial_Airport": {
     "name": "Spartanburg",
     "url": "Spartanburg,_South_Carolina"
@@ -11138,10 +11282,6 @@
   "Eagle_County_Airport": {
     "name": "Vail",
     "url": "Vail,_Colorado"
-  },
-  "Worcester_Regional_Airport": {
-    "name": "Worcester",
-    "url": "Worcester,_Massachusetts"
   },
   "Aberdeen_Regional_Airport": {
     "name": "Aberdeen",
@@ -11166,10 +11306,6 @@
   "Binghamton_Airport": {
     "name": "Binghamton",
     "url": "Binghamton"
-  },
-  "Bozeman_Yellowstone_International_Airport": {
-    "name": "Bozeman",
-    "url": "Bozeman,_Montana"
   },
   "Brainerd_Lakes_Regional_Airport": {
     "name": "Brainerd",
@@ -11215,17 +11351,9 @@
     "name": "Dothan",
     "url": "Dothan,_Alabama"
   },
-  "Duluth_International_Airport": {
-    "name": "Duluth",
-    "url": "Duluth,_Minnesota"
-  },
   "Elko_Regional_Airport": {
     "name": "Elko",
     "url": "Elko,_Nevada"
-  },
-  "Elmira/Corning_Regional_Airport": {
-    "name": "Elmira/Corning",
-    "url": "Elmira,_New_York"
   },
   "Delta_County_Airport": {
     "name": "Escanaba",
@@ -11259,10 +11387,6 @@
     "name": "Lewiston",
     "url": "Lewiston,_Idaho"
   },
-  "Lincoln_Airport_(Nebraska)": {
-    "name": "Lincoln",
-    "url": "Lincoln,_Nebraska"
-  },
   "Orlando_Melbourne_International_Airport": {
     "name": "Melbourne",
     "url": "Melbourne,_Florida"
@@ -11290,10 +11414,6 @@
   "Rhinelander-Oneida_County_Airport": {
     "name": "Rhinelander",
     "url": "Rhinelander,_Wisconsin"
-  },
-  "MBS_International_Airport": {
-    "name": "Saginaw",
-    "url": "Saginaw,_Michigan"
   },
   "Chippewa_County_International_Airport": {
     "name": "Sault Ste. Marie",
@@ -11338,6 +11458,10 @@
   "Newark_International_Airport": {
     "name": "Newark (NYC area)",
     "url": "Newark,_New_Jersey"
+  },
+  "Sofia_International_Airport": {
+    "name": "Sofia",
+    "url": "Sofia,_Bulgaria"
   },
   "Ivano-Frankivsk_Airport": {
     "name": "Ivano-Frankivsk",
@@ -11547,14 +11671,6 @@
     "name": "Luxembourg",
     "url": "Luxembourg"
   },
-  "Avalon": {
-    "name": "Avalon",
-    "url": "Avalon"
-  },
-  "Dusseldorf_Airport": {
-    "name": "Dusseldorf",
-    "url": "Dusseldorf"
-  },
   "Bandar_Abbas_International_Airport": {
     "name": "Bandar Abbas",
     "url": "Bandar_Abbas"
@@ -11570,6 +11686,10 @@
   "Li%C3%A8ge_Airport": {
     "name": "Liège",
     "url": "Li%C3%A8ge"
+  },
+  "Baiyun_International_Airport": {
+    "name": "Guangzhou",
+    "url": "Guangzhou"
   },
   "Madras_International_Airport": {
     "name": "Chennai",
@@ -11847,14 +11967,6 @@
     "name": "Brazzaville",
     "url": "Brazzaville"
   },
-  "Charles_de_Gaulle_International_Airport": {
-    "name": "Paris",
-    "url": "Paris"
-  },
-  "Rome_Fiumicino": {
-    "name": "Rome",
-    "url": "Italy"
-  },
   "Beirut_International_Airport": {
     "name": "Beirut",
     "url": "Beirut"
@@ -11955,14 +12067,6 @@
     "name": "Wroclaw",
     "url": "Wroclaw"
   },
-  "Auckland_International_Airport": {
-    "name": "Auckland",
-    "url": "Auckland"
-  },
-  "Suvarnabhumi_International_Airport": {
-    "name": "Bangkok",
-    "url": "Bangkok"
-  },
   "Denpasar_International_Airport": {
     "name": "Denpasar",
     "url": "Denpasar"
@@ -11971,13 +12075,9 @@
     "name": "Istanbul",
     "url": "Istanbul"
   },
-  "London_Heathrow_International_Airport": {
-    "name": "London",
-    "url": "Kuala_Lumpur_International_Airport"
-  },
-  "Singapore_Changi_International_Airport": {
-    "name": "Singapore",
-    "url": "Singapore"
+  "Charles_de_Gaulle_International_Airport": {
+    "name": "Paris",
+    "url": "Paris"
   },
   "Tallahassee_International_Airport": {
     "name": "Tallahassee",
@@ -12058,10 +12158,6 @@
   "Midlanda_Airport": {
     "name": "Sundsvall",
     "url": "Sundsvall"
-  },
-  "Svalbard_Airport,_Longyear": {
-    "name": "Longyearbyen",
-    "url": "Longyearbyen"
   },
   "Monastir_International_Airport": {
     "name": "Monastir",
@@ -12175,10 +12271,6 @@
     "name": "Detroit",
     "url": "Detroit"
   },
-  "Raleigh%E2%80%93Durham_International_Airport": {
-    "name": "Raleigh/Durham",
-    "url": "Research_Triangle"
-  },
   "Northeast_Florida_Regional_Airport": {
     "name": "St. Augustine",
     "url": "St._Augustine,_Florida"
@@ -12190,6 +12282,10 @@
   "Trenton%E2%80%93Mercer_Airport": {
     "name": "Trenton",
     "url": "Trenton,_New_Jersey"
+  },
+  "Auckland_International_Airport": {
+    "name": "Auckland",
+    "url": "Auckland"
   },
   "Blimbingsari_Airport": {
     "name": "Banyuwangi",
@@ -12286,6 +12382,10 @@
   "Ferdinand_Lumban_Tobing_Airport": {
     "name": "Sibolga",
     "url": "Sibolga"
+  },
+  "Singapore_Changi_International_Airport": {
+    "name": "Singapore",
+    "url": "Singapore"
   },
   "H.A.S._Hanandjoeddin_Airport": {
     "name": "Tanjung Pandan",
@@ -12483,6 +12583,26 @@
     "name": "Baise",
     "url": "Baise,_Guangxi"
   },
+  "Shuangliu_International_Airport": {
+    "name": "Chengdu",
+    "url": "Chengdu"
+  },
+  "Jiangbei_International_Airport": {
+    "name": "Chongqing",
+    "url": "Chongqing"
+  },
+  "Zhoushuizi_International_Airport": {
+    "name": "Dalian",
+    "url": "Dalian"
+  },
+  "Changle_International_Airport": {
+    "name": "Fuzhou",
+    "url": "Fuzhou"
+  },
+  "Xiaoshan_International_Airport": {
+    "name": "Hangzhou",
+    "url": "Hangzhou"
+  },
   "Hanzhong_Xiguan_Airport": {
     "name": "Hanzhong",
     "url": "Hanzhong"
@@ -12499,6 +12619,10 @@
     "name": "Jinzhou",
     "url": "Jinzhou"
   },
+  "Lukou_International_Airport": {
+    "name": "Nanjing",
+    "url": "Nanjing"
+  },
   "Quanzhou_Jinjiang_Airport": {
     "name": "Quanzhou",
     "url": "Quanzhou"
@@ -12511,13 +12635,37 @@
     "name": "Rome",
     "url": "Rome"
   },
+  "Hongqiao_International_Airport": {
+    "name": "Shanghai",
+    "url": "Shanghai"
+  },
+  "Pudong_International_Airport": {
+    "name": "Shanghai",
+    "url": "Shanghai"
+  },
+  "Taoxian_International_Airport": {
+    "name": "Shenyang",
+    "url": "Shenyang"
+  },
   "Tangshan_Sann%C3%BChe_Airport": {
     "name": "Tangshan",
     "url": "Tangshan"
   },
+  "Diwopu_International_Airport": {
+    "name": "Ürümqi",
+    "url": "%C3%9Cr%C3%BCmqi"
+  },
   "Weifang_Airport": {
     "name": "Weifang",
     "url": "Weifang"
+  },
+  "Tianhe_International_Airport": {
+    "name": "Wuhan",
+    "url": "Wuhan"
+  },
+  "Gaoqi_International_Airport": {
+    "name": "Xiamen",
+    "url": "Xiamen"
   },
   "Molokai_Airport": {
     "name": "Hoʻolehua",
@@ -12623,9 +12771,9 @@
     "name": "Lanzhou",
     "url": "Lanzhou"
   },
-  "Shijiazhuang_Zhengding_International_Airport": {
-    "name": "Shijiazhuang",
-    "url": "Shijiazhuang"
+  "Changi_Airport": {
+    "name": "Singapore",
+    "url": "Singapore"
   },
   "Tokyo_International_Airport": {
     "name": "Tokyo",
@@ -12966,10 +13114,6 @@
   "Yasuj_Airport": {
     "name": "Yasuj",
     "url": "Yasuj"
-  },
-  "Vaclav_Havel_Airport_Prague": {
-    "name": "Prague",
-    "url": "Prague"
   },
   "Sharm_El-Sheikh_International_Airport": {
     "name": "Sharm El-Sheikh",
@@ -13379,10 +13523,6 @@
     "name": "Haiphong",
     "url": "Haiphong"
   },
-  "Phu_Quoc_International_Airport": {
-    "name": "Phú Quốc",
-    "url": "Ph%C3%BA_Qu%E1%BB%91c"
-  },
   "Phu_Cat_Airport": {
     "name": "Qui Nhơn",
     "url": "Qui_Nh%C6%A1n"
@@ -13483,10 +13623,6 @@
     "name": "Manston",
     "url": "Manston,_Kent"
   },
-  "Guiyang_Longdongbao_Airport": {
-    "name": "Guiyang",
-    "url": "Guiyang"
-  },
   "Gunsan_Airport": {
     "name": "Gunsan",
     "url": "Gunsan"
@@ -13494,6 +13630,10 @@
   "Kaohsiung_Airport": {
     "name": "Kaohsiung",
     "url": "Kaohsiung"
+  },
+  "Mudanjiang_Hailang_Airport": {
+    "name": "Mudanjiang",
+    "url": "Mudanjiang"
   },
   "Navoi_International_Airport": {
     "name": "Navoi",
@@ -13807,6 +13947,10 @@
     "name": "Norway",
     "url": "Kristiansand_Airport,_Kjevik"
   },
+  "Svalbard_Airport,_Longyear": {
+    "name": "Longyearbyen",
+    "url": "Longyearbyen"
+  },
   "Malm%C3%B6-Sturup_Airport": {
     "name": "Malmö",
     "url": "Malm%C3%B6"
@@ -13906,10 +14050,6 @@
   "La_M%C3%B4le_%E2%80%93_Saint-Tropez_Airport": {
     "name": "Saint Tropez",
     "url": "Saint-Tropez"
-  },
-  "Bastia-Poretta_Airport": {
-    "name": "Bastia",
-    "url": "Bastia"
   },
   "Bojnord_Airport": {
     "name": "Bojnord",
@@ -14047,10 +14187,6 @@
     "name": "Mörön",
     "url": "M%C3%B6r%C3%B6n"
   },
-  "Istanbul": {
-    "name": "Ankara",
-    "url": "Ankara"
-  },
   "Outagamie_County_Regional_Airport": {
     "name": "Appleton",
     "url": "Appleton,_Wisconsin"
@@ -14062,6 +14198,10 @@
   "Rome_Fiumicino_Airport": {
     "name": "Rome",
     "url": "Rome"
+  },
+  "Lisbon_Airport": {
+    "name": "Lisbon\nbegins 29 May 2016",
+    "url": "Lisbon"
   },
   "Enfidha-Hammamet_International_Airport": {
     "name": "Enfidha",
@@ -14291,10 +14431,6 @@
     "name": "Cedar Rapids",
     "url": "Cedar_Rapids,_Iowa"
   },
-  "Grand_Forks_International_Airport": {
-    "name": "Grand Forks",
-    "url": "Grand_Forks,_North_Dakota"
-  },
   "La_Crosse_Municipal_Airport": {
     "name": "La Crosse",
     "url": "La_Crosse,_Wisconsin"
@@ -14323,17 +14459,13 @@
     "name": "Poznan",
     "url": "Pozna%C5%84"
   },
-  "Szczecin_Airport": {
+  "Szczecin-Goleni%C3%B3w_%22Solidarnosc%22_Airport": {
     "name": "Szczecin",
     "url": "Szczecin"
   },
   "Kiruna_Airport": {
     "name": "Kiruna",
     "url": "Kiruna"
-  },
-  "Baltimore%E2%80%93Washington_International_Airport": {
-    "name": "Baltimore-Washington D.C.",
-    "url": "Baltimore%E2%80%93Washington_metropolitan_area"
   },
   "Djerba_-_Zarzis_International_Airport": {
     "name": "Djerba",
@@ -15279,10 +15411,6 @@
     "name": "Plovdiv",
     "url": "Plovdiv"
   },
-  "Bergerac_Dordogne_P%C3%A9rigord_Airport": {
-    "name": "Bergerac",
-    "url": "Bergerac,_Dordogne"
-  },
   "B%C3%A9ziers_Cap_d%27Agde_Airport": {
     "name": "Béziers",
     "url": "B%C3%A9ziers"
@@ -15363,6 +15491,10 @@
     "name": "Abakan",
     "url": "Abakan"
   },
+  "Capital_International_Airport": {
+    "name": "Beijing",
+    "url": "Beijing"
+  },
   "Cristoforo_Colombo_Airport": {
     "name": "Genoa^",
     "url": "Genoa"
@@ -15434,10 +15566,6 @@
   "Ronneby_Airport": {
     "name": "Ronneby",
     "url": "Ronneby"
-  },
-  "Z%C3%BCrich_International_Airport": {
-    "name": "Zürich",
-    "url": "Z%C3%BCrich"
   },
   "Keflav%C3%ADk_Airport": {
     "name": "Reykjavík",
@@ -15639,10 +15767,6 @@
     "name": "Arar",
     "url": "Arar,_Saudi_Arabia"
   },
-  "Barcelona_El-Prat_Airport": {
-    "name": "Barcelona",
-    "url": "Barcelona"
-  },
   "Bisha_Domestic_Airport": {
     "name": "Bisha",
     "url": "Bisha"
@@ -15662,10 +15786,6 @@
   "Hafar_Al-Batin_Domestic_Airport": {
     "name": "King Khalid Military City",
     "url": "King_Khalid_Military_City"
-  },
-  "Madrid-Barajas_International_Airport": {
-    "name": "Madrid",
-    "url": "Madrid"
   },
   "Kualanamu_International_Airport": {
     "name": "Medan",
@@ -15718,6 +15838,10 @@
   "Fuzhou_Chengle_International_Airport": {
     "name": "Fuzhou",
     "url": "Fuzhou"
+  },
+  "Guiyang_Longdongbao_Airport": {
+    "name": "Guiyang",
+    "url": "Guiyang"
   },
   "Changzhou_Airport": {
     "name": "Changzhou",
@@ -15894,10 +16018,6 @@
   "Santa_Barbara_Municipal_Airport": {
     "name": "Santa Barbara",
     "url": "Santa_Barbara,_California"
-  },
-  "Santa_Maria_Public_Airport": {
-    "name": "Santa Maria",
-    "url": "Santa_Maria,_California"
   },
   "Houghton_County_Memorial_Airport": {
     "name": "Calumet",
@@ -16123,14 +16243,6 @@
     "name": "Belgaum",
     "url": "Belgaum"
   },
-  "Niagara_Falls_International_Airport": {
-    "name": "Niagara Falls",
-    "url": "Niagara_Falls,_New_York"
-  },
-  "Plattsburgh_International_Airport": {
-    "name": "Plattsburgh",
-    "url": "Plattsburgh"
-  },
   "Arnold_Palmer_Regional_Airport": {
     "name": "Latrobe",
     "url": "Latrobe,_Pennsylvania"
@@ -16279,10 +16391,6 @@
     "name": "Swiss Global Air Lines",
     "url": "Swiss_Global_Air_Lines"
   },
-  "Rome-Fiumicino": {
-    "name": "Rome",
-    "url": "Rome"
-  },
   "Luxembourg_-_Findel_Airport": {
     "name": "Luxembourg",
     "url": "Luxembourg"
@@ -16298,6 +16406,10 @@
   "Sebha_Airport": {
     "name": "Sebha",
     "url": "Sebha"
+  },
+  "European_Union": {
+    "name": "Syrian civil war",
+    "url": "Syrian_civil_war"
   },
   "Benguela_Airport": {
     "name": "Benguela",
@@ -16464,8 +16576,8 @@
     "url": "Nantes"
   },
   "Genoa_Airport": {
-    "name": "Genoa",
-    "url": "Genoa"
+    "name": "Genova",
+    "url": "Genova"
   },
   "A_Coruna_Airport": {
     "name": "La Coruna",
@@ -16659,6 +16771,22 @@
     "name": "Leeds",
     "url": "Leeds"
   },
+  "Cuba": {
+    "name": "Havana",
+    "url": "Havana"
+  },
+  "Marsa_Matruh_International_Airport": {
+    "name": "Mersa Matruh",
+    "url": "Mersa_Matruh"
+  },
+  "Blackpool_Airport": {
+    "name": "Blackpool",
+    "url": "Blackpool"
+  },
+  "Coventry_Airport": {
+    "name": "Coventry",
+    "url": "Coventry"
+  },
   "Linfen_Qiaoli_Airport": {
     "name": "Linfen",
     "url": "Linfen"
@@ -16738,10 +16866,6 @@
   "Joa%C3%A7aba_Airport": {
     "name": "Joaçaba",
     "url": "Joa%C3%A7aba"
-  },
-  "Lages_Airport": {
-    "name": "Lages",
-    "url": "Lages"
   },
   "Pato_Branco_Airport": {
     "name": "Pato Branco",
@@ -16891,6 +17015,10 @@
     "name": "Ukraine International Airlines",
     "url": "Ukraine_International_Airlines"
   },
+  "Gdansk_Airport": {
+    "name": "Gdansk",
+    "url": "Gdansk"
+  },
   "Greater_Binghamton_Airport": {
     "name": "Binghamton",
     "url": "Binghamton,_New_York"
@@ -16898,14 +17026,6 @@
   "Theodore_Francis_Green_State_Airport": {
     "name": "Providence",
     "url": "Providence,_Rhode_Island"
-  },
-  "General_Wayne_A._Downing_Peoria_International_Airport": {
-    "name": "Peoria",
-    "url": "Peoria,_Illinois"
-  },
-  "Topeka_Regional_Airport": {
-    "name": "Topeka",
-    "url": "Topeka,_Kansas"
   },
   "Dickinson_Theodore_Roosevelt_Regional_Airport": {
     "name": "Dickinson",
@@ -16955,10 +17075,6 @@
     "name": "Beckley",
     "url": "Beckley,_West_Virginia"
   },
-  "North_Central_West_Virginia_Airport": {
-    "name": "Clarksburg",
-    "url": "Clarksburg,_West_Virginia"
-  },
   "Morgantown_Municipal_Airport": {
     "name": "Morgantown",
     "url": "Morgantown,_West_Virginia"
@@ -17002,10 +17118,6 @@
   "Grabtsevo_Airport": {
     "name": "Kaluga",
     "url": "Kaluga"
-  },
-  "Lisbon_Airport": {
-    "name": "Lisbon\nbegins 29 May 2016",
-    "url": "Lisbon"
   },
   "Aspen%E2%80%93Pitkin_County_Airport": {
     "name": "Aspen",
@@ -17195,10 +17307,6 @@
     "name": "Điên Biên Phủ",
     "url": "%C4%90i%C3%AAn_Bi%C3%AAn_Ph%E1%BB%A7"
   },
-  "Phu_Quoc_Airport": {
-    "name": "Phu Quoc",
-    "url": "Phu_Quoc"
-  },
   "Rach_Gia_Airport": {
     "name": "Rạch Giá",
     "url": "R%E1%BA%A1ch_Gi%C3%A1"
@@ -17275,29 +17383,29 @@
     "name": "Magadan",
     "url": "Magadan"
   },
-  "Norman_Y._Mineta_San_Jose_International_Airport": {
-    "name": "San Jose",
-    "url": "San_Jose,_California"
+  "Bachigualato_Federal_International_Airport": {
+    "name": "Culiacán",
+    "url": "Culiac%C3%A1n"
   },
-  "Lic._y_Gen._Ignacio_L%C3%B3pez_Ray%C3%B3n_International_Airport": {
-    "name": "Uruapan",
-    "url": "Uruapan"
+  "Hermosillo_International_Airport": {
+    "name": "Hermosillo",
+    "url": "Hermosillo"
   },
-  "Caen_Carpiquet_Airport": {
-    "name": "Caen",
-    "url": "Caen,_France"
+  "Quer%C3%A9taro_Intercontinental_Airport": {
+    "name": "Querétaro",
+    "url": "Quer%C3%A9taro,_Quer%C3%A9taro"
   },
-  "Figari%E2%80%93Sud_Corse_Airport": {
-    "name": "Figari",
-    "url": "Figari"
+  "Tijuana_International_Airport": {
+    "name": "Tijuana",
+    "url": "Tijuana"
   },
-  "Alghero_Airport": {
-    "name": "Alghero",
-    "url": "Alghero"
+  "Toluca_International_Airport": {
+    "name": "Toluca/Mexico City",
+    "url": "Toluca"
   },
   "Sal_International_Airport": {
     "name": "Sal",
-    "url": "Sal"
+    "url": "Sal,_Cape_Verde"
   },
   "Accra_International_Airport": {
     "name": "Accra",
@@ -17395,9 +17503,17 @@
     "name": "Amsterdam",
     "url": "Amsterdam"
   },
+  "Podgorica_International_Airport": {
+    "name": "Podgorica",
+    "url": "Podgorica"
+  },
   "Constanta_International_Airport": {
     "name": "Constanta",
     "url": "Constanta"
+  },
+  "Aberdeen_International_Airport": {
+    "name": "Aberdeen",
+    "url": "Aberdeen"
   },
   "L%C3%BCbeck_Airport": {
     "name": "Lübeck",

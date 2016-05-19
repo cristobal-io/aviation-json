@@ -357,7 +357,7 @@
   {
     "name": "Allegiant Air",
     "destinationsLink": "/wiki/Allegiant_Air_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "ALMA de México",
@@ -1230,14 +1230,14 @@
     "scraper": "default"
   },
   {
-    "name": "LAN Colombia",
-    "destinationsLink": "/wiki/LAN_Colombia_destinations",
-    "scraper": "table"
-  },
-  {
     "name": "LAN Perú",
     "destinationsLink": "/wiki/LAN_Per%C3%BA_destinations",
     "scraper": "default"
+  },
+  {
+    "name": "LATAM Colombia",
+    "destinationsLink": "/wiki/LATAM_Colombia_destinations",
+    "scraper": "table"
   },
   {
     "name": "LIAT",
@@ -1608,6 +1608,11 @@
     "name": "SCAT Air",
     "destinationsLink": "/wiki/SCAT_Air_destinations",
     "scraper": "default"
+  },
+  {
+    "name": "Scoot",
+    "destinationsLink": "/wiki/Scoot_destinations",
+    "scraper": "table"
   },
   {
     "name": "Shaheen Air",
@@ -2078,11 +2083,6 @@
     "name": "Volaris",
     "destinationsLink": "/wiki/Volaris_destinations",
     "scraper": "table"
-  },
-  {
-    "name": "Volotea Destinations",
-    "destinationsLink": "/wiki/Volotea_Destinations",
-    "scraper": "default"
   },
   {
     "name": "Vueling",

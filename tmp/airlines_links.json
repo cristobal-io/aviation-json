@@ -8400,8 +8400,8 @@
     "IATA": "H9",
     "ICAO": "HAD",
     "airline": {
-      "name": "Air D'Ayiti",
-      "link": "/wiki/Air_D%27Ayiti"
+      "name": "Air d'Ayiti",
+      "link": "/wiki/Air_d%27Ayiti"
     },
     "CallSign": "HAITI AVIA",
     "Country": "Haiti"
@@ -10994,7 +10994,8 @@
   {
     "ICAO": "RUN",
     "airline": {
-      "name": "ACT Havayollari"
+      "name": "ACT Havayollari",
+      "link": "/wiki/ACT_Havayollari"
     },
     "CallSign": "CARGO TURK",
     "Country": "Turkey"
@@ -12319,7 +12320,8 @@
   {
     "ICAO": "ATZ",
     "airline": {
-      "name": "Ace Air"
+      "name": "Ace Air",
+      "link": "/wiki/Ace_Air"
     },
     "CallSign": "ACE TAXI",
     "Country": "South Korea"
@@ -15468,8 +15470,7 @@
     "IATA": "3C",
     "ICAO": "CMV",
     "airline": {
-      "name": "Calima Aviación",
-      "link": "/wiki/Calima_Aviaci%C3%B3n"
+      "name": "Calima Aviación"
     },
     "CallSign": "CALIMA",
     "Country": "Spain"
@@ -16238,7 +16239,8 @@
   {
     "ICAO": "CNS",
     "airline": {
-      "name": "Cobalt Air"
+      "name": "Cobalt Air",
+      "link": "/wiki/Cobalt_Air"
     },
     "CallSign": "CHRONOS",
     "Country": "United States"
@@ -23072,8 +23074,7 @@
   {
     "ICAO": "FLK",
     "airline": {
-      "name": "Flylink Express",
-      "link": "/wiki/Flylink_Express"
+      "name": "Flylink Express"
     },
     "CallSign": "FLYLINK",
     "Country": "Spain"
@@ -23105,8 +23106,7 @@
   {
     "ICAO": "NOF",
     "airline": {
-      "name": "Fonnafly",
-      "link": "/wiki/Fonnafly"
+      "name": "Fonnafly"
     },
     "CallSign": "FONNA",
     "Country": "Norway"
@@ -31984,8 +31984,7 @@
   {
     "ICAO": "MAE",
     "airline": {
-      "name": "Mali Air",
-      "link": "/wiki/Mali_Air"
+      "name": "Mali Air"
     },
     "CallSign": "MALI AIREXPRESS",
     "Country": "Austria"
@@ -35828,8 +35827,7 @@
   {
     "ICAO": "ORE",
     "airline": {
-      "name": "Orange Aviation",
-      "link": "/wiki/Orange_Aviation"
+      "name": "Orange Aviation"
     },
     "CallSign": "ORANGE AVIATION",
     "Country": "Israel"
@@ -50883,8 +50881,7 @@
   {
     "ICAO": "QGA",
     "airline": {
-      "name": "Windrose Air",
-      "link": "/wiki/Windrose_Air"
+      "name": "Windrose Air"
     },
     "CallSign": "QUADRIGA",
     "Country": "Germany"
