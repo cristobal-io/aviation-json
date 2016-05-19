@@ -104,6 +104,10 @@ describe("bin/scrape.js tests", function () {
       _.map(airportsCities, function (airport) {
         assert.ok(airport, "there is an airport without city");
         assert.ok(airport.name, "there is no name");
+        if (airport.url !== undefined) {
+          assert.ok((airport.url).indexOf("/wiki/") === -1, "the city url has some '/wiki/' href left.");
+          
+        }
       });
     });
 

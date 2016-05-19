@@ -4,15 +4,15 @@
 
 var _ = require("lodash");
 
-var getAirportAirlines = function(destinationsRaw) {
-  var airportAirlines = _.reduce(destinationsRaw, function(result, value) {
+var getAirportAirlines = function (destinationsRaw) {
+  var airportAirlines = _.reduce(destinationsRaw, function (result, value) {
     var airlineName = value.name;
 
-    value.destinations.map(function(destination) {
+    value.destinations.map(function (destination) {
 
       if (destination.airport === undefined) {
         return;
-      } 
+      }
       var airportName = cleanUrl(destination.airport.url);
 
       if (result[airportName] !== undefined) {
@@ -24,7 +24,7 @@ var getAirportAirlines = function(destinationsRaw) {
       }
     });
     return result;
-  },{});
+  }, {});
 
   return airportAirlines;
 };
@@ -36,7 +36,7 @@ var getCityAirports = function (destinationsRaw) {
       var cityKey;
 
       if (destination.airport) {
-        if (destination.airport.url && destination.city.url)  {
+        if (destination.airport.url && destination.city.url) {
           cityKey = cleanUrl(destination.city.url);
           result[cityKey] = cleanUrl(destination.airport.url);
         }
@@ -70,13 +70,21 @@ function groupAirports(cityAirports) {
 
 var generateAirportCity = function (destinationsRaw) {
   var airportKey;
+  var cityUrl;
   var airportsCities = _.reduce(destinationsRaw, function (result, value) {
     if (value.destinations) {
       _.map(value.destinations, function (destination) {
         if (destination.airport) {
           airportKey = cleanUrl(destination.airport.url);
 
-          result[airportKey] = destination.city;
+          if (destination.city.url) {
+            cityUrl = cleanUrl(destination.city.url) || "";
+          }
+
+          result[airportKey] = {
+            name: destination.city.name,
+            url: cityUrl
+          };
         }
       });
     }
@@ -127,7 +135,7 @@ function getDDCoordinates(coordinates) {
 }
 
 function convertDMSToDD(degrees, minutes, seconds, direction) {
-  var dd = + degrees + minutes / 60 + seconds / (60 * 60);
+  var dd = +degrees + minutes / 60 + seconds / (60 * 60);
 
   if (direction == "S" || direction == "W") {
     dd = dd * -1;
@@ -180,9 +188,9 @@ var getAirportRunways = function (airportsRaw) {
 var reduceAirlines = function (airlinesRaw) {
   var airlines = _.reduce(airlinesRaw, function (result, value) {
 
-    var hubs = _.map(value.hubs, function(hub) {
+    var hubs = _.map(value.hubs, function (hub) {
       var link = cleanUrl(hub.link);
-      
+
       return {
         name: hub.name,
         link: link
@@ -231,7 +239,7 @@ function getIcaoName(destination, airports) {
   return icaoAirport;
 }
 
-function hasDuplicates (cityArray, city) {
+function hasDuplicates(cityArray, city) {
   return cityArray.findIndex(function (value) {
     return value === city;
   });
@@ -254,6 +262,6 @@ module.exports = {
   getAirportRunways: getAirportRunways,
   generateAirportCity: generateAirportCity,
   getCityAirports: getCityAirports,
-  getAirportAirlines:getAirportAirlines,
+  getAirportAirlines: getAirportAirlines,
   getDDCoordinates: getDDCoordinates
 };
