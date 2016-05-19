@@ -219,8 +219,22 @@ describe("bin/scrape.js tests", function () {
 
     before(function () {
       airlines = reduceAirlines(airlinesRaw);
+      // console.log(JSON.stringify(airlines,null,2));
     });
 
+    it("should not include wiki url for hubs", function() {
+      _.each(airlines, function(airline) {
+        assert.ok(Array.isArray(airline.hubs), "the hubs is not returning an array.");
+        if (airline.hubs !== undefined) {
+          _.each(airline.hubs, function(hub) {
+
+            assert.ok((hub.link).indexOf("/wiki/") === -1, "the hubs have some '/wiki/' urls left.");
+            // console.log(JSON.stringify(hub.link,null, 2));
+            
+          });
+        }
+      });
+    });
     it("should have all a name so we can use it as a primary key", function () {
       _.map(airlinesRaw, function (airline) {
         assert.ok(airline.name, "doesn't has name" + airline.name);

@@ -180,6 +180,15 @@ var getAirportRunways = function (airportsRaw) {
 var reduceAirlines = function (airlinesRaw) {
   var airlines = _.reduce(airlinesRaw, function (result, value) {
 
+    var hubs = _.map(value.hubs, function(hub) {
+      var link = cleanUrl(hub.link);
+      
+      return {
+        name: hub.name,
+        link: link
+      };
+    });
+
     var airlineKey = cleanUrl(value.url);
     var airlineData = {
       "name": value.name,
@@ -187,7 +196,7 @@ var reduceAirlines = function (airlinesRaw) {
       "IATA": value.IATA,
       "ICAO": value.ICAO,
       "Callsign": value.Callsign,
-      "hubs": value.hubs,
+      "hubs": hubs,
       "website": value.website
     };
 
