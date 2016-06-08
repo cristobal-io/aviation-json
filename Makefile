@@ -41,13 +41,13 @@ aviation-json:
 	./bin/cleanup airports
 	./bin/cleanup city_airports
 
-sync: aviation-scrapper aviation-json
+sync: aviation-scraper aviation-json
 
-aviation-scrapper: setup
-	aviation-scrapper -d
-	aviation-scrapper -l
-	aviation-scrapper -c
-	aviation-scrapper -a
+aviation-scraper: setup
+	aviation-scraper -d
+	aviation-scraper -l
+	aviation-scraper -c
+	aviation-scraper -a
 
 help:
 	./bin/cleanup -h

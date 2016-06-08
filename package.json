@@ -1,7 +1,7 @@
 {
   "name": "aviation-json",
   "version": "0.0.9",
-  "description": "Module that uses aviation-scrapper as a dev dependency to generate using a single command aviation files ready.",
+  "description": "Module that uses aviation-scraper as a dev dependency to generate using a single command aviation files ready.",
   "main": "index.js",
   "keywords": [
     "aviation",
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "ajv": "3.8.5",
-    "aviation-scrapper": "0.0.11",
+    "aviation-scraper": "0.0.13",
     "coveralls": "2.11.9",
     "eslint": "2.5.3",
     "mocha": "2.4.5",

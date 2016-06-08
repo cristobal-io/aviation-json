@@ -7,7 +7,7 @@
 
 Module created to make available a quick way to update all the aviation related information from wikipedia.
 
-Using the package aviation-scrapper to download all the information regarding airports, airlines and their destinations from wikipedia exposes the following files:
+Using the package aviation-scraper to download all the information regarding airports, airlines and their destinations from wikipedia exposes the following files:
 
 * airline_destinations.json (an object where the key is the airline url and an array of destination airport urls)
 * airlines.json (an array with all the airlines data)
