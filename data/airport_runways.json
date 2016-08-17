@@ -339,10 +339,10 @@
   ],
   "Albina_Airstrip": [
     {
-      "Direction": "11/29",
-      "ft": "1,232.5",
-      "m": "650",
-      "Surface": "asphalt"
+      "Direction": "04/22",
+      "m": "760",
+      "ft": "2,493",
+      "Surface": "Grass"
     }
   ],
   "Aboisso_Airport": [
@@ -649,6 +649,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Xingyi_Wanfenglin_Airport": [
+    {
+      "Direction": "16/34",
+      "m": "2,300",
+      "ft": "7,546",
+      "Surface": ""
+    }
+  ],
   "Atlantic_City_International_Airport": [
     {
       "Direction": "4/22",
@@ -757,7 +765,7 @@
     {
       "Direction": "10/28",
       "m": "1,920",
-      "ft": "6,300",
+      "ft": "6,299",
       "Surface": "Asphalt"
     }
   ],
@@ -814,15 +822,7 @@
   "Andamooka_Airport": [
     {
       "Direction": "17/35",
-      "m": "",
-      "ft": "",
-      "Surface": ""
-    },
-    {
-      "Direction": "07/25",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "m": "07/25"
     }
   ],
   "Ampara_Airport": [
@@ -1215,9 +1215,9 @@
   ],
   "Wageningen_Airstrip": [
     {
-      "Direction": "",
-      "ft": "",
-      "m": "550",
+      "Direction": "09/27",
+      "m": "950",
+      "ft": "3,117",
       "Surface": "asphalt"
     }
   ],
@@ -1453,13 +1453,13 @@
     {
       "Direction": "08/26",
       "m": "900",
-      "ft": "2,952",
+      "ft": "2,953",
       "Surface": "Grass"
     },
     {
       "Direction": "17/352",
       "m": "850",
-      "ft": "2,788",
+      "ft": "2,789",
       "Surface": "Grass"
     }
   ],
@@ -1791,10 +1791,10 @@
   ],
   "Akieni_Airport": [
     {
-      "Direction": "",
-      "ft": "6,070",
-      "m": "1,850",
-      "Surface": ""
+      "Direction": "06/24",
+      "m": "1,915",
+      "ft": "6,283",
+      "Surface": "Gravel"
     }
   ],
   "Kufra_Airport": [
@@ -2318,7 +2318,7 @@
       "Surface": "Concrete"
     },
     {
-      "Direction": "08L/26R",
+      "Direction": "08L/26R CLOSED UNTIL 29 OCTOBER 2016",
       "ft": "12,008",
       "m": "3,660",
       "Surface": "Asphalt"
@@ -2536,7 +2536,7 @@
   ],
   "Zanaga_Airport": [
     {
-      "Direction": "",
+      "Direction": "08/26",
       "m": "1,400",
       "ft": "4,593",
       "Surface": ""
@@ -2559,9 +2559,9 @@
   "Andulo_Airport": [
     {
       "Direction": "01/19",
-      "ft": "10,000",
-      "m": "3,048",
-      "Surface": "DIRT"
+      "m": "3,070",
+      "ft": "10,072",
+      "Surface": "Dirt"
     }
   ],
   "Antsirabato_Airport": [
@@ -2625,14 +2625,14 @@
   "Antwerp_International_Airport": [
     {
       "Direction": "11/29",
-      "ft": "4,954",
       "m": "1,510",
+      "ft": "4,954",
       "Surface": "Asphalt"
     },
     {
       "Direction": "11/29",
-      "ft": "1,969",
       "m": "600",
+      "ft": "1,969",
       "Surface": "Grass"
     }
   ],
@@ -3047,9 +3047,9 @@
   "Quich%C3%A9_Airport": [
     {
       "Direction": "17/35",
-      "ft": "1,200",
-      "m": "366",
-      "Surface": "asphalt"
+      "m": "1,245",
+      "ft": "4,085",
+      "Surface": "Asphalt"
     }
   ],
   "Anqing_Tianzhushan_Airport": [
@@ -3132,7 +3132,7 @@
     {
       "Direction": "03 / 21",
       "ft": "2,952",
-      "m": "900",
+      "m": "1,800",
       "Surface": "Asphalt"
     }
   ],
@@ -3307,9 +3307,9 @@
   "N%27zeto_Airport": [
     {
       "Direction": "04/22",
-      "m": "2,192",
-      "ft": "7,190",
-      "Surface": "GRASS"
+      "m": "2,230",
+      "ft": "7,316",
+      "Surface": "Grass"
     }
   ],
   "Assab_International_Airport": [
@@ -4530,9 +4530,9 @@
   "Ambriz_Airport": [
     {
       "Direction": "16/34",
-      "ft": "7,940",
       "m": "2,420",
-      "Surface": "DIRT"
+      "ft": "7,940",
+      "Surface": "Dirt"
     }
   ],
   "Beale_Air_Force_Base": [
@@ -4587,12 +4587,6 @@
       "ft": "12,979",
       "m": "3,956",
       "Surface": "Asphalt"
-    },
-    {
-      "Direction": "12R/30L",
-      "ft": "8,302",
-      "m": "2,530",
-      "Surface": "Asphalt"
     }
   ],
   "Buenos_Aires_Airport_(Costa_Rica)": [
@@ -4629,7 +4623,7 @@
     {
       "Direction": "08/26",
       "m": "1,200",
-      "ft": "3,938",
+      "ft": "3,937",
       "Surface": "Grass"
     }
   ],
@@ -4757,7 +4751,7 @@
       "Surface": "Asphalt"
     },
     {
-      "Direction": "14/32[1]",
+      "Direction": "14/32",
       "m": "2,743",
       "ft": "9,000",
       "Surface": "Asphalt"
@@ -4980,8 +4974,8 @@
   "Barcelona%E2%80%93El_Prat_Airport": [
     {
       "Direction": "07L/25R",
-      "m": "3,552",
-      "ft": "11,653",
+      "m": "3,743",
+      "ft": "12,281",
       "Surface": "Asphalt concrete"
     },
     {
@@ -5038,8 +5032,8 @@
   "Bauchi_Airport": [
     {
       "Direction": "15/33",
-      "ft": "7,550",
       "m": "2,300",
+      "ft": "7,546",
       "Surface": "Asphalt"
     }
   ],
@@ -5174,8 +5168,8 @@
   "Husein_Sastranegara_International_Airport": [
     {
       "Direction": "11/29",
-      "ft": "7,361",
-      "m": "2,244",
+      "ft": "7,380",
+      "m": "2,250",
       "Surface": "Asphalt"
     }
   ],
@@ -5404,8 +5398,8 @@
   "Bellary_Airport": [
     {
       "Direction": "12/30",
-      "m": "",
-      "ft": "3,629",
+      "ft": "3,630",
+      "m": "1,106",
       "Surface": "Asphalt"
     }
   ],
@@ -5676,13 +5670,13 @@
       "Direction": "13/31",
       "ft": "4,501",
       "m": "1,372",
-      "Surface": "Asphalt"
+      "Surface": "Concrete"
     },
     {
       "Direction": "6/24",
-      "ft": "3,089",
+      "ft": "3,002",
       "m": "942",
-      "Surface": "Asphalt"
+      "Surface": "Concrete"
     }
   ],
   "Belfast_International_Airport": [
@@ -5745,6 +5739,14 @@
       "m": "2,260",
       "ft": "7,381",
       "Surface": "Asphalt"
+    }
+  ],
+  "Boou%C3%A9_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "1,000",
+      "ft": "3,281",
+      "Surface": "Laterite"
     }
   ],
   "Bragan%C3%A7a_Airport": [
@@ -6304,8 +6306,8 @@
   "Bilbao_Airport": [
     {
       "Direction": "10/28",
-      "m": "2,000/1,450",
-      "ft": "6,562/4,757",
+      "m": "2,000",
+      "ft": "6,562",
       "Surface": "Asphalt"
     },
     {
@@ -6348,8 +6350,8 @@
   "B%C3%ADldudalur_Airport": [
     {
       "Direction": "05/23",
-      "m": "940",
-      "ft": "3,084",
+      "m": "1,000",
+      "ft": "3,281",
       "Surface": "Asphalt"
     }
   ],
@@ -6511,7 +6513,7 @@
     {
       "Direction": "10 / 28",
       "ft": "2,953",
-      "m": "900",
+      "m": "1,800",
       "Surface": "Asphalt"
     }
   ],
@@ -6770,8 +6772,8 @@
   "Bukoba_Airport": [
     {
       "Direction": "13/31",
-      "m": "1,391",
-      "ft": "4,564",
+      "m": "1,385",
+      "ft": "4,544",
       "Surface": "Asphalt[1]"
     }
   ],
@@ -6944,8 +6946,8 @@
   "Bl%C3%B6ndu%C3%B3s_Airport": [
     {
       "Direction": "03/21",
-      "ft": "3,182",
       "m": "970",
+      "ft": "3,182",
       "Surface": "Gravel"
     }
   ],
@@ -7093,6 +7095,14 @@
       "Surface": "Asphalt/Concrete"
     }
   ],
+  "Baramita_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "914",
+      "ft": "2,999",
+      "Surface": "Grass"
+    }
+  ],
   "Borkum_Airfield": [
     {
       "Direction": "13/31",
@@ -7124,8 +7134,8 @@
   "Bitam_Airport": [
     {
       "Direction": "13/31",
-      "ft": "5,726",
-      "m": "1,645",
+      "m": "1,830",
+      "ft": "6,004",
       "Surface": "Laterite"
     }
   ],
@@ -7193,10 +7203,7 @@
   ],
   "%C3%8Ele_Art_%E2%80%93_Waala_Airport": [
     {
-      "Direction": "09/27",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "Direction": "09/27"
     }
   ],
   "Nashville_International_Airport": [
@@ -7433,10 +7440,10 @@
   ],
   "Boundji_Airport": [
     {
-      "Direction": "",
-      "m": "1,020",
-      "ft": "3,346",
-      "Surface": ""
+      "Direction": "10/28",
+      "m": "1,080",
+      "ft": "3,543",
+      "Surface": "Gravel"
     }
   ],
   "El_Dorado_International_Airport": [
@@ -7788,9 +7795,9 @@
   "Bubaque_Airport": [
     {
       "Direction": "17/35",
-      "ft": "3,870",
-      "m": "1,180",
-      "Surface": "Unpaved"
+      "m": "1,210",
+      "ft": "3,970",
+      "Surface": "Grass"
     }
   ],
   "Bogorodskoye_Airport": [
@@ -8089,7 +8096,7 @@
   ],
   "Brussels_Airport": [
     {
-      "Direction": "01/19[1]",
+      "Direction": "01/19",
       "m": "2,987",
       "ft": "9,800",
       "Surface": "Asphalt"
@@ -8337,17 +8344,17 @@
   ],
   "B%C3%A9tou_Airport": [
     {
-      "Direction": "",
+      "Direction": "08/26",
       "m": "1,000",
       "ft": "3,281",
-      "Surface": ""
+      "Surface": "Dirt"
     }
   ],
   "Batticaloa_Airport": [
     {
       "Direction": "06/24",
-      "m": "1,066",
-      "ft": "3,497",
+      "m": "1,600",
+      "ft": "5,249",
       "Surface": "Bitumen"
     }
   ],
@@ -8451,9 +8458,9 @@
   ],
   "Botopasi_Airstrip": [
     {
-      "Direction": "07/25",
-      "ft": "",
-      "m": "300",
+      "Direction": "05/23",
+      "m": "550",
+      "ft": "1,804",
       "Surface": "grass"
     }
   ],
@@ -8618,8 +8625,8 @@
   "Benguela_Airport": [
     {
       "Direction": "14/32",
-      "m": "1,620",
-      "ft": "5,315",
+      "m": "1,597",
+      "ft": "5,240",
       "Surface": "Asphalt"
     }
   ],
@@ -8887,6 +8894,14 @@
       "m": "2,380",
       "ft": "7,808",
       "Surface": "Concrete"
+    }
+  ],
+  "Batavia_Downs_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "1,000",
+      "ft": "3,281",
+      "Surface": "Asphalt"
     }
   ],
   "Batesville_Regional_Airport": [
@@ -9252,8 +9267,8 @@
   "Brei%C3%B0dalsv%C3%ADk_Airport": [
     {
       "Direction": "12/30",
-      "ft": "3,075",
       "m": "938",
+      "ft": "3,077",
       "Surface": "Grass"
     }
   ],
@@ -9600,7 +9615,7 @@
   ],
   "Cabinda_Airport": [
     {
-      "Direction": "01/19",
+      "Direction": "18/36",
       "m": "2,500",
       "ft": "8,202",
       "Surface": "Asphalt"
@@ -9799,8 +9814,8 @@
   "Cascais_Aerodrome": [
     {
       "Direction": "17/35",
-      "m": "1,190",
-      "ft": "3,904",
+      "m": "1,700",
+      "ft": "5,577",
       "Surface": "Asphalt"
     }
   ],
@@ -9817,7 +9832,7 @@
       "Direction": "17/35",
       "m": "1,975",
       "ft": "6,480",
-      "Surface": "DIRT"
+      "Surface": "Dirt"
     }
   ],
   "Bartolomeu_Lysandro_Airport": [
@@ -10054,10 +10069,10 @@
   ],
   "Catumbela_Airport": [
     {
-      "Direction": "02/20[1]",
+      "Direction": "02/20",
       "m": "3,700",
       "ft": "12,139",
-      "Surface": "asphalt"
+      "Surface": "Asphalt"
     }
   ],
   "Cottbus-Drewitz_Airport": [
@@ -10077,8 +10092,8 @@
   "Cob%C3%A1n_Airport": [
     {
       "Direction": "02/20",
-      "m": "1,018",
-      "ft": "3,340",
+      "m": "996",
+      "ft": "3,268",
       "Surface": "Asphalt"
     }
   ],
@@ -10353,7 +10368,7 @@
       "Direction": "08R/26L",
       "m": "2,700",
       "ft": "8,858",
-      "Surface": "Concrete"
+      "Surface": "Asphalt"
     },
     {
       "Direction": "09L/27R",
@@ -10625,9 +10640,9 @@
   "Waco_Kungo_Airport": [
     {
       "Direction": "07/25",
-      "m": "1,993",
-      "ft": "6,540",
-      "Surface": "ASPHALT"
+      "m": "2,005",
+      "ft": "6,578",
+      "Surface": "Asphalt"
     }
   ],
   "Concepci%C3%B3n_Airport": [
@@ -10777,7 +10792,7 @@
       "Direction": "06/24",
       "m": "2,612",
       "ft": "8,570",
-      "Surface": "ASPHALT"
+      "Surface": "Gravel"
     }
   ],
   "Jaime_Gonz%C3%A1lez_Airport": [
@@ -10908,6 +10923,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Changde_Taohuayuan_Airport": [
+    {
+      "Direction": "02/20",
+      "ft": "8,366",
+      "m": "2,550",
+      "Surface": ""
+    }
+  ],
   "Cambridge%E2%80%93Dorchester_Airport": [
     {
       "Direction": "16/34",
@@ -10972,6 +10995,12 @@
       "ft": "11,811",
       "m": "3,600",
       "Surface": "Paved"
+    },
+    {
+      "Direction": "Process",
+      "ft": "Process",
+      "m": "Process",
+      "Surface": "Asphalt Concrete"
     }
   ],
   "Camiguin_Airport": [
@@ -11387,7 +11416,7 @@
   "Chiquimula_Airport": [
     {
       "Direction": "02/20",
-      "ft": "2,885",
+      "ft": "",
       "m": "880",
       "Surface": "Asphalt"
     }
@@ -11780,6 +11809,14 @@
       "Surface": "Concrete"
     }
   ],
+  "Comilla_Airport": [
+    {
+      "Direction": "16/34",
+      "ft": "3,380",
+      "m": "1,030",
+      "Surface": "Asphalt"
+    }
+  ],
   "McClellan%E2%80%93Palomar_Airport": [
     {
       "Direction": "6/24",
@@ -11997,7 +12034,7 @@
   "Clearwater_Air_Park": [
     {
       "Direction": "16/34",
-      "ft": "4,600",
+      "ft": "4,108",
       "m": "1,067",
       "Surface": "Asphalt"
     }
@@ -12049,12 +12086,6 @@
     },
     {
       "Direction": "04R/22L(Planned)",
-      "ft": "13,125",
-      "m": "4,000",
-      "Surface": "Asphalt"
-    },
-    {
-      "Direction": "04L/22R(Planned)",
       "ft": "13,125",
       "m": "4,000",
       "Surface": "Asphalt"
@@ -12523,7 +12554,7 @@
       "Direction": "16/34",
       "m": "2,158",
       "ft": "7,080",
-      "Surface": "DIRT"
+      "Surface": "Dirt"
     }
   ],
   "Columbia_Airport_(California)": [
@@ -12655,8 +12686,8 @@
   "Cadjehoun_Airport": [
     {
       "Direction": "06/24",
-      "ft": "7,874",
       "m": "2,400",
+      "ft": "7,874",
       "Surface": "Asphalt"
     }
   ],
@@ -12997,13 +13028,13 @@
       "Direction": "02R/20L",
       "m": "3,200",
       "ft": "10,499",
-      "Surface": "Concrete"
+      "Surface": "Asphalt/Concrete"
     },
     {
       "Direction": "02L/20R",
       "m": "3,200",
       "ft": "10,499",
-      "Surface": "Concrete"
+      "Surface": "Asphalt/Concrete"
     }
   ],
   "Brussels_South_Charleroi_Airport": [
@@ -13041,6 +13072,20 @@
       "Direction": "18/36",
       "ft": "6,080",
       "m": "1,853",
+      "Surface": "Asphalt"
+    }
+  ],
+  "Caravelas_Airport": [
+    {
+      "Direction": "06/24",
+      "m": "1,530",
+      "ft": "5,020",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "18/36",
+      "m": "1,150",
+      "ft": "3,773",
       "Surface": "Asphalt"
     }
   ],
@@ -13296,7 +13341,7 @@
     {
       "Direction": "07/25",
       "m": "900",
-      "ft": "2,952",
+      "ft": "2,953",
       "Surface": "Asphalt"
     }
   ],
@@ -13318,10 +13363,10 @@
   ],
   "Cuito_Cuanavale_Airport": [
     {
-      "Direction": "12/30",
-      "m": "2,731",
-      "ft": "8,960",
-      "Surface": "ASPHALT"
+      "Direction": "13/31",
+      "m": "2,735",
+      "ft": "8,973",
+      "Surface": "Asphalt"
     }
   ],
   "Charleville_Airport": [
@@ -13625,15 +13670,7 @@
   "Cue_Airport": [
     {
       "Direction": "04/22",
-      "m": "",
-      "ft": "",
-      "Surface": ""
-    },
-    {
-      "Direction": "11/29",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "m": "11/29"
     }
   ],
   "Alejandro_Velasco_Astete_International_Airport": [
@@ -14277,8 +14314,8 @@
   "Changzhou_Benniu_Airport": [
     {
       "Direction": "11/29",
-      "m": "2,800",
-      "ft": "9,186",
+      "m": "3,400",
+      "ft": "11,155",
       "Surface": "Concrete"
     }
   ],
@@ -14366,12 +14403,6 @@
       "ft": "8,800",
       "m": "2,682",
       "Surface": "Concrete"
-    },
-    {
-      "Direction": "18/36",
-      "ft": "6,147",
-      "m": "1,874",
-      "Surface": "Asphalt"
     }
   ],
   "Damascus_International_Airport": [
@@ -14448,6 +14479,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Dazhou_Heshi_Airport": [
+    {
+      "Direction": "02/20",
+      "m": "2,000",
+      "ft": "6,562",
+      "Surface": "Concrete"
+    }
+  ],
   "Dayton_International_Airport": [
     {
       "Direction": "6L/24R",
@@ -14482,6 +14521,14 @@
       "m": "1,524",
       "ft": "5,000",
       "Surface": "Paved"
+    }
+  ],
+  "Al_Alamain_International_Airport": [
+    {
+      "Direction": "13/31",
+      "m": "3,499",
+      "ft": "11,479",
+      "Surface": "Asphalt"
     }
   ],
   "Baicheng_Chang%27an_Airport": [
@@ -14703,8 +14750,8 @@
   "Dera_Ghazi_Khan_International_Airport": [
     {
       "Direction": "18L/36R",
-      "m": "1,981",
-      "ft": "6,499",
+      "m": "2,618",
+      "ft": "8,800",
       "Surface": "Asphalt"
     }
   ],
@@ -15220,21 +15267,21 @@
   ],
   "Dolisie_Airport": [
     {
-      "Direction": "",
+      "Direction": "14/32",
       "m": "2,050",
       "ft": "6,726",
-      "Surface": ""
+      "Surface": "Asphalt"
     }
   ],
   "Diu_Airport": [
     {
-      "Direction": "05/22",
+      "Direction": "05/23",
       "ft": "5,980",
       "m": "1,823",
       "Surface": "Asphalt"
     },
     {
-      "Direction": "13/31",
+      "Direction": "13/31(Not in use)",
       "ft": "3,555",
       "m": "1,084",
       "Surface": "Asphalt"
@@ -15296,10 +15343,10 @@
   ],
   "Djambala_Airport": [
     {
-      "Direction": "",
-      "m": "1,750",
-      "ft": "5,741",
-      "Surface": ""
+      "Direction": "04/22",
+      "m": "2,050",
+      "ft": "6,726",
+      "Surface": "Asphalt"
     }
   ],
   "Delta_Junction_Airport": [
@@ -15672,7 +15719,7 @@
   ],
   "Dunhuang_Airport": [
     {
-      "Direction": "",
+      "Direction": "08/26",
       "m": "2,800",
       "ft": "9,186",
       "Surface": ""
@@ -15792,6 +15839,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Dobo_Airport": [
+    {
+      "Direction": "05/23",
+      "ft": "2,625",
+      "m": "800",
+      "Surface": "Asphalt Concrete"
+    }
+  ],
   "Dodoma_Airport": [
     {
       "Direction": "10/28",
@@ -15857,7 +15912,7 @@
   "Dos_Lagunas_Airport": [
     {
       "Direction": "10/28",
-      "ft": "4,690",
+      "ft": "",
       "m": "1,430",
       "Surface": "Grass"
     }
@@ -15902,10 +15957,10 @@
   ],
   "Dongying_Shengli_Airport": [
     {
-      "Direction": "36/18",
+      "Direction": "18/36",
       "m": "2,800",
       "ft": "9,186",
-      "Surface": "concrete"
+      "Surface": "Concrete"
     }
   ],
   "DuPage_Airport": [
@@ -16013,9 +16068,9 @@
   "Dirico_Airport": [
     {
       "Direction": "11/29",
-      "m": "1,433",
-      "ft": "4,700",
-      "Surface": "GRAVEL"
+      "m": "1,700",
+      "ft": "5,577",
+      "Surface": "Grass"
     }
   ],
   "Drummond_Island_Airport": [
@@ -16062,9 +16117,9 @@
   ],
   "Drietabbetje_Airstrip": [
     {
-      "Direction": "11/29",
-      "ft": "",
+      "Direction": "04/22",
       "m": "460",
+      "ft": "1,509",
       "Surface": "concrete"
     }
   ],
@@ -16383,8 +16438,8 @@
   "Dundo_Airport": [
     {
       "Direction": "04/22",
-      "m": "1,971",
-      "ft": "6,468",
+      "m": "2,500",
+      "ft": "8,202",
       "Surface": "Asphalt"
     }
   ],
@@ -17808,6 +17863,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Enshi_Xujiaping_Airport": [
+    {
+      "Direction": "01/19",
+      "m": "2,100",
+      "ft": "6,890",
+      "Surface": "Paved"
+    }
+  ],
   "El_Nido_Airport": [
     {
       "Direction": "12/30",
@@ -17825,8 +17888,8 @@
   "El_Naranjo_Airport": [
     {
       "Direction": "17/35",
-      "ft": "2,755",
       "m": "840",
+      "ft": "2,756",
       "Surface": "Grass"
     }
   ],
@@ -18045,8 +18108,8 @@
   "P%C3%A4rnu_Airport": [
     {
       "Direction": "03/21",
-      "m": "2,480",
-      "ft": "8,136",
+      "m": "799",
+      "ft": "2,621",
       "Surface": "Concrete"
     }
   ],
@@ -18618,10 +18681,10 @@
   ],
   "Ewo_Airport": [
     {
-      "Direction": "",
-      "m": "1,300",
-      "ft": "4,265",
-      "Surface": ""
+      "Direction": "14/32",
+      "m": "2,070",
+      "ft": "6,791",
+      "Surface": "Asphalt"
     }
   ],
   "Newark_Liberty_International_Airport": [
@@ -18751,14 +18814,14 @@
       "Direction": "12/30",
       "m": "1,799",
       "ft": "5,902",
-      "Surface": "Asphalt"
+      "Surface": "[Asphalt"
     }
   ],
   "Fagurh%C3%B3lsm%C3%BDri_Airport": [
     {
       "Direction": "09/27",
-      "ft": "3,935",
       "m": "1,200",
+      "ft": "3,937",
       "Surface": "Gravel"
     }
   ],
@@ -18843,8 +18906,8 @@
   "F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport": [
     {
       "Direction": "13/31",
-      "ft": "2,650",
       "m": "805",
+      "ft": "2,641",
       "Surface": "Asphalt"
     }
   ],
@@ -19451,15 +19514,15 @@
   ],
   "Fond_du_Lac_County_Airport": [
     {
-      "Direction": "9/27",
-      "ft": "3,602",
-      "m": "1,098",
-      "Surface": "Asphalt"
-    },
-    {
       "Direction": "18/36",
       "ft": "5,941",
       "m": "1,811",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "9/27",
+      "ft": "3,602",
+      "m": "1,098",
       "Surface": "Asphalt"
     }
   ],
@@ -19923,6 +19986,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Fougamou_Airport": [
+    {
+      "Direction": "18/36",
+      "m": "1,600",
+      "ft": "5,249",
+      "Surface": "Grass"
+    }
+  ],
   "Foya_Airport": [
     {
       "Direction": "01/19",
@@ -20361,9 +20432,9 @@
   ],
   "Owando_Airport": [
     {
-      "Direction": "09/27",
-      "m": "1,800",
-      "ft": "5,905",
+      "Direction": "14/32",
+      "m": "2,050",
+      "ft": "6,726",
       "Surface": "Asphalt"
     }
   ],
@@ -20406,7 +20477,7 @@
       "Direction": "03/21",
       "m": "2,400",
       "ft": "7,874",
-      "Surface": ""
+      "Surface": "Concrete"
     }
   ],
   "Fukue_Airport": [
@@ -20571,7 +20642,7 @@
       "Direction": "09/27",
       "m": "2,467",
       "ft": "8,094",
-      "Surface": "Concrete (Closed)"
+      "Surface": "Concrete (closed)"
     }
   ],
   "Gabbs_Airport": [
@@ -20754,6 +20825,20 @@
       "ft": "7,500",
       "m": "2,286",
       "Surface": "Asphalt"
+    }
+  ],
+  "Cotswold_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "2,009",
+      "ft": "6,561",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "08/26",
+      "m": "560",
+      "ft": "1,837",
+      "Surface": "Grass"
     }
   ],
   "Qabala_International_Airport": [
@@ -21116,7 +21201,7 @@
       "Surface": "Composite"
     }
   ],
-  "Sussex_County_Airport": [
+  "Delaware_Coastal_Airport": [
     {
       "Direction": "4/22",
       "ft": "5,000",
@@ -21180,10 +21265,10 @@
   ],
   "President_Obiang_Nguema_International_Airport": [
     {
-      "Direction": "",
-      "ft": "9,843",
+      "Direction": "18/36",
       "m": "3,000",
-      "Surface": ""
+      "ft": "9,843",
+      "Surface": "Paved"
     }
   ],
   "Cheddi_Jagan_International_Airport": [
@@ -21334,6 +21419,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Bartica_Airport": [
+    {
+      "Direction": "06/24",
+      "m": "760",
+      "ft": "2,493",
+      "Surface": "Asphalt"
+    }
+  ],
   "Grootfontein_Air_Base": [
     {
       "Direction": "08/26",
@@ -21351,9 +21444,9 @@
   "Lumbala_Airport": [
     {
       "Direction": "10/28",
-      "ft": "6,450",
       "m": "1,966",
-      "Surface": "DIRT"
+      "ft": "6,450",
+      "Surface": "Gravel"
     }
   ],
   "Georgetown_County_Airport": [
@@ -21494,10 +21587,10 @@
   ],
   "Gahcho_Kue_Aerodrome": [
     {
-      "Direction": "08/26",
-      "ft": "5,146",
-      "m": "1,569",
-      "Surface": "Ice"
+      "Direction": "06/24",
+      "ft": "5,311",
+      "m": "1,619",
+      "Surface": "Gravel"
     }
   ],
   "Centerville_Municipal_Airport_(Tennessee)": [
@@ -21661,8 +21754,8 @@
   "Gj%C3%B6gur_Airport": [
     {
       "Direction": "05/23",
-      "m": "927",
-      "ft": "3,041",
+      "m": "1,050",
+      "ft": "3,445",
       "Surface": "Gravel"
     }
   ],
@@ -21976,10 +22069,10 @@
   ],
   "Gamboma_Airport": [
     {
-      "Direction": "",
-      "m": "1,800",
-      "ft": "5,906",
-      "Surface": ""
+      "Direction": "05/23",
+      "m": "1,760",
+      "ft": "5,774",
+      "Surface": "Grass"
     }
   ],
   "Greymouth_Airport": [
@@ -22015,8 +22108,8 @@
   "Golog_Dawu_Airport": [
     {
       "Direction": "",
-      "m": "4,000",
-      "ft": "13,123",
+      "m": "3,800",
+      "ft": "12,467",
       "Surface": ""
     }
   ],
@@ -22193,15 +22286,15 @@
   "Gobabis_Airport": [
     {
       "Direction": "07/25",
-      "ft": "7,432",
       "m": "2,265",
-      "Surface": "Unpaved"
+      "ft": "7,431",
+      "Surface": "Gravel"
     },
     {
       "Direction": "11/29",
-      "ft": "5,265",
       "m": "1,604",
-      "Surface": "Unpaved"
+      "ft": "5,262",
+      "Surface": "Gravel"
     }
   ],
   "Nuuk_Airport": [
@@ -22661,8 +22754,8 @@
   "Gr%C3%ADmsey_Airport": [
     {
       "Direction": "18/36",
-      "m": "1,030",
-      "ft": "3,400",
+      "m": "1,036",
+      "ft": "3,399",
       "Surface": "Asphalt"
     }
   ],
@@ -22741,10 +22834,10 @@
       "Direction": "09/27",
       "m": "1,000",
       "ft": "3,281",
-      "Surface": "Paved"
+      "Surface": "Unpaved"
     }
   ],
-  "San_Jos%C3%A9_Airport": [
+  "San_Jos%C3%A9_Airport_(Guatemala)": [
     {
       "Direction": "15/33",
       "m": "2,010",
@@ -22902,8 +22995,8 @@
   ],
   "Grants_Pass_Airport": [
     {
-      "Direction": "12/30",
-      "ft": "3,999",
+      "Direction": "13/31",
+      "ft": "4,001",
       "m": "1,219",
       "Surface": "Asphalt"
     }
@@ -23099,8 +23192,8 @@
   "Grundarfj%C3%B6r%C3%B0ur_Airport": [
     {
       "Direction": "05/23",
-      "ft": "2,935",
       "m": "895",
+      "ft": "2,936",
       "Surface": "Asphalt"
     }
   ],
@@ -23264,6 +23357,12 @@
       "m": "2,400",
       "ft": "7,874",
       "Surface": "Asphalt"
+    },
+    {
+      "Direction": "09/27",
+      "m": "800",
+      "ft": "2,625",
+      "Surface": "Dirt"
     }
   ],
   "Gannan_Xiahe_Airport": [
@@ -23320,7 +23419,7 @@
       "Surface": "Asphalt/Concrete"
     },
     {
-      "Direction": "18/36",
+      "Direction": "17/35",
       "m": "3,200",
       "ft": "10,499",
       "Surface": "Asphalt/Concrete"
@@ -23542,10 +23641,16 @@
   ],
   "Halali_Airport": [
     {
-      "Direction": "04/22",
-      "ft": "3,495",
-      "m": "1,065",
-      "Surface": "Unpaved"
+      "Direction": "05/23",
+      "m": "1,120",
+      "ft": "3,675",
+      "Surface": "Gravel"
+    },
+    {
+      "Direction": "13/31",
+      "m": "1,160",
+      "ft": "3,806",
+      "Surface": "Gravel"
     }
   ],
   "Hamburg_Airport": [
@@ -24201,8 +24306,8 @@
   "Hilton_Head_Airport": [
     {
       "Direction": "3/21",
-      "ft": "4,300",
-      "m": "1,311",
+      "ft": "5,000",
+      "m": "1,524",
       "Surface": "Asphalt"
     }
   ],
@@ -24554,6 +24659,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Ulanhot_Airport": [
+    {
+      "Direction": "14/32",
+      "m": "1,800",
+      "ft": "5,906",
+      "Surface": ""
+    }
+  ],
   "Hollister_Municipal_Airport": [
     {
       "Direction": "06/24",
@@ -24654,7 +24767,7 @@
       "Surface": "Grass"
     }
   ],
-  "Hamilton_International_Airport": [
+  "Hamilton_Airport_(New_Zealand)": [
     {
       "Direction": "18L/36R",
       "m": "2,059",
@@ -24686,7 +24799,7 @@
     {
       "Direction": "15/33",
       "m": "3,000",
-      "ft": "9,842",
+      "ft": "9,843",
       "Surface": "Asphalt"
     }
   ],
@@ -25342,7 +25455,7 @@
   ],
   "Zhoushan_Putuoshan_Airport": [
     {
-      "Direction": "",
+      "Direction": "18/36",
       "m": "2,300",
       "ft": "7,546",
       "Surface": ""
@@ -25524,7 +25637,7 @@
   ],
   "Hatay_Airport": [
     {
-      "Direction": "25/07",
+      "Direction": "22/04",
       "ft": "9,990",
       "m": "3,045",
       "Surface": "Asphalt"
@@ -25585,8 +25698,8 @@
   "Huehuetenango_Airport": [
     {
       "Direction": "06/24",
-      "ft": "2,705",
       "m": "825",
+      "ft": "2,707",
       "Surface": "Asphalt"
     }
   ],
@@ -25734,7 +25847,7 @@
   ],
   "Huizhou_Pingtan_Airport": [
     {
-      "Direction": "",
+      "Direction": "09/27",
       "m": "2,400",
       "ft": "7,874",
       "Surface": ""
@@ -25781,8 +25894,8 @@
   "H%C3%B3lmav%C3%ADk_Airport": [
     {
       "Direction": "02/20",
-      "ft": "3,740",
       "m": "1,140",
+      "ft": "3,740",
       "Surface": "Asphalt"
     }
   ],
@@ -25928,15 +26041,15 @@
   ],
   "Rajiv_Gandhi_International_Airport": [
     {
-      "Direction": "09R/27L",
-      "m": "4,260",
-      "ft": "13,976",
-      "Surface": "Asphalt"
-    },
-    {
       "Direction": "09L/27R",
       "m": "3,707",
       "ft": "12,162",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "09R/27L",
+      "m": "4,260",
+      "ft": "13,976",
       "Surface": "Asphalt"
     }
   ],
@@ -25958,7 +26071,7 @@
   ],
   "Taizhou_Luqiao_Airport": [
     {
-      "Direction": "",
+      "Direction": "17/35",
       "m": "2,500",
       "ft": "8,202",
       "Surface": ""
@@ -26285,20 +26398,20 @@
   "Incheon_International_Airport": [
     {
       "Direction": "15R/33L",
-      "ft": "12,303",
       "m": "3,750",
+      "ft": "12,303",
       "Surface": "Asphalt"
     },
     {
       "Direction": "15L/33R",
-      "ft": "12,303",
       "m": "3,750",
+      "ft": "12,303",
       "Surface": "Asphalt"
     },
     {
       "Direction": "16/34",
-      "ft": "13,123",
       "m": "4,000",
+      "ft": "13,123",
       "Surface": "Asphalt"
     }
   ],
@@ -26510,6 +26623,14 @@
       "m": "3,000",
       "ft": "9,842",
       "Surface": "Concrete"
+    }
+  ],
+  "Tchongorove_Airport": [
+    {
+      "Direction": "15/33",
+      "m": "1,500",
+      "ft": "4,921",
+      "Surface": "Sand"
     }
   ],
   "Igiugig_Airport": [
@@ -26890,6 +27011,14 @@
       "Surface": "Concrete"
     }
   ],
+  "Imbaimadai_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "1,219",
+      "ft": "3,999",
+      "Surface": "Grass"
+    }
+  ],
   "Imphal_International_Airport": [
     {
       "Direction": "04/22",
@@ -27187,8 +27316,8 @@
   "Impfondo_Airport": [
     {
       "Direction": "09/27",
-      "m": "2,035",
-      "ft": "6,677",
+      "m": "2,050",
+      "ft": "6,726",
       "Surface": "Asphalt"
     }
   ],
@@ -27809,8 +27938,8 @@
   "Chandigarh_International_Airport": [
     {
       "Direction": "11/29",
-      "ft": "9,000",
       "m": "2,744",
+      "ft": "9,000",
       "Surface": "Asphalt"
     }
   ],
@@ -27845,9 +27974,9 @@
   "Belgaum_Airport": [
     {
       "Direction": "08/26",
-      "ft": "6,380",
-      "m": "2,190",
-      "Surface": "Macadam"
+      "ft": "6,004",
+      "m": "1,830",
+      "Surface": "Asphalt"
     }
   ],
   "Kailashahar_Airport": [
@@ -28243,8 +28372,8 @@
   "Qasigiannguit_Heliport": [
     {
       "Number": "1",
-      "m": "60 × 20",
-      "ft": "197 × 66",
+      "m": "20 × 20",
+      "ft": "66 × 66",
       "Surface": "Concrete"
     }
   ],
@@ -28340,7 +28469,7 @@
   ],
   "Jingdezhen_Luojia_Airport": [
     {
-      "Direction": "",
+      "Direction": "04/22",
       "m": "2,400",
       "ft": "7,874",
       "Surface": ""
@@ -28349,20 +28478,20 @@
   "King_Abdulaziz_International_Airport": [
     {
       "Direction": "16L/34R",
-      "ft": "13,124",
       "m": "4,000",
+      "ft": "13,124",
       "Surface": "Asphalt"
     },
     {
       "Direction": "16C/34C",
-      "ft": "10,825",
       "m": "3,299",
+      "ft": "10,825",
       "Surface": "Concrete"
     },
     {
       "Direction": "16R/34L",
-      "ft": "12,467",
       "m": "3,800",
+      "ft": "12,467",
       "Surface": "Asphalt"
     }
   ],
@@ -28494,7 +28623,7 @@
   ],
   "Jinggangshan_Airport": [
     {
-      "Direction": "0826",
+      "Direction": "08/26",
       "m": "3,200",
       "ft": "10,499",
       "Surface": "Concrete"
@@ -28534,7 +28663,7 @@
   ],
   "Sisimiut_Airport": [
     {
-      "Direction": "14/32",
+      "Direction": "13/31",
       "m": "799",
       "ft": "2,621",
       "Surface": "Asphalt"
@@ -28754,6 +28883,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Jamba_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "1,660",
+      "ft": "5,446",
+      "Surface": "Asphalt"
+    }
+  ],
   "Mykonos_Island_National_Airport": [
     {
       "Direction": "16/34",
@@ -28765,8 +28902,8 @@
   "Jomsom_Airport": [
     {
       "Direction": "06/24",
-      "m": "720",
-      "ft": "1,742",
+      "m": "739",
+      "ft": "2,424",
       "Surface": "Asphalt"
     }
   ],
@@ -28962,7 +29099,7 @@
   ],
   "Qaarsut_Airport": [
     {
-      "Direction": "16/34",
+      "Direction": "15/33",
       "m": "900",
       "ft": "2,953",
       "Surface": "Gravel"
@@ -29052,6 +29189,20 @@
       "Surface": "Asphalt"
     }
   ],
+  "Jos%C3%A9_de_San_Mart%C3%ADn_Airport_(Chubut)": [
+    {
+      "Direction": "10/28",
+      "m": "1,650",
+      "ft": "5,413",
+      "Surface": "Dirt"
+    },
+    {
+      "Direction": "07/25",
+      "m": "1,525",
+      "ft": "5,003",
+      "Surface": "Dirt"
+    }
+  ],
   "Jessore_Airport": [
     {
       "Direction": "16/34",
@@ -29132,10 +29283,10 @@
   ],
   "Chizhou_Jiuhuashan_Airport": [
     {
-      "Direction": "",
+      "Direction": "13/31",
       "m": "2,400",
       "ft": "7,874",
-      "Surface": ""
+      "Surface": "Concrete"
     }
   ],
   "Gobernador_Horacio_Guzm%C3%A1n_International_Airport": [
@@ -29414,17 +29565,25 @@
       "Surface": "Grass"
     }
   ],
+  "Kamarang_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "1,000",
+      "ft": "3,281",
+      "Surface": "Grass"
+    }
+  ],
   "Karasburg_Airport": [
     {
       "Direction": "05/23",
-      "ft": "4,930",
       "m": "1,500",
+      "ft": "4,921",
       "Surface": "Unpaved"
     },
     {
       "Direction": "17/35",
-      "ft": "2,750",
       "m": "838",
+      "ft": "2,749",
       "Surface": "Unpaved"
     }
   ],
@@ -29618,6 +29777,14 @@
       "Surface": ""
     }
   ],
+  "Tepoe_Airstrip": [
+    {
+      "Direction": "16/34",
+      "m": "650",
+      "ft": "2,133",
+      "Surface": "Grass"
+    }
+  ],
   "Coffman_Cove_Seaplane_Base": [
     {
       "Direction": "N/S",
@@ -29762,6 +29929,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Ndjol%C3%A9_Ville_Airport": [
+    {
+      "Direction": "02/20",
+      "m": "800",
+      "ft": "2,625",
+      "Surface": ""
+    }
+  ],
   "Kodiak_Municipal_Airport": [
     {
       "Direction": "2/20",
@@ -29784,6 +29959,14 @@
       "m": "1,220",
       "ft": "4,003",
       "Surface": "Bituminous"
+    }
+  ],
+  "Ndend%C3%A9_Airport": [
+    {
+      "Direction": "11/29",
+      "m": "800",
+      "ft": "2,625",
+      "Surface": "Grass"
     }
   ],
   "Kadhdhoo_Airport": [
@@ -29866,7 +30049,7 @@
   ],
   "Kelle_Airport": [
     {
-      "Direction": "",
+      "Direction": "14/32",
       "m": "1,295",
       "ft": "4,249",
       "Surface": ""
@@ -30262,7 +30445,7 @@
   ],
   "Kaohsiung_International_Airport": [
     {
-      "Direction": "09/27[1]",
+      "Direction": "09/27[a]",
       "m": "3,150",
       "ft": "10,335",
       "Surface": "Concrete"
@@ -30587,8 +30770,8 @@
   "Flanders_International_Airport": [
     {
       "Direction": "06/24",
-      "m": "1,838",
-      "ft": "6,030",
+      "m": "1,900",
+      "ft": "6,234",
       "Surface": "Asphalt"
     }
   ],
@@ -30994,7 +31177,7 @@
   ],
   "Makabana_Airport": [
     {
-      "Direction": "",
+      "Direction": "07/25",
       "m": "1,350",
       "ft": "4,429",
       "Surface": ""
@@ -31201,9 +31384,9 @@
   "Kapanda_Airport": [
     {
       "Direction": "15/33",
-      "ft": "6,580",
+      "ft": "",
       "m": "2,006",
-      "Surface": "ASPHALT"
+      "Surface": "Asphalt"
     }
   ],
   "Kon%C3%A9_Airport": [
@@ -31379,8 +31562,8 @@
   "Sihanoukville_International_Airport": [
     {
       "Direction": "03/21",
-      "ft": "6,000",
-      "m": "1,800",
+      "m": "2,500",
+      "ft": "8,200",
       "Surface": "Asphalt"
     }
   ],
@@ -31588,6 +31771,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Karasabai_Airport": [
+    {
+      "Direction": "10/28",
+      "m": "1,067",
+      "ft": "3,501",
+      "Surface": "Gravel"
+    }
+  ],
   "Kikori_Airport": [
     {
       "Direction": "12/30",
@@ -31616,6 +31807,14 @@
       "m": "2,780",
       "ft": "9,121",
       "Surface": ""
+    }
+  ],
+  "Karanambo_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "1,372",
+      "ft": "4,501",
+      "Surface": "Dirt"
     }
   ],
   "Kiruna_Airport": [
@@ -31986,6 +32185,14 @@
       "ft": "7,500",
       "m": "2,286",
       "Surface": "Asphalt"
+    }
+  ],
+  "Kato_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "920",
+      "ft": "3,018",
+      "Surface": "Gravel"
     }
   ],
   "Tinson_Pen_Aerodrome": [
@@ -32644,6 +32851,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Oesman_Sadik_Airport": [
+    {
+      "Direction": "03/21",
+      "ft": "1,478",
+      "m": "3,023",
+      "Surface": "Asphalt"
+    }
+  ],
   "Lannion_%E2%80%93_C%C3%B4te_de_Granit_Airport": [
     {
       "Direction": "11/29",
@@ -32988,6 +33203,14 @@
       "Surface": "Bitumen"
     }
   ],
+  "Lambar%C3%A9n%C3%A9_Airport": [
+    {
+      "Direction": "05/23",
+      "m": "1,730",
+      "ft": "5,676",
+      "Surface": "Asphalt"
+    }
+  ],
   "L%C3%A1brea_Airport": [
     {
       "Direction": "18/36",
@@ -33053,9 +33276,9 @@
   "Lucapa_Airport": [
     {
       "Direction": "18/36",
-      "ft": "7,920",
-      "m": "2,414",
-      "Surface": "DIRT"
+      "m": "2,420",
+      "ft": "7,940",
+      "Surface": "Gravel"
     }
   ],
   "Larnaca_International_Airport": [
@@ -33085,8 +33308,8 @@
   "R%C3%ADo_Dulce_Airport": [
     {
       "Direction": "12/30",
-      "ft": "3,280",
       "m": "1,000",
+      "ft": "3,281",
       "Surface": "Asphalt"
     }
   ],
@@ -33324,9 +33547,9 @@
   ],
   "Laduani_Airstrip": [
     {
-      "Direction": "",
-      "ft": "",
+      "Direction": "09/27",
       "m": "550",
+      "ft": "1,804",
       "Surface": "grass"
     }
   ],
@@ -33351,7 +33574,7 @@
       "Direction": "04/22",
       "m": "1,000",
       "ft": "3,281",
-      "Surface": "Unpaved"
+      "Surface": "Asphalt"
     }
   ],
   "City_of_Derry_Airport": [
@@ -33779,14 +34002,14 @@
   "Li%C3%A8ge_Airport": [
     {
       "Direction": "05R/23L",
-      "ft": "12,139",
-      "m": "3,700",
+      "m": "3,690",
+      "ft": "12,106",
       "Surface": "Asphalt"
     },
     {
       "Direction": "05L/23R",
-      "ft": "7,677",
       "m": "2,340",
+      "ft": "7,677",
       "Surface": "Asphalt"
     }
   ],
@@ -34086,6 +34309,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Lins_Airport": [
+    {
+      "Direction": "14/32",
+      "m": "1,700",
+      "ft": "5,577",
+      "Surface": "Asphalt"
+    }
+  ],
   "Lisala_Airport": [
     {
       "Direction": "05/23",
@@ -34381,6 +34612,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Palopo_Lagaligo_Airport": [
+    {
+      "Direction": "17/35",
+      "m": "1,950",
+      "ft": "6,398",
+      "Surface": "Asphalt"
+    }
+  ],
   "Alf%C3%A9rez_Armando_Rodr%C3%ADguez_Airport": [
     {
       "Direction": "18/36",
@@ -34393,7 +34632,7 @@
     {
       "Direction": "16/34",
       "m": "1,500",
-      "ft": "4,920",
+      "ft": "4,921",
       "Surface": "Asphalt"
     }
   ],
@@ -35173,7 +35412,7 @@
   ],
   "Larestan_International_Airport": [
     {
-      "Direction": "27",
+      "Direction": "09/27",
       "ft": "10,922",
       "m": "3,329",
       "Surface": "Asphalt"
@@ -35439,11 +35678,19 @@
       "Surface": "Asphalt"
     }
   ],
+  "Lastourville_Airport": [
+    {
+      "Direction": "06/24",
+      "m": "1,900",
+      "ft": "6,234",
+      "Surface": "Grass"
+    }
+  ],
   "Lethem_Airport": [
     {
       "Direction": "07/25",
-      "m": "",
-      "ft": "5,985",
+      "m": "1,825",
+      "ft": "5,988",
       "Surface": "Asphalt"
     }
   ],
@@ -35531,6 +35778,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Lumid_Pau_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "1,000",
+      "ft": "3,281",
+      "Surface": "Grass"
+    }
+  ],
   "Laucala_Airport": [
     {
       "Direction": "",
@@ -35548,8 +35803,8 @@
     },
     {
       "Direction": "12/30",
-      "m": "1,193",
-      "ft": "3,914",
+      "m": "1,205",
+      "ft": "3,953",
       "Surface": "Gravel"
     }
   ],
@@ -35644,8 +35899,8 @@
   "Luena_Airport": [
     {
       "Direction": "11/29",
-      "m": "2,400",
-      "ft": "7,875",
+      "m": "3,350",
+      "ft": "10,991",
       "Surface": "Asphalt"
     }
   ],
@@ -35675,10 +35930,7 @@
   ],
   "Lusanga_Airport": [
     {
-      "Direction": "Closed",
-      "ft": "",
-      "m": "",
-      "Surface": ""
+      "Direction": "Closed"
     }
   ],
   "Dumatubin_Airport": [
@@ -35702,7 +35954,7 @@
       "Direction": "06/24",
       "m": "4,000",
       "ft": "13,123",
-      "Surface": "Concrete/Asphalt"
+      "Surface": "Asphalt"
     }
   ],
   "Lublin_Airport": [
@@ -35836,7 +36088,7 @@
   "Wonopito_Airport": [
     {
       "Direction": "07/25",
-      "m": "900",
+      "m": "1,800",
       "ft": "2,950",
       "Surface": "Asphalt"
     }
@@ -36186,9 +36438,9 @@
   "Cuango-Luzamba_Airport": [
     {
       "Direction": "03/21",
-      "m": "1,588",
-      "ft": "5,210",
-      "Surface": "Dirt"
+      "m": "1,595",
+      "ft": "5,233",
+      "Surface": "Gravel"
     }
   ],
   "Matsu_Nangan_Airport": [
@@ -36288,7 +36540,7 @@
     },
     {
       "Direction": "18R/36L",
-      "m": "4,349",
+      "m": "4,350",
       "ft": "14,268",
       "Surface": "Asphalt / Concrete"
     }
@@ -36515,6 +36767,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Mbigou_Airport": [
+    {
+      "Direction": "17/35",
+      "m": "900",
+      "ft": "2,953",
+      "Surface": ""
+    }
+  ],
   "Mahikeng_Airport": [
     {
       "Direction": "04/22",
@@ -36724,7 +36984,7 @@
   "Mackinac_Island_Airport": [
     {
       "Direction": "8/26",
-      "ft": "3,500",
+      "ft": "3,501",
       "m": "1,067",
       "Surface": "Cement"
     }
@@ -37242,14 +37502,14 @@
   "Prince_Mohammad_bin_Abdulaziz_Airport": [
     {
       "Direction": "17/35",
-      "ft": "10,800",
-      "m": "3,290",
+      "ft": "14,222",
+      "m": "4,335",
       "Surface": "Asphalt"
     },
     {
       "Direction": "18/36",
-      "ft": "9,980",
-      "m": "3,040",
+      "ft": "10,007",
+      "m": "3,050",
       "Surface": "Asphalt"
     }
   ],
@@ -37264,8 +37524,8 @@
   "Malanje_Airport": [
     {
       "Direction": "13/31",
-      "ft": "7,283",
       "m": "2,220",
+      "ft": "7,283",
       "Surface": "Asphalt"
     }
   ],
@@ -37472,8 +37732,8 @@
   "Mafia_Airport": [
     {
       "Direction": "15/33",
-      "m": "1,500",
-      "ft": "4,921",
+      "m": "1,630",
+      "ft": "5,348",
       "Surface": "Asphalt"
     }
   ],
@@ -37515,10 +37775,10 @@
   ],
   "Moanda_Airport": [
     {
-      "Direction": "",
+      "Direction": "13/31",
       "m": "1,800",
       "ft": "5,906",
-      "Surface": ""
+      "Surface": "Gravel"
     }
   ],
   "Muzaffarabad_Airport": [
@@ -37793,6 +38053,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Moabi_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "1,100",
+      "ft": "3,609",
+      "Surface": "Grass"
+    }
+  ],
   "Dayton%E2%80%93Wright_Brothers_Airport": [
     {
       "Direction": "2/20",
@@ -37807,6 +38075,14 @@
       "m": "2,681",
       "ft": "8,795",
       "Surface": "Asphalt"
+    }
+  ],
+  "Mahdia_Airport": [
+    {
+      "Direction": "17/35",
+      "m": "1,067",
+      "ft": "3,501",
+      "Surface": "Grass"
     }
   ],
   "Mocopulli_Airport": [
@@ -38257,8 +38533,8 @@
   "Mouila_Airport": [
     {
       "Direction": "17/35",
-      "ft": "5,152",
-      "m": "1,570",
+      "m": "1,800",
+      "ft": "5,906",
       "Surface": "Asphalt"
     }
   ],
@@ -38382,6 +38658,14 @@
       "Surface": ""
     }
   ],
+  "M%C3%A9kambo_Airport": [
+    {
+      "Direction": "16/34",
+      "m": "1,150",
+      "ft": "3,773",
+      "Surface": "Grass"
+    }
+  ],
   "Charles_B._Wheeler_Downtown_Airport": [
     {
       "Direction": "1/19",
@@ -38466,10 +38750,10 @@
   ],
   "Makoua_Airport": [
     {
-      "Direction": "",
-      "m": "1,800",
-      "ft": "5,906",
-      "Surface": ""
+      "Direction": "07/25",
+      "m": "1,780",
+      "ft": "5,840",
+      "Surface": "Gravel"
     }
   ],
   "Molokai_Airport": [
@@ -38582,17 +38866,17 @@
   ],
   "Makokou_Airport": [
     {
-      "Direction": "06/24",
-      "ft": "5,892",
-      "m": "1,796",
+      "Direction": "07/25",
+      "m": "1,910",
+      "ft": "6,266",
       "Surface": "Asphalt"
     }
   ],
   "Rendani_Airport": [
     {
       "Direction": "17/35",
-      "m": "2,004",
-      "ft": "6,576",
+      "m": "2,000",
+      "ft": "6,562",
       "Surface": "Asphalt"
     }
   ],
@@ -39405,8 +39689,8 @@
   "Katima_Mulilo_Airport": [
     {
       "Direction": "09/27",
-      "m": "2,292",
-      "ft": "7,520",
+      "m": "2,295",
+      "ft": "7,530",
       "Surface": "Asphalt"
     }
   ],
@@ -39852,10 +40136,7 @@
   ],
   "Marcala_Airport": [
     {
-      "Direction": "Closed",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "Direction": "Closed"
     }
   ],
   "Marco_Island_Airport": [
@@ -40210,10 +40491,10 @@
   ],
   "Mossendjo_Airport": [
     {
-      "Direction": "",
-      "m": "780",
-      "ft": "2,559",
-      "Surface": ""
+      "Direction": "09/27",
+      "m": "920",
+      "ft": "3,018",
+      "Surface": "Grass"
     }
   ],
   "Louis_Armstrong_New_Orleans_International_Airport": [
@@ -40577,8 +40858,8 @@
   "Multan_International_Airport": [
     {
       "Direction": "18/36",
-      "ft": "10,516",
       "m": "3,205",
+      "ft": "10,516",
       "Surface": "Concrete"
     }
   ],
@@ -40601,16 +40882,16 @@
   "M%C3%BDvatn_Airport": [
     {
       "Direction": "02/20",
-      "ft": "3,460",
       "m": "1,055",
+      "ft": "3,461",
       "Surface": "Asphalt"
     }
   ],
   "M%27Vengue_El_Hadj_Omar_Bongo_Ondimba_International_Airport": [
     {
       "Direction": "15/33",
-      "ft": "10,105",
-      "m": "3,032",
+      "m": "3,200",
+      "ft": "10,499",
       "Surface": "Asphalt"
     }
   ],
@@ -40742,6 +41023,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Minvoul_Airport": [
+    {
+      "Direction": "11/29",
+      "m": "1,100",
+      "ft": "3,609",
+      "Surface": "Grass"
+    }
+  ],
   "Martha%27s_Vineyard_Airport": [
     {
       "Direction": "6/24",
@@ -40800,18 +41089,6 @@
   ],
   "Lawrence_J._Timmerman_Airport": [
     {
-      "Direction": "4L/22R",
-      "ft": "3,201",
-      "m": "976",
-      "Surface": "Asphalt"
-    },
-    {
-      "Direction": "4R/22L",
-      "ft": "2,839",
-      "m": "865",
-      "Surface": "Turf"
-    },
-    {
       "Direction": "15L/33R",
       "ft": "4,103",
       "m": "1,251",
@@ -40821,6 +41098,18 @@
       "Direction": "15R/33L",
       "ft": "3,231",
       "m": "985",
+      "Surface": "Turf"
+    },
+    {
+      "Direction": "4L/22R",
+      "ft": "3,201",
+      "m": "976",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "4R/22L",
+      "ft": "2,839",
+      "m": "865",
       "Surface": "Turf"
     }
   ],
@@ -40898,6 +41187,14 @@
       "ft": "4,188",
       "m": "1,277",
       "Surface": "Asphalt"
+    }
+  ],
+  "Mwadui_Airport": [
+    {
+      "Direction": "04/22",
+      "m": "1,400",
+      "ft": "4,593",
+      "Surface": "Gravel"
     }
   ],
   "Middletown_Regional_Airport": [
@@ -41096,10 +41393,7 @@
   ],
   "Mullewa_Airport": [
     {
-      "Direction": "05/23",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "Direction": "05/23"
     }
   ],
   "M%C3%B6r%C3%B6n_Airport_(Mongolia)": [
@@ -41160,6 +41454,14 @@
       "m": "827",
       "ft": "2,713",
       "Surface": "Bitumen"
+    }
+  ],
+  "Mayumba_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "1,800",
+      "ft": "5,906",
+      "Surface": "Asphalt"
     }
   ],
   "Malindi_Airport": [
@@ -41252,6 +41554,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Monkey_Mountain_Airport": [
+    {
+      "Direction": "10/28",
+      "m": "700",
+      "ft": "2,297",
+      "Surface": "Grass"
+    }
+  ],
   "Marib_Airport": [
     {
       "Direction": "17/35",
@@ -41279,7 +41589,7 @@
       "Direction": "09/27",
       "ft": "5,709",
       "m": "1,740",
-      "Surface": "Asphalt"
+      "Surface": "Concrete"
     }
   ],
   "Myrtle_Beach_International_Airport": [
@@ -41364,6 +41674,14 @@
       "m": "2,000",
       "ft": "6,562",
       "Surface": "Asphalt"
+    }
+  ],
+  "Mitzic_Airport": [
+    {
+      "Direction": "16/34",
+      "m": "1,400",
+      "ft": "4,593",
+      "Surface": "Grass"
     }
   ],
   "Manatee_Airport": [
@@ -41564,6 +41882,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Annai_Airport": [
+    {
+      "Direction": "07/25",
+      "m": "1,000",
+      "ft": "3,281",
+      "Surface": "Asphalt, Grass"
+    }
+  ],
   "Nakhchivan_International_Airport": [
     {
       "Direction": "14R/32L",
@@ -41634,7 +41960,7 @@
   ],
   "Qaanaaq_Airport": [
     {
-      "Direction": "18/36",
+      "Direction": "17/35",
       "m": "900",
       "ft": "2,953",
       "Surface": "Gravel"
@@ -41743,14 +42069,14 @@
   "Jomo_Kenyatta_International_Airport": [
     {
       "Direction": "06/24",
-      "ft": "13,507",
       "m": "4,117",
+      "ft": "13,507",
       "Surface": "Asphalt"
     }
   ],
   "Changbaishan_Airport": [
     {
-      "Direction": "",
+      "Direction": "01/19",
       "m": "2,600",
       "ft": "8,530",
       "Surface": ""
@@ -41905,7 +42231,7 @@
       "Direction": "05/23",
       "m": "951",
       "ft": "3,120",
-      "Surface": "ASPHALT"
+      "Surface": "Asphalt"
     }
   ],
   "Mandera_Airport": [
@@ -41913,6 +42239,14 @@
       "Direction": "05/23",
       "ft": "3,600",
       "m": "1,100",
+      "Surface": "Asphalt"
+    }
+  ],
+  "N%27dalatando_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "2,000",
+      "ft": "6,562",
       "Surface": "Asphalt"
     }
   ],
@@ -41959,15 +42293,9 @@
   "Rundu_Airport": [
     {
       "Direction": "08/26",
-      "m": "3,354",
-      "ft": "11,004",
+      "m": "3,055",
+      "ft": "10,023",
       "Surface": "Asphalt"
-    },
-    {
-      "Direction": "18/36",
-      "m": "1,465",
-      "ft": "4,806",
-      "Surface": ""
     }
   ],
   "Sanday_Airport": [
@@ -42475,12 +42803,18 @@
       "Surface": "PEM"
     }
   ],
-  "Nouakchott_International_Airport": [
+  "Nouakchott%E2%80%93Oumtounsy_International_Airport": [
     {
-      "Direction": "05/23",
-      "m": "3,010",
-      "ft": "9,876",
-      "Surface": "Asphalt"
+      "Direction": "06/24",
+      "m": "2,400",
+      "ft": "7,874",
+      "Surface": "Concrete"
+    },
+    {
+      "Direction": "16/34",
+      "m": "3,400",
+      "ft": "11,155",
+      "Surface": "Concrete"
     }
   ],
   "Nanjing_Lukou_International_Airport": [
@@ -42573,10 +42907,10 @@
   ],
   "Yokangassi_Airport": [
     {
-      "Direction": "",
-      "m": "1,800",
-      "ft": "5,906",
-      "Surface": ""
+      "Direction": "09/27",
+      "m": "2,200",
+      "ft": "7,218",
+      "Surface": "Dirt"
     }
   ],
   "Simon_Mwansa_Kapwepwe_International_Airport": [
@@ -42800,14 +43134,14 @@
   "Namutoni_Airport": [
     {
       "Direction": "06/24",
-      "ft": "3,925",
       "m": "1,262",
+      "ft": "4,140",
       "Surface": "Unpaved"
     },
     {
       "Direction": "15/33",
-      "ft": "4,140",
       "m": "1,196",
+      "ft": "3,924",
       "Surface": "Unpaved"
     }
   ],
@@ -42873,7 +43207,7 @@
   ],
   "Nanyang_Jiangying_Airport": [
     {
-      "Direction": "",
+      "Direction": "05/23",
       "m": "2,800",
       "ft": "9,186",
       "Surface": ""
@@ -42903,7 +43237,7 @@
   ],
   "Ireland_West_Airport_Knock": [
     {
-      "Direction": "09/27",
+      "Direction": "08/26",
       "m": "2,340",
       "ft": "7,700",
       "Surface": "Asphalt"
@@ -42936,8 +43270,8 @@
   "Nor%C3%B0fj%C3%B6r%C3%B0ur_Airport": [
     {
       "Direction": "08/26",
-      "ft": "3,800",
       "m": "1,160",
+      "ft": "3,806",
       "Surface": "Asphalt"
     }
   ],
@@ -42960,8 +43294,8 @@
   "La_Tontouta_International_Airport": [
     {
       "Direction": "11/29",
-      "ft": "10,663",
       "m": "3,250",
+      "ft": "10,663",
       "Surface": "Asphalt"
     }
   ],
@@ -43319,7 +43653,7 @@
     {
       "Direction": "10/28",
       "ft": "6,182",
-      "m": "1,884",
+      "m": "2,150",
       "Surface": "Asphalt"
     }
   ],
@@ -43436,7 +43770,7 @@
       "Direction": "03/21",
       "m": "2,900",
       "ft": "9,514",
-      "Surface": "Macadam"
+      "Surface": "Asphalt concrete"
     }
   ],
   "Nantong_Xingdong_Airport": [
@@ -43496,8 +43830,8 @@
   "Niuatoputapu_Airport": [
     {
       "Direction": "",
-      "ft": "",
-      "m": "",
+      "ft": "4,000",
+      "m": "1,219",
       "Surface": "unsealed coral strip"
     }
   ],
@@ -43530,7 +43864,7 @@
   "Ranai_Airport": [
     {
       "Direction": "18/36",
-      "m": "2,563",
+      "m": "2,560",
       "ft": "8,410",
       "Surface": "Asphalt[1]"
     }
@@ -43695,10 +44029,7 @@
   ],
   "Nueva_Guinea_Airport": [
     {
-      "Direction": "Closed",
-      "ft": "",
-      "m": "",
-      "Surface": ""
+      "Direction": "Closed"
     }
   ],
   "Navoi_International_Airport": [
@@ -43874,9 +44205,9 @@
   "Nzagi_Airport": [
     {
       "Direction": "08/26",
-      "ft": "5,906",
-      "m": "1,800",
-      "Surface": "Asphalt"
+      "m": "2,310",
+      "ft": "7,579",
+      "Surface": "Dirt"
     }
   ],
   "Maria_Reiche_Neuman_Airport": [
@@ -43893,6 +44224,14 @@
       "ft": "5,415",
       "m": "1,650",
       "Surface": "Dirt"
+    }
+  ],
+  "Manzhouli_Xijiao_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "2,800",
+      "ft": "9,186",
+      "Surface": "Concrete"
     }
   ],
   "Zhalantun_Airport": [
@@ -44087,7 +44426,7 @@
       "Direction": "05/23",
       "m": "2,980",
       "ft": "9,777",
-      "Surface": "Concrete"
+      "Surface": "Asphalt/Concrete"
     }
   ],
   "Oban_Airport": [
@@ -44360,8 +44699,8 @@
   "%C3%93lafsfj%C3%B6r%C3%B0ur_Airport": [
     {
       "Direction": "05/23",
-      "ft": "3,300",
       "m": "1,005",
+      "ft": "3,297",
       "Surface": "Grass"
     }
   ],
@@ -44535,7 +44874,7 @@
   ],
   "Ohrid_%22St._Paul_the_Apostle%22_Airport": [
     {
-      "Direction": "02/20",
+      "Direction": "01/19",
       "ft": "8,366",
       "m": "2,550",
       "Surface": "Asphalt"
@@ -44560,8 +44899,8 @@
   "Oshakati_Airport": [
     {
       "Direction": "16/34",
-      "ft": "5,316",
       "m": "1,620",
+      "ft": "5,315",
       "Surface": "Asphalt"
     }
   ],
@@ -44682,15 +45021,23 @@
   "Okaukuejo_Airport": [
     {
       "Direction": "04/22",
-      "ft": "4,280",
-      "m": "1,304",
-      "Surface": "Unpaved"
+      "m": "1,305",
+      "ft": "4,281",
+      "Surface": "Dirt"
     },
     {
       "Direction": "08/26",
-      "ft": "4,386",
-      "m": "1,337",
-      "Surface": "Unpaved"
+      "m": "1,400",
+      "ft": "4,593",
+      "Surface": "Dirt"
+    }
+  ],
+  "Okoyo_Airport": [
+    {
+      "Direction": "03/21",
+      "m": "1,640",
+      "ft": "5,381",
+      "Surface": "Grass"
     }
   ],
   "RAF_Cottesmore": [
@@ -44876,14 +45223,14 @@
   "Rif_Airport": [
     {
       "Direction": "06/24",
-      "ft": "3,910",
       "m": "1,190",
+      "ft": "3,904",
       "Surface": "Asphalt"
     },
     {
       "Direction": "12/30",
-      "ft": "2,750",
       "m": "840",
+      "ft": "2,756",
       "Surface": "Asphalt"
     }
   ],
@@ -44906,8 +45253,8 @@
   "Oyo_Ollombo_Airport": [
     {
       "Direction": "04/22",
-      "ft": "10,778",
-      "m": "3,285",
+      "m": "3,300",
+      "ft": "10,827",
       "Surface": "Concrete"
     }
   ],
@@ -45018,8 +45365,8 @@
   "Oranjemund_Airport": [
     {
       "Direction": "02/20",
-      "m": "1,601",
-      "ft": "5,252",
+      "m": "1,600",
+      "ft": "5,249",
       "Surface": "Asphalt"
     }
   ],
@@ -45048,8 +45395,8 @@
   "Omega_Airport": [
     {
       "Direction": "07/25",
-      "ft": "5,560",
       "m": "1,694",
+      "ft": "5,558",
       "Surface": "Asphalt"
     }
   ],
@@ -45300,14 +45647,14 @@
   "K%C3%B3pasker_Airport": [
     {
       "Direction": "02/20",
-      "ft": "3,510",
       "m": "1,070",
+      "ft": "3,510",
       "Surface": "Paved"
     },
     {
       "Direction": "12/30",
-      "ft": "2,810",
       "m": "856",
+      "ft": "2,808",
       "Surface": "Paved"
     }
   ],
@@ -45380,9 +45727,15 @@
   "Opuwa_Airport": [
     {
       "Direction": "03/21",
-      "ft": "7,660",
       "m": "2,335",
+      "ft": "7,661",
       "Surface": "Asphalt"
+    },
+    {
+      "Direction": "09/27",
+      "m": "780",
+      "ft": "2,559",
+      "Surface": "Gravel"
     }
   ],
   "Or%C3%A1n_Airport": [
@@ -45520,6 +45873,14 @@
       "Direction": "7/25",
       "ft": "2,200",
       "m": "671",
+      "Surface": "Gravel"
+    }
+  ],
+  "Orinduik_Airport": [
+    {
+      "Direction": "05/23",
+      "m": "800",
+      "ft": "2,625",
       "Surface": "Gravel"
     }
   ],
@@ -45810,9 +46171,9 @@
   "Ostend%E2%80%93Bruges_International_Airport": [
     {
       "Direction": "08/26",
-      "ft": "10,499",
       "m": "3,200",
-      "Surface": "Asphalt"
+      "ft": "10,499",
+      "Surface": "Concrete/Asphalt"
     }
   ],
   "Ohio_State_University_Airport": [
@@ -45906,9 +46267,9 @@
   "Otjiwarongo_Airport": [
     {
       "Direction": "09/27",
-      "ft": "5,910",
       "m": "1,800",
-      "Surface": "Unpaved"
+      "ft": "5,906",
+      "Surface": "Gravel"
     }
   ],
   "Tillamook_Airport": [
@@ -46291,10 +46652,10 @@
   ],
   "Oyem_Airport": [
     {
-      "Direction": "",
-      "ft": "6,000",
-      "m": "1,828",
-      "Surface": ""
+      "Direction": "03/21",
+      "m": "1,800",
+      "ft": "5,906",
+      "Surface": "Asphalt"
     }
   ],
   "Moyo_Airport": [
@@ -46338,7 +46699,7 @@
       "Direction": "04/22",
       "m": "1,200",
       "ft": "3,937",
-      "Surface": "Concrete"
+      "Surface": "Asphalt"
     }
   ],
   "Labo_Airport": [
@@ -46683,9 +47044,9 @@
   ],
   "Porto_Amboim_Airport": [
     {
-      "Direction": "07/25",
-      "m": "1,030",
-      "ft": "3,379",
+      "Direction": "06/24",
+      "m": "1,000",
+      "ft": "3,281",
       "Surface": "Asphalt"
     }
   ],
@@ -46733,6 +47094,14 @@
       "ft": "1,470",
       "m": "448",
       "Surface": "Gravel/Dirt"
+    }
+  ],
+  "Pondok_Cabe_Airport": [
+    {
+      "Direction": "18/36",
+      "ft": "6,516",
+      "m": "1,984",
+      "Surface": "Asphalt"
     }
   ],
   "Prairie_du_Chien_Municipal_Airport": [
@@ -46794,6 +47163,14 @@
       "Direction": "07/25",
       "m": "1,800",
       "ft": "5,906",
+      "Surface": "Asphalt"
+    }
+  ],
+  "Picos_Airport": [
+    {
+      "Direction": "14/32",
+      "m": "1,200",
+      "ft": "3,937",
       "Surface": "Asphalt"
     }
   ],
@@ -47277,8 +47654,8 @@
     {
       "Direction": "13/31",
       "m": "1,792",
-      "ft": "5,880",
-      "Surface": "ASPHALT"
+      "ft": "5,879",
+      "Surface": "Asphalt"
     }
   ],
   "Depati_Amir_Airport": [
@@ -47900,8 +48277,8 @@
   "Playa_Grande_Airport": [
     {
       "Direction": "17/35",
-      "ft": "5,905",
       "m": "1,800",
+      "ft": "5,906",
       "Surface": "Gravel"
     }
   ],
@@ -48110,7 +48487,7 @@
   "Mutiara_Airport": [
     {
       "Direction": "15/33",
-      "m": "2,500",
+      "m": "2,250",
       "ft": "7,381",
       "Surface": "Asphalt"
     }
@@ -48584,8 +48961,8 @@
   "Port-Gentil_International_Airport": [
     {
       "Direction": "03/21",
-      "ft": "6,234",
-      "m": "1,870",
+      "m": "2,591",
+      "ft": "8,501",
       "Surface": "Asphalt"
     }
   ],
@@ -48636,8 +49013,8 @@
   "Popt%C3%BAn_Airport": [
     {
       "Direction": "09/27",
-      "ft": "8,960",
       "m": "2,730",
+      "ft": "8,957",
       "Surface": "Gravel"
     }
   ],
@@ -48755,16 +49132,10 @@
   ],
   "Puerto_Pe%C3%B1asco_International_Airport": [
     {
-      "Direction": "11/29",
-      "ft": "8,202",
-      "m": "2,500",
-      "Surface": "Asphalt"
-    },
-    {
-      "Direction": "03/21",
-      "ft": "3,280",
-      "m": "1,000",
-      "Surface": "Soil"
+      "Direction": "18/36",
+      "ft": "8,398",
+      "m": "2,560",
+      "Surface": "Concrete"
     }
   ],
   "Tri-City_Airport_(Kansas)": [
@@ -49099,6 +49470,14 @@
       "Surface": "Turf"
     }
   ],
+  "Paruima_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "550",
+      "ft": "1,804",
+      "Surface": ""
+    }
+  ],
   "Prentice_Airport": [
     {
       "Direction": "9/27",
@@ -49200,8 +49579,8 @@
   "Mercedita_Airport": [
     {
       "Direction": "12/30",
-      "ft": "6,904",
-      "m": "2,104",
+      "ft": "8,000",
+      "m": "2,438",
       "Surface": "Asphalt"
     }
   ],
@@ -49496,7 +49875,7 @@
       "Direction": "12/30",
       "m": "3,500",
       "ft": "11,483",
-      "Surface": "Concrete"
+      "Surface": "Asphalt"
     }
   ],
   "Atkinson_Municipal_Airport": [
@@ -50364,7 +50743,7 @@
     {
       "Direction": "03/21",
       "m": "3,600",
-      "ft": "11,800",
+      "ft": "11,811",
       "Surface": "Asphalt"
     }
   ],
@@ -51071,9 +51450,9 @@
   "R%C3%A9gina_Airport": [
     {
       "Direction": "06/24",
-      "m": "850",
-      "ft": "2,789",
-      "Surface": "Paved"
+      "m": "800",
+      "ft": "2,625",
+      "Surface": "Asphalt"
     }
   ],
   "Almirante_Marcos_A._Zar_Airport": [
@@ -51111,8 +51490,8 @@
   "Retalhuleu_Airport": [
     {
       "Direction": "04/22",
-      "m": "1,544",
-      "ft": "5,066",
+      "m": "1,525",
+      "ft": "5,003",
       "Surface": "Asphalt"
     }
   ],
@@ -51188,15 +51567,15 @@
   ],
   "Raufarh%C3%B6fn_Airport": [
     {
-      "Direction": "08/26",
-      "ft": "3,860",
+      "Direction": "07/25",
       "m": "1,175",
+      "ft": "3,855",
       "Surface": "Asphalt"
     },
     {
       "Direction": "15/33",
-      "ft": "2,080",
       "m": "634",
+      "ft": "2,080",
       "Surface": "Asphalt"
     }
   ],
@@ -51420,13 +51799,13 @@
       "Direction": "1/19",
       "ft": "6,700",
       "m": "2,042",
-      "Surface": "Concrete"
+      "Surface": "Asphalt"
     },
     {
       "Direction": "13/31",
       "ft": "3,500",
       "m": "1,067",
-      "Surface": "Concrete"
+      "Surface": "Asphalt"
     }
   ],
   "Rio_Grande_Airport": [
@@ -52471,10 +52850,10 @@
   ],
   "Frans_Sales_Lega_Airport": [
     {
-      "Direction": "",
+      "Direction": "09/27",
       "ft": "4,265",
-      "m": "1,300",
-      "Surface": ""
+      "m": "1,800",
+      "Surface": "Asphalt"
     }
   ],
   "Spirit_Lake_Municipal_Airport": [
@@ -52630,8 +53009,8 @@
   "Rubelsanto_Airport": [
     {
       "Direction": "08/26",
-      "ft": "4,690",
       "m": "1,430",
+      "ft": "4,692",
       "Surface": "Asphalt"
     }
   ],
@@ -52678,8 +53057,8 @@
   "R%C3%B8rvik_Airport,_Ryum": [
     {
       "Direction": "04/22",
-      "m": "950",
-      "ft": "3,117",
+      "m": "830",
+      "ft": "2,723",
       "Surface": "Asphalt"
     }
   ],
@@ -53151,6 +53530,14 @@
       "Surface": "Gravel"
     }
   ],
+  "Maimun_Saleh_Airport": [
+    {
+      "Direction": "10/28",
+      "ft": "6,050",
+      "m": "1,877",
+      "Surface": "Asphalt Concrete"
+    }
+  ],
   "Gustaf_III_Airport": [
     {
       "Direction": "10/28",
@@ -53536,8 +53923,8 @@
   "Lubango_Airport": [
     {
       "Direction": "10/28",
-      "m": "2,917",
-      "ft": "9,570",
+      "m": "3,150",
+      "ft": "10,335",
       "Surface": "Asphalt"
     }
   ],
@@ -53579,10 +53966,7 @@
   ],
   "Santa_Rosa_de_Cop%C3%A1n_Airport": [
     {
-      "Direction": "Closed",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "Direction": "Closed"
     }
   ],
   "Saidor_Airport": [
@@ -53866,8 +54250,8 @@
   "Seronera_Airstrip": [
     {
       "Direction": "13/31",
-      "m": "2,200",
-      "ft": "7,218",
+      "m": "2,280",
+      "ft": "7,480",
       "Surface": "Gravel"
     }
   ],
@@ -54250,8 +54634,8 @@
   "Songea_Airport": [
     {
       "Direction": "14/32",
-      "m": "1,617",
-      "ft": "5,305",
+      "m": "1,628",
+      "ft": "5,341",
       "Surface": "Asphalt"
     }
   ],
@@ -54488,8 +54872,8 @@
   "Shinyanga_Airport": [
     {
       "Direction": "11/29",
-      "m": "2,000",
-      "ft": "6,562",
+      "m": "2,068",
+      "ft": "6,785",
       "Surface": "Gravel"
     }
   ],
@@ -54511,10 +54895,10 @@
   ],
   "Sibiti_Airport": [
     {
-      "Direction": "",
-      "m": "1,250",
-      "ft": "4,101",
-      "Surface": ""
+      "Direction": "10/28",
+      "m": "2,045",
+      "ft": "6,709",
+      "Surface": "Asphalt"
     }
   ],
   "San_Jos%C3%A9_Airport,_Las_Perlas": [
@@ -54615,7 +54999,7 @@
   ],
   "Simferopol_International_Airport": [
     {
-      "Direction": "01L/19R",
+      "Direction": "01/19",
       "m": "3,701",
       "ft": "12,142",
       "Surface": "Concrete"
@@ -54868,8 +55252,8 @@
   "S%C3%A3o_Jorge_Airport": [
     {
       "Direction": "13/31",
-      "ft": "",
       "m": "1,412",
+      "ft": "4,633",
       "Surface": "Asphalt"
     }
   ],
@@ -55561,9 +55945,9 @@
   ],
   "Stoelmans_Eiland_Airstrip": [
     {
-      "Direction": "",
-      "ft": "",
+      "Direction": "10/28",
       "m": "500",
+      "ft": "1,640",
       "Surface": "grass"
     }
   ],
@@ -55791,7 +56175,7 @@
   ],
   "Souank%C3%A9_Airport": [
     {
-      "Direction": "",
+      "Direction": "07/25",
       "m": "1,400",
       "ft": "4,593",
       "Surface": ""
@@ -55857,6 +56241,12 @@
       "ft": "",
       "m": "2.524",
       "Surface": "Asphalt"
+    },
+    {
+      "Direction": "03/21",
+      "ft": "",
+      "m": "1.500",
+      "Surface": "Asphalt (Closed)"
     }
   ],
   "Moore_County_Airport_(North_Carolina)": [
@@ -56597,8 +56987,8 @@
   "Mbanza_Congo_Airport": [
     {
       "Direction": "16/34",
-      "ft": "5,905",
-      "m": "1,800",
+      "m": "1,925",
+      "ft": "6,316",
       "Surface": "Asphalt"
     }
   ],
@@ -56681,7 +57071,7 @@
       "Direction": "13/31",
       "ft": "4,797",
       "m": "1,462",
-      "Surface": "Asphalt/Concrete"
+      "Surface": "Concrete"
     }
   ],
   "Lambert%E2%80%93St._Louis_International_Airport": [
@@ -57225,8 +57615,8 @@
   "Kuito_Airport": [
     {
       "Direction": "08/26",
-      "m": "2,500",
-      "ft": "8,202",
+      "m": "2,680",
+      "ft": "8,793",
       "Surface": "Asphalt"
     }
   ],
@@ -57379,14 +57769,14 @@
   "Swakopmund_Airport": [
     {
       "Direction": "06/24",
-      "ft": "5,250",
       "m": "1,600",
-      "Surface": "Asphalt"
+      "ft": "5,249",
+      "Surface": "Gravel"
     },
     {
       "Direction": "17/35",
-      "ft": "3,139",
       "m": "963",
+      "ft": "3,159",
       "Surface": "Gravel"
     }
   ],
@@ -57703,16 +58093,16 @@
   "Stykkish%C3%B3lmur_Airport": [
     {
       "Direction": "07/25",
-      "ft": "3,655",
       "m": "1,114",
+      "ft": "3,655",
       "Surface": "Asphalt"
     }
   ],
   "Pu%27er_Simao_Airport": [
     {
       "Direction": "18/36",
-      "m": "2,500",
-      "ft": "8,202",
+      "m": "2,470",
+      "ft": "8,104",
       "Surface": ""
     }
   ],
@@ -57850,9 +58240,9 @@
   ],
   "Soyo_Airport": [
     {
-      "Direction": "07/25",
-      "ft": "6,857",
-      "m": "2,090",
+      "Direction": "06/24",
+      "m": "1,822",
+      "ft": "5,978",
       "Surface": "Asphalt"
     }
   ],
@@ -57885,6 +58275,14 @@
       "Direction": "15/33",
       "m": "2,750",
       "ft": "9,022",
+      "Surface": "Concrete"
+    }
+  ],
+  "Zaysan_Airport": [
+    {
+      "Direction": "09/27",
+      "m": "1,505",
+      "ft": "4,938",
       "Surface": "Concrete"
     }
   ],
@@ -58435,9 +58833,9 @@
   "Tchibanga_Airport": [
     {
       "Direction": "15/33",
-      "ft": "5,906",
-      "m": "1,800",
-      "Surface": "UNK"
+      "m": "2,000",
+      "ft": "6,562",
+      "Surface": "Asphalt"
     }
   ],
   "Tuscaloosa_Regional_Airport": [
@@ -58578,7 +58976,7 @@
   ],
   "Tengchong_Tuofeng_Airport": [
     {
-      "Direction": "",
+      "Direction": "18/36",
       "m": "2,350",
       "ft": "7,710",
       "Surface": ""
@@ -58606,6 +59004,14 @@
       "m": "1,000",
       "ft": "3,281",
       "Surface": ""
+    }
+  ],
+  "Taldykorgan_Airport": [
+    {
+      "Direction": "02/20",
+      "m": "3,001",
+      "ft": "9,846",
+      "Surface": "Concrete"
     }
   ],
   "Tandil_Airport": [
@@ -58843,8 +59249,8 @@
   "%C3%9Eingeyri_Airport": [
     {
       "Direction": "14/32",
-      "ft": "3,970",
       "m": "1,210",
+      "ft": "3,970",
       "Surface": "Asphalt"
     }
   ],
@@ -59656,9 +60062,9 @@
   ],
   "Kigoma_Airport": [
     {
-      "Direction": "16/34",
-      "m": "1,794",
-      "ft": "5,886",
+      "Direction": "15/33",
+      "m": "1,805",
+      "ft": "5,922",
       "Surface": "Asphalt"
     }
   ],
@@ -59812,7 +60218,7 @@
     {
       "Direction": "08/26",
       "m": "3,070",
-      "ft": "10,070",
+      "ft": "10,072",
       "Surface": "Asphalt/Concrete"
     }
   ],
@@ -60470,6 +60876,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Totness_Airstrip": [
+    {
+      "Direction": "14/32",
+      "m": "500",
+      "ft": "1,640",
+      "Surface": "Grass"
+    }
+  ],
   "Toledo_Airport_(Brazil)": [
     {
       "Direction": "01/19",
@@ -60876,7 +61290,7 @@
     {
       "Direction": "14/32",
       "m": "3,400",
-      "ft": "11,200",
+      "ft": "11,155",
       "Surface": "Asphalt"
     }
   ],
@@ -60923,8 +61337,8 @@
   "Tsumeb_Airport": [
     {
       "Direction": "12/30",
-      "m": "1,470",
-      "ft": "4,823",
+      "m": "1,550",
+      "ft": "5,085",
       "Surface": "Asphalt"
     }
   ],
@@ -61586,7 +62000,7 @@
   ],
   "Huangshan_Tunxi_International_Airport": [
     {
-      "Direction": "",
+      "Direction": "13/31",
       "m": "2,600",
       "ft": "8,530",
       "Surface": ""
@@ -61823,9 +62237,9 @@
   "Luau_Airport": [
     {
       "Direction": "17/35",
-      "ft": "5,110",
       "m": "1,558",
-      "Surface": "DIRT"
+      "ft": "5,112",
+      "Surface": "Dirt"
     }
   ],
   "Andersen_Air_Force_Base": [
@@ -62153,8 +62567,8 @@
   "U%C3%ADge_Airport": [
     {
       "Direction": "01/19",
-      "ft": "6,562",
-      "m": "2,000",
+      "ft": "",
+      "m": "2,255",
       "Surface": "Asphalt"
     }
   ],
@@ -62753,27 +63167,9 @@
   "Oral_Ak_Zhol_Airport": [
     {
       "Direction": "04/22",
-      "m": "2,400",
-      "ft": "7,874",
+      "m": "2,799",
+      "ft": "9,183",
       "Surface": "Concrete"
-    },
-    {
-      "Direction": "04/22",
-      "m": "2,400",
-      "ft": "7,874",
-      "Surface": "Dirt"
-    },
-    {
-      "Direction": "13/31",
-      "m": "500",
-      "ft": "1,640",
-      "Surface": "Concrete"
-    },
-    {
-      "Direction": "14/32",
-      "m": "850",
-      "ft": "2,789",
-      "Surface": "Dirt"
     }
   ],
   "%C3%9Cr%C3%BCmqi_Diwopu_International_Airport": [
@@ -62866,6 +63262,14 @@
       "m": "3,030",
       "ft": "9,941",
       "Surface": "Concrete"
+    }
+  ],
+  "Mabaruma_Airport": [
+    {
+      "Direction": "05/23",
+      "m": "518",
+      "ft": "1,699",
+      "Surface": "Asphalt"
     }
   ],
   "Usinsk_Airport": [
@@ -63406,10 +63810,7 @@
   ],
   "Victoria_River_Downs_Airport": [
     {
-      "Direction": "09/27",
-      "m": "",
-      "ft": "",
-      "Surface": ""
+      "Direction": "09/27"
     }
   ],
   "Venice_Marco_Polo_Airport": [
@@ -63625,8 +64026,8 @@
   "Vidyanagar_Airport": [
     {
       "Direction": "13/31",
-      "ft": "5,223",
-      "m": "1,592",
+      "ft": "4,921",
+      "m": "1,500",
       "Surface": "Asphalt"
     }
   ],
@@ -63750,9 +64151,9 @@
   ],
   "Henrique_de_Carvalho_Airport": [
     {
-      "Direction": "14/32",
-      "ft": "11,160",
+      "Direction": "13/31",
       "m": "3,402",
+      "ft": "11,161",
       "Surface": "Asphalt"
     }
   ],
@@ -64307,8 +64708,8 @@
   "Ondjiva_Pereira_Airport": [
     {
       "Direction": "13/31",
-      "ft": "10,640",
       "m": "3,243",
+      "ft": "10,640",
       "Surface": "Asphalt"
     }
   ],
@@ -64521,14 +64922,14 @@
   "Stockholm_V%C3%A4ster%C3%A5s_Airport": [
     {
       "Direction": "01/19",
-      "ft": "8,468",
       "m": "2,581",
+      "ft": "8,468",
       "Surface": "Asphalt"
     },
     {
       "Direction": "01/19",
-      "ft": "2,625",
       "m": "800",
+      "ft": "2,625",
       "Surface": "Grass"
     }
   ],
@@ -64740,7 +65141,7 @@
       "Surface": "Asphalt"
     }
   ],
-  "Wanganui_Airport": [
+  "Whanganui_Airport": [
     {
       "Direction": "08/26",
       "ft": "2,877",
@@ -64986,6 +65387,14 @@
       "m": "2,600",
       "ft": "8,530",
       "Surface": ""
+    }
+  ],
+  "Weifang_Airport": [
+    {
+      "Direction": "17/35",
+      "m": "2,600",
+      "ft": "8,530",
+      "Surface": "Concrete"
     }
   ],
   "Weihai_Dashuibo_Airport": [
@@ -65965,9 +66374,9 @@
   ],
   "Wuhai_Airport": [
     {
-      "Direction": "",
-      "m": "2,600",
-      "ft": "8,530",
+      "Direction": "01/19",
+      "m": "2,300",
+      "ft": "7,546",
       "Surface": "Concrete"
     }
   ],
@@ -66197,7 +66606,7 @@
   ],
   "Wanzhou_Wuqiao_Airport": [
     {
-      "Direction": "22/40",
+      "Direction": "11/29",
       "m": "2,400",
       "ft": "7,874",
       "Surface": "Concrete"
@@ -66393,8 +66802,8 @@
     {
       "Direction": "03/21",
       "m": "2,265",
-      "ft": "7,430",
-      "Surface": "ASPHALT"
+      "ft": "7,431",
+      "Surface": "Asphalt"
     }
   ],
   "Kangiqsualujjuaq_(Georges_River)_Airport": [
@@ -66459,9 +66868,9 @@
   ],
   "Al_Udeid_Air_Base": [
     {
-      "Direction": "",
-      "ft": "",
-      "m": "",
+      "Direction": "16/34",
+      "ft": "12,303",
+      "m": "3,750",
       "Surface": "Asphalt"
     }
   ],
@@ -66846,8 +67255,8 @@
   "Anahim_Lake_Airport": [
     {
       "Direction": "13/31",
-      "ft": "4,642",
-      "m": "1,415",
+      "ft": "3,936",
+      "m": "1,200",
       "Surface": "Asphalt"
     }
   ],
@@ -67103,7 +67512,7 @@
   ],
   "Yibin_Caiba_Airport": [
     {
-      "Direction": "",
+      "Direction": "08/26",
       "m": "2,150",
       "ft": "7,054",
       "Surface": ""
@@ -67277,7 +67686,7 @@
       "Surface": "Asphalt"
     }
   ],
-  "Cochrane_Airport": [
+  "Cochrane_Aerodrome": [
     {
       "Direction": "13/31",
       "ft": "4,484",
@@ -67304,8 +67713,8 @@
   "Cross_Lake_(Charlie_Sinclair_Memorial)_Airport": [
     {
       "Direction": "05/23",
-      "ft": "3,940",
-      "m": "1,201",
+      "ft": "3,991",
+      "m": "1,216",
       "Surface": "Crushed rock"
     }
   ],
@@ -67327,7 +67736,7 @@
   ],
   "Yuncheng_Guangong_Airport": [
     {
-      "Direction": "",
+      "Direction": "08/26",
       "m": "3,000",
       "ft": "9,843",
       "Surface": ""
@@ -67444,8 +67853,8 @@
   "Dolbeau-Saint-F%C3%A9licien_Airport": [
     {
       "Direction": "11/29",
-      "ft": "4,971",
-      "m": "1,515",
+      "ft": "4,998",
+      "m": "1,523",
       "Surface": "Asphalt"
     }
   ],
@@ -67460,7 +67869,7 @@
   "Dawson_Creek_Airport": [
     {
       "Direction": "06/24",
-      "ft": "5,000",
+      "ft": "5,001",
       "m": "1,524",
       "Surface": "Asphalt"
     }
@@ -67556,8 +67965,8 @@
   "Arviat_Airport": [
     {
       "Direction": "15/33",
-      "ft": "4,005",
-      "m": "1,221",
+      "ft": "4,000",
+      "m": "1,219",
       "Surface": "Gravel"
     }
   ],
@@ -67838,14 +68247,14 @@
   "Gods_Lake_Narrows_Airport": [
     {
       "Direction": "14/32",
-      "ft": "3,420",
-      "m": "1,042",
+      "ft": "3,810",
+      "m": "1,161",
       "Surface": "Crushed rock"
     }
   ],
   "Michel-Pouliot_Gasp%C3%A9_Airport": [
     {
-      "Direction": "11/29",
+      "Direction": "10/28",
       "ft": "4,487",
       "m": "1,368",
       "Surface": "Asphalt"
@@ -67938,8 +68347,8 @@
     },
     {
       "Direction": "12/30",
-      "ft": "6,000",
-      "m": "1,829",
+      "ft": "5,996",
+      "m": "1,828",
       "Surface": "Asphalt"
     }
   ],
@@ -68104,14 +68513,14 @@
   "Atikokan_Municipal_Airport": [
     {
       "Direction": "04/22",
-      "ft": "3,500",
-      "m": "1,067",
+      "ft": "3,495",
+      "m": "1,065",
       "Surface": "Asphalt"
     }
   ],
   "Yichun_Mingyueshan_Airport": [
     {
-      "Direction": "",
+      "Direction": "06/24",
       "m": "2,400",
       "ft": "7,874",
       "Surface": ""
@@ -68599,9 +69008,9 @@
   ],
   "Yevlakh_Airport": [
     {
-      "Direction": "14/32",
-      "m": "2,400",
-      "ft": "7,874",
+      "Direction": "12/30",
+      "m": "2,520",
+      "ft": "8,268",
       "Surface": "Asphalt"
     }
   ],
@@ -69254,7 +69663,7 @@
   ],
   "Fort_Chipewyan_Airport": [
     {
-      "Direction": "03/21",
+      "Direction": "04/222",
       "ft": "5,000",
       "m": "1,524",
       "Surface": "Asphalt"
@@ -70038,6 +70447,14 @@
       "Surface": "Gravel"
     }
   ],
+  "Yuendumu_Airport": [
+    {
+      "Direction": "12/30",
+      "m": "",
+      "ft": "4,724",
+      "Surface": ""
+    }
+  ],
   "Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport": [
     {
       "Direction": "06L/24R",
@@ -70228,7 +70645,7 @@
       "Surface": "Asphalt"
     },
     {
-      "Direction": "11/29",
+      "Direction": "12/30",
       "ft": "5,006",
       "m": "1,526",
       "Surface": "Asphalt"
@@ -70561,8 +70978,8 @@
     },
     {
       "Direction": "14L/32R",
-      "ft": "4,018",
-      "m": "1,225",
+      "ft": "5,317",
+      "m": "1,621",
       "Surface": "Asphalt"
     }
   ],
@@ -70652,7 +71069,16 @@
   ],
   "Charlottetown_Airport": [
     {
-      "Number of Passengers": "317,827"
+      "Direction": "03/21",
+      "ft": "7,000",
+      "m": "2,134",
+      "Surface": "Asphalt"
+    },
+    {
+      "Direction": "10/28",
+      "ft": "5,004",
+      "m": "1,525",
+      "Surface": "Asphalt"
     }
   ],
   "Taloyoak_Airport": [
@@ -70786,8 +71212,8 @@
   "Armstrong_Airport": [
     {
       "Direction": "12/30",
-      "ft": "4,000",
-      "m": "1,219",
+      "ft": "4,006",
+      "m": "1,221",
       "Surface": "Asphalt"
     }
   ],

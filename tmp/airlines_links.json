@@ -99,6 +99,16 @@
     "Country": "South Africa"
   },
   {
+    "IATA": "4O",
+    "ICAO": "AIJ",
+    "airline": {
+      "name": "Interjet",
+      "link": "/wiki/Interjet"
+    },
+    "CallSign": "Interjet",
+    "Country": "Mexico"
+  },
+  {
     "ICAO": "WSM",
     "airline": {
       "name": "Advanced Air"
@@ -1307,6 +1317,14 @@
     },
     "CallSign": "AIR MUSKOKA",
     "Country": "Canada"
+  },
+  {
+    "ICAO": "AOJ",
+    "airline": {
+      "name": "Avon Jet"
+    },
+    "CallSign": "ASTERIX",
+    "Country": "Austria"
   },
   {
     "ICAO": "AJU",
@@ -7821,6 +7839,22 @@
     "Country": "Portugal"
   },
   {
+    "ICAO": "EWG",
+    "airline": {
+      "name": "Eurowings",
+      "link": "/wiki/Eurowings"
+    },
+    "CallSign": "EUROWINGS",
+    "Country": "Germany"
+  },
+  {
+    "ICAO": "EWE",
+    "airline": {
+      "name": "Eurowings Europe"
+    },
+    "Country": "Austria"
+  },
+  {
     "ICAO": "EXG",
     "airline": {
       "name": "Air Exchange"
@@ -10182,6 +10216,14 @@
     "Country": "Australia"
   },
   {
+    "ICAO": "PEV",
+    "airline": {
+      "name": "Peoples Vienna Line"
+    },
+    "CallSign": "PEOPLES",
+    "Country": "Austria"
+  },
+  {
     "ICAO": "PFI",
     "airline": {
       "name": "Aerolíneas Chihuahua"
@@ -10707,8 +10749,7 @@
     "IATA": "QL",
     "ICAO": "RLN",
     "airline": {
-      "name": "Aero Lanka",
-      "link": "/wiki/Aero_Lanka"
+      "name": "Aero Lanka"
     },
     "CallSign": "AERO LANKA",
     "Country": "Sri Lanka"
@@ -12741,6 +12782,16 @@
     "Country": "Germany"
   },
   {
+    "IATA": "JD",
+    "ICAO": "CBJ",
+    "airline": {
+      "name": "Beijing Capital Airlines",
+      "link": "/wiki/Beijing_Capital_Airlines"
+    },
+    "CallSign": "CAPITAL JET",
+    "Country": "China"
+  },
+  {
     "ICAO": "OUF",
     "airline": {
       "name": "Beijing Eofa International Jet"
@@ -12821,9 +12872,11 @@
     "Country": "Denmark"
   },
   {
+    "IATA": "ID",
     "ICAO": "BTK",
     "airline": {
-      "name": "Batik Air Indonesia"
+      "name": "Batik Air",
+      "link": "/wiki/Batik_Air"
     },
     "CallSign": "BATIK",
     "Country": "Indonesia"
@@ -14447,7 +14500,8 @@
   {
     "ICAO": "BYE",
     "airline": {
-      "name": "Bayu Indonesia Air"
+      "name": "Bayu Indonesia Air",
+      "link": "/wiki/Bayu_Indonesia_Air"
     },
     "CallSign": "BAYU",
     "Country": "Indonesia"
@@ -15870,6 +15924,15 @@
     },
     "CallSign": "CARGO LINK",
     "Country": "Barbados"
+  },
+  {
+    "ICAO": "CLA",
+    "airline": {
+      "name": "Cargo Logic Air",
+      "link": "/wiki/Cargo_Logic_Air"
+    },
+    "CallSign": "FIREBIRD",
+    "Country": "United Kingdom"
   },
   {
     "ICAO": "CTW",
@@ -18482,7 +18545,7 @@
     "airline": {
       "name": "Czech Government Flying Service"
     },
-    "CallSign": "CZECHIA",
+    "CallSign": "CZECH REPUBLIC",
     "Country": "Czech Republic"
   },
   {
@@ -18738,7 +18801,8 @@
   {
     "ICAO": "RSK",
     "airline": {
-      "name": "DSWA"
+      "name": "DSWA",
+      "link": "/wiki/DSWA"
     },
     "CallSign": "REDSKIN",
     "Country": "United States"
@@ -19045,15 +19109,6 @@
     },
     "CallSign": "DECCAN",
     "Country": "India"
-  },
-  {
-    "ICAO": "DER",
-    "airline": {
-      "name": "Deer Jet",
-      "link": "/wiki/Deer_Jet"
-    },
-    "CallSign": "DEER JET",
-    "Country": "China"
   },
   {
     "ICAO": "JDC",
@@ -23187,12 +23242,13 @@
     "Country": "Spain"
   },
   {
+    "IATA": "5F",
     "ICAO": "FIA",
     "airline": {
-      "name": "Four Island Air"
+      "name": "Fly One"
     },
-    "CallSign": "ISLANDAIR",
-    "Country": "Antigua and Barbuda"
+    "CallSign": "Fly One",
+    "Country": "Moldova"
   },
   {
     "IATA": "HK",
@@ -23556,6 +23612,7 @@
       "name": "Guangxi Beibu Gulf Airlines",
       "link": "/wiki/Guangxi_Beibu_Gulf_Airlines"
     },
+    "CallSign": "SPRAY",
     "Country": "China"
   },
   {
@@ -24357,7 +24414,8 @@
   {
     "ICAO": "GGZ",
     "airline": {
-      "name": "Global Georgian Airways"
+      "name": "Global Georgian Airways",
+      "link": "/wiki/Global_Georgian_Airways"
     },
     "CallSign": "GLOBAL GEORGIAN",
     "Country": "Georgia"
@@ -24851,7 +24909,7 @@
   {
     "ICAO": "GMT",
     "airline": {
-      "name": "Grupoaéreo Monterrey"
+      "name": "Grupo Aéreo Monterrey"
     },
     "CallSign": "GRUPOMONTERREY",
     "Country": "Mexico"
@@ -26068,7 +26126,7 @@
     "ICAO": "HFY",
     "airline": {
       "name": "Hi Fly",
-      "link": "/wiki/Hifly"
+      "link": "/wiki/Hi_Fly_(airline)"
     },
     "CallSign": "SKY FLYER",
     "Country": "Portugal"
@@ -26406,7 +26464,8 @@
   {
     "ICAO": "HYD",
     "airline": {
-      "name": "Hydro-QuÃ©bec"
+      "name": "Hydro-Québec",
+      "link": "/wiki/Hydro-Qu%C3%A9bec"
     },
     "CallSign": "HYDRO",
     "Country": "Canada"
@@ -26967,7 +27026,8 @@
     "IATA": "I9",
     "ICAO": "IBU",
     "airline": {
-      "name": "Indigo"
+      "name": "Indigo",
+      "link": "/wiki/Indigo_(airline)"
     },
     "CallSign": "INDIGO BLUE",
     "Country": "United States"
@@ -29667,6 +29727,15 @@
     "Country": "United States"
   },
   {
+    "ICAO": "KRA",
+    "airline": {
+      "name": "Kiwi Regional Airlines",
+      "link": "/wiki/Kiwi_Regional_Airlines"
+    },
+    "CallSign": "REGIONAL",
+    "Country": "New Zealand"
+  },
+  {
     "ICAO": "KNA",
     "airline": {
       "name": "Knight Air"
@@ -30104,11 +30173,13 @@
     "Country": "Libya"
   },
   {
+    "IATA": "YQ",
     "ICAO": "LCT",
     "airline": {
-      "name": "Link Conexion Aerea"
+      "name": "TAR Aerolineas",
+      "link": "/wiki/TAR_Aerolineas"
     },
-    "CallSign": "CONEXION LINK",
+    "CallSign": "TAR",
     "Country": "Mexico"
   },
   {
@@ -30505,8 +30576,7 @@
     "IATA": "QL",
     "ICAO": "RLN",
     "airline": {
-      "name": "Lankan Cargo",
-      "link": "/wiki/Lankan_Cargo"
+      "name": "Lankan Cargo"
     },
     "CallSign": "AERO LANKA",
     "Country": "Sri Lanka"
@@ -33295,12 +33365,14 @@
     "Country": "United States"
   },
   {
-    "ICAO": "MW",
+    "IATA": "MW",
+    "ICAO": "MUL",
     "airline": {
-      "name": "MUL"
+      "name": "Mokulele Airlines",
+      "link": "/wiki/Mokulele_Airlines"
     },
-    "CallSign": "Mokulele Airlines",
-    "Country": "MUKULELE"
+    "CallSign": "MUKULELE",
+    "Country": "United States"
   },
   {
     "ICAO": "MLE",
@@ -34039,12 +34111,13 @@
     "Country": "Indonesia"
   },
   {
-    "IATA": "KUS",
-    "ICAO": "National Airlines",
+    "ICAO": "KUS",
     "airline": {
-      "name": "KUSWAG"
+      "name": "National Airlines",
+      "link": "/wiki/National_Airlines_(YJ)"
     },
-    "CallSign": "South Africa"
+    "CallSign": "KUSWAG",
+    "Country": "South Africa"
   },
   {
     "IATA": "9O",
@@ -38433,6 +38506,16 @@
     "Country": "Australia"
   },
   {
+    "IATA": "QF",
+    "ICAO": "QLK",
+    "airline": {
+      "name": "Qantaslink",
+      "link": "/wiki/Qantaslink"
+    },
+    "CallSign": "QLINK",
+    "Country": "Australia"
+  },
+  {
     "ICAO": "QAC",
     "airline": {
       "name": "Qatar Air Cargo",
@@ -38606,7 +38689,8 @@
   {
     "ICAO": "RIX",
     "airline": {
-      "name": "Rectrix Aviation"
+      "name": "Rectrix Aviation",
+      "link": "/wiki/Rectrix_Aviation"
     },
     "CallSign": "RECTRIX",
     "Country": "United States"
@@ -38645,12 +38729,13 @@
     "Country": "United States"
   },
   {
-    "IATA": "\nRGE\n",
-    "ICAO": "Regent Airways",
+    "ICAO": "RGE",
     "airline": {
-      "name": "REGENT"
+      "name": "Regent Airways",
+      "link": "/wiki/Regent_Airways"
     },
-    "CallSign": "Bangladesh"
+    "CallSign": "REGENT",
+    "Country": "Bangladesh"
   },
   {
     "ICAO": "RJT",
@@ -40201,7 +40286,8 @@
   {
     "ICAO": "MIG",
     "airline": {
-      "name": "Russian Aircraft Corporation-MiG"
+      "name": "Russian Aircraft Corporation-MiG",
+      "link": "/wiki/Russian_Aircraft_Corporation-MiG"
     },
     "CallSign": "MIG AVIA",
     "Country": "Russia"
@@ -41104,7 +41190,8 @@
     "IATA": "FP",
     "ICAO": "AND",
     "airline": {
-      "name": "Servicios Aereos De Los Andes"
+      "name": "Servicios Aéreos de los Andes",
+      "link": "/wiki/Servicios_A%C3%A9reos_de_los_Andes"
     },
     "CallSign": "SERVI ANDES",
     "Country": "Peru"
@@ -45493,6 +45580,7 @@
     "Country": "Thailand"
   },
   {
+    "IATA": "WE",
     "ICAO": "THD",
     "airline": {
       "name": "Thai Smile Airways",
@@ -45502,6 +45590,7 @@
     "Country": "Thailand"
   },
   {
+    "IATA": "VJ",
     "ICAO": "TVJ",
     "airline": {
       "name": "Thai Vietjet Air",
@@ -45519,6 +45608,7 @@
     "Country": "Mexico"
   },
   {
+    "IATA": "XJ",
     "ICAO": "TAX",
     "airline": {
       "name": "Thai Airasia X"
@@ -45527,6 +45617,7 @@
     "Country": "Thailand"
   },
   {
+    "IATA": "SL",
     "ICAO": "TLM",
     "airline": {
       "name": "Thai Lion Mentari"
@@ -45679,8 +45770,8 @@
     "IATA": "JJ",
     "ICAO": "TAM",
     "airline": {
-      "name": "TAM Brazilian Airlines",
-      "link": "/wiki/TAM_Brazilian_Airlines"
+      "name": "LATAM Brasil",
+      "link": "/wiki/LATAM_Brasil"
     },
     "CallSign": "TAM",
     "Country": "Brazil"
@@ -47030,8 +47121,7 @@
   {
     "ICAO": "TPD",
     "airline": {
-      "name": "Top Speed",
-      "link": "/wiki/Top_Speed"
+      "name": "Top Speed"
     },
     "CallSign": "TOP SPEED",
     "Country": "Austria"
@@ -48571,7 +48661,8 @@
   {
     "ICAO": "CUH",
     "airline": {
-      "name": "Urumqi Airlines"
+      "name": "Urumqi Airlines",
+      "link": "/wiki/Urumqi_Airlines"
     },
     "CallSign": "LOULAN",
     "Country": "China"
@@ -49370,6 +49461,7 @@
       "name": "Veca Airlines",
       "link": "/wiki/Veca_Airlines"
     },
+    "CallSign": "VECA",
     "Country": "El Salvador"
   },
   {
@@ -50215,7 +50307,9 @@
     "airline": {
       "name": "Volotea",
       "link": "/wiki/Volotea"
-    }
+    },
+    "CallSign": "VOLOTEA",
+    "Country": "Spain"
   },
   {
     "ICAO": "VTK",
@@ -50895,7 +50989,7 @@
     "Country": "Netherlands"
   },
   {
-    "IATA": "1W",
+    "IATA": "IW",
     "ICAO": "WON",
     "airline": {
       "name": "Wings Air",
@@ -51318,6 +51412,25 @@
       "link": "/wiki/Yamal_Airlines"
     },
     "CallSign": "YAMAL",
+    "Country": "Russia"
+  },
+  {
+    "ICAO": "YAK",
+    "airline": {
+      "name": "Yakolev",
+      "link": "/wiki/Yakolev"
+    },
+    "CallSign": "YAK AVIA",
+    "Country": "Russia"
+  },
+  {
+    "IATA": "R3",
+    "ICAO": "SYL",
+    "airline": {
+      "name": "Yakutia Airlines",
+      "link": "/wiki/Yakutia_Airlines"
+    },
+    "CallSign": "AIR YAKUTIA",
     "Country": "Russia"
   },
   {

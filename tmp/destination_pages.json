@@ -110,6 +110,11 @@
     "scraper": "table"
   },
   {
+    "name": "Air Caraïbes",
+    "destinationsLink": "/wiki/Air_Cara%C3%AFbes_destinations",
+    "scraper": "table"
+  },
+  {
     "name": "Air Chathams",
     "destinationsLink": "/wiki/Air_Chathams_destinations",
     "scraper": "table"
@@ -130,8 +135,8 @@
     "scraper": "table"
   },
   {
-    "name": "List of Air France",
-    "destinationsLink": "/wiki/List_of_Air_France_destinations",
+    "name": "Air France",
+    "destinationsLink": "/wiki/Air_France_destinations",
     "scraper": "table"
   },
   {
@@ -450,8 +455,8 @@
     "scraper": "table"
   },
   {
-    "name": "Austrian Airlines Group",
-    "destinationsLink": "/wiki/Austrian_Airlines_Group_destinations",
+    "name": "Austrian Airlines",
+    "destinationsLink": "/wiki/Austrian_Airlines_destinations",
     "scraper": "table"
   },
   {
@@ -727,7 +732,7 @@
   {
     "name": "Condor Flugdienst",
     "destinationsLink": "/wiki/Condor_Flugdienst_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Continental Airlines",
@@ -1132,7 +1137,7 @@
   {
     "name": "Jet2.com",
     "destinationsLink": "/wiki/Jet2.com_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Jet4you",
@@ -1160,8 +1165,8 @@
     "scraper": "table"
   },
   {
-    "name": "Jetstar Pacific Airlines",
-    "destinationsLink": "/wiki/Jetstar_Pacific_Airlines_destinations",
+    "name": "Jetstar Pacific",
+    "destinationsLink": "/wiki/Jetstar_Pacific_destinations",
     "scraper": "table"
   },
   {
@@ -1177,7 +1182,7 @@
   {
     "name": "Kingfisher Airlines",
     "destinationsLink": "/wiki/Kingfisher_Airlines_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "List of KLM Cityhopper",
@@ -1220,23 +1225,28 @@
     "scraper": "table"
   },
   {
-    "name": "LAN Airlines",
-    "destinationsLink": "/wiki/LAN_Airlines_destinations",
+    "name": "LATAM Chile",
+    "destinationsLink": "/wiki/LATAM_Chile_destinations",
     "scraper": "default"
   },
   {
-    "name": "LAN Argentina",
-    "destinationsLink": "/wiki/LAN_Argentina_destinations",
+    "name": "LATAM Argentina",
+    "destinationsLink": "/wiki/LATAM_Argentina_destinations",
     "scraper": "default"
   },
   {
-    "name": "LAN Perú",
-    "destinationsLink": "/wiki/LAN_Per%C3%BA_destinations",
+    "name": "LATAM Perú",
+    "destinationsLink": "/wiki/LATAM_Per%C3%BA_destinations",
     "scraper": "default"
   },
   {
     "name": "LATAM Colombia",
     "destinationsLink": "/wiki/LATAM_Colombia_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "LATAM Ecuador",
+    "destinationsLink": "/wiki/LATAM_Ecuador_destinations",
     "scraper": "table"
   },
   {
@@ -1262,11 +1272,6 @@
   {
     "name": "List of Dragonair",
     "destinationsLink": "/wiki/List_of_Dragonair_destinations",
-    "scraper": "table"
-  },
-  {
-    "name": "List of LAN Ecuador",
-    "destinationsLink": "/wiki/List_of_LAN_Ecuador_destinations",
     "scraper": "table"
   },
   {
@@ -1525,6 +1530,11 @@
     "scraper": "table"
   },
   {
+    "name": "Ravn Alaska",
+    "destinationsLink": "/wiki/Ravn_Alaska_destinations",
+    "scraper": "table"
+  },
+  {
     "name": "Régional Compagnie Aérienne Européenne",
     "destinationsLink": "/wiki/R%C3%A9gional_Compagnie_A%C3%A9rienne_Europ%C3%A9enne_destinations",
     "scraper": "default"
@@ -1637,6 +1647,11 @@
   {
     "name": "SilkAir",
     "destinationsLink": "/wiki/SilkAir_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "Simplifly Deccan",
+    "destinationsLink": "/wiki/Simplifly_Deccan_destinations",
     "scraper": "table"
   },
   {
@@ -1820,8 +1835,8 @@
     "scraper": "table"
   },
   {
-    "name": "TAM Airlines",
-    "destinationsLink": "/wiki/TAM_Airlines_destinations",
+    "name": "LATAM Brasil",
+    "destinationsLink": "/wiki/LATAM_Brasil_destinations",
     "scraper": "table"
   },
   {
@@ -1862,12 +1877,12 @@
   {
     "name": "Thomas Cook Airlines Belgium",
     "destinationsLink": "/wiki/Thomas_Cook_Airlines_Belgium_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Thomas Cook Airlines",
     "destinationsLink": "/wiki/Thomas_Cook_Airlines_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Thomas Cook Airlines Scandinavia",
@@ -1967,7 +1982,7 @@
   {
     "name": "Ukraine International Airlines",
     "destinationsLink": "/wiki/Ukraine_International_Airlines_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "United Airlines",
@@ -1977,7 +1992,7 @@
   {
     "name": "United Express",
     "destinationsLink": "/wiki/United_Express_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Ural Airlines",
@@ -2083,6 +2098,11 @@
     "name": "Volaris",
     "destinationsLink": "/wiki/Volaris_destinations",
     "scraper": "table"
+  },
+  {
+    "name": "Volotea",
+    "destinationsLink": "/wiki/Volotea_destinations",
+    "scraper": "default"
   },
   {
     "name": "Vueling",
