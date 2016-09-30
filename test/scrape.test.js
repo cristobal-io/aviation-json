@@ -14,6 +14,7 @@ var getAirportRunways = scrapeJs.getAirportRunways;
 var getCityAirports = scrapeJs.getCityAirports;
 var getAirportAirlines = scrapeJs.getAirportAirlines;
 var getDDCoordinates = scrapeJs.getDDCoordinates;
+var setAirportAirlinesNumber = scrapeJs.setAirportAirlinesNumber;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 
@@ -48,6 +49,23 @@ describe("bin/scrape.js tests", function () {
 
   });
 
+  describe("Update airports with number of airlines, setAirportAirlinesNumber fn", function() {
+
+    it("should include the number of airlines that fly to a destination.", function () {
+      var airportAirlines = getAirportAirlines(destinationsRaw);
+      var airports = reduceAirports(airportsRaw);
+      
+      var airportsUpdated = setAirportAirlinesNumber(airports, airportAirlines);
+      
+      var expectedFlyingAirlines = airportAirlines.Amsterdam_Airport_Schiphol.length;
+      var actualFlyingAirlines = airportsUpdated.Amsterdam_Airport_Schiphol.airlinesFlying;
+
+      assert.equal(actualFlyingAirlines, expectedFlyingAirlines);
+      
+    });
+
+  });
+  
   describe("helper fn", function () {
 
     it("has to detect duplicates", function () {

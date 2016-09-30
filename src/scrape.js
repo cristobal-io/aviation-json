@@ -164,6 +164,18 @@ var reduceAirports = function (airportsRaw) {
 
 };
 
+var setAirportAirlinesNumber = function(airports, airportAirlines) {
+  return _.forEach(airports,function(value, key) {
+    var airportAirline = airportAirlines[key];
+    
+    if (airportAirline !== undefined) {
+      value["airlinesFlying"] = airportAirline.length;
+    }
+
+    return value;
+  } );
+};
+
 var getAirportRunways = function (airportsRaw) {
 
   var airportRunways = _.reduce(airportsRaw, function (result, value) {
@@ -261,5 +273,6 @@ module.exports = {
   generateAirportCity: generateAirportCity,
   getCityAirports: getCityAirports,
   getAirportAirlines: getAirportAirlines,
-  getDDCoordinates: getDDCoordinates
+  getDDCoordinates: getDDCoordinates,
+  setAirportAirlinesNumber: setAirportAirlinesNumber
 };
