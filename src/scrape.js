@@ -82,7 +82,7 @@ var generateAirportCity = function (destinationsRaw) {
   var airportsCities = _.reduce(destinationsRaw, function (result, value) {
     if (value.destinations) {
       _.map(value.destinations, function (destination) {
-        if (destination.airport) {
+        if (isValidDestination(destination)) {
           airportKey = cleanUrl(destination.airport.url);
 
           if (destination.city.url) {
