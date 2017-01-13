@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "ajv": "3.8.5",
-    "aviation-scraper": "0.0.13",
+    "aviation-scraper": "0.1.0",
     "coveralls": "2.11.9",
     "eslint": "2.5.3",
     "mocha": "2.4.5",
