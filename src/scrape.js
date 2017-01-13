@@ -107,10 +107,11 @@ var reduceDestinations = function (destinationsRaw) {
     var destinations = [];
 
     _.map(value.destinations, function (value) {
-      if (value.airport) {
+      if (isValidDestination(value)) {
         destinations.push(cleanUrl(value.airport.url));
       }
     });
+
     var airlineKey = cleanUrl(value.destinationsLink);
 
     if (destinations.length) {
