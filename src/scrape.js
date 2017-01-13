@@ -10,7 +10,7 @@ var getAirportAirlines = function (destinationsRaw) {
 
     value.destinations.map(function (destination) {
 
-      if (destination.airport === undefined) {
+      if (!isValidDestination(destination)) {
         return;
       }
       var airportName = cleanUrl(destination.airport.url);
@@ -29,6 +29,14 @@ var getAirportAirlines = function (destinationsRaw) {
   return airportAirlines;
 };
 
+function isValidDestination(destination) {
+  if (destination.airport === undefined ||
+    !destination.airport.url) {
+    return false;
+  } else {
+    return true;
+  }
+}
 var getCityAirports = function (destinationsRaw) {
   var cityAirports = _.reduce(destinationsRaw, function (result, airlineDestinations, key) {
 
@@ -167,7 +175,7 @@ var reduceAirports = function (airportsRaw) {
 var setAirportAirlinesNumber = function(airports, airportAirlines) {
   return _.forEach(airports,function(value, key) {
     var airportAirline = airportAirlines[key];
-    
+
     if (airportAirline !== undefined) {
       value["airlinesFlying"] = airportAirline.length;
     }
@@ -274,5 +282,6 @@ module.exports = {
   getCityAirports: getCityAirports,
   getAirportAirlines: getAirportAirlines,
   getDDCoordinates: getDDCoordinates,
-  setAirportAirlinesNumber: setAirportAirlinesNumber
+  setAirportAirlinesNumber: setAirportAirlinesNumber,
+  isValidDestination: isValidDestination
 };
