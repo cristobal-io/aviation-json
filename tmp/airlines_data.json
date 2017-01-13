@@ -20,7 +20,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/09/Interjetmx.png",
     "IATA": "4O",
     "ICAO": "AIJ",
-    "Callsign": "INTERJET",
+    "Callsign": "ABC AEROLINEAS[1]",
     "hubs": [
       {
         "name": "Mexico City International Airport",
@@ -28,6 +28,19 @@
       }
     ],
     "website": "http://www.interjet.com/"
+  },
+  {
+    "url": "/wiki/Express_Air_Cargo",
+    "name": "Express Air Cargo",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Express_Air_Cargo.jpg/250px-Express_Air_Cargo.jpg",
+    "IATA": "7A",
+    "ICAO": "XRC",
+    "hubs": [
+      {
+        "name": "Tunis-Carthage International Airport",
+        "link": "/wiki/Tunis-Carthage_International_Airport"
+      }
+    ]
   },
   {
     "url": "/wiki/Air_Costa",
@@ -47,6 +60,15 @@
       }
     ],
     "website": "http://www.aircosta.in/"
+  },
+  {
+    "url": "/wiki/Avior_Regional",
+    "name": "Avior Regional",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e6/Logo_of_Avior_Regional.png",
+    "IATA": "3R",
+    "ICAO": "RGR",
+    "Callsign": "AVIOR REGIONAL",
+    "website": "https://www.aviorair.com/"
   },
   {
     "url": "/wiki/InterCaribbean_Airways",
@@ -207,8 +229,8 @@
     "Callsign": "-",
     "hubs": [
       {
-        "name": "UAE, Georgia",
-        "link": "/w/index.php?title=UAE,_Georgia&action=edit&redlink=1"
+        "name": "UAE",
+        "link": "/wiki/UAE"
       }
     ],
     "website": "http://www.aerovista.aero/"
@@ -253,6 +275,7 @@
   {
     "url": "/wiki/Askari_Aviation",
     "name": "Askari Aviation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Askari_Aviation_Logo.png/170px-Askari_Aviation_Logo.png",
     "IATA": "4K",
     "ICAO": "AAS",
     "Callsign": "AL-AAS",
@@ -423,7 +446,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Airmacau.png/250px-Airmacau.png",
     "IATA": "NX",
     "ICAO": "AMU",
-    "Callsign": "AIR MACAU",
+    "Callsign": "AIR MACAO[1]",
     "hubs": [
       {
         "name": "Macau International Airport",
@@ -498,7 +521,7 @@
   {
     "url": "/wiki/Air_Partner",
     "name": "Air Partner PLC",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/a/a7/AirPartner.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/AirPartner.png/220px-AirPartner.png",
     "website": "http://www.airpartner.com/"
   },
   {
@@ -565,7 +588,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Air_Wisconsin_Logo.jpg/250px-Air_Wisconsin_Logo.jpg",
     "IATA": "ZW",
     "ICAO": "AWI",
-    "Callsign": "AIR WISCONSIN",
+    "Callsign": "WISCONSIN",
     "hubs": [
       {
         "name": "American Eagle",
@@ -578,10 +601,6 @@
       {
         "name": "Norfolk International Airport",
         "link": "/wiki/Norfolk_International_Airport"
-      },
-      {
-        "name": "LaGuardia International Airport",
-        "link": "/wiki/LaGuardia_International_Airport"
       },
       {
         "name": "Ronald Reagan Washington National Airport",
@@ -680,7 +699,7 @@
   {
     "url": "/wiki/Air_North",
     "name": "Air North",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/37/Air_North_Logo.svg/200px-Air_North_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Air_North_logo.jpg/200px-Air_North_logo.jpg",
     "IATA": "4N",
     "ICAO": "ANT",
     "Callsign": "AIR NORTH",
@@ -784,6 +803,7 @@
     "url": "/wiki/Air_Moorea",
     "name": "Air Moorea",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Air_Moorea_Logo.png/200px-Air_Moorea_Logo.png",
+    "IATA": "QE",
     "ICAO": "TAH",
     "Callsign": "AIR MOOREA",
     "hubs": [
@@ -838,15 +858,6 @@
     "website": "http://www.airservice.aero/?id_Sessionlangue=2"
   },
   {
-    "url": "/wiki/Air_Glaciers",
-    "name": "Air Glaciers",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a0/Air_Glaciers_logo.png/250px-Air_Glaciers_logo.png",
-    "IATA": "7T",
-    "ICAO": "AGV",
-    "Callsign": "AIR GLACIERS",
-    "website": "http://www.air-glaciers.ch/"
-  },
-  {
     "url": "/wiki/Air_Vegas",
     "name": "Air Vegas",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Air_Vegas_Airlines_logo.svg/250px-Air_Vegas_Airlines_logo.svg.png",
@@ -856,7 +867,7 @@
   },
   {
     "url": "/wiki/Air_Tractor",
-    "name": "Air Tractor Inc.",
+    "name": "Air Tractor, Inc.",
     "website": "http://www.airtractor.com"
   },
   {
@@ -869,19 +880,19 @@
   },
   {
     "url": "/wiki/All_Nippon_Airways",
-    "name": "All Nippon Airways\n全日本空輸 Zen Nippon Kūyu",
+    "name": "All Nippon Airways\n全日本空輸\nZen Nippon Kūyu",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/All_Nippon_Airways_Logo.svg/250px-All_Nippon_Airways_Logo.svg.png",
     "IATA": "NH",
     "ICAO": "ANA",
     "Callsign": "ALL NIPPON",
     "hubs": [
       {
-        "name": "Haneda International Airport",
-        "link": "/wiki/Haneda_Airport"
+        "name": "Tokyo Haneda Airport",
+        "link": "/wiki/Tokyo_Haneda_Airport"
       },
       {
-        "name": "Narita International Airport",
-        "link": "/wiki/Narita_International_Airport"
+        "name": "Tokyo Narita Airport",
+        "link": "/wiki/Tokyo_Narita_Airport"
       }
     ],
     "website": "https://www.ana.co.jp/"
@@ -922,7 +933,7 @@
   {
     "url": "/wiki/Air_S%C3%A9n%C3%A9gal_International",
     "name": "Air Sénégal International",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/69/Air_Senegal_International_logo.png/200px-Air_Senegal_International_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Air_Senegal_International_logo.png/200px-Air_Senegal_International_logo.png",
     "IATA": "V7",
     "ICAO": "SNG",
     "Callsign": "AIR SENEGAL",
@@ -1072,7 +1083,7 @@
   {
     "url": "/wiki/Air_India",
     "name": "Air India\nएअर इंडिया",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e3/Air_India_Logo.svg/300px-Air_India_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e3/Air_India_Logo.svg/250px-Air_India_Logo.svg.png",
     "IATA": "AI",
     "ICAO": "AIC",
     "Callsign": "AIRINDIA",
@@ -1267,7 +1278,7 @@
         "link": "/wiki/Kotoka_International_Airport"
       }
     ],
-    "website": "http://www.flyafricaworld.com/"
+    "website": "http://www.flyawa.com.gh/"
   },
   {
     "url": "/wiki/Air_Europe_(Italy)",
@@ -1299,7 +1310,6 @@
   {
     "url": "/wiki/Air_Niamey",
     "name": "Air Niamey",
-    "IATA": "A7",
     "ICAO": "AWN",
     "Callsign": "AIR NIAMEY",
     "hubs": [
@@ -1355,7 +1365,7 @@
   {
     "url": "/wiki/Air_India_Express",
     "name": "Air India Express",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/46/Official_Logo_of_Air_India_Express.jpg/290px-Official_Logo_of_Air_India_Express.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/bd/Air_India_Express_logo.svg/250px-Air_India_Express_logo.svg.png",
     "IATA": "IX",
     "ICAO": "AXB",
     "Callsign": "EXPRESS INDIA",
@@ -1381,7 +1391,7 @@
   },
   {
     "url": "/wiki/AirBaltic",
-    "name": "AirBaltic",
+    "name": "airBaltic",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Airbaltic-logo.png/250px-Airbaltic-logo.png",
     "IATA": "BT",
     "ICAO": "BTI",
@@ -1568,7 +1578,7 @@
     "url": "/wiki/Air_Max_Africa",
     "name": "Air Max Africa",
     "IATA": "-",
-    "ICAO": "-",
+    "ICAO": "AZX",
     "Callsign": "-",
     "hubs": [
       {
@@ -1581,16 +1591,16 @@
     "url": "/wiki/JetLite",
     "name": "JetLite",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jet_Lite_logo.svg/125px-Jet_Lite_logo.svg.png",
-    "IATA": "S2",
-    "ICAO": "JLL",
-    "Callsign": "LITE JET",
-    "hubs": [
+    "IATA": "S2[1]",
+    "ICAO": "JLL[1]",
+    "Callsign": "LITE JET[2]",
+    "OperatingBases": [
       {
         "name": "Indira Gandhi International Airport",
         "link": "/wiki/Indira_Gandhi_International_Airport"
       }
     ],
-    "website": "http://www.jetkonnect.com"
+    "website": "http://www.jetairways.com/"
   },
   {
     "url": "/wiki/Airlines_for_America",
@@ -1687,7 +1697,7 @@
   },
   {
     "url": "/wiki/Allegiant_Air",
-    "name": "Allegiant Air",
+    "name": "Allegiant AirAllegiant Travel Co.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d2/Allegiantairlogo.png/192px-Allegiantairlogo.png",
     "IATA": "G4",
     "ICAO": "AAY",
@@ -1702,84 +1712,96 @@
         "link": "#cite_note-2"
       },
       {
+        "name": "Destin–Fort Walton Beach Airport",
+        "link": "/wiki/Destin%E2%80%93Fort_Walton_Beach_Airport"
+      },
+      {
+        "name": "[3]",
+        "link": "#cite_note-3"
+      },
+      {
         "name": "Fort Lauderdale–Hollywood International Airport",
         "link": "/wiki/Fort_Lauderdale%E2%80%93Hollywood_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Los Angeles International Airport",
         "link": "/wiki/Los_Angeles_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "McCarran International Airport",
         "link": "/wiki/McCarran_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Myrtle Beach International Airport",
         "link": "/wiki/Myrtle_Beach_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Oakland International Airport",
         "link": "/wiki/Oakland_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Orlando Sanford International Airport",
         "link": "/wiki/Orlando_Sanford_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Phoenix–Mesa Gateway Airport",
         "link": "/wiki/Phoenix%E2%80%93Mesa_Gateway_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "Pittsburgh International Airport",
         "link": "/wiki/Pittsburgh_International_Airport"
       },
       {
-        "name": "[4]",
-        "link": "#cite_note-4"
+        "name": "[5]",
+        "link": "#cite_note-5"
       },
       {
         "name": "Punta Gorda Airport (Florida)",
         "link": "/wiki/Punta_Gorda_Airport_(Florida)"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
       },
       {
         "name": "St. Petersburg–Clearwater International Airport",
         "link": "/wiki/St._Petersburg%E2%80%93Clearwater_International_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-opbase-3"
+        "name": "[4]",
+        "link": "#cite_note-opbase-4"
+      },
+      {
+        "name": "Springfield-Branson National Airport",
+        "link": "/wiki/Springfield-Branson_National_Airport"
       }
     ],
     "website": "http://www.allegiantair.com/"
@@ -2033,7 +2055,7 @@
         "link": "/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport"
       }
     ],
-    "website": "http://www.adria.si/"
+    "website": "http://adria.si"
   },
   {
     "url": "/wiki/Aero_Benin",
@@ -2159,17 +2181,17 @@
     "url": "/wiki/American_Airlines",
     "name": "American Airlines, Inc.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/23/American_Airlines_logo_2013.svg/300px-American_Airlines_logo_2013.svg.png",
-    "IATA": "AA",
-    "ICAO": "AAL",
-    "Callsign": "AMERICAN",
+    "IATA": "AA[1]",
+    "ICAO": "AAL[1]",
+    "Callsign": "AMERICAN[2]",
     "hubs": [
-      {
-        "name": "Dallas/Fort Worth International Airport",
-        "link": "/wiki/Dallas/Fort_Worth_International_Airport"
-      },
       {
         "name": "Charlotte Douglas International Airport",
         "link": "/wiki/Charlotte_Douglas_International_Airport"
+      },
+      {
+        "name": "Dallas/Fort Worth International Airport",
+        "link": "/wiki/Dallas/Fort_Worth_International_Airport"
       },
       {
         "name": "John F. Kennedy International Airport",
@@ -2204,8 +2226,23 @@
         "link": "/wiki/Ronald_Reagan_Washington_National_Airport"
       },
       {
-        "name": "[3]",
-        "link": "#cite_note-hubs-3"
+        "name": "[5]",
+        "link": "#cite_note-hubs-5"
+      }
+    ],
+    "website": "http://www.aa.com"
+  },
+  {
+    "url": "/wiki/AmericanConnection",
+    "name": "AmericanConnection",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/88/AmericanConnection_Logo.jpg/250px-AmericanConnection_Logo.jpg",
+    "IATA": "None",
+    "ICAO": "None",
+    "Callsign": "None",
+    "hubs": [
+      {
+        "name": "Chicago O'Hare International Airport",
+        "link": "/wiki/Chicago_O%27Hare_International_Airport"
       }
     ],
     "website": "http://www.aa.com"
@@ -2447,7 +2484,7 @@
   {
     "url": "/wiki/Atlantic_Coast_Airlines",
     "name": "Atlantic Coast Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5d/Atlantic_Coast_Airlines_logo.svg/250px-Atlantic_Coast_Airlines_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Atlantic_Coast_Airlines_logo.svg/250px-Atlantic_Coast_Airlines_logo.svg.png",
     "IATA": "DH",
     "ICAO": "BLR",
     "Callsign": "Blue Ridge",
@@ -2559,7 +2596,6 @@
     "url": "/wiki/Avies",
     "name": "Avies",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Avies_logo.svg/150px-Avies_logo.svg.png",
-    "IATA": "U3",
     "ICAO": "AIA",
     "Callsign": "AVIES",
     "hubs": [
@@ -2588,12 +2624,16 @@
         "link": "/wiki/Billings_Logan_International_Airport"
       },
       {
-        "name": "[1]",
-        "link": "#cite_note-1"
-      },
-      {
         "name": "Provo Municipal Airport",
         "link": "/wiki/Provo_Municipal_Airport"
+      },
+      {
+        "name": "Sioux Falls Regional Airport",
+        "link": "/wiki/Sioux_Falls_Regional_Airport"
+      },
+      {
+        "name": "[1]",
+        "link": "#cite_note-1"
       }
     ],
     "website": "http://www.alpine-air.com"
@@ -2604,7 +2644,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/09/Interjetmx.png",
     "IATA": "4O",
     "ICAO": "AIJ",
-    "Callsign": "INTERJET",
+    "Callsign": "ABC AEROLINEAS[1]",
     "hubs": [
       {
         "name": "Mexico City International Airport",
@@ -2648,12 +2688,16 @@
         "link": "/wiki/Billings_Logan_International_Airport"
       },
       {
-        "name": "[1]",
-        "link": "#cite_note-1"
-      },
-      {
         "name": "Provo Municipal Airport",
         "link": "/wiki/Provo_Municipal_Airport"
+      },
+      {
+        "name": "Sioux Falls Regional Airport",
+        "link": "/wiki/Sioux_Falls_Regional_Airport"
+      },
+      {
+        "name": "[1]",
+        "link": "#cite_note-1"
       }
     ],
     "website": "http://www.alpine-air.com"
@@ -2699,7 +2743,7 @@
     "url": "/wiki/Airest",
     "name": "Airest",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2f/Airest_Cargo_Aviation_Partner_logo_and_slogan.png/250px-Airest_Cargo_Aviation_Partner_logo_and_slogan.png",
-    "IATA": "-",
+    "IATA": "–",
     "ICAO": "AEG",
     "Callsign": "AIREST CARGO",
     "website": "http://www.airest.ee/"
@@ -2775,7 +2819,7 @@
     "url": "/wiki/Allied_Air",
     "name": "Allied Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/7/76/Alliedair.jpg",
-    "IATA": "-",
+    "IATA": "4W",
     "ICAO": "AJK",
     "Callsign": "BAMBI",
     "hubs": [
@@ -3182,7 +3226,7 @@
   {
     "url": "/wiki/AOM_French_Airlines",
     "name": "AOM French Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a6/AOM_french_logo.svg/120px-AOM_french_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AOM.svg/120px-AOM.svg.png",
     "IATA": "IW",
     "ICAO": "AOM",
     "Callsign": "French Lines",
@@ -3218,8 +3262,8 @@
   {
     "url": "/wiki/Aero_Vodochody",
     "name": "AERO Vodochody AEROSPACE a.s.",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/72/AERO_Vodochody_logo.png/230px-AERO_Vodochody_logo.png",
-    "website": "http://www.aero.cz/"
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/72/AERO_Vodochody_logo.png/150px-AERO_Vodochody_logo.png",
+    "website": "http://www.aero.cz/en"
   },
   {
     "url": "/wiki/Aero_VIP_(Argentina)",
@@ -3273,8 +3317,8 @@
     "Callsign": "-",
     "hubs": [
       {
-        "name": "UAE, Georgia",
-        "link": "/w/index.php?title=UAE,_Georgia&action=edit&redlink=1"
+        "name": "UAE",
+        "link": "/wiki/UAE"
       }
     ],
     "website": "http://www.aerovista.aero/"
@@ -3335,7 +3379,7 @@
     "url": "/wiki/Alcoa",
     "name": "Alcoa Inc.",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alcoalogo.svg/150px-Alcoalogo.svg.png",
-    "website": "http://www.alcoa.com/global/en/home.asp"
+    "website": "http://alcoa.com"
   },
   {
     "url": "/wiki/AirQuarius_Aviation",
@@ -3358,7 +3402,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/7/7d/Arik_Air_Logo.png",
     "IATA": "W3",
     "ICAO": "ARA",
-    "Callsign": "ARIK",
+    "Callsign": "ARIK AIR",
     "hubs": [
       {
         "name": "Kotoka International Airport",
@@ -3442,6 +3486,14 @@
     "ICAO": "ASA",
     "Callsign": "ALASKA",
     "hubs": [
+      {
+        "name": "Los Angeles International Airport",
+        "link": "/wiki/Los_Angeles_International_Airport"
+      },
+      {
+        "name": "[2]",
+        "link": "#cite_note-Alaska_Airlines_hubs-2"
+      },
       {
         "name": "Portland International Airport",
         "link": "/wiki/Portland_International_Airport"
@@ -3658,9 +3710,9 @@
     ]
   },
   {
-    "url": "/wiki/Aurigny_Air_Services",
+    "url": "/wiki/Aurigny",
     "name": "Aurigny Air Services",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Aurigny_logo_new_low_res.jpg/275px-Aurigny_logo_new_low_res.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aurigny_Logo.png/275px-Aurigny_Logo.png",
     "IATA": "GR[1]",
     "ICAO": "AUR",
     "Callsign": "AYLINE",
@@ -3841,7 +3893,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/300px-AirAsia_New_Logo.svg.png",
     "IATA": "AK",
     "ICAO": "AXM",
-    "Callsign": "RED CAP",
+    "Callsign": "ASIAN EXPRESS",
     "hubs": [
       {
         "name": "Kuala Lumpur International Airport",
@@ -3970,7 +4022,7 @@
   },
   {
     "url": "/wiki/Ayit_Aviation_and_Tourism",
-    "name": "Ayit Aviation",
+    "name": "Ayit Aviation\nעיט שירותי תעופה ותיירות",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Ayitaviation.jpg/250px-Ayitaviation.jpg",
     "IATA": "-",
     "ICAO": "AYT",
@@ -4032,6 +4084,21 @@
     "website": "http://www.arcus-air.com/"
   },
   {
+    "url": "/wiki/Astra_Airlines",
+    "name": "Astra Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Astra_Airlines_logo.svg/175px-Astra_Airlines_logo.svg.png",
+    "IATA": "A2[1]",
+    "ICAO": "AZI[2]",
+    "Callsign": "GREEK STAR[2]",
+    "hubs": [
+      {
+        "name": "Thessaloniki International Airport",
+        "link": "/wiki/Thessaloniki_International_Airport"
+      }
+    ],
+    "website": "http://astra-airlines.gr"
+  },
+  {
     "url": "/wiki/Africa_One",
     "name": "Africa One",
     "IATA": "-",
@@ -4049,16 +4116,16 @@
     "url": "/wiki/AirAsia_India",
     "name": "AirAsia India",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/250px-AirAsia_New_Logo.svg.png",
-    "IATA": "I5",
-    "ICAO": "IAD",
-    "Callsign": "ARIYA",
+    "IATA": "I5[1]",
+    "ICAO": "IAD[1]",
+    "Callsign": "REDKNIGHT[citation needed]",
     "hubs": [
       {
         "name": "Kempegowda International Airport",
         "link": "/wiki/Kempegowda_International_Airport"
       }
     ],
-    "website": "http://www.airasia.com/in"
+    "website": "http://www.airasia.com/in/en/home.page"
   },
   {
     "url": "/wiki/Azza_Transport",
@@ -4189,6 +4256,10 @@
       {
         "name": "[3]",
         "link": "#cite_note-about-3"
+      },
+      {
+        "name": "LaGuardia Airport",
+        "link": "/wiki/LaGuardia_Airport"
       }
     ],
     "website": "http://envoyair.com"
@@ -4205,7 +4276,7 @@
     "IATA": "ZS",
     "ICAO": "AZI",
     "Callsign": "Azzurra",
-    "website": "http://web.archive.org/web/20031202023131/www.azzurraair.it/eng/Home.asp"
+    "website": "https://web.archive.org/web/20031202023131/www.azzurraair.it/eng/Home.asp"
   },
   {
     "url": "/wiki/Aero_Ejecutivos",
@@ -4273,17 +4344,17 @@
   },
   {
     "url": "/wiki/Air_Excel",
-    "name": "Air Excel",
+    "name": "Air Failure",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e9/Air_Excel_Logo.png/150px-Air_Excel_Logo.png",
-    "ICAO": "XLL",
-    "Callsign": "TINGA-TINGA",
+    "ICAO": "0",
+    "Callsign": "GREEK GONE CRAZY",
     "hubs": [
       {
         "name": "Arusha Airport",
         "link": "/wiki/Arusha_Airport"
       }
     ],
-    "website": "http://www.airexcelonline.com"
+    "website": "http://www.coastal.co.tz"
   },
   {
     "url": "/wiki/Air_Foyle_HeavyLift",
@@ -4573,7 +4644,7 @@
     "name": "Air China\n中国国际航空公司\nZhōngguó Guójì Hángkōng Gōngsī",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/97/Air_China_Logo.svg/250px-Air_China_Logo.svg.png",
     "IATA": "CA",
-    "ICAO": "CCA",
+    "ICAO": "VIP",
     "Callsign": "AIR CHINA",
     "hubs": [
       {
@@ -4784,7 +4855,8 @@
         "name": "Rome-Fiumicino",
         "link": "/wiki/Leonardo_da_Vinci%E2%80%93Fiumicino_Airport"
       }
-    ]
+    ],
+    "website": "http://www.alitalia.com"
   },
   {
     "url": "/wiki/AccessAir",
@@ -4879,7 +4951,7 @@
     "url": "/wiki/Air_Djibouti",
     "name": "Air Djibouti",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f7/Air_Djibouti_logo.svg/250px-Air_Djibouti_logo.svg.png",
-    "IATA": "DY",
+    "IATA": "IV",
     "ICAO": "DJU",
     "Callsign": "AIR DJIB",
     "hubs": [
@@ -4888,7 +4960,7 @@
         "link": "/wiki/Djibouti-Ambouli_International_Airport"
       }
     ],
-    "website": "http://air-djibouti.com/"
+    "website": "https://www.air-djibouti.com"
   },
   {
     "url": "/wiki/Air_Dolomiti",
@@ -4947,7 +5019,7 @@
         "link": "/wiki/General_Lucio_Blanco_International_Airport"
       }
     ],
-    "website": "http://aerodavinci.com.mx/"
+    "website": "https://web.archive.org/web/20070415212330/http://aerodavinci.com.mx:80/"
   },
   {
     "url": "/wiki/Aero_Airlines",
@@ -4972,7 +5044,7 @@
     "Callsign": "SHAMROCK",
     "OperatingBases": [
       {
-        "name": "Belfast City",
+        "name": "Belfast-City",
         "link": "/wiki/George_Best_Belfast_City_Airport"
       },
       {
@@ -5100,6 +5172,61 @@
         "link": "/wiki/Hannover_Airport"
       },
       {
+        "name": "Munich Airport",
+        "link": "/wiki/Munich_Airport"
+      },
+      {
+        "name": "Salzburg Airport",
+        "link": "/wiki/Salzburg_Airport"
+      },
+      {
+        "name": "Stuttgart Airport",
+        "link": "/wiki/Stuttgart_Airport"
+      },
+      {
+        "name": "Vienna International Airport",
+        "link": "/wiki/Vienna_International_Airport"
+      }
+    ],
+    "website": "http://eurowings.com"
+  },
+  {
+    "url": "/wiki/Eurowings",
+    "name": "Eurowings",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eurowings_Logo.svg/250px-Eurowings_Logo.svg.png",
+    "IATA": "EW (E2 for Eurowings Europe)",
+    "ICAO": "EWG (EWE for Eurowings Europe)",
+    "Callsign": "EUROWINGS",
+    "OperatingBases": [
+      {
+        "name": "Berlin Tegel Airport",
+        "link": "/wiki/Berlin_Tegel_Airport"
+      },
+      {
+        "name": "Cologne Bonn Airport",
+        "link": "/wiki/Cologne_Bonn_Airport"
+      },
+      {
+        "name": "Düsseldorf Airport",
+        "link": "/wiki/D%C3%BCsseldorf_Airport"
+      },
+      {
+        "name": "Hamburg Airport",
+        "link": "/wiki/Hamburg_Airport"
+      },
+      {
+        "name": "Hannover Airport",
+        "link": "/wiki/Hannover_Airport"
+      },
+      {
+        "name": "Munich Airport",
+        "link": "/wiki/Munich_Airport"
+      },
+      {
+        "name": "Salzburg Airport",
+        "link": "/wiki/Salzburg_Airport"
+      },
+      {
         "name": "Stuttgart Airport",
         "link": "/wiki/Stuttgart_Airport"
       },
@@ -5220,7 +5347,7 @@
         "link": "/wiki/Ninoy_Aquino_International_Airport"
       }
     ],
-    "website": "http://www.philippineairlines.com"
+    "website": "http://www.philippineairlines.com/"
   },
   {
     "url": "/wiki/Aerogem_Aviation",
@@ -5389,7 +5516,7 @@
     "IATA": "-",
     "ICAO": "GRR",
     "Callsign": "-",
-    "website": "http://www.agroar.pt/"
+    "website": "https://web.archive.org/web/20080314203636/http://www.agroar.pt/"
   },
   {
     "url": "/wiki/Atlas_Air",
@@ -5696,17 +5823,15 @@
   {
     "url": "/wiki/Alexandria_Airlines",
     "name": "Alexandria Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/04/Alexandria_Airlines_logo.png/200px-Alexandria_Airlines_logo.png",
-    "IATA": "XH",
+    "IATA": "ZR",
     "ICAO": "KHH",
-    "Callsign": "–",
+    "Callsign": "--",
     "hubs": [
       {
         "name": "Cairo International Airport",
         "link": "/wiki/Cairo_International_Airport"
       }
-    ],
-    "website": "http://www.alexandriaairlines.com/"
+    ]
   },
   {
     "url": "/wiki/Air_South_(South_Carolina)",
@@ -5781,7 +5906,7 @@
   },
   {
     "url": "/wiki/Aerosucre",
-    "name": "AeroSucre S.A.",
+    "name": "Aerosucre S.A.",
     "IATA": "6N",
     "ICAO": "KRE",
     "Callsign": "AEROSUCRE",
@@ -5966,7 +6091,7 @@
   {
     "url": "/wiki/Air_India_Regional",
     "name": "Air India Regional",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/62/Air_India_Regional_new_English_logo.png/300px-Air_India_Regional_new_English_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Air_India_Regional_logo.png/250px-Air_India_Regional_logo.png",
     "IATA": "9I",
     "ICAO": "LLR",
     "Callsign": "ALLIED",
@@ -6157,6 +6282,7 @@
   {
     "url": "/wiki/Air_Manas",
     "name": "Air Manas\nАвиакомпания «Эйр Манас»",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/39/Air_Manas_logo.jpg/250px-Air_Manas_logo.jpg",
     "IATA": "ZM[1]",
     "ICAO": "MBB",
     "Callsign": "Air Manas",
@@ -6362,7 +6488,7 @@
         "link": "/wiki/Athens_International_Airport"
       }
     ],
-    "website": "http://www.aeroland.gr/"
+    "website": "https://web.archive.org/web/20080602174050/http://www.aeroland.gr:80/"
   },
   {
     "url": "/wiki/Interavia_Airlines",
@@ -6394,7 +6520,7 @@
     "url": "/wiki/Aero_Contractors_(Nigeria)",
     "name": "Aero Contractors",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Aerologo.jpg/138px-Aerologo.jpg",
-    "IATA": "AJ",
+    "IATA": "NG",
     "ICAO": "NIG",
     "Callsign": "AEROLINE",
     "hubs": [
@@ -6415,7 +6541,7 @@
     "url": "/wiki/Aerol%C3%ADneas_Sosa",
     "name": "Aerolíneas Sosa",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sosalogo.png/250px-Sosalogo.png",
-    "IATA": "P4",
+    "IATA": "—",
     "ICAO": "NSO",
     "Callsign": "SOSA",
     "website": "http://www.aerolineasosahn.com/"
@@ -6813,9 +6939,9 @@
     "url": "/wiki/Avior_Airlines",
     "name": "Avior Airlines\nAvior Regional",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Avior_airlines_si_va.svg/200px-Avior_airlines_si_va.svg.png",
-    "IATA": "9V\n3R",
-    "ICAO": "ROI\nRGR",
-    "Callsign": "AVIOR\nAVIOR REGIONAL",
+    "IATA": "9V",
+    "ICAO": "ROI",
+    "Callsign": "AVIOR",
     "OperatingBases": [
       {
         "name": "Generál José Antonio Anzoátegui International Airport",
@@ -6907,7 +7033,7 @@
     "url": "/wiki/Air_Turquoise",
     "name": "Air Turquoise",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2a/Air_Turquoise_logo.gif/250px-Air_Turquoise_logo.gif",
-    "ICAO": "ATQ[1]",
+    "ICAO": "RTQ[1]",
     "OperatingBases": [
       {
         "name": "Vatry International Airport",
@@ -7034,7 +7160,7 @@
         "link": "/wiki/Sharjah_International_Airport"
       }
     ],
-    "website": "https://web.archive.org/20131030140921/http://www.avcargo.co.uk/"
+    "website": "https://web.archive.org/web/20131030140921/http://www.avcargo.co.uk/"
   },
   {
     "url": "/wiki/Airspeed_Aviation",
@@ -7061,7 +7187,7 @@
   {
     "url": "/wiki/Air_Slovakia",
     "name": "Air Slovakia",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Airslovakialogo.png/300px-Airslovakialogo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Air_Slovakia_Logo.png/300px-Air_Slovakia_Logo.png",
     "IATA": "GM",
     "ICAO": "SVK",
     "Callsign": "SLOVAKIA",
@@ -7121,7 +7247,7 @@
   {
     "url": "/wiki/TUI_Airlines_Netherlands",
     "name": "TUI Airlines Netherlands",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TUI_Nederland.png/250px-TUI_Nederland.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TUI_Nederland.png/150px-TUI_Nederland.png",
     "IATA": "OR",
     "ICAO": "TFL",
     "Callsign": "ORANGE",
@@ -7157,7 +7283,7 @@
   {
     "url": "/wiki/PNG_Air",
     "name": "PNG Air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/7/7a/Airlines_of_papua_new_guinea_logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e8/PNG_Air_logo.png",
     "IATA": "CG",
     "ICAO": "TOK",
     "Callsign": "BALUS",
@@ -7237,7 +7363,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/Logo-air-transat.png/200px-Logo-air-transat.png",
     "IATA": "TS",
     "ICAO": "TSC",
-    "Callsign": "AIR TRANSAT",
+    "Callsign": "Transat",
     "OperatingBases": [
       {
         "name": "Montréal-Pierre Elliott Trudeau",
@@ -7403,9 +7529,13 @@
       {
         "name": "Campinas",
         "link": "/wiki/Viracopos_International_Airport"
+      },
+      {
+        "name": "Recife",
+        "link": "/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport"
       }
     ],
-    "website": "http://www.voeazul.com.br"
+    "website": "http://www.voeazul.com.br/en/home"
   },
   {
     "url": "/wiki/Aviacsa",
@@ -7747,7 +7877,6 @@
   {
     "url": "/wiki/Beijing_Capital_Airlines",
     "name": "Beijing Capital Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Capital_airlines_logo.png/250px-Capital_airlines_logo.png",
     "IATA": "JD",
     "ICAO": "CBJ",
     "Callsign": "CAPITAL JET",
@@ -7780,8 +7909,8 @@
         "link": "/wiki/Jakarta"
       },
       {
-        "name": "Halim Perdanakusuma Airport",
-        "link": "/wiki/Halim_Perdanakusuma_Airport"
+        "name": "Halim Perdanakusuma International Airport",
+        "link": "/wiki/Halim_Perdanakusuma_International_Airport"
       }
     ],
     "website": "http://www.batikair.com"
@@ -7958,7 +8087,7 @@
   {
     "url": "/wiki/CityJet",
     "name": "CityJet",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/86/Cityjetlogo.png/250px-Cityjetlogo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b5/CityJet_logo.svg/250px-CityJet_logo.svg.png",
     "IATA": "WX",
     "ICAO": "BCY",
     "Callsign": "CITY-IRELAND",
@@ -7974,6 +8103,10 @@
       {
         "name": "Air France",
         "link": "/wiki/Air_France"
+      },
+      {
+        "name": "Dublin Airport",
+        "link": "/wiki/Dublin_Airport"
       },
       {
         "name": "Helsinki Airport",
@@ -8168,7 +8301,7 @@
   },
   {
     "url": "/wiki/Buddha_Air",
-    "name": "Buddha Air Pvt. Ltd\nबुद्ध एयर",
+    "name": "Buddha Air Pvt. Ltd",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c6/Buddha_Air_logo.svg/300px-Buddha_Air_logo.svg.png",
     "IATA": "U4",
     "ICAO": "BHA",
@@ -8196,7 +8329,7 @@
   },
   {
     "url": "/wiki/Bristow_Helicopters",
-    "name": "Bristow Helicopters",
+    "name": "Bristow Helicopters Limited",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/01/Bristow_helicopters_signage.svg/200px-Bristow_helicopters_signage.svg.png",
     "IATA": "UH",
     "ICAO": "BHL",
@@ -8345,12 +8478,6 @@
     "IATA": "-",
     "ICAO": "BID[1]",
     "Callsign": "BINAIR[2]",
-    "OperatingBases": [
-      {
-        "name": "Munich Airport",
-        "link": "/wiki/Munich_Airport"
-      }
-    ],
     "website": "http://www.binair.eu/en_home.php"
   },
   {
@@ -8605,7 +8732,7 @@
     "website": "http://www.banxico.org.mx/"
   },
   {
-    "url": "/wiki/Babcock_Mission_Critical_Services_Offshore_Ltd.",
+    "url": "/wiki/Babcock_Mission_Critical_Services_Offshore",
     "name": "Bond Offshore Helicopters - now Babcock",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/46/Babcock_Logo.png/250px-Babcock_Logo.png",
     "IATA": "-",
@@ -8642,29 +8769,34 @@
   {
     "url": "/wiki/Bookajet",
     "name": "Bookajet",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bookajet_Logo_%28White_Rectangle_Low_Res%29.jpg/250px-Bookajet_Logo_%28White_Rectangle_Low_Res%29.jpg",
     "IATA": "-",
     "ICAO": "BOO",
-    "Callsign": "BOOKAJET",
+    "Callsign": "BOOKJET",
     "hubs": [
       {
-        "name": "Farnborough Airport",
+        "name": "Farnborough",
         "link": "/wiki/Farnborough_Airfield"
       },
       {
-        "name": "Stockholm-Arlanda Airport",
-        "link": "/wiki/Stockholm-Arlanda_Airport"
+        "name": "Stansted",
+        "link": "/wiki/Stansted"
       },
       {
-        "name": "Stockholm-Bromma Airport",
-        "link": "/wiki/Stockholm-Bromma_Airport"
+        "name": "Blackpool",
+        "link": "/wiki/Blackpool"
       },
       {
-        "name": "Gothenburg City Airport",
-        "link": "/wiki/Gothenburg_City_Airport"
+        "name": "Amsterdam",
+        "link": "/wiki/Amsterdam"
       },
       {
-        "name": "Prague Airport",
-        "link": "/wiki/Prague_Airport"
+        "name": "Milan",
+        "link": "/wiki/Milan"
+      },
+      {
+        "name": "Linate",
+        "link": "/wiki/Linate"
       }
     ],
     "website": "http://www.bookajet.com"
@@ -8756,6 +8888,7 @@
   {
     "url": "/wiki/Bering_Air",
     "name": "Bering Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Bering_Air_Logo.png/250px-Bering_Air_Logo.png",
     "IATA": "8E",
     "ICAO": "BRG",
     "Callsign": "BERING AIR",
@@ -8816,7 +8949,7 @@
   {
     "url": "/wiki/Belavia",
     "name": "Belavia Belarusian Airlines\nБелавія / Белавиа",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/11/Belavia_logo.png/250px-Belavia_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/98/Belavia_logo.jpg/175px-Belavia_logo.jpg",
     "IATA": "B2",
     "ICAO": "BRU",
     "Callsign": "BELARUS AVIA",
@@ -8863,8 +8996,8 @@
         "link": "/wiki/Dallas-Fort_Worth_International_Airport"
       },
       {
-        "name": "Logan International Airport",
-        "link": "/wiki/Logan_International_Airport"
+        "name": "Boston Logan International Airport",
+        "link": "/wiki/Boston_Logan_International_Airport"
       },
       {
         "name": "Los Angeles International Airport",
@@ -8877,6 +9010,10 @@
       {
         "name": "Washington Dulles International Airport",
         "link": "/wiki/Washington_Dulles_International_Airport"
+      },
+      {
+        "name": "Kansas City International Airport",
+        "link": "/wiki/Kansas_City_International_Airport"
       }
     ]
   },
@@ -9123,6 +9260,7 @@
   {
     "url": "/wiki/Berry_Aviation",
     "name": "Berry Aviation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/cd/Berry_Aviation_Logo.gif/250px-Berry_Aviation_Logo.gif",
     "IATA": "-",
     "ICAO": "BYA",
     "Callsign": "BERRY",
@@ -9258,12 +9396,20 @@
         "link": "/wiki/Bac%C4%83u_International_Airport"
       },
       {
+        "name": "Cluj International Airport",
+        "link": "/wiki/Cluj_International_Airport"
+      },
+      {
         "name": "Iași International Airport",
         "link": "/wiki/Ia%C8%99i_International_Airport"
       },
       {
         "name": "Larnaca International Airport",
         "link": "/wiki/Larnaca_International_Airport"
+      },
+      {
+        "name": "Liverpool John Lennon Airport",
+        "link": "/wiki/Liverpool_John_Lennon_Airport"
       }
     ],
     "hubs": [
@@ -9375,7 +9521,8 @@
   },
   {
     "url": "/wiki/Sky_UK",
-    "name": "Sky UK Limited"
+    "name": "Sky UK Limited",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c4/Sky_plc_logo.png/200px-Sky_plc_logo.png"
   },
   {
     "url": "/wiki/Bell_Helicopter",
@@ -9428,6 +9575,25 @@
     "Callsign": "BLUE ARMENIA[1]"
   },
   {
+    "url": "/wiki/Caribbean_Airlines",
+    "name": "Caribbean Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1f/Caribbean_Airlines_logo-600x270.png/250px-Caribbean_Airlines_logo-600x270.png",
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "Callsign": "CARIBBEAN AIRLINES",
+    "hubs": [
+      {
+        "name": "Piarco International Airport",
+        "link": "/wiki/Piarco_International_Airport"
+      },
+      {
+        "name": "Norman Manley International Airport",
+        "link": "/wiki/Norman_Manley_International_Airport"
+      }
+    ],
+    "website": "http://www.caribbean-airlines.com"
+  },
+  {
     "url": "/wiki/Commerce_Bancshares",
     "name": "Commerce Bancshares, Inc.",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Commerce_2014-10-6.svg/200px-Commerce_2014-10-6.svg.png",
@@ -9437,18 +9603,18 @@
     "url": "/wiki/Civil_Aviation_Authority_(United_Kingdom)",
     "name": "Civil Aviation Authority",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Civil_Aviation_Authority_logo.svg/80px-Civil_Aviation_Authority_logo.svg.png",
-    "website": "http://www.caa.co.uk"
+    "website": "http://www.caa.co.uk/"
   },
   {
     "url": "/wiki/Civil_Aviation_Authority_(United_Kingdom)",
     "name": "Civil Aviation Authority",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Civil_Aviation_Authority_logo.svg/80px-Civil_Aviation_Authority_logo.svg.png",
-    "website": "http://www.caa.co.uk"
+    "website": "http://www.caa.co.uk/"
   },
   {
     "url": "/wiki/California_Department_of_Forestry_and_Fire_Protection",
     "name": "California Department of Forestry and Fire Protection (CAL FIRE)",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/CalFireLogoNew.jpg/150px-CalFireLogoNew.jpg"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/CalFireLogoNew.jpg/220px-CalFireLogoNew.jpg"
   },
   {
     "url": "/wiki/Coral_Sun_Airways",
@@ -9478,19 +9644,6 @@
       }
     ],
     "website": "http://www.cambodiaairlines.com.kh"
-  },
-  {
-    "url": "/wiki/C%26M_Airways",
-    "name": "C&M Airways",
-    "IATA": "-",
-    "ICAO": "RWG",
-    "Callsign": "RED WING",
-    "hubs": [
-      {
-        "name": "El Paso International Airport",
-        "link": "/wiki/El_Paso_International_Airport"
-      }
-    ]
   },
   {
     "url": "/wiki/Camair-Co",
@@ -9524,7 +9677,7 @@
   },
   {
     "url": "/wiki/CAL_Cargo_Air_Lines",
-    "name": "CAL Cargo Airlines",
+    "name": "CAL Cargo Airlines\nק.א.ל. קווי אוויר למטען",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_5_With_Slogan.jpg/300px-Logo_5_With_Slogan.jpg",
     "IATA": "5C",
     "ICAO": "ICL",
@@ -9591,7 +9744,7 @@
     "url": "/wiki/CHC_Helikopter_Service",
     "name": "CHC Helikopter Service",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/0f/Chctitle_new.png/250px-Chctitle_new.png",
-    "IATA": "L5",
+    "IATA": "-",
     "ICAO": "HKS",
     "Callsign": "HELIBUS",
     "hubs": [
@@ -9631,7 +9784,7 @@
   {
     "url": "/wiki/Cabo_Verde_Express",
     "name": "Cabo Verde Express",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/CVE_Logo.jpg/250px-CVE_Logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/CVE_Logo.jpg/100px-CVE_Logo.jpg",
     "IATA": "-",
     "ICAO": "CVE",
     "Callsign": "KABEX",
@@ -9742,7 +9895,7 @@
         "link": "/wiki/Calgary_International_Airport"
       },
       {
-        "name": "Montréal-Dorval International Airport",
+        "name": "Montréal-Pierre Elliott Trudeau International Airport",
         "link": "/wiki/Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport"
       },
       {
@@ -9926,6 +10079,7 @@
   {
     "url": "/wiki/CargoLogicAir",
     "name": "CargoLogicAir",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b1/CargoLogicAir_logo.png",
     "IATA": "-",
     "ICAO": "CLU",
     "Callsign": "FIREBIRD",
@@ -10113,17 +10267,12 @@
     "IATA": "IV",
     "ICAO": "CPN",
     "Callsign": "CASPIAN",
-    "hubs": [
-      {
-        "name": "Tehran-Mehrabad",
-        "link": "/wiki/Mehrabad_International_Airport"
-      }
-    ],
     "website": "http://www.caspian.aero/"
   },
   {
     "url": "/wiki/Castle_Aviation",
     "name": "Castle Aviation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/27/Castle_Aviation_Logo.png/250px-Castle_Aviation_Logo.png",
     "IATA": "-",
     "ICAO": "CSJ",
     "Callsign": "CASTLE",
@@ -10146,10 +10295,6 @@
       {
         "name": "Hong Kong International Airport",
         "link": "/wiki/Hong_Kong_International_Airport"
-      },
-      {
-        "name": "Kai Tak Airport",
-        "link": "/wiki/Kai_Tak_Airport"
       }
     ],
     "website": "https://www.cathaypacific.com"
@@ -10171,7 +10316,7 @@
   },
   {
     "url": "/wiki/Cebu_Pacific",
-    "name": "Cebu Pacific",
+    "name": "Cebu Air, Inc.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Cebu_Pacific_%282015%29.svg/250px-Cebu_Pacific_%282015%29.svg.png",
     "IATA": "5J",
     "ICAO": "CEB",
@@ -10230,12 +10375,12 @@
     "Callsign": "Wyo-Air"
   },
   {
-    "url": "/wiki/Cobalt_(airline)",
-    "name": "Cobalt Air",
+    "url": "/wiki/Cobalt_Aero",
+    "name": "Cobalt Aero",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cobalt_Air_Logo.svg/250px-Cobalt_Air_Logo.svg.png",
     "IATA": "CO[1]",
     "ICAO": "FCB",
-    "Callsign": "COBALT",
+    "Callsign": "NEW AGE",
     "OperatingBases": [
       {
         "name": "Larnaca International Airport",
@@ -10388,13 +10533,7 @@
     "IATA": "-",
     "ICAO": "IRU",
     "Callsign": "CHABAHAR",
-    "hubs": [
-      {
-        "name": "Mehrabad Airport",
-        "link": "/wiki/Mehrabad_Airport"
-      }
-    ],
-    "website": "http://www.iranair.com/site/468/default.aspx"
+    "website": "https://web.archive.org/web/20100923202726/http://www.iranair.com:80/site/468/default.aspx"
   },
   {
     "url": "/wiki/Chalair_Aviation",
@@ -10594,7 +10733,7 @@
         "link": "/wiki/Indianapolis_International_Airport"
       }
     ],
-    "website": "http://web.archive.org/web/19981206173339/http://www.chicagoexpress.com/"
+    "website": "http://www.chicagoexpress.com/"
   },
   {
     "url": "/wiki/Chim-Nir_Aviation",
@@ -10612,7 +10751,7 @@
   },
   {
     "url": "/wiki/China_Airlines",
-    "name": "China Airlines Co., Ltd.\n中華航空股份公司",
+    "name": "China Airlines\n中華航空",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/6e/China_Airlines.png/230px-China_Airlines.png",
     "IATA": "CI",
     "ICAO": "CAL",
@@ -10789,7 +10928,7 @@
     "IATA": "SZ",
     "ICAO": "CXN",
     "Callsign": "CHINA SOUTHWEST",
-    "website": "http://web.archive.org/web/20021105041949/http://www.cswa.com/en/index.jsp"
+    "website": "https://web.archive.org/web/20021105041949/http://www.cswa.com/en/index.jsp"
   },
   {
     "url": "/wiki/China_United_Airlines",
@@ -10893,7 +11032,7 @@
   {
     "url": "/wiki/Cinnamon_Air",
     "name": "Cinnamon Air\nසිනමන් එයාර්\nசிநமன் எயார்",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/7c/Cinnamon_Air_logo.svg/250px-Cinnamon_Air_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/c/c0/Official_Logo_of_Cinnamon_Air.png",
     "IATA": "C7",
     "ICAO": "CIN",
     "Callsign": "CINNAMON",
@@ -10951,7 +11090,7 @@
   {
     "url": "/wiki/CityJet",
     "name": "CityJet",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/86/Cityjetlogo.png/250px-Cityjetlogo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b5/CityJet_logo.svg/250px-CityJet_logo.svg.png",
     "IATA": "WX",
     "ICAO": "BCY",
     "Callsign": "CITY-IRELAND",
@@ -10967,6 +11106,10 @@
       {
         "name": "Air France",
         "link": "/wiki/Air_France"
+      },
+      {
+        "name": "Dublin Airport",
+        "link": "/wiki/Dublin_Airport"
       },
       {
         "name": "Helsinki Airport",
@@ -11092,7 +11235,7 @@
         "link": "/wiki/Haugesund_Airport,_Karm%C3%B8y"
       }
     ],
-    "website": "http://web.archive.org/web/20060615053100/en.coastair.no/"
+    "website": "https://web.archive.org/web/20060615053100/en.coastair.no/"
   },
   {
     "url": "/wiki/Coastal_Air",
@@ -11175,6 +11318,13 @@
     "website": "http://www.comair.co.za"
   },
   {
+    "url": "/wiki/Comair_Flight_Services",
+    "name": "Comair Flight Services",
+    "ICAO": "GCM",
+    "Callsign": "GLOBECOM",
+    "website": "http://www.flycfs.co.za/"
+  },
+  {
     "url": "/wiki/Comlux",
     "name": "Comlux",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/42/Comlux_logo.png/150px-Comlux_logo.png",
@@ -11186,7 +11336,7 @@
   {
     "url": "/wiki/CommutAir",
     "name": "CommutAir",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/6a/CommutAir_Logo.png/250px-CommutAir_Logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CommutAir.png/250px-CommutAir.png",
     "IATA": "C5",
     "ICAO": "UCA",
     "Callsign": "COMMUTAIR",
@@ -11421,7 +11571,7 @@
         "link": "/wiki/Newark_Liberty_International_Airport"
       }
     ],
-    "website": "http://www.continental.com/"
+    "website": "https://web.archive.org/web/*/http://www.continental.com/"
   },
   {
     "url": "/wiki/Continental_Airways",
@@ -11518,14 +11668,14 @@
   {
     "url": "/wiki/Corendon_Airlines",
     "name": "Corendon Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/36/Corendon_Airlines_2014_logo.svg/250px-Corendon_Airlines_2014_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/36/Corendon_Airlines_2014_logo.svg/200px-Corendon_Airlines_2014_logo.svg.png",
     "IATA": "XC",
     "ICAO": "CAI",
     "Callsign": "CORENDON",
     "hubs": [
       {
-        "name": "Antalya International Airport",
-        "link": "/wiki/Antalya_International_Airport"
+        "name": "Antalya Airport",
+        "link": "/wiki/Antalya_Airport"
       }
     ],
     "website": "http://www.corendon-airlines.com/"
@@ -11768,7 +11918,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/LoongAir_logo.png/135px-LoongAir_logo.png",
     "IATA": "GJ",
     "ICAO": "CDC",
-    "Callsign": "HUALONG",
+    "Callsign": "GUALONG[1]",
     "OperatingBases": [
       {
         "name": "Hangzhou Xiaoshan International Airport",
@@ -11951,10 +12101,9 @@
   },
   {
     "url": "/wiki/German_South-West_Africa",
-    "name": "German South West AfricaDeutsch-Südwestafrika",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Red_Ensign_of_South_Africa_1912-1928.svg/30px-Red_Ensign_of_South_Africa_1912-1928.svg.png",
-    "ICAO": "1884–1915",
-    "Callsign": " →"
+    "name": "German South-West AfricaDeutsch-Südwestafrika",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Deutsch-S%C3%BCdwest.svg/125px-Flag_of_Deutsch-S%C3%BCdwest.svg.png",
+    "ICAO": "1884–1915"
   },
   {
     "url": "/wiki/Daallo_Airlines",
@@ -11988,8 +12137,8 @@
   {
     "url": "/wiki/Daimler_AG",
     "name": "Daimler AG",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Daimler_AG.svg/220px-Daimler_AG.svg.png",
-    "website": "http://www.daimler.com"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DaimlerLogo.svg/220px-DaimlerLogo.svg.png",
+    "website": "http://www.daimler.com/en/"
   },
   {
     "url": "/wiki/Dalavia",
@@ -12004,7 +12153,7 @@
         "link": "/wiki/Khabarovsk_Novy_Airport"
       }
     ],
-    "website": "http://web.archive.org/*/http://www.dalavia.ru"
+    "website": "http://www.dalaviadmd.ru"
   },
   {
     "url": "/wiki/DOT_LT",
@@ -12050,7 +12199,6 @@
   {
     "url": "/wiki/Dassault_Aviation",
     "name": "Dassault Aviation SA",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/4e/Dassault_Aviation_Logo.svg/250px-Dassault_Aviation_Logo.svg.png",
     "website": "http://www.dassault-aviation.com"
   },
   {
@@ -12142,7 +12290,7 @@
   {
     "url": "/wiki/Delta_Air_Lines",
     "name": "Delta Air Lines, Inc.",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Delta_logo.svg/250px-Delta_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Delta_logo.svg/270px-Delta_logo.svg.png",
     "IATA": "DL",
     "ICAO": "DAL",
     "Callsign": "DELTA",
@@ -12322,7 +12470,7 @@
   {
     "url": "/wiki/Digital_Equipment_Corporation",
     "name": "Digital Equipment Corporation",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Digital_556-flattened4.svg/250px-Digital_556-flattened4.svg.png"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Digital_556-flattened4.svg/220px-Digital_556-flattened4.svg.png"
   },
   {
     "url": "/wiki/Direct_Air",
@@ -12420,8 +12568,8 @@
     "Callsign": "DNIEPRO",
     "hubs": [
       {
-        "name": "Dnipropetrovsk International Airport",
-        "link": "/wiki/Dnipropetrovsk_International_Airport"
+        "name": "Dnipro International Airport",
+        "link": "/wiki/Dnipro_International_Airport"
       }
     ],
     "website": "http://dniproavia.com/en/"
@@ -12533,9 +12681,9 @@
     "website": "http://www.dananig.aero"
   },
   {
-    "url": "/wiki/Dragonair",
-    "name": "Dragonair (Cathay Dragon)\n港龍航空（國泰港龍航空）",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3a/Dragonair_Logo.svg/180px-Dragonair_Logo.svg.png",
+    "url": "/wiki/Cathay_Dragon",
+    "name": "Cathay Dragon 國泰港龍",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/89/Cathay_Dragon.svg/180px-Cathay_Dragon.svg.png",
     "IATA": "KA",
     "ICAO": "HDA",
     "Callsign": "DRAGON",
@@ -12549,7 +12697,7 @@
   },
   {
     "url": "/wiki/Druk_Air",
-    "name": "Drukair — Royal Bhutan Airlines\nའབྲུག་མཁའ་འགྲུལ་ལས་འཛིན། /ड्रुक एयर",
+    "name": "Drukair — Royal Bhutan Airlines\nའབྲུག་མཁའ་འགྲུལ་ལས་འཛིན།",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/5/54/Drukair_logo.png",
     "IATA": "KB",
     "ICAO": "DRK[1]",
@@ -12648,6 +12796,10 @@
       {
         "name": "[3]",
         "link": "#cite_note-about-3"
+      },
+      {
+        "name": "LaGuardia Airport",
+        "link": "/wiki/LaGuardia_Airport"
       }
     ],
     "website": "http://envoyair.com"
@@ -12691,12 +12843,13 @@
     "IATA": "7Q",
     "ICAO": "MNU",
     "Callsign": "MAINER",
+    "hubs": [
+      {
+        "name": "Orlando Melbourne International Airport",
+        "link": "/wiki/Orlando_Melbourne_International_Airport"
+      }
+    ],
     "website": "http://www.eliteairways.net/"
-  },
-  {
-    "url": "/wiki/Everbread",
-    "name": "Everbread Limited (UK), Everbread Pte. (Singapore), Everbread Holdings Limited (BVI),",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Everbread.png/200px-Everbread.png"
   },
   {
     "url": "/wiki/Electronic_Data_Systems",
@@ -12814,12 +12967,6 @@
     "IATA": "NZ",
     "ICAO": "EAG[1]",
     "Callsign": "EAGLE[1]",
-    "hubs": [
-      {
-        "name": "Wellington International Airport",
-        "link": "/wiki/Wellington_International_Airport"
-      }
-    ],
     "website": "http://www.eagleair.co.nz/"
   },
   {
@@ -12866,13 +13013,37 @@
     "website": "http://eastafricansafariair.com"
   },
   {
+    "url": "/wiki/Fly-SAX",
+    "name": "Fly-SAX",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/c/ce/Fly_SAX-logo.jpg",
+    "IATA": "B5 [1]",
+    "ICAO": "EXZ [1]",
+    "Callsign": "DUMA",
+    "hubs": [
+      {
+        "name": "Jomo Kenyatta International Airport",
+        "link": "/wiki/Jomo_Kenyatta_International_Airport"
+      },
+      {
+        "name": "Wilson Airport",
+        "link": "/wiki/Wilson_Airport_(Kenya)"
+      }
+    ],
+    "website": "http://fly-sax.com"
+  },
+  {
     "url": "/wiki/Sky_Shuttle",
-    "name": "Sky Shuttle Helicopters Limited\n空中快線直升機有限公司",
+    "name": "Sky Shuttle Helicopters Limited\n空中快線直升機公司",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/da/Sky_Shuttle_logo.png/250px-Sky_Shuttle_logo.png",
     "IATA": "3E",
     "ICAO": "EMU",
     "Callsign": "-",
     "website": "http://www.skyshuttlehk.com/"
+  },
+  {
+    "url": "/wiki/Union_Airways_of_N.Z._Ltd",
+    "name": "Union Airways of N.Z. Ltd",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/De_Havilland_DH86_Express_ZK-AEG_over_Dunedin%2C_NZ.JPG/250px-De_Havilland_DH86_Express_ZK-AEG_over_Dunedin%2C_NZ.JPG"
   },
   {
     "url": "/wiki/East_Star_Airlines",
@@ -13105,7 +13276,7 @@
         "link": "#cite_note-FightingTwo-3"
       }
     ],
-    "website": "http://web.archive.org/web/19981212024546/http://www.eastwindairlines.com"
+    "website": "https://web.archive.org/web/19981212024546/http://www.eastwindairlines.com"
   },
   {
     "url": "/wiki/Easy_Link_Aviation",
@@ -13223,7 +13394,7 @@
   },
   {
     "url": "/wiki/El_Al",
-    "name": "El Al Israel Airlines\nאל על נתיבי אויר לישראל בע\"מ\nإل عال",
+    "name": "El Al Israel Airlines Ltd.\nאל על נתיבי אויר לישראל בע\"מ",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_El_Al_Israel_Airlines.svg/250px-Logo_of_El_Al_Israel_Airlines.svg.png",
     "IATA": "LY",
     "ICAO": "ELY",
@@ -13267,7 +13438,7 @@
     "url": "/wiki/Embraer",
     "name": "Embraer S.A.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/54/Embraer_logo.svg/200px-Embraer_logo.svg.png",
-    "website": "http://www.embraer.com/en-US/Pages/Home.aspx"
+    "website": "http://www.embraer.com"
   },
   {
     "url": "/wiki/Embry%E2%80%93Riddle_Aeronautical_University",
@@ -13326,7 +13497,7 @@
         "link": "/wiki/Dubai_International_Airport"
       }
     ],
-    "website": "https://www.emirates.com"
+    "website": "http://www.emirates.com/us/english"
   },
   {
     "url": "/wiki/Empire_Airlines",
@@ -13335,6 +13506,16 @@
     "IATA": "EM",
     "ICAO": "CFS",
     "Callsign": "EMPIRE",
+    "hubs": [
+      {
+        "name": "Spokane International Airport",
+        "link": "/wiki/Spokane_International_Airport"
+      },
+      {
+        "name": "Coeur d'Alene Airport",
+        "link": "/wiki/Coeur_d%27Alene_Airport"
+      }
+    ],
     "website": "http://www.empireairlines.com"
   },
   {
@@ -13401,7 +13582,7 @@
         "link": "/wiki/Wroc%C5%82aw%E2%80%93Copernicus_Airport"
       }
     ],
-    "website": "http://www.enterair.pl/lang/set/en"
+    "website": "http://www.enterair.pl/en"
   },
   {
     "url": "/wiki/Eos_Airlines",
@@ -13548,8 +13729,8 @@
     "Callsign": "EUROATLANTIC",
     "OperatingBases": [
       {
-        "name": "Lisbon Airport",
-        "link": "/wiki/Lisbon_Airport"
+        "name": "Lisbon Humberto Delgado Airport",
+        "link": "/wiki/Lisbon_Humberto_Delgado_Airport"
       }
     ],
     "website": "http://www.flyeuroatlantic.pt/"
@@ -13576,7 +13757,7 @@
   {
     "url": "/wiki/Airbus_Helicopters",
     "name": "Airbus Helicopters",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/42/Airbus_Helicopters_%28formerly_Eurocopter_Group%29_logo.png/250px-Airbus_Helicopters_%28formerly_Eurocopter_Group%29_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/42/Airbus_Helicopters_%28formerly_Eurocopter_Group%29_logo.png/200px-Airbus_Helicopters_%28formerly_Eurocopter_Group%29_logo.png",
     "website": "http://www.airbushelicopters.com/"
   },
   {
@@ -13619,7 +13800,7 @@
         "link": "/wiki/Malpensa_Airport"
       }
     ],
-    "website": "http://web.archive.org/web/20070104091958/www.eurofly.it/EN/index.asp"
+    "website": "https://web.archive.org/web/20070104091958/www.eurofly.it/EN/index.asp"
   },
   {
     "url": "/wiki/Eurojet_Romania",
@@ -13743,7 +13924,7 @@
   {
     "url": "/wiki/European_Coastal_Airlines",
     "name": "European Coastal Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/7/73/European_Coastal_Airlines_logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/73/European_Coastal_Airlines_logo.jpg/150px-European_Coastal_Airlines_logo.jpg",
     "IATA": "WL",
     "ICAO": "ECB",
     "Callsign": "Coastal Clipper",
@@ -13792,6 +13973,14 @@
         "link": "/wiki/Hannover_Airport"
       },
       {
+        "name": "Munich Airport",
+        "link": "/wiki/Munich_Airport"
+      },
+      {
+        "name": "Salzburg Airport",
+        "link": "/wiki/Salzburg_Airport"
+      },
+      {
         "name": "Stuttgart Airport",
         "link": "/wiki/Stuttgart_Airport"
       },
@@ -13805,7 +13994,7 @@
   {
     "url": "/wiki/Evelop_Airlines",
     "name": "Evelop Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evelop_Airlines_logo.png/200px-Evelop_Airlines_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evelop_Airlines_logo.png/150px-Evelop_Airlines_logo.png",
     "IATA": "E9",
     "ICAO": "EVE",
     "Callsign": "EVELOP",
@@ -14164,6 +14353,7 @@
   {
     "url": "/wiki/FMI_Air",
     "name": "FMI AIR",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/2/21/Fmi_air_charter.png",
     "IATA": "ND",
     "ICAO": "FMI",
     "Callsign": "Gecko",
@@ -14531,6 +14721,7 @@
   {
     "url": "/wiki/Flair_Airlines",
     "name": "Flair Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/44/Flair_Airlines_Logo.png/250px-Flair_Airlines_Logo.png",
     "IATA": "F8[1]",
     "ICAO": "FLE",
     "Callsign": "FLAIR",
@@ -14586,6 +14777,7 @@
   {
     "url": "/wiki/Flight_Alaska",
     "name": "Yute Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/Flight_Alaska_Logo.png/250px-Flight_Alaska_Logo.png",
     "IATA": "4Y",
     "ICAO": "TUD",
     "Callsign": "TUNDRA",
@@ -14677,7 +14869,7 @@
     "IATA": "YC",
     "ICAO": "FWQ",
     "Callsign": "UNITY",
-    "website": "http://web.archive.org/web/20010516200919/http://www.flightwest.com.au/"
+    "website": "http://www.flightwest.com.au/"
   },
   {
     "url": "/wiki/Flightline",
@@ -14718,6 +14910,7 @@
   {
     "url": "/wiki/Sabre_Corporation",
     "name": "Sabre Corporation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png",
     "website": "http://www.sabre.com/"
   },
   {
@@ -14737,7 +14930,7 @@
   {
     "url": "/wiki/Fly_Jamaica_Airways",
     "name": "Fly Jamaica Airways",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/2/2c/Fly_Jamaica.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2c/Fly_Jamaica.png/250px-Fly_Jamaica.png",
     "IATA": "OJ",
     "ICAO": "FJM",
     "Callsign": "GREENHEART",
@@ -14838,7 +15031,7 @@
   },
   {
     "url": "/wiki/Flybe",
-    "name": "Flybe",
+    "name": "flybe",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Flybe_Logo.svg/175px-Flybe_Logo.svg.png",
     "IATA": "BE[1]",
     "ICAO": "BEE",
@@ -14859,6 +15052,14 @@
       {
         "name": "Doncaster/Sheffield",
         "link": "/wiki/Robin_Hood_Airport"
+      },
+      {
+        "name": "Düsseldorf",
+        "link": "/wiki/D%C3%BCsseldorf_Airport"
+      },
+      {
+        "name": "[2]",
+        "link": "#cite_note-2"
       },
       {
         "name": "Edinburgh",
@@ -15068,11 +15269,11 @@
   },
   {
     "url": "/wiki/Frontier_Airlines",
-    "name": "Frontier",
+    "name": "Frontier Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Frontier_airlines_logo14.png/250px-Frontier_airlines_logo14.png",
     "IATA": "F9",
     "ICAO": "FFT",
-    "Callsign": "FRONTIER FLIGHT",
+    "Callsign": "FRONTIER FLIGHT[1]",
     "hubs": [
       {
         "name": "Denver International Airport",
@@ -15211,7 +15412,7 @@
   {
     "url": "/wiki/GX_Airlines",
     "name": "GX Airlines\n北部湾航空\nBěibù Wān Hángkōng",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/fe/Logo_for_GX_Airlines.jpg/250px-Logo_for_GX_Airlines.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/20/GX_Airlines_logo.png/250px-GX_Airlines_logo.png",
     "IATA": "GX",
     "ICAO": "CBG",
     "Callsign": "SPRAY",
@@ -15241,6 +15442,7 @@
   {
     "url": "/wiki/Golden_Myanmar_Airlines",
     "name": "Golden Myanmar Airlines\nရွှေမြန်မာ လေကြောင်းလိုင်း",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/34/Golden_myanmar_airline.jpg/250px-Golden_myanmar_airline.jpg",
     "IATA": "Y5",
     "ICAO": "GMR",
     "Callsign": "GOLDEN MYANMAR",
@@ -15447,22 +15649,7 @@
     "url": "/wiki/General_Motors",
     "name": "General Motors Company",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_of_General_Motors.svg/155px-Logo_of_General_Motors.svg.png",
-    "website": "http://gm.com"
-  },
-  {
-    "url": "/wiki/Genex",
-    "name": "Genex",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/f/fc/Genex_logo.png",
-    "IATA": "-",
-    "ICAO": "GNX",
-    "Callsign": "AEROGENEX",
-    "hubs": [
-      {
-        "name": "Minsk National Airport",
-        "link": "/wiki/Minsk_National_Airport"
-      }
-    ],
-    "website": "http://www.genex.by/"
+    "website": "http://www.gm.com/index.html"
   },
   {
     "url": "/wiki/Georgian_Airways",
@@ -15519,7 +15706,7 @@
   {
     "url": "/wiki/Sky_Airlines",
     "name": "Sky Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Airlines_Wordart.svg/250px-Sky_Airlines_Wordart.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Airlines_Wordart.svg/150px-Sky_Airlines_Wordart.svg.png",
     "IATA": "ZY",
     "ICAO": "SHY",
     "Callsign": "SKY POWER",
@@ -15765,14 +15952,6 @@
       {
         "name": "Detroit Metropolitan Airport",
         "link": "/wiki/Detroit_Metropolitan_Airport"
-      },
-      {
-        "name": "John F. Kennedy International Airport",
-        "link": "/wiki/John_F._Kennedy_International_Airport"
-      },
-      {
-        "name": "LaGuardia Airport",
-        "link": "/wiki/LaGuardia_Airport"
       }
     ],
     "website": "http://www.gojetairlines.com/"
@@ -15783,7 +15962,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/GOL_logo.svg/250px-GOL_logo.svg.png",
     "IATA": "G3",
     "ICAO": "GLO",
-    "Callsign": "GOL",
+    "Callsign": "GOL TRANSPORTE",
     "OperatingBases": [
       {
         "name": "São Paulo",
@@ -15800,8 +15979,8 @@
     ],
     "hubs": [
       {
-        "name": "São Paulo-Congonhas Airport",
-        "link": "/wiki/Congonhas-S%C3%A3o_Paulo_Airport"
+        "name": "São Paulo–Guarulhos International Airport",
+        "link": "/wiki/S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport"
       },
       {
         "name": "Tancredo Neves International Airport",
@@ -15812,15 +15991,15 @@
         "link": "/wiki/Bras%C3%ADlia_International_Airport"
       },
       {
-        "name": "Rio de Janeiro-Galeão International Airport",
-        "link": "/wiki/Rio_de_Janeiro-Gale%C3%A3o_International_Airport"
+        "name": "Rio de Janeiro–Galeão International Airport",
+        "link": "/wiki/Rio_de_Janeiro%E2%80%93Gale%C3%A3o_International_Airport"
       }
     ],
     "website": "http://www.voegol.com.br"
   },
   {
-    "url": "/wiki/BRA_(airline)",
-    "name": "BRA\nBraathens Regional Airlines",
+    "url": "/wiki/Braathens_Regional_Airways",
+    "name": "Braathens Regional Airways",
     "IATA": "DC",
     "ICAO": "BRX",
     "Callsign": "BRAATHENS",
@@ -15864,6 +16043,8 @@
     "url": "/wiki/Zambia",
     "name": "Republic of Zambia",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/125px-Flag_of_Zambia.svg.png",
+    "IATA": "\n\n",
+    "ICAO": "\n\n",
     "Callsign": "Flag"
   },
   {
@@ -16071,7 +16252,7 @@
   },
   {
     "url": "/wiki/Hunnu_Air",
-    "name": "Hunnu Airlines",
+    "name": "Hunnu Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/80/HunnuAirLogo.jpg/200px-HunnuAirLogo.jpg",
     "IATA": "MR",
     "ICAO": "MML",
@@ -16113,12 +16294,13 @@
     "IATA": "5M",
     "ICAO": "HFM",
     "Callsign": "MOONRAKER",
-    "hubs": [
+    "OperatingBases": [
       {
         "name": "Malta International Airport",
         "link": "/wiki/Malta_International_Airport"
       }
-    ]
+    ],
+    "website": "http://www.hifly.aero/en/profile.html"
   },
   {
     "url": "/wiki/HOP!",
@@ -16126,7 +16308,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/92/Logo_of_Hop.svg/200px-Logo_of_Hop.svg.png",
     "IATA": "A5",
     "ICAO": "HOP",
-    "Callsign": "AIR HOP",
+    "Callsign": "AIR HOP(AIR 'OP)",
     "hubs": [
       {
         "name": "Lyon-Saint Exupéry Airport",
@@ -16428,8 +16610,7 @@
         "name": "Vancouver International Airport",
         "link": "/wiki/Vancouver_International_Airport"
       }
-    ],
-    "website": "http://www.hawkair.ca"
+    ]
   },
   {
     "url": "/wiki/Hazelton_Airlines",
@@ -16445,8 +16626,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/HeavyLift_Cargo_logo.svg/200px-HeavyLift_Cargo_logo.svg.png",
     "IATA": "HN",
     "ICAO": "HVY[1]",
-    "Callsign": "HEAVY CARGO",
-    "website": "http://www.heavyliftcargo.com"
+    "Callsign": "HEAVY CARGO"
   },
   {
     "url": "/wiki/Heli_Air_Services",
@@ -16521,8 +16701,8 @@
     "url": "/wiki/Helitours",
     "name": "Helitours\nහෙලිටුවර්ස්\nஹெலிதுவர்ச்",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/9/9f/Helitours_logo.png",
-    "ICAO": "-",
-    "Callsign": "-",
+    "ICAO": "HLT",
+    "Callsign": "HELITOURS",
     "hubs": [
       {
         "name": "Ratmalana Airport",
@@ -16654,8 +16834,12 @@
     "Callsign": "SKY FLYER",
     "OperatingBases": [
       {
-        "name": "Lisbon Airport",
-        "link": "/wiki/Lisbon_Airport"
+        "name": "Beja Airport",
+        "link": "/wiki/Beja_Airport"
+      },
+      {
+        "name": "[1]",
+        "link": "#cite_note-1"
       }
     ],
     "website": "http://www.hifly.aero/en/"
@@ -16763,7 +16947,7 @@
     "Callsign": "HONGKONG SHUTTLE",
     "hubs": [
       {
-        "name": "Hong Kong International Airport",
+        "name": "Chek Lap Kok International Airport",
         "link": "/wiki/Hong_Kong_International_Airport"
       }
     ],
@@ -16777,14 +16961,6 @@
     "ICAO": "QXE",
     "Callsign": "HORIZON",
     "hubs": [
-      {
-        "name": "Anchorage International Airport",
-        "link": "/wiki/Anchorage_International_Airport"
-      },
-      {
-        "name": "Boise Airport",
-        "link": "/wiki/Boise_Airport"
-      },
       {
         "name": "Portland International Airport",
         "link": "/wiki/Portland_International_Airport"
@@ -16800,10 +16976,6 @@
       {
         "name": "[1]",
         "link": "#cite_note-Horizon_Air_hubs-1"
-      },
-      {
-        "name": "Spokane International Airport",
-        "link": "/wiki/Spokane_International_Airport"
       }
     ],
     "website": "http://www.alaskaair.com/"
@@ -16869,7 +17041,7 @@
     "url": "/wiki/IBM",
     "name": "International Business Machines Corporation",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/200px-IBM_logo.svg.png",
-    "website": "http://www.ibm.com/"
+    "website": "http://www.ibm.com/us-en/"
   },
   {
     "url": "/wiki/%C3%8Entreprinderea_de_Construc%C8%9Bii_Aeronautice_Rom%C3%A2ne%C8%99ti",
@@ -16885,7 +17057,11 @@
     "Callsign": "SILVERBIRD",
     "hubs": [
       {
-        "name": "Nnamdi Azikiwe Airport",
+        "name": "Murtala Muhammed International Airport",
+        "link": "/wiki/Murtala_Muhammed_International_Airport"
+      },
+      {
+        "name": "Nnamdi Azikiwe International Airport",
         "link": "/wiki/Nnamdi_Azikiwe_International_Airport"
       }
     ],
@@ -16914,14 +17090,14 @@
   {
     "url": "/wiki/Iberia_Express",
     "name": "Iberia Express",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Iberia_Express.png/102px-Iberia_Express.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b6/Iberia_Express.png",
     "IATA": "I2[1]",
     "ICAO": "IBS",
     "Callsign": "IBEREXPRES",
     "hubs": [
       {
-        "name": "Madrid-Barajas Airport",
-        "link": "/wiki/Madrid-Barajas_Airport"
+        "name": "Adolfo Suárez Madrid–Barajas Airport",
+        "link": "/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
       }
     ],
     "website": "http://www.iberiaexpress.com/en/"
@@ -17040,7 +17216,7 @@
     "url": "/wiki/Imair_Airlines",
     "name": "Imair Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/8/8f/Imair_logo.jpg",
-    "IATA": "-",
+    "IATA": "IK",
     "ICAO": "ITX",
     "Callsign": "IMPROTEX",
     "OperatingBases": [
@@ -17079,11 +17255,15 @@
   {
     "url": "/wiki/IndiGo",
     "name": "IndiGo",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/IndiGo_Logo.jpg/250px-IndiGo_Logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/IndiGo_Logo.jpg/150px-IndiGo_Logo.jpg",
     "IATA": "6E",
     "ICAO": "IGO",
     "Callsign": "IFLY",
     "OperatingBases": [
+      {
+        "name": "Biju Patnaik International Airport",
+        "link": "/wiki/Biju_Patnaik_International_Airport"
+      },
       {
         "name": "Chennai International Airport",
         "link": "/wiki/Chennai_International_Airport"
@@ -17109,7 +17289,7 @@
         "link": "/wiki/Rajiv_Gandhi_International_Airport"
       }
     ],
-    "website": "https://book.goindigo.in/"
+    "website": "https://www.goindigo.in/"
   },
   {
     "url": "/wiki/Indian_(airline)",
@@ -17133,11 +17313,15 @@
   {
     "url": "/wiki/IndiGo",
     "name": "IndiGo",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/IndiGo_Logo.jpg/250px-IndiGo_Logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/93/IndiGo_Logo.jpg/150px-IndiGo_Logo.jpg",
     "IATA": "6E",
     "ICAO": "IGO",
     "Callsign": "IFLY",
     "OperatingBases": [
+      {
+        "name": "Biju Patnaik International Airport",
+        "link": "/wiki/Biju_Patnaik_International_Airport"
+      },
       {
         "name": "Chennai International Airport",
         "link": "/wiki/Chennai_International_Airport"
@@ -17163,7 +17347,7 @@
         "link": "/wiki/Rajiv_Gandhi_International_Airport"
       }
     ],
-    "website": "https://book.goindigo.in/"
+    "website": "https://www.goindigo.in/"
   },
   {
     "url": "/wiki/Indonesia_Air_Transport",
@@ -17213,7 +17397,7 @@
         "link": "/wiki/Medan"
       }
     ],
-    "website": "https://web.archive.org/web/20080526140430/http://www.airasia.com"
+    "website": "https://web.archive.org/web/*/http://www.airasia.com"
   },
   {
     "url": "/wiki/Indonesian_Airlines",
@@ -17363,7 +17547,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/09/Interjetmx.png",
     "IATA": "4O",
     "ICAO": "AIJ",
-    "Callsign": "INTERJET",
+    "Callsign": "ABC AEROLINEAS[1]",
     "hubs": [
       {
         "name": "Mexico City International Airport",
@@ -17481,16 +17665,9 @@
   {
     "url": "/wiki/Iran_Air_Tours",
     "name": "Iran Airtour",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/d/d0/IranAirtoursLogo.png",
     "IATA": "B9",
     "ICAO": "IRB",
     "Callsign": "IRAN AIR TOUR",
-    "hubs": [
-      {
-        "name": "Tehran-Mehrabad",
-        "link": "/wiki/Mehrabad_Airport"
-      }
-    ],
     "website": "http://iat.aero"
   },
   {
@@ -17499,16 +17676,6 @@
     "IATA": "NV",
     "ICAO": "IRG",
     "Callsign": "NAFT",
-    "hubs": [
-      {
-        "name": "Ahwaz Airport",
-        "link": "/wiki/Ahwaz_Airport"
-      },
-      {
-        "name": "Mehrabad Airport",
-        "link": "/wiki/Mehrabad_Airport"
-      }
-    ],
     "website": "http://www.iatc-ir.com"
   },
   {
@@ -17543,7 +17710,7 @@
   },
   {
     "url": "/wiki/Irving_Oil",
-    "name": "Irving Oil Limited",
+    "name": "Irving Oil Ltd.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Irving_Oil.svg/150px-Irving_Oil.svg.png",
     "website": "http://www.irvingoil.com/"
   },
@@ -17584,7 +17751,7 @@
   {
     "url": "/wiki/Maldivian_(airline)",
     "name": "Maldivian",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Maldivian_logo.png/210px-Maldivian_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/dd/Maldivian_logo.png/250px-Maldivian_logo.png",
     "IATA": "Q2",
     "ICAO": "DQA",
     "Callsign": "SKYSURFER",
@@ -17634,7 +17801,6 @@
     "url": "/wiki/Isles_of_Scilly_Skybus",
     "name": "Isles of Scilly Skybus",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8d/Isles_of_Scilly_Skybus_%28logo%29.svg/135px-Isles_of_Scilly_Skybus_%28logo%29.svg.png",
-    "IATA": "5Y",
     "ICAO": "IOS",
     "Callsign": "SCILLONIA",
     "website": "http://www.islesofscilly-travel.co.uk/travel-information/skybus/"
@@ -17647,7 +17813,7 @@
   },
   {
     "url": "/wiki/Israir_Airlines",
-    "name": "Israir",
+    "name": "Israir\nישראייר",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/01/Israir-logo2.jpg",
     "IATA": "6H",
     "ICAO": "ISR",
@@ -17880,12 +18046,12 @@
     "Callsign": "JAPANAIR",
     "hubs": [
       {
-        "name": "Haneda International Airport",
-        "link": "/wiki/Haneda_Airport"
+        "name": "Tokyo Haneda Airport",
+        "link": "/wiki/Tokyo_Haneda_Airport"
       },
       {
-        "name": "Narita International Airport",
-        "link": "/wiki/Narita_International_Airport"
+        "name": "Tokyo Narita Airport",
+        "link": "/wiki/Tokyo_Narita_Airport"
       }
     ],
     "website": "https://www.jal.co.jp/en/"
@@ -18144,6 +18310,10 @@
         "link": "/wiki/Leeds_Bradford_International_Airport"
       },
       {
+        "name": "London Stansted",
+        "link": "/wiki/London_Stansted_Airport"
+      },
+      {
         "name": "Manchester",
         "link": "/wiki/Manchester_Airport"
       },
@@ -18156,8 +18326,9 @@
   },
   {
     "url": "/wiki/Jet4you",
-    "name": "Jet4you",
+    "name": "Jet4you - TUI Belgium",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jet4you.svg/225px-Jet4you.svg.png",
+    "IATA": "TB",
     "ICAO": "JFU",
     "Callsign": "ARGAN",
     "OperatingBases": [
@@ -18170,8 +18341,8 @@
   },
   {
     "url": "/wiki/JetBlue",
-    "name": "JetBlue Airways",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JetBlue_Airways_Logo.svg/200px-JetBlue_Airways_Logo.svg.png",
+    "name": "JetBlue",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JetBlue_Airways_Logo.svg/280px-JetBlue_Airways_Logo.svg.png",
     "IATA": "B6",
     "ICAO": "JBU",
     "Callsign": "JETBLUE",
@@ -18209,9 +18380,9 @@
     "website": "http://www.flyjetasia.com"
   },
   {
-    "url": "/wiki/Jetairfly",
-    "name": "TUI Airlines Belgium",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3b/Jetairfly.svg/250px-Jetairfly.svg.png",
+    "url": "/wiki/TUIfly_Belgium",
+    "name": "TUIfly Belgium",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/6c/TUIfly.svg/175px-TUIfly.svg.png",
     "IATA": "TB",
     "ICAO": "JAF",
     "Callsign": "BEAUTY",
@@ -18221,7 +18392,7 @@
         "link": "/wiki/Brussels_Airport"
       }
     ],
-    "website": "http://www.jetairfly.com"
+    "website": "http://www.tuifly.be"
   },
   {
     "url": "/wiki/Jetalliance",
@@ -18246,13 +18417,16 @@
     "url": "/wiki/Jetconnect",
     "name": "Jetconnect",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/10/Jetconnect_logo.png/250px-Jetconnect_logo.png",
-    "IATA": "QF",
-    "ICAO": "QFA",
+    "ICAO": "QNZ[1]",
     "Callsign": "QANTAS",
     "OperatingBases": [
       {
         "name": "Auckland International Airport",
         "link": "/wiki/Auckland_International_Airport"
+      },
+      {
+        "name": "Christchurch International Airport",
+        "link": "/wiki/Christchurch_International_Airport"
       },
       {
         "name": "Wellington International Airport",
@@ -18402,9 +18576,9 @@
     "url": "/wiki/Primera_Air",
     "name": "Primera Air Scandinavia",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/ac/Logo-primera_air.png/250px-Logo-primera_air.png",
-    "IATA": "PF[1]",
-    "ICAO": "PRI",
-    "Callsign": "PRIMERA",
+    "IATA": "PF/6F[1]",
+    "ICAO": "PRI/PRW",
+    "Callsign": "PRIMERA/JETBIRD",
     "OperatingBases": [
       {
         "name": "Billund",
@@ -18425,6 +18599,10 @@
       {
         "name": "Stockholm-Arlanda",
         "link": "/wiki/Stockholm-Arlanda_Airport"
+      },
+      {
+        "name": "Riga",
+        "link": "/wiki/Riga_International_Airport"
       }
     ],
     "website": "http://www.primeraair.com"
@@ -18479,7 +18657,7 @@
     "IATA": "-[1]",
     "ICAO": "ENZ",
     "Callsign": "ENZO",
-    "website": "http://www.jotagroup.com/jotaaviationabout.php"
+    "website": "http://www.jotaaviation.com"
   },
   {
     "url": "/wiki/Jubba_Airways",
@@ -18530,7 +18708,8 @@
         "name": "Suvarnabhumi Airport",
         "link": "/wiki/Suvarnabhumi_Airport"
       }
-    ]
+    ],
+    "website": "http://www.k-mile.com/"
   },
   {
     "url": "/wiki/Kalstar_Aviation",
@@ -18564,7 +18743,7 @@
   {
     "url": "/wiki/KLM_Cityhopper",
     "name": "KLM Cityhopper",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/KLM_Cityhopper.png/250px-KLM_Cityhopper.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2d/KLM_Cityhopper.png/200px-KLM_Cityhopper.png",
     "IATA": "WA",
     "ICAO": "KLC",
     "Callsign": "CITY",
@@ -18578,8 +18757,8 @@
   },
   {
     "url": "/wiki/KLM",
-    "name": "KLM\nKoninklijke Luchtvaart Maatschappij",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KLM_logo.svg/150px-KLM_logo.svg.png",
+    "name": "KLM Royal Dutch Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/KLM_logo.svg/125px-KLM_logo.svg.png",
     "IATA": "KL",
     "ICAO": "KLM",
     "Callsign": "KLM",
@@ -18706,7 +18885,7 @@
   {
     "url": "/wiki/Kansas_State_University",
     "name": "Kansas State University",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/46/Kansas_State_University_seal.png/200px-Kansas_State_University_seal.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/74/Kansas_State_University_seal.svg/150px-Kansas_State_University_seal.svg.png",
     "website": "http://www.k-state.edu"
   },
   {
@@ -18745,6 +18924,10 @@
       {
         "name": "Halim Perdanakusuma Airport",
         "link": "/wiki/Halim_Perdanakusuma_Airport"
+      },
+      {
+        "name": "Minangkabau International Airport",
+        "link": "/wiki/Minangkabau_International_Airport"
       }
     ],
     "website": "http://www.kartika-airlines.com"
@@ -18839,8 +19022,8 @@
     "Callsign": "FLIGHTCRAFT",
     "hubs": [
       {
-        "name": "Toronto Pearson International Airport",
-        "link": "/wiki/Toronto_Pearson_International_Airport"
+        "name": "Kelowna International Airport",
+        "link": "/wiki/Kelowna_International_Airport"
       }
     ],
     "website": "http://www.kfaero.ca/cargo-operations/"
@@ -18935,7 +19118,7 @@
     "name": "Key Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/0/04/KeyAirlines.jpg",
     "IATA": "KWY",
-    "ICAO": "—",
+    "ICAO": "ZN",
     "Callsign": "KEYAIR",
     "hubs": [
       {
@@ -18998,10 +19181,8 @@
   {
     "url": "/wiki/Khazars",
     "name": "\n\n\nKingdom of Khazaria\nEastern Tourkia\nHazar Kağanlığı\n\n\n",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gok1.png/30px-Gok1.png",
-    "IATA": "← \n \n← ",
-    "ICAO": "650?–1048?",
-    "Callsign": " →\n \n →"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Chasaren.jpg/250px-Chasaren.jpg",
+    "ICAO": "650?–1048?"
   },
   {
     "url": "/wiki/Khors_Air",
@@ -19084,16 +19265,6 @@
     "IATA": "Y9",
     "ICAO": "KIS",
     "Callsign": "KISHAIR",
-    "hubs": [
-      {
-        "name": "Tehran-Mehrabad",
-        "link": "/wiki/Mehrabad_International_Airport"
-      },
-      {
-        "name": "Kish International Airport",
-        "link": "/wiki/Kish_International_Airport"
-      }
-    ],
     "website": "http://www.kishairlines.ir/"
   },
   {
@@ -19240,7 +19411,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/2/2c/Kosova_Airlines_logo.png",
     "IATA": "-",
     "ICAO": "KOS",
-    "Callsign": "KOSOVA",
+    "Callsign": "-",
     "hubs": [
       {
         "name": "Pristina International Airport",
@@ -19311,8 +19482,8 @@
   },
   {
     "url": "/wiki/Kuwait_Airways",
-    "name": "Kuwait Airways\nالخطوط الجوية الكويتية\nAl-Khutout Al-Jawwiya Al-Kuwaitiyah",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Kuwait_Airways_Logo.svg/250px-Kuwait_Airways_Logo.svg.png",
+    "name": "Kuwait Airways\nالخطوط الجوية الكويتية\nAl-Khutout Al-Jawwiya Al-Kuwaitiya",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/82/Kuwait_Airways_Logo.jpg/275px-Kuwait_Airways_Logo.jpg",
     "IATA": "KU",
     "ICAO": "KAC",
     "Callsign": "KUWAITI",
@@ -19409,6 +19580,7 @@
   {
     "url": "/wiki/Logistic_Air",
     "name": "Logistic Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/38/Logistic_Air_Logo.png/250px-Logistic_Air_Logo.png",
     "IATA": "-",
     "ICAO": "-",
     "Callsign": "-",
@@ -19434,6 +19606,21 @@
       }
     ],
     "website": "http://www.latam.com/"
+  },
+  {
+    "url": "/wiki/Libyan_Wings",
+    "name": "Libyan Wings\nالأجنحة الليبية",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/7/77/Libyan_Wings_logo.png",
+    "IATA": "YL[1]",
+    "ICAO": "LWA[1]",
+    "Callsign": "LIBYAN WINGS[2]",
+    "OperatingBases": [
+      {
+        "name": "Mitiga International Airport",
+        "link": "/wiki/Mitiga_International_Airport"
+      }
+    ],
+    "website": "http://libyanwings.ly/"
   },
   {
     "url": "/wiki/TAR_Aerolineas",
@@ -19658,7 +19845,8 @@
         "name": "Jorge Chávez International Airport",
         "link": "/wiki/Jorge_Ch%C3%A1vez_International_Airport"
       }
-    ]
+    ],
+    "website": "http://lcperu.pe"
   },
   {
     "url": "/wiki/L%C3%ADnea_A%C3%A9rea_Cuencana",
@@ -19677,7 +19865,7 @@
   {
     "url": "/wiki/LOT_Polish_Airlines",
     "name": "LOT Polish Airlines\nPolskie Linie Lotnicze LOT",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3d/LOT_Polish_Airlines.svg/300px-LOT_Polish_Airlines.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3d/LOT_Polish_Airlines.svg/200px-LOT_Polish_Airlines.svg.png",
     "IATA": "LO",
     "ICAO": "LOT",
     "Callsign": "LOT",
@@ -20083,7 +20271,7 @@
     "Callsign": "LIBAC"
   },
   {
-    "url": "/wiki/Lignes_A%C3%A9riennes_Congolaises",
+    "url": "/wiki/Lignes_A%C3%A9riennes_Congolaises_(2005%E2%80%932013)",
     "name": "Lignes Aériennes Congolaises",
     "IATA": "4V[1]",
     "ICAO": "LCG[2]",
@@ -20131,11 +20319,14 @@
         "link": "/wiki/Mexico_City_International_Airport"
       },
       {
-        "name": "Miguel Hidalgo y Costilla Int'l Airport",
-        "link": "/wiki/Don_Miguel_Hidalgo_y_Costilla_International_Airport"
+        "name": "Gen. Abelardo L. Rodríguez Int'l Airport",
+        "link": "/wiki/General_Abelardo_L._Rodr%C3%ADguez_International_Airport"
+      },
+      {
+        "name": "Tijuana",
+        "link": "/wiki/Tijuana"
       }
-    ],
-    "website": "http://www.aazteca.com.mx"
+    ]
   },
   {
     "url": "/wiki/L%C3%ADneas_A%C3%A9reas_Federales",
@@ -20241,8 +20432,8 @@
     "Callsign": "LOGAN",
     "hubs": [
       {
-        "name": "Glasgow International Airport",
-        "link": "/wiki/Glasgow_International_Airport"
+        "name": "Glasgow Airport",
+        "link": "/wiki/Glasgow_Airport"
       }
     ],
     "website": "http://www.loganair.co.uk"
@@ -20429,7 +20620,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/9/96/Lufttransport_Logo.jpg",
     "IATA": "L5",
     "ICAO": "LTR",
-    "Callsign": "LUFT TRANSPORT",
+    "Callsign": "LUFTTRANSPORT",
     "hubs": [
       {
         "name": "Tromsø Airport",
@@ -20449,7 +20640,7 @@
   {
     "url": "/wiki/Luxair",
     "name": "Luxair",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/77/Luxair_Official_Logo.svg/200px-Luxair_Official_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/77/Luxair_Official_Logo.svg/250px-Luxair_Official_Logo.svg.png",
     "IATA": "LG",
     "ICAO": "LGL",
     "Callsign": "LUXAIR",
@@ -20626,6 +20817,7 @@
   {
     "url": "/wiki/Mann_Yadanarpon_Airlines",
     "name": "Mann Yadanarpon Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/29/Mann_Yadanarpon_Airlines.jpeg/250px-Mann_Yadanarpon_Airlines.jpeg",
     "IATA": "7Y",
     "ICAO": "MYP",
     "Callsign": "MANN ROYAL",
@@ -20671,7 +20863,7 @@
     "url": "/wiki/MASwings",
     "name": "MASwings",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/MASwings_Logo_2015.png/213px-MASwings_Logo_2015.png",
-    "IATA": "MH",
+    "IATA": "MY",
     "ICAO": "MWG",
     "Callsign": "MASWINGS",
     "hubs": [
@@ -20712,7 +20904,7 @@
   {
     "url": "/wiki/MIAT_Mongolian_Airlines",
     "name": "MIAT Mongolian Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/91/MIAT_Mongolian_Airlines_logo.png/200px-MIAT_Mongolian_Airlines_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/9/91/MIAT_Mongolian_Airlines_logo.png",
     "IATA": "OM",
     "ICAO": "MGL",
     "Callsign": "MONGOL AIR",
@@ -20823,11 +21015,11 @@
   {
     "url": "/wiki/Mahan_Air",
     "name": "Mahan Air\nهواپیمایی ماهان",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/75/Mahan_Air_Logo.svg/230px-Mahan_Air_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/75/Mahan_Air_Logo.svg/200px-Mahan_Air_Logo.svg.png",
     "IATA": "W5",
     "ICAO": "IRM",
     "Callsign": "MAHAN AIR",
-    "website": "http://www.Mahan.aero"
+    "website": "http://www.mahan.aero"
   },
   {
     "url": "/wiki/Mahfooz_Aviation",
@@ -20909,6 +21101,7 @@
   {
     "url": "/wiki/Braathens_Regional_Aviation",
     "name": "Braathens Regional Aviation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Braathens_Regional_Airways_Logo.png/200px-Braathens_Regional_Airways_Logo.png",
     "IATA": "TF",
     "ICAO": "SCW",
     "Callsign": "SCANWING",
@@ -21085,7 +21278,7 @@
         "link": "/wiki/Amsterdam_Airport_Schiphol"
       }
     ],
-    "website": "http://www.martinair.com"
+    "website": "http://www.martinair.com/"
   },
   {
     "url": "/wiki/Martinaire",
@@ -21181,7 +21374,7 @@
     "url": "/wiki/Maya_Island_Air",
     "name": "Maya Island Air",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/e/eb/Maya_Island_Air_logo.png",
-    "IATA": "MY",
+    "IATA": "2M",
     "ICAO": "MYD",
     "Callsign": "MYLAND",
     "hubs": [
@@ -21196,7 +21389,7 @@
     "url": "/wiki/McDonnell_Douglas",
     "name": "McDonnell Douglas Corporation",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/7b/McDonnell_Douglas.svg/250px-McDonnell_Douglas.svg.png",
-    "website": "http://web.archive.org/web/19970210205324/http://www.mdc.com/"
+    "website": "https://web.archive.org/web/19970210205324/http://www.mdc.com/"
   },
   {
     "url": "/wiki/Medavia",
@@ -21337,7 +21530,7 @@
   {
     "url": "/wiki/Merpati_Nusantara_Airlines",
     "name": "Merpati Nusantara",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/a/a8/Merpati_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8e/Merpati_logo.svg/183px-Merpati_logo.svg.png",
     "IATA": "MZ",
     "ICAO": "MNA",
     "Callsign": "MERPATI",
@@ -21542,7 +21735,7 @@
   {
     "url": "/wiki/Middle_East_Airlines",
     "name": "Middle East Airlines – Air Liban\nطيران الشرق الأوسط ـ الخطوط الجوية اللبنانية",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/fb/MEAlogo.svg/200px-MEAlogo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/84/Middle_East_Airlines_%28logo%29.svg/200px-Middle_East_Airlines_%28logo%29.svg.png",
     "IATA": "ME",
     "ICAO": "MEA",
     "Callsign": "CEDAR JET",
@@ -21653,7 +21846,7 @@
   {
     "url": "/wiki/Mihin_Lanka",
     "name": "Mihin Lanka\nමිහින් ලංකා\nமிஹின் லங்கா",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mihin_Lanka_logo.svg/300px-Mihin_Lanka_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mihin_Lanka_logo.svg/250px-Mihin_Lanka_logo.svg.png",
     "IATA": "MJ",
     "ICAO": "MLR",
     "Callsign": "MIHIN LANKA",
@@ -21796,6 +21989,8 @@
     "url": "/wiki/Moldova",
     "name": "Republic of Moldova",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/125px-Flag_of_Moldova.svg.png",
+    "IATA": "\n\n",
+    "ICAO": "\n\n",
     "Callsign": "Flag"
   },
   {
@@ -21952,7 +22147,7 @@
   {
     "url": "/wiki/Mountain_Air_Cargo",
     "name": "Mountain Air Cargo",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/7/78/Mountain-air-cargo-e1415290135839-300x140.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mountain-air-cargo-e1415290135839-300x140.jpg/250px-Mountain-air-cargo-e1415290135839-300x140.jpg",
     "IATA": "C2",
     "ICAO": "MTN",
     "Callsign": "MOUNTAIN",
@@ -22024,7 +22219,7 @@
       },
       {
         "name": "Birmingham",
-        "link": "/wiki/Birmingham_International_Airport_(United_Kingdom)"
+        "link": "/wiki/Birmingham_Airport"
       },
       {
         "name": "Bristol",
@@ -22059,6 +22254,7 @@
   {
     "url": "/wiki/Myanmar_National_Airlines",
     "name": "Myanmar National Airlines\nမြန်မာအမျိုးသား လေကြောင်းလိုင်း",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/40/Myanmar_National_Airline.png/260px-Myanmar_National_Airline.png",
     "IATA": "UB[1]",
     "ICAO": "UBA[1]",
     "Callsign": "UNIONAIR",
@@ -22106,6 +22302,16 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d0/M%C3%BDflug_Air_logo.jpg/150px-M%C3%BDflug_Air_logo.jpg",
     "ICAO": "MYA",
     "Callsign": "MYFLUG",
+    "hubs": [
+      {
+        "name": "Reykjahlid Airport",
+        "link": "/w/index.php?title=Reykjahlid_Airport&action=edit&redlink=1"
+      },
+      {
+        "name": "Reykjahlid",
+        "link": "/wiki/Reykjahlid"
+      }
+    ],
     "website": "http://www.myflug.is"
   },
   {
@@ -22122,7 +22328,7 @@
       },
       {
         "name": "Birmingham",
-        "link": "/wiki/Birmingham_International_Airport_(United_Kingdom)"
+        "link": "/wiki/Birmingham_Airport"
       },
       {
         "name": "Bristol",
@@ -22153,6 +22359,12 @@
         "link": "/wiki/East_Midlands_Airport"
       }
     ]
+  },
+  {
+    "url": "/wiki/National_Center_for_Atmospheric_Research",
+    "name": "NCAR\nNational Center for Atmospheric Research",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/7a/NCAR_logo.png/220px-NCAR_logo.png",
+    "website": "https://ncar.ucar.edu/"
   },
   {
     "url": "/wiki/New_Japan_Aviation",
@@ -22358,7 +22570,7 @@
   {
     "url": "/wiki/National_Airways_Corporation",
     "name": "National Airways Corporation",
-    "IATA": "YJ",
+    "IATA": "-",
     "ICAO": "NTN",
     "Callsign": "NATCHAIR",
     "website": "http://www.nac.co.za"
@@ -22437,7 +22649,13 @@
     "name": "Nationwide Airlines (Zambia)",
     "IATA": "4J",
     "ICAO": "NWZ",
-    "Callsign": "ZAMNAT"
+    "Callsign": "ZAMNAT",
+    "hubs": [
+      {
+        "name": "Kenneth Kaunda International Airport",
+        "link": "/wiki/Kenneth_Kaunda_International_Airport"
+      }
+    ]
   },
   {
     "url": "/wiki/Natural_Environment_Research_Council",
@@ -22468,7 +22686,7 @@
   {
     "url": "/wiki/Navitaire",
     "name": "Navitaire",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b2/Navitaire_logo.png/220px-Navitaire_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Navitaire_Amadeus_RGB.png/220px-Navitaire_Amadeus_RGB.png",
     "website": "http://www.navitaire.com/"
   },
   {
@@ -22517,7 +22735,7 @@
   {
     "url": "/wiki/Neos_(airline)",
     "name": "Neos",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/7/78/Neos.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/78/Neos.png/250px-Neos.png",
     "IATA": "NO[1]",
     "ICAO": "NOS[2]",
     "Callsign": "MOONFLOWER[3]",
@@ -22532,6 +22750,7 @@
   {
     "url": "/wiki/NetJets",
     "name": "NetJets",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/1/10/NetJets_Logo.png",
     "IATA": "1I",
     "ICAO": "EJA",
     "Callsign": "EXECJET",
@@ -22540,7 +22759,7 @@
   {
     "url": "/wiki/New_England_Airlines",
     "name": "New England Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/5/53/New_England_Airlines_logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/53/New_England_Airlines_logo.jpg/280px-New_England_Airlines_logo.jpg",
     "IATA": "EJ",
     "ICAO": "NEA",
     "Callsign": "NEW ENGLAND",
@@ -22550,7 +22769,7 @@
         "link": "/wiki/Westerly_State_Airport"
       }
     ],
-    "website": "http://www.block-island.com/nea/"
+    "website": "http://blockislandsairline.com/"
   },
   {
     "url": "/wiki/New_York_Helicopter",
@@ -22561,8 +22780,8 @@
   },
   {
     "url": "/wiki/New_York_State_Police",
-    "name": "New York State Police",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/be/New_York_State_Police.png/122px-New_York_State_Police.png"
+    "name": "New York Division of State Police",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Patch_of_the_New_York_State_Police.png/122px-Patch_of_the_New_York_State_Police.png"
   },
   {
     "url": "/wiki/Nextjet",
@@ -22633,7 +22852,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e0/Nikilogo.png/150px-Nikilogo.png",
     "IATA": "HG",
     "ICAO": "NLY",
-    "Callsign": "NIKI",
+    "Callsign": "FLYNIKI",
     "hubs": [
       {
         "name": "Vienna International Airport",
@@ -22868,7 +23087,6 @@
   {
     "url": "/wiki/North_Flying",
     "name": "North Flying",
-    "IATA": "M3",
     "ICAO": "NFA",
     "Callsign": "NORTH FLYING",
     "website": "http://www.northflying.com"
@@ -22947,12 +23165,13 @@
     "name": "Northeast Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/7/77/Northeast72.jpg",
     "IATA": "NE",
-    "ICAO": "NE",
+    "ICAO": "NEA",
     "Callsign": "Northeast"
   },
   {
     "url": "/wiki/Northern_Air_Cargo",
     "name": "Northern Air Cargo",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Northern_Air_Cargo_Logo.png/250px-Northern_Air_Cargo_Logo.png",
     "IATA": "NC",
     "ICAO": "NAC",
     "Callsign": "YUKON",
@@ -23065,15 +23284,11 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/09/Norwegianairshuttlelogo2013.png/250px-Norwegianairshuttlelogo2013.png",
     "IATA": "DY",
     "ICAO": "NAX",
-    "Callsign": "NORSHUTTLE",
+    "Callsign": "NOR SHUTTLE",
     "OperatingBases": [
       {
         "name": "Alicante",
         "link": "/wiki/Alicante_Airport"
-      },
-      {
-        "name": "Bangkok",
-        "link": "/wiki/Suvarnabhumi_Airport"
       },
       {
         "name": "Barcelona",
@@ -23088,6 +23303,10 @@
         "link": "/wiki/Copenhagen_Airport"
       },
       {
+        "name": "Edinburgh",
+        "link": "/wiki/Edinburgh_Airport"
+      },
+      {
         "name": "Fort Lauderdale",
         "link": "/wiki/Fort_Lauderdale-Hollywood_International_Airport"
       },
@@ -23100,7 +23319,7 @@
         "link": "/wiki/Gran_Canaria_Airport"
       },
       {
-        "name": "London (LGW)",
+        "name": "London Gatwick",
         "link": "/wiki/Gatwick_Airport"
       },
       {
@@ -23116,28 +23335,36 @@
         "link": "/wiki/John_F._Kennedy_International_Airport"
       },
       {
-        "name": "Oslo (OSL)",
+        "name": "Oslo",
         "link": "/wiki/Oslo_Airport,_Gardermoen"
       },
       {
-        "name": "Palma (PMI)",
+        "name": "Palma",
         "link": "/wiki/Palma_de_Mallorca_Airport"
+      },
+      {
+        "name": "Rome Fiumicino",
+        "link": "/wiki/Aeroporto_di_Roma_Fiumicino"
       },
       {
         "name": "Stavanger",
         "link": "/wiki/Stavanger_Airport,_Sola"
       },
       {
-        "name": "Stockholm (ARN)",
+        "name": "Stockholm Arlanda",
         "link": "/wiki/Stockholm_Arlanda_Airport"
       },
       {
-        "name": "Tenerife (TFS)",
-        "link": "/wiki/Tenerife_South_Airport"
+        "name": "Tenerife–South",
+        "link": "/wiki/Tenerife%E2%80%93South_Airport"
       },
       {
         "name": "Trondheim",
         "link": "/wiki/Trondheim_Airport,_V%C3%A6rnes"
+      },
+      {
+        "name": "Riga Airport",
+        "link": "/wiki/Riga_Airport"
       }
     ],
     "website": "http://norwegian.com"
@@ -23151,40 +23378,44 @@
     "Callsign": "NORTRANS",
     "OperatingBases": [
       {
-        "name": "London Gatwick International Airport",
-        "link": "/wiki/London_Gatwick_International_Airport"
+        "name": "London-Gatwick Airport",
+        "link": "/wiki/Gatwick_Airport"
       },
       {
-        "name": "Helsiki Airport",
-        "link": "/w/index.php?title=Helsiki_Airport&action=edit&redlink=1"
+        "name": "Helsinki Airport",
+        "link": "/wiki/Helsinki_Airport"
       },
       {
-        "name": "Barcelona El Prat Airport",
-        "link": "/wiki/Barcelona_El_Prat_Airport"
+        "name": "Barcelona-El Prat Airport",
+        "link": "/wiki/Barcelona-El_Prat_Airport"
       },
       {
-        "name": "Las Palmas Airport",
-        "link": "/wiki/Las_Palmas_Airport"
+        "name": "Gran Canaria Airport",
+        "link": "/wiki/Gran_Canaria_Airport"
       },
       {
-        "name": "Madrid Barajas Airport",
-        "link": "/wiki/Madrid_Barajas_Airport"
+        "name": "Adolfo Suárez Madrid–Barajas Airport",
+        "link": "/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
       },
       {
-        "name": "Alicante International Airport",
-        "link": "/wiki/Alicante_International_Airport"
+        "name": "Alicante–Elche Airport",
+        "link": "/wiki/Alicante%E2%80%93Elche_Airport"
       },
       {
-        "name": "Tenerife South International Airport",
-        "link": "/w/index.php?title=Tenerife_South_International_Airport&action=edit&redlink=1"
+        "name": "Tenerife–South Airport",
+        "link": "/wiki/Tenerife%E2%80%93South_Airport"
       },
       {
-        "name": "Malaga International Airport",
-        "link": "/wiki/Malaga_International_Airport"
+        "name": "Málaga Airport",
+        "link": "/wiki/M%C3%A1laga_Airport"
       },
       {
-        "name": "Palma De Majorca Airport",
-        "link": "/w/index.php?title=Palma_De_Majorca_Airport&action=edit&redlink=1"
+        "name": "Palma de Mallorca Airport",
+        "link": "/wiki/Palma_de_Mallorca_Airport"
+      },
+      {
+        "name": "Rome-Fiumicino Airport",
+        "link": "/wiki/Leonardo_da_Vinci%E2%80%93Fiumicino_Airport"
       }
     ],
     "website": "http://www.norwegian.com/"
@@ -23195,12 +23426,8 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/09/Norwegianairshuttlelogo2013.png/250px-Norwegianairshuttlelogo2013.png",
     "IATA": "DY",
     "ICAO": "NAX",
-    "Callsign": "NORSHUTTLE",
+    "Callsign": "NOR SHUTTLE",
     "OperatingBases": [
-      {
-        "name": "Bangkok-Suvarnabhumi",
-        "link": "/wiki/Suvarnabhumi_Airport"
-      },
       {
         "name": "New York-John F. Kennedy",
         "link": "/wiki/John_F._Kennedy_International_Airport"
@@ -23232,14 +23459,14 @@
     "website": "http://www.nouvelair.com/en"
   },
   {
-    "url": "/wiki/Nova_Airline",
+    "url": "/wiki/Nova_Airways",
     "name": "Nova Airways",
     "IATA": "O9 (oscar9)",
     "ICAO": "NOV",
     "Callsign": "NOVANILE",
     "hubs": [
       {
-        "name": "Khartoum International Airport",
+        "name": "Khartoum Airport",
         "link": "/wiki/Khartoum_International_Airport"
       }
     ],
@@ -23293,6 +23520,7 @@
   {
     "url": "/wiki/Orange_Air",
     "name": "Orange Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/4/4b/Orange_Air_Logo.png",
     "ICAO": "ORN",
     "Callsign": "ORANGE JET",
     "website": "http://www.flyorangeair.com/"
@@ -23330,7 +23558,7 @@
   {
     "url": "/wiki/OAG_(Air_Travel_Intelligence)",
     "name": "OAG",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/OAG_%28AIr_Travel_Intelligence%29_Logo.jpg/220px-OAG_%28AIr_Travel_Intelligence%29_Logo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/OAG_%28AIr_Travel_Intelligence%29_Logo.jpg/250px-OAG_%28AIr_Travel_Intelligence%29_Logo.jpg",
     "website": "http://oag.com"
   },
   {
@@ -23552,7 +23780,7 @@
   },
   {
     "url": "/wiki/Orenair",
-    "name": "Orenair (Orenburg Airlines)\nORENAIR — Оренбургские авиалинии",
+    "name": "Orenair\nOrenburg Airlines\nORENAIR — Оренбургские авиалинии",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Orenair_English_Logo.png/250px-Orenair_English_Logo.png",
     "IATA": "R2[1]",
     "ICAO": "ORB[1]",
@@ -23637,16 +23865,16 @@
   {
     "url": "/wiki/Nauru_Airlines",
     "name": "Nauru Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nauru%2Clogo.png/250px-Nauru%2Clogo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nauru_Airlines_logo.jpg/250px-Nauru_Airlines_logo.jpg",
     "IATA": "ON",
     "ICAO": "RON",
     "Callsign": "AIR NAURU",
-    "website": "http://www.ourairline.com.au/"
+    "website": "http://www.nauruairlines.com.au/"
   },
   {
     "url": "/wiki/Overland_Airways",
     "name": "Overland Airways",
-    "IATA": "OJ",
+    "IATA": "OF",
     "ICAO": "OLA",
     "Callsign": "OVERLAND",
     "hubs": [
@@ -23674,7 +23902,7 @@
   {
     "url": "/wiki/OzJet",
     "name": "OzJet Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/OzJet_logo.svg/200px-OzJet_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OzJet.svg/200px-OzJet.svg.png",
     "IATA": "O7",
     "ICAO": "OZJ",
     "Callsign": "AUSJET",
@@ -23697,6 +23925,7 @@
   {
     "url": "/wiki/Pacific_Coast_Jet",
     "name": "Pacific Coast Jet",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/8/81/Pacific_Coast_Jet_Logo.jpg",
     "ICAO": "PXT",
     "Callsign": "PACK COAST",
     "website": "http://pacificcoastjet.com/"
@@ -23726,17 +23955,19 @@
     "website": "http://www.princeaviation.com/"
   },
   {
-    "url": "/wiki/PAN_Air",
-    "name": "PAN Air",
+    "url": "/wiki/ASL_Airlines_Spain",
+    "name": "ASL Airlines Spain",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/e/e1/ASL_Airlines_Spain_Logo.png",
     "IATA": "PV",
     "ICAO": "PNR",
     "Callsign": "SKYJET",
     "hubs": [
       {
-        "name": "Madrid Barajas International Airport",
-        "link": "/wiki/Madrid_Barajas_International_Airport"
+        "name": "Madrid–Barajas",
+        "link": "/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
       }
-    ]
+    ],
+    "website": "http://www.aslairlines.es"
   },
   {
     "url": "/wiki/PBair",
@@ -23847,7 +24078,7 @@
   {
     "url": "/wiki/Jetstar_Pacific",
     "name": "Jetstar Pacific Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jetstar_logo.svg/140px-Jetstar_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jetstar_logo.svg/220px-Jetstar_logo.svg.png",
     "IATA": "BL",
     "ICAO": "PIC",
     "Callsign": "PACIFIC",
@@ -23881,6 +24112,10 @@
     "ICAO": "PCO",
     "Callsign": "PASCO",
     "hubs": [
+      {
+        "name": "Vancouver International Airport",
+        "link": "/wiki/Vancouver_International_Airport"
+      },
       {
         "name": "Port Hardy Airport",
         "link": "/wiki/Port_Hardy_Airport"
@@ -23975,8 +24210,8 @@
         "link": "/wiki/Allama_Iqbal_International_Airport"
       },
       {
-        "name": "Islamabad International Airport",
-        "link": "/wiki/Islamabad_International_Airport"
+        "name": "Benazir Bhutto International Airport",
+        "link": "/wiki/Benazir_Bhutto_International_Airport"
       }
     ],
     "website": "http://www.piac.com.pk"
@@ -24028,10 +24263,9 @@
   {
     "url": "/wiki/PAWA_Dominicana",
     "name": "Pawa Dominicana",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_pawa_dominicana.png/250px-Logo_pawa_dominicana.png",
     "IATA": "7N",
     "ICAO": "PWD",
-    "Callsign": "PAWA DOMINICANA",
+    "Callsign": "PAWA",
     "hubs": [
       {
         "name": "Las Américas International Airport",
@@ -24108,21 +24342,6 @@
     "website": "http://www.paneuropeenne.com"
   },
   {
-    "url": "/wiki/AirAsia_Philippines",
-    "name": "AirAsia Philippines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/225px-AirAsia_New_Logo.svg.png",
-    "IATA": "Z2",
-    "ICAO": "EZD",
-    "Callsign": "ZEST AIRWAYS",
-    "hubs": [
-      {
-        "name": "Ninoy Aquino International Airport",
-        "link": "/wiki/Ninoy_Aquino_International_Airport"
-      }
-    ],
-    "website": "http://www.airasia.com/ph"
-  },
-  {
     "url": "/wiki/Panavia_Aircraft_GmbH",
     "name": "Panavia Aircraft GmbH",
     "website": "http://www.panavia.de"
@@ -24170,13 +24389,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/AirPanama_Logo.png/260px-AirPanama_Logo.png",
     "IATA": "7P",
     "ICAO": "PST",
-    "Callsign": "AIR PANAMA",
-    "hubs": [
-      {
-        "name": "Albrook \"Marcos A. Gelabert\" International Airport",
-        "link": "/wiki/Albrook_%22Marcos_A._Gelabert%22_International_Airport"
-      }
-    ],
+    "Callsign": "PARSA",
     "website": "http://www.airpanama.com"
   },
   {
@@ -24211,8 +24424,8 @@
   },
   {
     "url": "/wiki/Pawan_Hans",
-    "name": "Pawan Hans",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e1/Pawan_Hans_Logo.svg/150px-Pawan_Hans_Logo.svg.png",
+    "name": "Pawan Hans Limited",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png",
     "IATA": "PH",
     "ICAO": "PHE",
     "Callsign": "PAWAN HANS",
@@ -24226,7 +24439,7 @@
         "link": "/wiki/Mumbai"
       }
     ],
-    "website": "http://www.pawanhans.co.in/"
+    "website": "http://pawanhans.co.in"
   },
   {
     "url": "/wiki/Payam_Air",
@@ -24310,8 +24523,8 @@
   {
     "url": "/wiki/Pecotox_Air",
     "name": "Pecotox Air",
-    "ICAO": "PXA",
-    "Callsign": "Pecotex",
+    "ICAO": "PXA[1]",
+    "Callsign": "Pecotox",
     "OperatingBases": [
       {
         "name": "Chişinău International Airport",
@@ -24330,10 +24543,6 @@
       {
         "name": "Sabiha Gökçen International Airport",
         "link": "/wiki/Sabiha_G%C3%B6k%C3%A7en_International_Airport"
-      },
-      {
-        "name": "Ataturk International Airport",
-        "link": "/wiki/Ataturk_International_Airport"
       }
     ],
     "website": "http://www.flypgs.com/"
@@ -24341,7 +24550,7 @@
   {
     "url": "/wiki/People%27s_Viennaline",
     "name": "People's Viennaline",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/People%E2%80%99s_Viennaline_Logo.svg/200px-People%E2%80%99s_Viennaline_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/People%E2%80%99s_Viennaline_Logo.svg/175px-People%E2%80%99s_Viennaline_Logo.svg.png",
     "IATA": "PE[1]",
     "ICAO": "PEV[2]",
     "Callsign": "PEOPLES[2]",
@@ -24364,10 +24573,6 @@
       {
         "name": "Sabiha Gökçen International Airport",
         "link": "/wiki/Sabiha_G%C3%B6k%C3%A7en_International_Airport"
-      },
-      {
-        "name": "Ataturk International Airport",
-        "link": "/wiki/Ataturk_International_Airport"
       }
     ],
     "website": "http://www.flypgs.com/"
@@ -24495,7 +24700,7 @@
   {
     "url": "/wiki/Pemex",
     "name": "Petróleos Mexicanos",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pemex_logo.svg/160px-Pemex_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pemex_logo.svg/220px-Pemex_logo.svg.png",
     "website": "http://www.pemex.com"
   },
   {
@@ -24510,6 +24715,37 @@
         "link": "/wiki/Petropavlovsk-Kamchatsky_Airport"
       }
     ]
+  },
+  {
+    "url": "/wiki/AirAsia_Philippines",
+    "name": "AirAsia Philippines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/225px-AirAsia_New_Logo.svg.png",
+    "IATA": "Z2",
+    "ICAO": "EZD",
+    "Callsign": "REDHOT",
+    "hubs": [
+      {
+        "name": "Ninoy Aquino International Airport",
+        "link": "/wiki/Ninoy_Aquino_International_Airport"
+      },
+      {
+        "name": "Kalibo International Airport",
+        "link": "/wiki/Kalibo_International_Airport"
+      },
+      {
+        "name": "Mactan-Cebu International Airport",
+        "link": "/wiki/Mactan-Cebu_International_Airport"
+      },
+      {
+        "name": "Puerto Princesa International Airport",
+        "link": "/wiki/Puerto_Princesa_International_Airport"
+      },
+      {
+        "name": "[1]",
+        "link": "#cite_note-1"
+      }
+    ],
+    "website": "http://www.airasia.com/ph"
   },
   {
     "url": "/wiki/Philippine_Airlines",
@@ -24542,7 +24778,9 @@
   {
     "url": "/wiki/Phoenix_Air",
     "name": "Phoenix Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/cb/Phoenix_Air_Logo.png/250px-Phoenix_Air_Logo.png",
     "ICAO": "PHA[1]",
+    "Callsign": "GRAY BIRD",
     "OperatingBases": [
       {
         "name": "Cartersville Airport",
@@ -24675,8 +24913,8 @@
     "name": "Endeavor Air, Inc.",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Endeavor_Air_logo.png/230px-Endeavor_Air_logo.png",
     "IATA": "9E",
-    "ICAO": "FLG",
-    "Callsign": "FLAGSHIP",
+    "ICAO": "EDV",
+    "Callsign": "ENDEAVOR",
     "hubs": [
       {
         "name": "Delta Connection",
@@ -24725,7 +24963,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Polar_Air_Cargo_logo.png/300px-Polar_Air_Cargo_logo.png",
     "IATA": "PO",
     "ICAO": "PAC",
-    "Callsign": "Polar Tiger",
+    "Callsign": "Polar Tiger \" Polar \"",
     "hubs": [
       {
         "name": "Incheon International Airport",
@@ -24778,15 +25016,15 @@
   },
   {
     "url": "/wiki/Portug%C3%A1lia",
-    "name": "Portugália\nTAP Express",
+    "name": "TAP Express",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Portugalia_logo.svg/250px-Portugalia_logo.svg.png",
     "IATA": "NI",
     "ICAO": "PGA",
     "Callsign": "PORTUGALIA",
     "hubs": [
       {
-        "name": "Lisbon Portela Airport",
-        "link": "/wiki/Lisbon_Portela_Airport"
+        "name": "Lisbon Airport",
+        "link": "/wiki/Lisbon_Airport"
       }
     ],
     "website": "http://www.portugalia-airlines.pt/"
@@ -24895,6 +25133,7 @@
   {
     "url": "/wiki/Princely_Jets",
     "name": "Princely Jets",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Princely_Jet_Logo.png/250px-Princely_Jet_Logo.png",
     "IATA": "PJ",
     "ICAO": "PJP",
     "Callsign": "PRINCELY JETS",
@@ -24936,20 +25175,20 @@
         "link": "/wiki/Lufthansa"
       },
       {
-        "name": "Maya-Maya Airport",
-        "link": "/wiki/Maya-Maya_Airport"
-      },
-      {
-        "name": "EC Air",
-        "link": "/wiki/EC_Air"
-      },
-      {
         "name": "Copenhagen Airport",
         "link": "/wiki/Copenhagen_Airport"
       },
       {
         "name": "Scandinavian Airlines",
         "link": "/wiki/Scandinavian_Airlines"
+      },
+      {
+        "name": "King Khalid International Airport",
+        "link": "/wiki/King_Khalid_International_Airport"
+      },
+      {
+        "name": "Saudia",
+        "link": "/wiki/Saudia"
       }
     ],
     "website": "http://www.privatair.com/"
@@ -25116,6 +25355,7 @@
   {
     "url": "/wiki/Qatar_Executive",
     "name": "Qatar Executive\nالقطرية",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/QatarExLogo.jpg/250px-QatarExLogo.jpg",
     "IATA": "QE",
     "ICAO": "QQE",
     "Callsign": "QREX",
@@ -25130,7 +25370,7 @@
   {
     "url": "/wiki/Qantas",
     "name": "Qantas",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/Qantas_Airways_Limited_logo.svg/300px-Qantas_Airways_Limited_logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/02/Qantas_Airways_logo_2016.svg/300px-Qantas_Airways_logo_2016.svg.png",
     "IATA": "QF",
     "ICAO": "QFA",
     "Callsign": "QANTAS",
@@ -25190,8 +25430,47 @@
     "website": "http://www.qantaslink.com.au/"
   },
   {
+    "url": "/wiki/QantasLink",
+    "name": "QantasLink",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/55/QantasLink_logo.svg/300px-QantasLink_logo.svg.png",
+    "IATA": "QF",
+    "ICAO": "QLK/QJE",
+    "Callsign": "Q-LINK/Q-JET",
+    "OperatingBases": [
+      {
+        "name": "Adelaide Airport",
+        "link": "/wiki/Adelaide_Airport"
+      },
+      {
+        "name": "Brisbane Airport",
+        "link": "/wiki/Brisbane_Airport"
+      },
+      {
+        "name": "Cairns Airport",
+        "link": "/wiki/Cairns_Airport"
+      },
+      {
+        "name": "Hobart Airport",
+        "link": "/wiki/Hobart_Airport"
+      },
+      {
+        "name": "Melbourne Airport",
+        "link": "/wiki/Melbourne_Airport"
+      },
+      {
+        "name": "Sydney Airport",
+        "link": "/wiki/Sydney_Airport"
+      },
+      {
+        "name": "Perth Airport",
+        "link": "/wiki/Perth_Airport"
+      }
+    ],
+    "website": "http://www.qantaslink.com.au/"
+  },
+  {
     "url": "/wiki/Qatar_Airways",
-    "name": "Qatar Airways\nالقطرية\nAl Qatariyah",
+    "name": "Qatar Airways\nالخطوط الجوية القطرية\nalkhutut aljawwiat alqataria",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/275px-Qatar_Airways_Logo.svg.png",
     "IATA": "QR",
     "ICAO": "QTR",
@@ -25206,7 +25485,7 @@
   },
   {
     "url": "/wiki/Qatar_Airways",
-    "name": "Qatar Airways\nالقطرية\nAl Qatariyah",
+    "name": "Qatar Airways\nالخطوط الجوية القطرية\nalkhutut aljawwiat alqataria",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/275px-Qatar_Airways_Logo.svg.png",
     "IATA": "QR",
     "ICAO": "QTR",
@@ -25280,10 +25559,6 @@
     "website": "http://www.rlair.net/"
   },
   {
-    "url": "/wiki/Rectrix_Aviation",
-    "name": "Rectrix Aviation"
-  },
-  {
     "url": "/wiki/Virgin_America",
     "name": "Virgin America",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/78/Vx-logo.svg/300px-Vx-logo.svg.png",
@@ -25305,7 +25580,7 @@
   {
     "url": "/wiki/Regent_Airways",
     "name": "Regent Airways\nরিজেন্ট এয়ারওয়েজ",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/bb/RegentAirwaysLogo.jpg/250px-RegentAirwaysLogo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/bb/RegentAirwaysLogo.jpg/200px-RegentAirwaysLogo.jpg",
     "IATA": "RX[1]",
     "ICAO": "RGE",
     "Callsign": "REGENT",
@@ -25390,7 +25665,7 @@
   {
     "url": "/wiki/RAK_Airways",
     "name": "RAK Airways",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/8/87/RAK_Airways_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/d/dc/Rak-airways-logo.png",
     "IATA": "RT",
     "ICAO": "RKM",
     "Callsign": "RAKAIR",
@@ -25596,7 +25871,7 @@
     "url": "/wiki/Republic_Airlines",
     "name": "Republic Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5c/Republicairlineslogo.jpg/200px-Republicairlineslogo.jpg",
-    "IATA": "YX",
+    "IATA": "YX[1][2]",
     "ICAO": "RPA",
     "Callsign": "BRICKYARD",
     "hubs": [
@@ -25689,10 +25964,6 @@
       {
         "name": "United Express",
         "link": "/wiki/United_Express"
-      },
-      {
-        "name": "Cleveland Hopkins International Airport",
-        "link": "/wiki/Cleveland_Hopkins_International_Airport"
       },
       {
         "name": "O'Hare International Airport",
@@ -25798,21 +26069,9 @@
       {
         "name": "Guarulhos Int'l Airport",
         "link": "/wiki/S%C3%A3o_Paulo-Guarulhos_International_Airport"
-      },
-      {
-        "name": "Eduardo Gomes Int'l Airport",
-        "link": "/w/index.php?title=Manaus-Eduardo_Gomes_International_Airport&action=edit&redlink=1"
-      },
-      {
-        "name": "Juscelino Kubitschek Int'l Airport",
-        "link": "/w/index.php?title=Bras%C3%ADlia-Juscelino_Kubitschek_International_Airport&action=edit&redlink=1"
-      },
-      {
-        "name": "Deputado Luís Eduardo Magalhães Int'l Airport",
-        "link": "/w/index.php?title=Salvador-Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport&action=edit&redlink=1"
       }
     ],
-    "website": "http://www.voerio.com/"
+    "website": "http://www.riocargo.com/"
   },
   {
     "url": "/wiki/Rio_Sul_Servi%C3%A7os_A%C3%A9reos_Regionais",
@@ -25892,7 +26151,8 @@
   {
     "url": "/wiki/Rolls-Royce_Limited",
     "name": "Rolls-Royce",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The-spirit-of-Ecstasy--Flying-Lady.jpg/220px-The-spirit-of-Ecstasy--Flying-Lady.jpg"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The-spirit-of-Ecstasy--Flying-Lady.jpg/220px-The-spirit-of-Ecstasy--Flying-Lady.jpg",
+    "website": "http://www.rolls-royce.com/"
   },
   {
     "url": "/wiki/Rolls-Royce_Holdings",
@@ -26004,7 +26264,7 @@
     "name": "Air Rarotonga",
     "IATA": "GZ [1]",
     "ICAO": "RAR [2]",
-    "Callsign": "-",
+    "Callsign": "Rarotonga",
     "hubs": [
       {
         "name": "Rarotonga International Airport",
@@ -26024,6 +26284,7 @@
   {
     "url": "/wiki/Royal_Air_Freight",
     "name": "Royal Air Freight",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Royal_Air_Freight_Logo.png/250px-Royal_Air_Freight_Logo.png",
     "IATA": "-",
     "ICAO": "RAX",
     "Callsign": "AIR ROYAL",
@@ -26062,7 +26323,8 @@
         "name": "Jinnah Intl Airport",
         "link": "/wiki/Jinnah_International_Airport"
       }
-    ]
+    ],
+    "website": "http://www.ras.com.pk/"
   },
   {
     "url": "/wiki/Royal_Aruban_Airlines",
@@ -26527,8 +26789,12 @@
         "link": "/wiki/Milan%E2%80%93Malpensa_Airport"
       },
       {
-        "name": "Moss",
-        "link": "/wiki/Moss_Airport,_Rygge"
+        "name": "Napoli",
+        "link": "/wiki/Naples_International_Airport"
+      },
+      {
+        "name": "Nuremberg",
+        "link": "/wiki/Nuremberg_Airport"
       },
       {
         "name": "Palermo",
@@ -26557,10 +26823,6 @@
       {
         "name": "Prague",
         "link": "/wiki/V%C3%A1clav_Havel_Airport"
-      },
-      {
-        "name": "citation needed",
-        "link": "/wiki/Wikipedia:Citation_needed"
       },
       {
         "name": "Prestwick",
@@ -26605,10 +26867,6 @@
       {
         "name": "Timișoara",
         "link": "/wiki/Timi%C8%99oara_Airport"
-      },
-      {
-        "name": "[4]",
-        "link": "#cite_note-4"
       },
       {
         "name": "Trapani",
@@ -26679,7 +26937,7 @@
         "link": "/wiki/St_Petersburg"
       }
     ],
-    "website": "http://web.archive.org/web/20060208042650/http://www.sparcplus.com/sparcplus/"
+    "website": "https://web.archive.org/web/20060208042650/http://www.sparcplus.com/sparcplus/"
   },
   {
     "url": "/wiki/Scoot",
@@ -26699,6 +26957,7 @@
   {
     "url": "/wiki/Spring_Airlines_Japan",
     "name": "Spring Airlines Japan\n春秋航空日本\nShunjū Kōkū Nihon",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/82/Spring_Airlines_Japan_logo.png/250px-Spring_Airlines_Japan_logo.png",
     "IATA": "IJ",
     "ICAO": "SJO",
     "Callsign": "JEY SPRING",
@@ -26834,8 +27093,8 @@
     "Callsign": "SPRINGBOK",
     "hubs": [
       {
-        "name": "OR Tambo International Airport",
-        "link": "/wiki/OR_Tambo_International_Airport"
+        "name": "O.R. Tambo International Airport",
+        "link": "/wiki/O.R._Tambo_International_Airport"
       }
     ],
     "website": "http://flysaa.com"
@@ -26871,8 +27130,8 @@
   },
   {
     "url": "/wiki/Shaheen_Air",
-    "name": "Shaheen Air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8c/ShaheenAir.png/249px-ShaheenAir.png",
+    "name": "Shaheen Air\nشاہین ہوابازی",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8c/ShaheenAir.png/175px-ShaheenAir.png",
     "IATA": "NL",
     "ICAO": "SAI",
     "Callsign": "SHAHEEN AIR",
@@ -27015,6 +27274,7 @@
   {
     "url": "/wiki/Sabre_Corporation",
     "name": "Sabre Corporation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png",
     "website": "http://www.sabre.com/"
   },
   {
@@ -27026,11 +27286,11 @@
     "Callsign": "SIBERIAN AIRLINES",
     "hubs": [
       {
-        "name": "Moscow Domodedovo Airport",
+        "name": "Moscow-Domodedovo",
         "link": "/wiki/Moscow_Domodedovo_Airport"
       },
       {
-        "name": "Tolmachevo Airport",
+        "name": "Novosibirsk",
         "link": "/wiki/Tolmachevo_Airport"
       }
     ],
@@ -27111,6 +27371,7 @@
     "url": "/wiki/SeaCoast_Airlines",
     "name": "SeaCoast Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/08/SeaCoast_Airlines_Logo.JPG/125px-SeaCoast_Airlines_Logo.JPG",
+    "IATA": "—",
     "ICAO": "SCC",
     "Callsign": "Sea-Coaster"
   },
@@ -27256,6 +27517,10 @@
       {
         "name": "Rajiv Gandhi International Airport",
         "link": "/wiki/Rajiv_Gandhi_International_Airport"
+      },
+      {
+        "name": "Netaji Subhas Chandra Bose International Airport",
+        "link": "/wiki/Netaji_Subhas_Chandra_Bose_International_Airport"
       }
     ],
     "website": "http://www.spicejet.com/"
@@ -27281,8 +27546,10 @@
   },
   {
     "url": "/wiki/Wilderness_Air",
-    "name": "Sefofane Air Charters",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/7c/WildernessAirLogo2011.png/250px-WildernessAirLogo2011.png"
+    "name": "Wilderness Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/7/7c/WildernessAirLogo2011.png/250px-WildernessAirLogo2011.png",
+    "ICAO": "WLD",
+    "Callsign": "WILDERNESS"
   },
   {
     "url": "/wiki/Safiran_Airlines",
@@ -27312,7 +27579,7 @@
         "link": "/wiki/O.R._Tambo_International_Airport"
       }
     ],
-    "website": "http://www.safair.co.za/"
+    "website": "http://www.safairoperations.co.za/"
   },
   {
     "url": "/wiki/Songbird_Airways",
@@ -27428,7 +27695,7 @@
         "link": "/wiki/Vladivostok_International_Airport"
       }
     ],
-    "website": "http://www.flyaurora.ru/en/"
+    "website": "http://flyaurora.ru/en/"
   },
   {
     "url": "/wiki/SATA_Air_A%C3%A7ores",
@@ -27448,7 +27715,7 @@
   {
     "url": "/wiki/Sky_Airlines",
     "name": "Sky Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Airlines_Wordart.svg/250px-Sky_Airlines_Wordart.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sky_Airlines_Wordart.svg/150px-Sky_Airlines_Wordart.svg.png",
     "IATA": "ZY",
     "ICAO": "SHY",
     "Callsign": "SKY POWER",
@@ -27498,7 +27765,7 @@
     "Callsign": "BLUEJET"
   },
   {
-    "url": "/wiki/SITA_(IT_company)",
+    "url": "/wiki/SITA_(company)",
     "name": "SITA",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/1/16/SITA_logo.svg/200px-SITA_logo.svg.png",
     "website": "http://www.sita.aero/"
@@ -27534,7 +27801,7 @@
   {
     "url": "/wiki/Singapore_Airlines_Cargo",
     "name": "Singapore Airlines Cargo",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Singapore_Airlines_Cargo.jpg/270px-Singapore_Airlines_Cargo.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e6/SIA_Cargo_logo.svg/270px-SIA_Cargo_logo.svg.png",
     "IATA": "SQ",
     "ICAO": "SQC",
     "Callsign": "SINGCARGO",
@@ -27598,15 +27865,15 @@
     "Callsign": "Blue Jay",
     "hubs": [
       {
-        "name": "Clark International Airport",
-        "link": "/wiki/Clark_International_Airport"
+        "name": "Mactan–Cebu International Airport",
+        "link": "/wiki/Mactan%E2%80%93Cebu_International_Airport"
       },
       {
         "name": "Ninoy Aquino International Airport",
         "link": "/wiki/Ninoy_Aquino_International_Airport"
       }
     ],
-    "website": "http://www.cebupacificair.com"
+    "website": "http://www.cebupacificair.com/"
   },
   {
     "url": "/wiki/Star_Air_(Maersk)",
@@ -27646,7 +27913,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/9/9a/Severstal_Avia_logo.png",
     "IATA": "D2",
     "ICAO": "SSF",
-    "Callsign": "-",
+    "Callsign": "SEVERSTAL",
     "website": "http://www.severstal-avia.ru/en.html"
   },
   {
@@ -27657,8 +27924,8 @@
     "Callsign": "SLOVAK GOVERNMENT",
     "hubs": [
       {
-        "name": "M. R. Štefánik Airport",
-        "link": "/wiki/M._R._%C5%A0tef%C3%A1nik_Airport"
+        "name": "Bratislava Airport",
+        "link": "/wiki/Bratislava_Airport"
       }
     ],
     "website": "http://www.minv.sk/"
@@ -27741,7 +28008,7 @@
         "link": "/wiki/London_Southend_Airport"
       }
     ],
-    "website": "http://www.aerarann.com/"
+    "website": "http://www.stobartair.com/"
   },
   {
     "url": "/wiki/Star_Air_(Indonesia)",
@@ -27810,12 +28077,12 @@
         "link": "/wiki/Nadi_International_Airport"
       }
     ],
-    "website": "http://www.fijiairways.com/"
+    "website": "http://fijiairways.com"
   },
   {
     "url": "/wiki/Sun_Air_Express",
     "name": "Sun Air Express",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sun_Air_JPEG.JPG/250px-Sun_Air_JPEG.JPG",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sun_Air_Express_logo.jpg/250px-Sun_Air_Express_logo.jpg",
     "IATA": "6G",
     "ICAO": "FDY",
     "Callsign": "FRIENDLY",
@@ -27864,19 +28131,17 @@
       {
         "name": "King Fahd International Airport",
         "link": "/wiki/King_Fahd_International_Airport"
-      },
-      {
-        "name": "Prince Mohammad Airport",
-        "link": "/wiki/Prince_Mohammad_Airport"
       }
     ],
     "website": "http://www.saudia.com/"
   },
   {
-    "url": "/wiki/Silver_Air",
+    "url": "/wiki/Silver_Air_(Djibouti)",
     "name": "Silver Air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/c/cb/Silver_Air_Logo.png",
-    "website": "http://www.silverair.com"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Silver_Air_Boeing_737-200_KvW.jpg/250px-Silver_Air_Boeing_737-200_KvW.jpg",
+    "IATA": "-",
+    "ICAO": "SVJ",
+    "Callsign": "-"
   },
   {
     "url": "/wiki/Southwest_Airlines",
@@ -27887,44 +28152,44 @@
     "Callsign": "SOUTHWEST",
     "OperatingBases": [
       {
-        "name": "Baltimore–Washington International Airport",
-        "link": "/wiki/Baltimore%E2%80%93Washington_International_Airport"
-      },
-      {
-        "name": "Dallas Love Field",
-        "link": "/wiki/Dallas_Love_Field"
-      },
-      {
-        "name": "Denver International Airport",
-        "link": "/wiki/Denver_International_Airport"
-      },
-      {
-        "name": "Hartsfield–Jackson Atlanta International Airport",
+        "name": "Atlanta",
         "link": "/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport"
       },
       {
-        "name": "McCarran International Airport",
-        "link": "/wiki/McCarran_International_Airport"
+        "name": "Baltimore",
+        "link": "/wiki/Baltimore%E2%80%93Washington_International_Airport"
       },
       {
-        "name": "Midway International Airport",
+        "name": "Chicago–Midway",
         "link": "/wiki/Midway_International_Airport"
       },
       {
-        "name": "Oakland International Airport",
+        "name": "Dallas–Love",
+        "link": "/wiki/Dallas_Love_Field"
+      },
+      {
+        "name": "Denver",
+        "link": "/wiki/Denver_International_Airport"
+      },
+      {
+        "name": "Houston–Hobby",
+        "link": "/wiki/William_P._Hobby_Airport"
+      },
+      {
+        "name": "Las Vegas",
+        "link": "/wiki/McCarran_International_Airport"
+      },
+      {
+        "name": "Oakland",
         "link": "/wiki/Oakland_International_Airport"
       },
       {
-        "name": "Orlando International Airport",
+        "name": "Orlando",
         "link": "/wiki/Orlando_International_Airport"
       },
       {
-        "name": "Phoenix Sky Harbor International Airport",
+        "name": "Phoenix–Sky Harbor",
         "link": "/wiki/Phoenix_Sky_Harbor_International_Airport"
-      },
-      {
-        "name": "William P. Hobby Airport",
-        "link": "/wiki/William_P._Hobby_Airport"
       }
     ],
     "website": "https://www.southwest.com"
@@ -27955,7 +28220,7 @@
   {
     "url": "/wiki/Sunwing_Airlines",
     "name": "Sunwing Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Sunwing_Airlines.png/150px-Sunwing_Airlines.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sunwings_logo_2015.svg/150px-Sunwings_logo_2015.svg.png",
     "IATA": "WG",
     "ICAO": "SWG",
     "Callsign": "SUNWING",
@@ -27967,14 +28232,6 @@
       {
         "name": "Toronto Pearson International Airport",
         "link": "/wiki/Toronto_Pearson_International_Airport"
-      },
-      {
-        "name": "Vancouver International Airport",
-        "link": "/wiki/Vancouver_International_Airport"
-      },
-      {
-        "name": "Calgary International Airport",
-        "link": "/wiki/Calgary_International_Airport"
       }
     ]
   },
@@ -28138,6 +28395,7 @@
   {
     "url": "/wiki/Syrian_Air",
     "name": "SyrianAir\nالسورية",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/90/Syrian_Arab_Airline_Logo.png/250px-Syrian_Arab_Airline_Logo.png",
     "IATA": "RB",
     "ICAO": "SYR",
     "Callsign": "SYRIANAIR",
@@ -28378,8 +28636,8 @@
   },
   {
     "url": "/wiki/Sun_d%27Or",
-    "name": "Sun d'Or",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Logo_sundor.png/150px-Logo_sundor.png",
+    "name": "Sun d'Or\nסאן דור",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_sun_d%27or.png/150px-Logo_sun_d%27or.png",
     "IATA": "LY",
     "ICAO": "ERO",
     "Callsign": "-",
@@ -28494,11 +28752,12 @@
         "link": "/wiki/Frankfurt_Airport"
       }
     ],
-    "website": "http://web.archive.org/web/20080916105308/http://www.xlairways.de:80/"
+    "website": "https://web.archive.org/web/20080916105308/http://www.xlairways.de/"
   },
   {
-    "url": "/wiki/Superior_Aviation",
+    "url": "/wiki/Superior_Aviation_(airline)",
     "name": "Superior Aviation",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/f/f3/Superior_Aviation_%28airline%29_Logo.png",
     "IATA": "SO",
     "ICAO": "HKA",
     "Callsign": "SPEND AIR",
@@ -28583,8 +28842,7 @@
     "name": "Skybridge AirOps",
     "IATA": "-",
     "ICAO": "KYB",
-    "Callsign": "SKY AIROPS",
-    "website": "http://www.skybridgeairops.com/"
+    "Callsign": "SKY AIROPS"
   },
   {
     "url": "/wiki/Sansa_Airlines",
@@ -28637,6 +28895,11 @@
     "website": "http://www.snowbird.fi/"
   },
   {
+    "url": "/wiki/SNCF",
+    "name": "Société nationale des chemins de fer français (SNCF)",
+    "website": "http://www.sncf.com"
+  },
+  {
     "url": "/wiki/Seulawah_Nad_Air",
     "name": "Seulawah NAD Air",
     "IATA": "-",
@@ -28652,12 +28915,28 @@
     "Callsign": "SPIRIT WINGS",
     "OperatingBases": [
       {
-        "name": "Detroit Metropolitan Airport",
+        "name": "Atlantic City",
+        "link": "/wiki/Atlantic_City_International_Airport"
+      },
+      {
+        "name": "Chicago–O'Hare",
+        "link": "/wiki/O%27Hare_International_Airport"
+      },
+      {
+        "name": "Dallas/Fort Worth",
+        "link": "/wiki/Dallas/Fort_Worth_International_Airport"
+      },
+      {
+        "name": "Detroit",
         "link": "/wiki/Detroit_Metropolitan_Airport"
       },
       {
-        "name": "Fort Lauderdale–Hollywood International Airport",
+        "name": "Fort Lauderdale",
         "link": "/wiki/Fort_Lauderdale%E2%80%93Hollywood_International_Airport"
+      },
+      {
+        "name": "Las Vegas",
+        "link": "/wiki/McCarran_International_Airport"
       }
     ],
     "website": "http://www.spirit.com"
@@ -29043,10 +29322,18 @@
     ]
   },
   {
-    "url": "/wiki/Silver_Air",
+    "url": "/wiki/Silver_Air_(Czech_Republic)",
     "name": "Silver Air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/c/cb/Silver_Air_Logo.png",
-    "website": "http://www.silverair.com"
+    "IATA": "-[1]",
+    "ICAO": "SLD",
+    "Callsign": "SILVERLINE",
+    "hubs": [
+      {
+        "name": "Prague Ruzyně Airport",
+        "link": "/wiki/Prague_Ruzyn%C4%9B_Airport"
+      }
+    ],
+    "website": "http://www.silverair.cz/"
   },
   {
     "url": "/wiki/Safair",
@@ -29061,7 +29348,7 @@
         "link": "/wiki/O.R._Tambo_International_Airport"
       }
     ],
-    "website": "http://www.safair.co.za/"
+    "website": "http://www.safairoperations.co.za/"
   },
   {
     "url": "/wiki/SilkAir",
@@ -29297,7 +29584,7 @@
     "name": "Southern Airways",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Southern_Airways_logo.svg/200px-Southern_Airways_logo.svg.png",
     "IATA": "SO",
-    "ICAO": "SO",
+    "ICAO": "-",
     "Callsign": "SOUTHERN",
     "hubs": [
       {
@@ -29309,7 +29596,7 @@
   {
     "url": "/wiki/Saratov_Airlines",
     "name": "Saratov Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/ad/Saravia_logo.png/250px-Saravia_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saratov_Airlines_logo.png/250px-Saratov_Airlines_logo.png",
     "IATA": "6W",
     "ICAO": "SOV",
     "Callsign": "SARATOV AIR",
@@ -29324,6 +29611,7 @@
   {
     "url": "/wiki/Sierra_Pacific_Airlines",
     "name": "Sierra Pacific Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/7/7c/Sierra_Pacific_Airlines_Logo.jpg",
     "IATA": "SI[1]",
     "ICAO": "SPA",
     "Callsign": "SIERRA PACIFIC",
@@ -29354,7 +29642,7 @@
   },
   {
     "url": "/wiki/Shuttle_America",
-    "name": "Republic Airlines",
+    "name": "Shuttle America",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/22/Shuttleamericalogo.png/171px-Shuttleamericalogo.png",
     "IATA": "S5",
     "ICAO": "TCF",
@@ -29537,17 +29825,47 @@
     "Callsign": "THAIVIET JET",
     "hubs": [
       {
-        "name": "Suvarnabhumi International Airport",
-        "link": "/wiki/Suvarnabhumi_International_Airport"
+        "name": "Suvarnabhumi Airport",
+        "link": "/wiki/Suvarnabhumi_Airport"
       }
     ],
     "website": "http://www.vietjetair.com"
   },
   {
+    "url": "/wiki/Thai_AirAsia_X",
+    "name": "Thai AirAsia X\nไทยแอร์เอเชีย เอกซ์",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/AirAsia_X_Logo.svg/200px-AirAsia_X_Logo.svg.png",
+    "IATA": "XJ",
+    "ICAO": "TAX",
+    "Callsign": "EXPRESS WING",
+    "hubs": [
+      {
+        "name": "Don Mueang International Airport",
+        "link": "/wiki/Don_Mueang_International_Airport"
+      }
+    ],
+    "website": "http://www.airasia.com/"
+  },
+  {
+    "url": "/wiki/Thai_Lion_Air",
+    "name": "Thai Lion Air\nไทยไลอ้อนแอร์",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/23/Thai_Lion_Air_logo.png/270px-Thai_Lion_Air_logo.png",
+    "IATA": "SL",
+    "ICAO": "TLM",
+    "Callsign": "MENTARI",
+    "hubs": [
+      {
+        "name": "Don Mueang International Airport",
+        "link": "/wiki/Don_Mueang_International_Airport"
+      }
+    ],
+    "website": "http://www.lionairthai.com/"
+  },
+  {
     "url": "/wiki/Turkish_Aerospace_Industries",
-    "name": "Turkish Aerospace Industries Inc.\nTürk Havacılık ve Uzay Sanayi A.Ş.",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tai_logo.png/230px-Tai_logo.png",
-    "website": "http://www.tai.com.tr"
+    "name": "Turkish Aerospace Industries, Inc.",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tai_logo.png/110px-Tai_logo.png",
+    "website": "https://www.tai.com.tr/en"
   },
   {
     "url": "/wiki/Turkish_Airlines",
@@ -29558,7 +29876,7 @@
     "Callsign": "TURKISH",
     "hubs": [
       {
-        "name": "Atatürk International Airport",
+        "name": "Istanbul Atatürk Airport",
         "link": "/wiki/Istanbul_Atat%C3%BCrk_Airport"
       },
       {
@@ -29652,7 +29970,7 @@
     "hubs": [
       {
         "name": "Lisbon Humberto Delgado Airport",
-        "link": "/wiki/Lisbon_Portela_Airport"
+        "link": "/wiki/Lisbon_Humberto_Delgado_Airport"
       }
     ],
     "website": "http://www.flytap.com"
@@ -29783,7 +30101,7 @@
   {
     "url": "/wiki/Thomas_Cook_Airlines",
     "name": "Thomas Cook Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d6/Thomas_Cook_Airlines_Logo.png/250px-Thomas_Cook_Airlines_Logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d6/Thomas_Cook_Airlines_Logo.png/150px-Thomas_Cook_Airlines_Logo.png",
     "IATA": "MT",
     "ICAO": "TCX",
     "Callsign": "KESTREL",
@@ -29815,6 +30133,10 @@
       {
         "name": "London-Gatwick",
         "link": "/wiki/Gatwick_Airport"
+      },
+      {
+        "name": "London Luton",
+        "link": "/wiki/London_Luton"
       },
       {
         "name": "London-Stansted",
@@ -29855,9 +30177,10 @@
   {
     "url": "/wiki/Tandem_Aero",
     "name": "Tandem-Aero",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/5/54/Tandem_Aero_Logo.jpg",
     "IATA": "TQ",
     "ICAO": "TDM",
-    "Callsign": "TANDEM",
+    "Callsign": "TANDEM AERO",
     "hubs": [
       {
         "name": "Chişinău International Airport",
@@ -29952,6 +30275,13 @@
     "website": "http://www.tairairways.com"
   },
   {
+    "url": "/wiki/Transafrik_International",
+    "name": "Transafrik International",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/d7/Transafrik_International_logo.png/250px-Transafrik_International_logo.png",
+    "IATA": "TFK[1]",
+    "website": "http://www.transafrik.com/"
+  },
+  {
     "url": "/wiki/Trigana_Air_Service",
     "name": "Trigana Air Service",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/9/94/Trigana_Air_Logo.png/250px-Trigana_Air_Logo.png",
@@ -30008,16 +30338,16 @@
     "name": "Tigerair Australia",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tigerair.svg/261px-Tigerair.svg.png",
     "IATA": "TT[1]",
-    "ICAO": "TGW",
-    "Callsign": "GO CAT",
+    "ICAO": "TGG[2]",
+    "Callsign": "TIGGOZ[2]",
     "OperatingBases": [
       {
         "name": "Brisbane Airport",
         "link": "/wiki/Brisbane_Airport"
       },
       {
-        "name": "[2]",
-        "link": "#cite_note-2"
+        "name": "[3]",
+        "link": "#cite_note-3"
       },
       {
         "name": "Melbourne Airport",
@@ -30077,15 +30407,15 @@
     "Callsign": "Blue Jay",
     "hubs": [
       {
-        "name": "Clark International Airport",
-        "link": "/wiki/Clark_International_Airport"
+        "name": "Mactan–Cebu International Airport",
+        "link": "/wiki/Mactan%E2%80%93Cebu_International_Airport"
       },
       {
         "name": "Ninoy Aquino International Airport",
         "link": "/wiki/Ninoy_Aquino_International_Airport"
       }
     ],
-    "website": "http://www.cebupacificair.com"
+    "website": "http://www.cebupacificair.com/"
   },
   {
     "url": "/wiki/Trans_Guyana_Airways",
@@ -30110,7 +30440,7 @@
     "Callsign": "THAI",
     "hubs": [
       {
-        "name": "Suvarnabhumi Airport",
+        "name": "Bangkok–Suvarnabhumi",
         "link": "/wiki/Suvarnabhumi_Airport"
       }
     ],
@@ -30167,7 +30497,7 @@
     "Callsign": "TURKISH",
     "hubs": [
       {
-        "name": "Atatürk International Airport",
+        "name": "Istanbul Atatürk Airport",
         "link": "/wiki/Istanbul_Atat%C3%BCrk_Airport"
       },
       {
@@ -30246,6 +30576,7 @@
   {
     "url": "/wiki/Twin_Jet",
     "name": "Twin Jet",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/5/5c/Logotwinjet.jpg",
     "IATA": "T7",
     "ICAO": "TJT",
     "Callsign": "TWINJET",
@@ -30343,6 +30674,14 @@
     "website": "http://www.tamir-air.co.il/english.html"
   },
   {
+    "url": "/wiki/Transports_et_Travaux_A%C3%A9riens_de_Madagascar",
+    "name": "Transports et Travaux Aériens de Madagascar",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b4/Logo_of_TTAM.png",
+    "IATA": " ?",
+    "ICAO": " ?",
+    "Callsign": " ?"
+  },
+  {
     "url": "/wiki/Tramon_Air",
     "name": "Tramon Air",
     "IATA": "-",
@@ -30404,14 +30743,6 @@
     "Callsign": "TOMSON",
     "OperatingBases": [
       {
-        "name": "Aberdeen",
-        "link": "/wiki/Aberdeen_Airport"
-      },
-      {
-        "name": "Belfast-International",
-        "link": "/wiki/Belfast_International_Airport"
-      },
-      {
         "name": "Birmingham",
         "link": "/wiki/Birmingham_Airport"
       },
@@ -30432,10 +30763,6 @@
         "link": "/wiki/Robin_Hood_Airport_Doncaster_Sheffield"
       },
       {
-        "name": "Dublin",
-        "link": "/wiki/Dublin_Airport"
-      },
-      {
         "name": "East Midlands",
         "link": "/wiki/East_Midlands_Airport"
       },
@@ -30452,16 +30779,8 @@
         "link": "/wiki/Glasgow_International_Airport"
       },
       {
-        "name": "Inverness",
-        "link": "/wiki/Inverness_Airport"
-      },
-      {
         "name": "Leeds/Bradford",
         "link": "/wiki/Leeds_Bradford_International_Airport"
-      },
-      {
-        "name": "Liverpool",
-        "link": "/wiki/Liverpool_John_Lennon_Airport"
       },
       {
         "name": "London-Gatwick",
@@ -30514,7 +30833,7 @@
         "link": "/wiki/John_F._Kennedy_International_Airport"
       }
     ],
-    "website": "http://web.archive.org/web/20000510062736/http://www.towerair.com/"
+    "website": "https://web.archive.org/web/20000510062736/http://www.towerair.com/"
   },
   {
     "url": "/wiki/Toyota_Canada_Inc.",
@@ -30578,7 +30897,7 @@
   {
     "url": "/wiki/Transavia_France",
     "name": "Transavia France",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Transavia_logo_2.jpg/250px-Transavia_logo_2.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Transavia_logo.svg/250px-Transavia_logo.svg.png",
     "IATA": "TO",
     "ICAO": "TVF",
     "Callsign": "FRANCE SOLEIL",
@@ -30601,7 +30920,7 @@
   {
     "url": "/wiki/Transavia",
     "name": "Transavia",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Transavia_logo_2.jpg/250px-Transavia_logo_2.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Transavia_logo.svg/250px-Transavia_logo.svg.png",
     "IATA": "HV",
     "ICAO": "TRA",
     "Callsign": "TRANSAVIA",
@@ -30628,7 +30947,7 @@
   {
     "url": "/wiki/TACV",
     "name": "TACV Cabo Verde Airlines",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/e/ed/TACV-Logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/ed/TACV-Logo.png/150px-TACV-Logo.png",
     "IATA": "VR",
     "ICAO": "TCV",
     "Callsign": "CABOVERDE",
@@ -30660,6 +30979,7 @@
   {
     "url": "/wiki/Raya_Airways",
     "name": "Raya Airways Sdn Bhd",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/d/da/Raya_Airways_Logo.png",
     "IATA": "TH",
     "ICAO": "RMY",
     "Callsign": "Raya Express",
@@ -30669,7 +30989,7 @@
         "link": "/wiki/Sultan_Abdul_Aziz_Shah_Airport"
       }
     ],
-    "website": "http://www.rayaairways.com/"
+    "website": "http://rayaairways.com"
   },
   {
     "url": "/wiki/Transwest_Air",
@@ -30892,12 +31212,17 @@
   },
   {
     "url": "/wiki/Transwede_Airways",
-    "name": "Transwede Airways",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Transwedelogo.png/250px-Transwedelogo.png",
+    "name": "Transwede",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/1/18/Transwede.png",
     "IATA": "TQ",
     "ICAO": "TWE",
     "Callsign": "Transwede",
-    "website": "http://web.archive.org/*/http://www.transwede.com/"
+    "OperatingBases": [
+      {
+        "name": "Stockholm Arlanda Airport",
+        "link": "/wiki/Stockholm_Arlanda_Airport"
+      }
+    ]
   },
   {
     "url": "/wiki/Kaya_Airlines",
@@ -31111,7 +31436,7 @@
         "link": "/wiki/Russia"
       }
     ],
-    "website": "http://web.archive.org/web/20100721101412/http://www.aktag.ru/"
+    "website": "https://web.archive.org/web/20100721101412/http://www.aktag.ru/"
   },
   {
     "url": "/wiki/LATAM_Paraguay",
@@ -31153,10 +31478,6 @@
         "link": "/wiki/United_Express"
       },
       {
-        "name": "Cleveland Hopkins International Airport",
-        "link": "/wiki/Cleveland_Hopkins_International_Airport"
-      },
-      {
         "name": "O'Hare International Airport",
         "link": "/wiki/O%27Hare_International_Airport"
       },
@@ -31174,7 +31495,7 @@
   {
     "url": "/wiki/TAROM",
     "name": "TAROM Romanian Air Transport\nTAROM Transporturile Aeriene Române",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/TAROM_logo_new.svg/250px-TAROM_logo_new.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/9/97/TAROM_logo_new.svg/280px-TAROM_logo_new.svg.png",
     "IATA": "RO",
     "ICAO": "ROT",
     "Callsign": "TAROM",
@@ -31250,7 +31571,7 @@
   },
   {
     "url": "/wiki/Urumqi_Air",
-    "name": "Urumqi Air\n烏魯木齊航空公司",
+    "name": "Urumqi Air\n乌鲁木齐航空\n烏魯木齊航空",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/3/37/Urumqi_Air_Logo_2014.png",
     "IATA": "UQ",
     "ICAO": "CUH",
@@ -31267,7 +31588,7 @@
     "url": "/wiki/Civil_Aviation_Authority_(United_Kingdom)",
     "name": "Civil Aviation Authority",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Civil_Aviation_Authority_logo.svg/80px-Civil_Aviation_Authority_logo.svg.png",
-    "website": "http://www.caa.co.uk"
+    "website": "http://www.caa.co.uk/"
   },
   {
     "url": "/wiki/Union_des_Transports_A%C3%A9riens_de_Guin%C3%A9e",
@@ -31285,7 +31606,7 @@
   {
     "url": "/wiki/United_Airlines",
     "name": "United Airlines, Inc.",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e0/United_Airlines_Logo.svg/300px-United_Airlines_Logo.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e0/United_Airlines_Logo.svg/350px-United_Airlines_Logo.svg.png",
     "IATA": "UA",
     "ICAO": "UAL",
     "Callsign": "UNITED",
@@ -31386,7 +31707,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c1/Chengdu_Airlines_logo.png/200px-Chengdu_Airlines_logo.png",
     "IATA": "EU",
     "ICAO": "UEA",
-    "Callsign": "HIBISCUS CITY",
+    "Callsign": "UNITED EAGLE",
     "hubs": [
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -31441,19 +31762,28 @@
     "url": "/wiki/Civil_Aviation_Authority_(United_Kingdom)",
     "name": "Civil Aviation Authority",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Civil_Aviation_Authority_logo.svg/80px-Civil_Aviation_Authority_logo.svg.png",
-    "website": "http://www.caa.co.uk"
+    "website": "http://www.caa.co.uk/"
   },
   {
     "url": "/wiki/Civil_Aviation_Authority_(United_Kingdom)",
     "name": "Civil Aviation Authority",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Civil_Aviation_Authority_logo.svg/80px-Civil_Aviation_Authority_logo.svg.png",
-    "website": "http://www.caa.co.uk"
+    "website": "http://www.caa.co.uk/"
   },
   {
     "url": "/wiki/USA_Jet_Airlines",
-    "name": "Alaska Airlines",
-    "Callsign": "AS",
-    "website": "http://alaskaair.com"
+    "name": "USA Jet Airlines",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/64/USA_Jet_Airlines_Logo.jpg/250px-USA_Jet_Airlines_Logo.jpg",
+    "IATA": "UJ",
+    "ICAO": "JUS",
+    "Callsign": "Jet USA",
+    "hubs": [
+      {
+        "name": "Willow Run Airport",
+        "link": "/wiki/Willow_Run_Airport"
+      }
+    ],
+    "website": "http://www.usajetairlines.com"
   },
   {
     "url": "/wiki/United_States_Marshals_Service",
@@ -31569,8 +31899,8 @@
     "Callsign": "UKRAINE MEDITERRANEE",
     "hubs": [
       {
-        "name": "Boryspil International Airport",
-        "link": "/wiki/Boryspil_International_Airport"
+        "name": "Kyiv International Airport (Zhuliany)",
+        "link": "/wiki/Kyiv_International_Airport_(Zhuliany)"
       }
     ],
     "website": "http://www.umair.com.ua/"
@@ -31663,7 +31993,7 @@
   {
     "url": "/wiki/UTair_Aviation",
     "name": "JSC \"UTair Aviation\"\nОАО «Авиакомпания «ЮТэйр»",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f7/UTair_Logo_JPG.jpg/200px-UTair_Logo_JPG.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/UTair_logo_2.svg/200px-UTair_logo_2.svg.png",
     "IATA": "UT[1]",
     "ICAO": "UTA[2]",
     "Callsign": "UTAIR[1]",
@@ -31816,27 +32146,27 @@
   },
   {
     "url": "/wiki/VivaAerob%C3%BAs",
-    "name": "VivaAerobús",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/VivaAerobus.gif/250px-VivaAerobus.gif",
+    "name": "VivaAerobus",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nuevo_vivaaerobus_logotipo_original.jpg/250px-Nuevo_vivaaerobus_logotipo_original.jpg",
     "IATA": "VB",
     "ICAO": "VIV",
     "Callsign": "VIVA/Aeroenlaces",
     "hubs": [
       {
-        "name": "Benito Juárez International Airport",
-        "link": "/wiki/Benito_Ju%C3%A1rez_International_Airport"
+        "name": "Mexico City International Airport",
+        "link": "/wiki/Mexico_City_International_Airport"
       },
       {
-        "name": "Gen. Mariano Escobedo Int'l Airport",
-        "link": "/wiki/General_Mariano_Escobedo_International_Airport"
+        "name": "Monterrey International Airport",
+        "link": "/wiki/Monterrey_International_Airport"
       },
       {
-        "name": "Don Miguel Hidalgo y Costilla Int'l Airport",
-        "link": "/wiki/Don_Miguel_Hidalgo_y_Costilla_International_Airport"
+        "name": "Guadalajara International Airport",
+        "link": "/wiki/Guadalajara_International_Airport"
       },
       {
-        "name": "Cancun International Airport",
-        "link": "/wiki/Cancun_International_Airport"
+        "name": "Cancún International Airport",
+        "link": "/wiki/Canc%C3%BAn_International_Airport"
       }
     ],
     "website": "http://www.vivaaerobus.com/"
@@ -31858,7 +32188,7 @@
   },
   {
     "url": "/wiki/Virgin_Australia",
-    "name": "Virgin Australia Airlines",
+    "name": "Virgin Australia",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Virgin_Australia_logo.svg/250px-Virgin_Australia_logo.svg.png",
     "IATA": "VAN1",
     "ICAO": "VOZ",
@@ -32003,7 +32333,7 @@
         "link": "/wiki/Cardiff_Heliport"
       }
     ],
-    "website": "http://web.archive.org/web/20110202063906/http://veritair.com/"
+    "website": "https://web.archive.org/web/20110202063906/http://veritair.com/"
   },
   {
     "url": "/wiki/Voyageur_Airways",
@@ -32012,12 +32342,12 @@
     "IATA": "VC",
     "ICAO": "VAL",
     "Callsign": "VOYAGEUR",
-    "website": "http://www.voyageurairways.com"
+    "website": "http://airways.voyav.com"
   },
   {
     "url": "/wiki/Vietnam_Airlines",
     "name": "Vietnam Airlines Company Limited[1]\nTổng Công ty Hàng không Việt NamVietnam Airlines Company Limited",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/a0/VietnamAirlines.png/350px-VietnamAirlines.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Vietnam_Airlines_logo_2015.svg/350px-Vietnam_Airlines_logo_2015.svg.png",
     "IATA": "VN[2][3]",
     "ICAO": "HVN[2][3]",
     "Callsign": "VIET NAM AIRLINES",
@@ -32146,7 +32476,7 @@
   {
     "url": "/wiki/VietJet_Air",
     "name": "VietJet Air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8d/VietJet_Air_logo.png/200px-VietJet_Air_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/VietJet_Air_logo.svg/250px-VietJet_Air_logo.svg.png",
     "IATA": "VJ",
     "ICAO": "VJC",
     "Callsign": "VIETJET",
@@ -32160,8 +32490,8 @@
         "link": "/wiki/Noi_Bai_International_Airport"
       },
       {
-        "name": "Danang International Airport",
-        "link": "/wiki/Danang_International_Airport"
+        "name": "Da Nang International Airport",
+        "link": "/wiki/Da_Nang_International_Airport"
       },
       {
         "name": "Cat Bi International Airport",
@@ -32173,6 +32503,7 @@
   {
     "url": "/wiki/Vieques_Air_Link",
     "name": "Vieques Air Link",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/2/26/Vieques_Air_Link_Logo.png/250px-Vieques_Air_Link_Logo.png",
     "IATA": "V4",
     "ICAO": "VES",
     "Callsign": "Vieques",
@@ -32267,7 +32598,7 @@
   {
     "url": "/wiki/Virgin_Atlantic",
     "name": "Virgin Atlantic Airways Limited",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/de/Virgin_Atlantic_logo.png/300px-Virgin_Atlantic_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/f/f4/Virgin_Atlantic_logo.svg/300px-Virgin_Atlantic_logo.svg.png",
     "IATA": "VS[1]",
     "ICAO": "VIR",
     "Callsign": "VIRGIN",
@@ -32361,10 +32692,6 @@
         "link": "/wiki/Bilbao_Airport"
       },
       {
-        "name": "Brussels",
-        "link": "/wiki/Brussels_airport"
-      },
-      {
         "name": "Florence",
         "link": "/wiki/Florence_Airport,_Peretola"
       },
@@ -32407,6 +32734,10 @@
       {
         "name": "Zürich",
         "link": "/wiki/Z%C3%BCrich_Airport"
+      },
+      {
+        "name": "Santiago de Compostela",
+        "link": "/wiki/Santiago_de_Compostela_Airport"
       }
     ],
     "hubs": [
@@ -32415,7 +32746,7 @@
         "link": "/wiki/Barcelona%E2%80%93El_Prat_Airport"
       },
       {
-        "name": "Rome-Fiumincino",
+        "name": "Rome-Fiumicino",
         "link": "/wiki/Leonardo_da_Vinci%E2%80%93Fiumicino_Airport"
       }
     ],
@@ -32473,7 +32804,7 @@
   },
   {
     "url": "/wiki/Virgin_Australia",
-    "name": "Virgin Australia Airlines",
+    "name": "Virgin Australia",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Virgin_Australia_logo.svg/250px-Virgin_Australia_logo.svg.png",
     "IATA": "VAN1",
     "ICAO": "VOZ",
@@ -32527,7 +32858,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/GOL_logo.svg/250px-GOL_logo.svg.png",
     "IATA": "G3",
     "ICAO": "GLO",
-    "Callsign": "GOL",
+    "Callsign": "GOL TRANSPORTE",
     "OperatingBases": [
       {
         "name": "São Paulo",
@@ -32544,8 +32875,8 @@
     ],
     "hubs": [
       {
-        "name": "São Paulo-Congonhas Airport",
-        "link": "/wiki/Congonhas-S%C3%A3o_Paulo_Airport"
+        "name": "São Paulo–Guarulhos International Airport",
+        "link": "/wiki/S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport"
       },
       {
         "name": "Tancredo Neves International Airport",
@@ -32556,8 +32887,8 @@
         "link": "/wiki/Bras%C3%ADlia_International_Airport"
       },
       {
-        "name": "Rio de Janeiro-Galeão International Airport",
-        "link": "/wiki/Rio_de_Janeiro-Gale%C3%A3o_International_Airport"
+        "name": "Rio de Janeiro–Galeão International Airport",
+        "link": "/wiki/Rio_de_Janeiro%E2%80%93Gale%C3%A3o_International_Airport"
       }
     ],
     "website": "http://www.voegol.com.br"
@@ -32568,7 +32899,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivacolombia.svg/220px-Vivacolombia.svg.png",
     "IATA": "FC",
     "ICAO": "VVC",
-    "Callsign": "VIVA COLOMBIA",
+    "Callsign": "VIVACOLOMBIA",
     "OperatingBases": [
       {
         "name": "José María Córdova International Airport",
@@ -32644,6 +32975,14 @@
       {
         "name": "Verona Villafranca Airport",
         "link": "/wiki/Verona_Villafranca_Airport"
+      },
+      {
+        "name": "Toulouse Blagnac Airport",
+        "link": "/wiki/Toulouse_Blagnac_Airport"
+      },
+      {
+        "name": "Genoa Cristoforo Colombo Airport",
+        "link": "/wiki/Genoa_Cristoforo_Colombo_Airport"
       }
     ],
     "website": "http://www.volotea.com"
@@ -32841,7 +33180,7 @@
   {
     "url": "/wiki/Westcoast_Air",
     "name": "WESTCOAST AIR",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/0d/WestCoastLogo.png/250px-WestCoastLogo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/HarbourAirSeaplanesheader_logo.png/250px-HarbourAirSeaplanesheader_logo.png",
     "IATA": "8O[1]",
     "ICAO": "YWZ[1]",
     "Callsign": "COAST AIR",
@@ -32905,6 +33244,10 @@
       {
         "name": "Toronto Pearson International Airport",
         "link": "/wiki/Toronto_Pearson_International_Airport"
+      },
+      {
+        "name": "Vancouver International Airport",
+        "link": "/wiki/Vancouver_International_Airport"
       }
     ],
     "website": "http://westjet.com"
@@ -33017,7 +33360,8 @@
   {
     "url": "/wiki/Westland_Helicopters",
     "name": "Westland Helicopters",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/f/f3/Westland_logo.jpg"
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/f/f3/Westland_logo.jpg",
+    "website": "http://www.agustawestland.com/index.html"
   },
   {
     "url": "/wiki/Westward_Airways_(Nebraska)",
@@ -33029,14 +33373,14 @@
   {
     "url": "/wiki/White_Airways",
     "name": "White Airways",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/2/22/White_Airways_logo.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/commons/2/22/White_Airways_logo.png",
     "IATA": "WI",
     "ICAO": "WHT",
     "Callsign": "WHITE JET",
     "hubs": [
       {
-        "name": "Lisbon Portela Airport",
-        "link": "/wiki/Lisbon_Portela_Airport"
+        "name": "Lisbon Humberto Delgado Airport",
+        "link": "/wiki/Lisbon_Humberto_Delgado_Airport"
       }
     ],
     "website": "http://www.flywhite.com"
@@ -33246,6 +33590,10 @@
         "link": "/wiki/Budapest_Liszt_Ferenc_International_Airport"
       },
       {
+        "name": "Chişinău",
+        "link": "/wiki/Chi%C8%99in%C4%83u_International_Airport"
+      },
+      {
         "name": "Cluj-Napoca",
         "link": "/wiki/Cluj-Napoca_International_Airport"
       },
@@ -33322,6 +33670,14 @@
         "link": "/wiki/Tuzla_International_Airport"
       },
       {
+        "name": "Varna",
+        "link": "/wiki/Varna_Airport"
+      },
+      {
+        "name": "[2]",
+        "link": "#cite_note-2"
+      },
+      {
         "name": "Vilnius",
         "link": "/wiki/Vilnius_International_Airport"
       },
@@ -33366,12 +33722,12 @@
     "IATA": "WO",
     "ICAO": "WOA",
     "Callsign": "WORLD",
-    "website": "http://web.archive.org/web/20140716153256/http://www.worldairways.com/"
+    "website": "https://web.archive.org/web/20140716153256/http://www.worldairways.com/"
   },
   {
     "url": "/wiki/WOW_air",
     "name": "WOW air",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/6/64/Logo_wow_air.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/e/e7/WOW_air_logo.svg/125px-WOW_air_logo.svg.png",
     "IATA": "WW",
     "ICAO": "WOW",
     "Callsign": "WOW AIR",
@@ -33394,7 +33750,7 @@
   {
     "url": "/wiki/Wright_Air_Service",
     "name": "Wright Air Service",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wright_Air_Terminal_at_FAI.jpg/250px-Wright_Air_Terminal_at_FAI.jpg",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/b/b8/Wright_Air_Service_Logo.png",
     "IATA": "8V",
     "ICAO": "WRF",
     "Callsign": "WRIGHT FLYER",
@@ -33469,13 +33825,26 @@
   {
     "url": "/wiki/Xerox",
     "name": "Xerox Corporation",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/db/Xerox_2008_Logo.png/200px-Xerox_2008_Logo.png",
-    "website": "http://www.xerox.com"
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/d/db/Xerox_2008_Logo.png/220px-Xerox_2008_Logo.png",
+    "website": "https://www.xerox.com/"
+  },
+  {
+    "url": "/wiki/Express_Air_Cargo",
+    "name": "Express Air Cargo",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/6/61/Express_Air_Cargo.jpg/250px-Express_Air_Cargo.jpg",
+    "IATA": "7A",
+    "ICAO": "XRC",
+    "hubs": [
+      {
+        "name": "Tunis-Carthage International Airport",
+        "link": "/wiki/Tunis-Carthage_International_Airport"
+      }
+    ]
   },
   {
     "url": "/wiki/XiamenAir",
     "name": "XiamenAir\n厦门航空\nXiàmén Hángkōng",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c8/XiamenAir.svg/300px-XiamenAir.svg.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/c/c8/XiamenAir.svg/200px-XiamenAir.svg.png",
     "IATA": "MF",
     "ICAO": "CXA",
     "Callsign": "XIAMEN AIR",
@@ -33510,7 +33879,7 @@
   {
     "url": "/wiki/XL_Airways_France",
     "name": "XL Airways France",
-    "logoLink": "//upload.wikimedia.org/wikipedia/en/c/c3/XL_Airways_France.png",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/5/58/XL_Airways_France_logo.png",
     "IATA": "SE[1]",
     "ICAO": "XLF",
     "Callsign": "STARWAY",
@@ -33535,13 +33904,13 @@
         "link": "/wiki/Frankfurt_Airport"
       }
     ],
-    "website": "http://web.archive.org/web/20080916105308/http://www.xlairways.de:80/"
+    "website": "https://web.archive.org/web/20080916105308/http://www.xlairways.de/"
   },
   {
     "url": "/wiki/Xstrata",
     "name": "Xstrata plc",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Xstrata.svg/150px-Xstrata.svg.png",
-    "website": "http://web.archive.org/web/20050609081909/http://www.xstrata.com:80/"
+    "website": "https://web.archive.org/web/20050609081909/http://www.xstrata.com/"
   },
   {
     "url": "/wiki/Xtra_Airways",
@@ -33560,12 +33929,12 @@
         "link": "#cite_note-1"
       }
     ],
-    "website": "https://web.archive.org/web/*/http://www.xtraairways.com/"
+    "website": "http://www.xtraairways.com/"
   },
   {
     "url": "/wiki/Yak-Service",
     "name": "Yak-Service",
-    "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yak-Service_Yakovlev_Yak-42.jpg/250px-Yak-Service_Yakovlev_Yak-42.jpg"
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/3a/Yak-Service_logo.png/200px-Yak-Service_logo.png"
   },
   {
     "url": "/wiki/Yakovlev",
@@ -33612,6 +33981,7 @@
   {
     "url": "/wiki/Yangon_Airways",
     "name": "Yangon Airways\nရန်ကုန် လေကြောင်းလိုင်း",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/8/8c/Yangon_airways.jpg/250px-Yangon_airways.jpg",
     "IATA": "YH",
     "ICAO": "AYG",
     "Callsign": "AIR YANGON",
@@ -33672,6 +34042,7 @@
     "url": "/wiki/Yeti_Airlines",
     "name": "Yeti Airlines",
     "logoLink": "//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yeti_Airlines_Image.svg/200px-Yeti_Airlines_Image.svg.png",
+    "IATA": "YT",
     "ICAO": "NYT",
     "Callsign": "YETI AIRLINES",
     "hubs": [
@@ -33685,6 +34056,7 @@
   {
     "url": "/wiki/Flight_Alaska",
     "name": "Yute Air",
+    "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/4/45/Flight_Alaska_Logo.png/250px-Flight_Alaska_Logo.png",
     "IATA": "4Y",
     "ICAO": "TUD",
     "Callsign": "TUNDRA",
@@ -33715,7 +34087,7 @@
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/3/35/LoongAir_logo.png/135px-LoongAir_logo.png",
     "IATA": "GJ",
     "ICAO": "CDC",
-    "Callsign": "HUALONG",
+    "Callsign": "GUALONG[1]",
     "OperatingBases": [
       {
         "name": "Hangzhou Xiaoshan International Airport",
@@ -33774,7 +34146,7 @@
     "url": "/wiki/Zagros_Airlines",
     "name": "Zagros Airlines\nهواپیمایی زاگرس",
     "logoLink": "//upload.wikimedia.org/wikipedia/en/thumb/0/00/Zagros_Airlines_logo.png/200px-Zagros_Airlines_logo.png",
-    "IATA": "Z4",
+    "IATA": "-",
     "ICAO": "IZG",
     "Callsign": "ZAGROS",
     "website": "http://www.zagrosairlines.com/"

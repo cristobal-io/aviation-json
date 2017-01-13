@@ -390,11 +390,6 @@
     "scraper": "default"
   },
   {
-    "name": "Envoy Air",
-    "destinationsLink": "/wiki/Envoy_Air_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "AnadoluJet",
     "destinationsLink": "/wiki/AnadoluJet_destinations",
     "scraper": "table"
@@ -415,11 +410,6 @@
     "scraper": "table_center"
   },
   {
-    "name": "TUI Airlines Netherlands",
-    "destinationsLink": "/wiki/TUI_Airlines_Netherlands_destinations",
-    "scraper": "table"
-  },
-  {
     "name": "Arkia",
     "destinationsLink": "/wiki/Arkia_destinations",
     "scraper": "table"
@@ -433,6 +423,11 @@
     "name": "Asiana Airlines",
     "destinationsLink": "/wiki/Asiana_Airlines_destinations",
     "scraper": "table"
+  },
+  {
+    "name": "ASL Airlines Belgium",
+    "destinationsLink": "/wiki/ASL_Airlines_Belgium_destinations",
+    "scraper": "default"
   },
   {
     "name": "ASL Airlines France",
@@ -490,8 +485,8 @@
     "scraper": "table"
   },
   {
-    "name": "SATA International",
-    "destinationsLink": "/wiki/SATA_International_destinations",
+    "name": "Azores Airlines",
+    "destinationsLink": "/wiki/Azores_Airlines_destinations",
     "scraper": "table"
   },
   {
@@ -532,7 +527,7 @@
   {
     "name": "Belavia",
     "destinationsLink": "/wiki/Belavia_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Belle Air",
@@ -582,6 +577,11 @@
   {
     "name": "Boliviana de Aviación",
     "destinationsLink": "/wiki/Boliviana_de_Aviaci%C3%B3n_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "List of Braathens",
+    "destinationsLink": "/wiki/List_of_Braathens_destinations",
     "scraper": "table"
   },
   {
@@ -673,6 +673,11 @@
     "name": "Cayman Airways",
     "destinationsLink": "/wiki/Cayman_Airways_destinations",
     "scraper": "table_center"
+  },
+  {
+    "name": "Cebgo",
+    "destinationsLink": "/wiki/Cebgo_destinations",
+    "scraper": "default"
   },
   {
     "name": "Cebu Pacific",
@@ -810,14 +815,14 @@
     "scraper": "default"
   },
   {
-    "name": "Pacific Royale Airways",
-    "destinationsLink": "/wiki/Pacific_Royale_Airways_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "Dniproavia",
     "destinationsLink": "/wiki/Dniproavia_destinations",
     "scraper": "default"
+  },
+  {
+    "name": "List of Cathay Dragon",
+    "destinationsLink": "/wiki/List_of_Cathay_Dragon_destinations",
+    "scraper": "table"
   },
   {
     "name": "East African Airways",
@@ -868,6 +873,11 @@
     "name": "Emirates SkyCargo",
     "destinationsLink": "/wiki/Emirates_SkyCargo_destinations",
     "scraper": "table"
+  },
+  {
+    "name": "Envoy Air",
+    "destinationsLink": "/wiki/Envoy_Air_destinations",
+    "scraper": "default"
   },
   {
     "name": "Estonian Air",
@@ -938,6 +948,11 @@
     "name": "Flyglobespan",
     "destinationsLink": "/wiki/Flyglobespan_destinations",
     "scraper": "default"
+  },
+  {
+    "name": "Flynas",
+    "destinationsLink": "/wiki/Flynas_destinations",
+    "scraper": "table"
   },
   {
     "name": "Freedom Air (New Zealand)",
@@ -1045,11 +1060,6 @@
     "scraper": "table"
   },
   {
-    "name": "Orbest Orizonia Airlines",
-    "destinationsLink": "/wiki/Orbest_Orizonia_Airlines_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "Icelandair",
     "destinationsLink": "/wiki/Icelandair_destinations",
     "scraper": "table"
@@ -1145,11 +1155,6 @@
     "scraper": "default"
   },
   {
-    "name": "Jetairfly",
-    "destinationsLink": "/wiki/Jetairfly_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "JetBlue",
     "destinationsLink": "/wiki/JetBlue_destinations",
     "scraper": "table"
@@ -1215,18 +1220,13 @@
     "scraper": "table"
   },
   {
-    "name": "TACA Costa Rica",
-    "destinationsLink": "/wiki/TACA_Costa_Rica_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "LAM Mozambique Airlines",
     "destinationsLink": "/wiki/LAM_Mozambique_Airlines_destinations",
     "scraper": "table"
   },
   {
-    "name": "LATAM Chile",
-    "destinationsLink": "/wiki/LATAM_Chile_destinations",
+    "name": "LATAM Airlines",
+    "destinationsLink": "/wiki/LATAM_Airlines_destinations",
     "scraper": "default"
   },
   {
@@ -1238,6 +1238,11 @@
     "name": "LATAM Perú",
     "destinationsLink": "/wiki/LATAM_Per%C3%BA_destinations",
     "scraper": "default"
+  },
+  {
+    "name": "LATAM Brasil",
+    "destinationsLink": "/wiki/LATAM_Brasil_destinations",
+    "scraper": "table"
   },
   {
     "name": "LATAM Colombia",
@@ -1260,18 +1265,8 @@
     "scraper": "table"
   },
   {
-    "name": "Lion Air",
-    "destinationsLink": "/wiki/Lion_Air_destinations",
-    "scraper": "table"
-  },
-  {
-    "name": "List of Braathens",
-    "destinationsLink": "/wiki/List_of_Braathens_destinations",
-    "scraper": "table"
-  },
-  {
-    "name": "List of Dragonair",
-    "destinationsLink": "/wiki/List_of_Dragonair_destinations",
+    "name": "Lion Air Group",
+    "destinationsLink": "/wiki/Lion_Air_Group_destinations",
     "scraper": "table"
   },
   {
@@ -1357,7 +1352,7 @@
   {
     "name": "MIAT Mongolian Airlines",
     "destinationsLink": "/wiki/MIAT_Mongolian_Airlines_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "Middle East Airlines",
@@ -1385,11 +1380,6 @@
     "scraper": "default"
   },
   {
-    "name": "Flynas",
-    "destinationsLink": "/wiki/Flynas_destinations",
-    "scraper": "table"
-  },
-  {
     "name": "Neos",
     "destinationsLink": "/wiki/Neos_destinations",
     "scraper": "default"
@@ -1397,7 +1387,7 @@
   {
     "name": "Nepal Airlines",
     "destinationsLink": "/wiki/Nepal_Airlines_destinations",
-    "scraper": "table"
+    "scraper": "table_toccolours"
   },
   {
     "name": "Nigeria Airways",
@@ -1452,6 +1442,16 @@
   {
     "name": "Oman Air",
     "destinationsLink": "/wiki/Oman_Air_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Orbest Orizonia Airlines",
+    "destinationsLink": "/wiki/Orbest_Orizonia_Airlines_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "Pacific Royale Airways",
+    "destinationsLink": "/wiki/Pacific_Royale_Airways_destinations",
     "scraper": "default"
   },
   {
@@ -1562,7 +1562,7 @@
   {
     "name": "Ryanair",
     "destinationsLink": "/wiki/Ryanair_destinations",
-    "scraper": "default"
+    "scraper": "table"
   },
   {
     "name": "S7 Airlines",
@@ -1710,8 +1710,8 @@
     "scraper": "default"
   },
   {
-    "name": "SmartWings",
-    "destinationsLink": "/wiki/SmartWings_destinations",
+    "name": "SmartWings and Travel Service",
+    "destinationsLink": "/wiki/SmartWings_and_Travel_Service_destinations",
     "scraper": "default"
   },
   {
@@ -1728,11 +1728,6 @@
     "name": "South African Airways",
     "destinationsLink": "/wiki/South_African_Airways_destinations",
     "scraper": "table"
-  },
-  {
-    "name": "Cebgo",
-    "destinationsLink": "/wiki/Cebgo_destinations",
-    "scraper": "default"
   },
   {
     "name": "Southwest Airlines",
@@ -1820,6 +1815,11 @@
     "scraper": "default"
   },
   {
+    "name": "TACA Costa Rica",
+    "destinationsLink": "/wiki/TACA_Costa_Rica_destinations",
+    "scraper": "default"
+  },
+  {
     "name": "TACA Airlines Destinations",
     "destinationsLink": "/wiki/TACA_Airlines_Destinations",
     "scraper": "table"
@@ -1832,11 +1832,6 @@
   {
     "name": "TACV",
     "destinationsLink": "/wiki/TACV_destinations",
-    "scraper": "table"
-  },
-  {
-    "name": "LATAM Brasil",
-    "destinationsLink": "/wiki/LATAM_Brasil_destinations",
     "scraper": "table"
   },
   {
@@ -1915,11 +1910,6 @@
     "scraper": "table"
   },
   {
-    "name": "TNT Airways",
-    "destinationsLink": "/wiki/TNT_Airways_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "TMA Cargo",
     "destinationsLink": "/wiki/TMA_Cargo_destinations",
     "scraper": "default"
@@ -1952,6 +1942,16 @@
   {
     "name": "TRIP Linhas Aéreas",
     "destinationsLink": "/wiki/TRIP_Linhas_A%C3%A9reas_destinations",
+    "scraper": "default"
+  },
+  {
+    "name": "TUI Airlines Netherlands",
+    "destinationsLink": "/wiki/TUI_Airlines_Netherlands_destinations",
+    "scraper": "table"
+  },
+  {
+    "name": "TUIfly Belgium",
+    "destinationsLink": "/wiki/TUIfly_Belgium_destinations",
     "scraper": "default"
   },
   {

@@ -38,7 +38,8 @@
     "airline": {
       "name": "213 Flight Unit"
     },
-    "CallSign": "\nThjy|Russia\n"
+    "CallSign": "Thjy",
+    "Country": "Russia"
   },
   {
     "ICAO": "CHD",
@@ -105,11 +106,20 @@
       "name": "Interjet",
       "link": "/wiki/Interjet"
     },
-    "CallSign": "Interjet",
+    "CallSign": "ABC Aerolineas",
     "Country": "Mexico"
   },
   {
-    "ICAO": "WSM",
+    "IATA": "7A",
+    "ICAO": "XRC",
+    "airline": {
+      "name": "Express Air Cargo",
+      "link": "/wiki/Express_Air_Cargo"
+    },
+    "Country": "Tunisia"
+  },
+  {
+    "ICAO": "WSN",
     "airline": {
       "name": "Advanced Air"
     },
@@ -246,7 +256,8 @@
   {
     "ICAO": "RGR",
     "airline": {
-      "name": "Avior Regional"
+      "name": "Avior Regional",
+      "link": "/wiki/Avior_Regional"
     },
     "CallSign": "AVIOR REGIONAL",
     "Country": "Venezuela"
@@ -287,8 +298,8 @@
     "IATA": "JY",
     "ICAO": "IWY",
     "airline": {
-      "name": "Air Turks and Caicos",
-      "link": "/wiki/Air_Turks_and_Caicos"
+      "name": "InterCaribbean Airways",
+      "link": "/wiki/InterCaribbean_Airways"
     },
     "CallSign": "ISLANDWAYS",
     "Country": "Turks and Caicos Islands"
@@ -1321,7 +1332,7 @@
   {
     "ICAO": "AOJ",
     "airline": {
-      "name": "Avon Jet"
+      "name": "Avcon Jet"
     },
     "CallSign": "ASTERIX",
     "Country": "Austria"
@@ -1388,8 +1399,7 @@
     "IATA": "7T",
     "ICAO": "AGV",
     "airline": {
-      "name": "Air Glaciers",
-      "link": "/wiki/Air_Glaciers"
+      "name": "Air Glaciers"
     },
     "CallSign": "AIR GLACIERS",
     "Country": "Switzerland"
@@ -2768,6 +2778,16 @@
     "Country": "United States"
   },
   {
+    "IATA": "AX",
+    "ICAO": "—",
+    "airline": {
+      "name": "AmericanConnection[5]",
+      "link": "/wiki/AmericanConnection"
+    },
+    "CallSign": "—",
+    "Country": "United States"
+  },
+  {
     "IATA": "AN",
     "ICAO": "AAA",
     "airline": {
@@ -3558,7 +3578,8 @@
   {
     "ICAO": "AKH",
     "airline": {
-      "name": "Akhal"
+      "name": "Akhal",
+      "link": "/wiki/Akhal"
     },
     "CallSign": "AKHAL",
     "Country": "Turkmenistan"
@@ -5739,6 +5760,16 @@
     "Country": "Germany"
   },
   {
+    "IATA": "A2",
+    "ICAO": "AZI",
+    "airline": {
+      "name": "Astra Airlines",
+      "link": "/wiki/Astra_Airlines"
+    },
+    "CallSign": "ASTRA",
+    "Country": "Greece"
+  },
+  {
     "ICAO": "AZK",
     "airline": {
       "name": "Azalhelikopter"
@@ -7850,7 +7881,8 @@
   {
     "ICAO": "EWE",
     "airline": {
-      "name": "Eurowings Europe"
+      "name": "Eurowings Europe",
+      "link": "/wiki/Eurowings_Europe"
     },
     "Country": "Austria"
   },
@@ -8669,7 +8701,8 @@
   {
     "ICAO": "IRD",
     "airline": {
-      "name": "Arvand Airlines"
+      "name": "Arvand Airlines",
+      "link": "/wiki/Arvand_Airlines"
     },
     "CallSign": "ARVAND",
     "Country": "Iran"
@@ -10957,7 +10990,7 @@
     "ICAO": "RSR",
     "airline": {
       "name": "Aero-Service",
-      "link": "/wiki/Aero-Service"
+      "link": "/wiki/A%C3%A9ro-Service"
     },
     "CallSign": "CONGOSERV",
     "Country": "Republic of the Congo"
@@ -12122,6 +12155,7 @@
       "name": "Air Busan",
       "link": "/wiki/Air_Busan"
     },
+    "CallSign": "AIR BUSAN",
     "Country": "Republic of Korea"
   },
   {
@@ -14959,6 +14993,16 @@
     "Country": "Armenia"
   },
   {
+    "IATA": "BW",
+    "ICAO": "BWA",
+    "airline": {
+      "name": "Caribbean Airlines",
+      "link": "/wiki/Caribbean_Airlines"
+    },
+    "CallSign": "CARIBBEAN AIRLINES",
+    "Country": "Trinidad and Tobago"
+  },
+  {
     "ICAO": "QAI",
     "airline": {
       "name": "Conquest Air"
@@ -15238,8 +15282,7 @@
   {
     "ICAO": "RWG",
     "airline": {
-      "name": "C&M Airways",
-      "link": "/wiki/C%26M_Airways"
+      "name": "C&M Airways"
     },
     "CallSign": "RED WING",
     "Country": "United States"
@@ -17524,7 +17567,8 @@
   {
     "ICAO": "GCM",
     "airline": {
-      "name": "Comair Flight Services"
+      "name": "Comair Flight Services",
+      "link": "/wiki/Comair_Flight_Services"
     },
     "CallSign": "GLOBECOM",
     "Country": "South Africa"
@@ -19783,6 +19827,7 @@
     "Country": "United States"
   },
   {
+    "IATA": "EL",
     "ICAO": "ELB",
     "airline": {
       "name": "Ellinair",
@@ -19891,8 +19936,7 @@
   {
     "IATA": "E1",
     "airline": {
-      "name": "Everbread",
-      "link": "/wiki/Everbread"
+      "name": "Everbread"
     },
     "Country": "United Kingdom"
   },
@@ -20148,7 +20192,8 @@
   {
     "ICAO": "EXZ",
     "airline": {
-      "name": "East African Safari Air Express"
+      "name": "East African Safari Air Express",
+      "link": "/wiki/East_African_Safari_Air_Express"
     },
     "CallSign": "TWIGA",
     "Country": "Kenya"
@@ -20164,7 +20209,8 @@
   {
     "ICAO": "ECT",
     "airline": {
-      "name": "East Coast Airways"
+      "name": "East Coast Airways",
+      "link": "/wiki/East_Coast_Airways"
     },
     "CallSign": "EASTWAY",
     "Country": "South Africa"
@@ -23766,7 +23812,8 @@
   {
     "ICAO": "GET",
     "airline": {
-      "name": "Get High"
+      "name": "Get High",
+      "link": "/wiki/Get_High"
     },
     "CallSign": "AIR FLOW",
     "Country": "Portugal"
@@ -24150,8 +24197,7 @@
   {
     "ICAO": "GNX",
     "airline": {
-      "name": "Genex",
-      "link": "/wiki/Genex"
+      "name": "Genex"
     },
     "Country": "Belarus"
   },
@@ -27113,7 +27159,7 @@
   {
     "ICAO": "ICC",
     "airline": {
-      "name": "Instituto Cartografico de Cataluna"
+      "name": "Institut Cartogràfic de Catalunya"
     },
     "CallSign": "CARTO",
     "Country": "Spain"
@@ -28789,6 +28835,7 @@
   },
   {
     "IATA": "GK",
+    "ICAO": "JJP",
     "airline": {
       "name": "JetStar Japan"
     },
@@ -30167,7 +30214,8 @@
   {
     "ICAO": "LWA",
     "airline": {
-      "name": "Libyan Wings"
+      "name": "Libyan Wings",
+      "link": "/wiki/Libyan_Wings"
     },
     "CallSign": "LIBYAN WINGS",
     "Country": "Libya"
@@ -36130,6 +36178,14 @@
     "Country": "Nigeria"
   },
   {
+    "ICAO": "OAR",
+    "airline": {
+      "name": "ONE AIR"
+    },
+    "CallSign": "BOSS AIR",
+    "Country": "Spain"
+  },
+  {
     "ICAO": "OXE",
     "airline": {
       "name": "Oxaero"
@@ -36190,6 +36246,14 @@
     },
     "CallSign": "OASIS",
     "Country": "Spain"
+  },
+  {
+    "ICAO": "HRS",
+    "airline": {
+      "name": "Pursuit Aviation"
+    },
+    "CallSign": "HORSEMAN",
+    "Country": "United States"
   },
   {
     "ICAO": "PNA",
@@ -36362,6 +36426,7 @@
     "Country": "Spain"
   },
   {
+    "IATA": "OH",
     "ICAO": "JIA",
     "airline": {
       "name": "PSA Airlines",
@@ -36772,14 +36837,6 @@
     },
     "CallSign": "PANAIRSA",
     "Country": "Mexico"
-  },
-  {
-    "IATA": "PQ",
-    "airline": {
-      "name": "AirAsia Philippines",
-      "link": "/wiki/AirAsia_Philippines"
-    },
-    "Country": "Philippines"
   },
   {
     "ICAO": "PNF",
@@ -37320,14 +37377,22 @@
     "Country": "Thailand"
   },
   {
-    "IATA": "PR",
-    "ICAO": "PAL",
+    "ICAO": "Z2",
+    "airline": {
+      "name": "Philippines AirAsia",
+      "link": "/wiki/Philippines_AirAsia"
+    },
+    "CallSign": "EZD",
+    "Country": "REDHOT"
+  },
+  {
+    "ICAO": "PR",
     "airline": {
       "name": "Philippine Airlines",
       "link": "/wiki/Philippine_Airlines"
     },
-    "CallSign": "PHILIPPINE",
-    "Country": "Philippines"
+    "CallSign": "PAL",
+    "Country": "PHILIPPINE"
   },
   {
     "ICAO": "PHI",
@@ -38516,6 +38581,16 @@
     "Country": "Australia"
   },
   {
+    "IATA": "QF",
+    "ICAO": "QJE",
+    "airline": {
+      "name": "Qantaslink",
+      "link": "/wiki/Qantaslink"
+    },
+    "CallSign": "QJET",
+    "Country": "Australia"
+  },
+  {
     "ICAO": "QAC",
     "airline": {
       "name": "Qatar Air Cargo",
@@ -38689,8 +38764,7 @@
   {
     "ICAO": "RIX",
     "airline": {
-      "name": "Rectrix Aviation",
-      "link": "/wiki/Rectrix_Aviation"
+      "name": "Rectrix Aviation"
     },
     "CallSign": "RECTRIX",
     "Country": "United States"
@@ -42845,7 +42919,7 @@
     "ICAO": "SVJ",
     "airline": {
       "name": "Silver Air",
-      "link": "/wiki/Silver_Air"
+      "link": "/wiki/Silver_Air_(Djibouti)"
     },
     "Country": "Djibouti"
   },
@@ -43681,7 +43755,7 @@
     "ICAO": "HKA",
     "airline": {
       "name": "Superior Aviation",
-      "link": "/wiki/Superior_Aviation"
+      "link": "/wiki/Superior_Aviation_(airline)"
     },
     "CallSign": "SPEND AIR",
     "Country": "United States"
@@ -44581,7 +44655,7 @@
     "ICAO": "SLD",
     "airline": {
       "name": "Silver Air",
-      "link": "/wiki/Silver_Air"
+      "link": "/wiki/Silver_Air_(Czech_Republic)"
     },
     "CallSign": "SILVERLINE",
     "Country": "Czech Republic"
@@ -45590,7 +45664,7 @@
     "Country": "Thailand"
   },
   {
-    "IATA": "VJ",
+    "IATA": "VZ",
     "ICAO": "TVJ",
     "airline": {
       "name": "Thai Vietjet Air",
@@ -45611,7 +45685,8 @@
     "IATA": "XJ",
     "ICAO": "TAX",
     "airline": {
-      "name": "Thai Airasia X"
+      "name": "Thai AirAsia X",
+      "link": "/wiki/Thai_AirAsia_X"
     },
     "CallSign": "EXPRESS WING",
     "Country": "Thailand"
@@ -45620,7 +45695,8 @@
     "IATA": "SL",
     "ICAO": "TLM",
     "airline": {
-      "name": "Thai Lion Mentari"
+      "name": "Thai Lion Mentari",
+      "link": "/wiki/Thai_Lion_Air"
     },
     "CallSign": "MENTARI",
     "Country": "Thailand"
@@ -45649,14 +45725,6 @@
     },
     "CallSign": "TUSAS",
     "Country": "Turkey"
-  },
-  {
-    "ICAO": "TDA",
-    "airline": {
-      "name": "Trend Aviation"
-    },
-    "CallSign": "TREND AIR",
-    "Country": "United States"
   },
   {
     "ICAO": "TMD",
@@ -46052,7 +46120,7 @@
       "link": "/wiki/Tadair"
     },
     "CallSign": "TADAIR",
-    "Country": "Spa"
+    "Country": "Spain"
   },
   {
     "ICAO": "TDE",
@@ -46833,7 +46901,8 @@
     "IATA": "OF",
     "ICAO": "TML",
     "airline": {
-      "name": "Transports et Travaux Aériens de Madagascar"
+      "name": "Transports et Travaux Aériens de Madagascar",
+      "link": "/wiki/Transports_et_Travaux_A%C3%A9riens_de_Madagascar"
     },
     "CallSign": "TAM AIRLINE",
     "Country": "Madagascar"
@@ -47735,7 +47804,7 @@
     "Country": "Moldova"
   },
   {
-    "IATA": "7O[28]",
+    "IATA": "7O[30]",
     "ICAO": "TVL",
     "airline": {
       "name": "Travel Service",
@@ -50421,7 +50490,7 @@
     "Country": "United States"
   },
   {
-    "IATA": "W1",
+    "IATA": "WD",
     "ICAO": "WDL",
     "airline": {
       "name": "WDL Aviation",
@@ -51283,6 +51352,15 @@
     "Country": "United States"
   },
   {
+    "IATA": "7A",
+    "ICAO": "XRC",
+    "airline": {
+      "name": "Express Air Cargo",
+      "link": "/wiki/Express_Air_Cargo"
+    },
+    "Country": "Tunisia"
+  },
+  {
     "IATA": "MF",
     "ICAO": "CXA",
     "airline": {
@@ -51329,9 +51407,9 @@
     "Country": "Germany"
   },
   {
-    "ICAO": "XOI",
+    "ICAO": "XOJ",
     "airline": {
-      "name": "Xojet"
+      "name": "XOJet"
     },
     "CallSign": "EXOJET",
     "Country": "United States"
