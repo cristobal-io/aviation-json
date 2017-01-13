@@ -15,6 +15,7 @@ var getCityAirports = scrapeJs.getCityAirports;
 var getAirportAirlines = scrapeJs.getAirportAirlines;
 var getDDCoordinates = scrapeJs.getDDCoordinates;
 var setAirportAirlinesNumber = scrapeJs.setAirportAirlinesNumber;
+var isValidDestination = scrapeJs.isValidDestination;
 
 var destinationsSchema = require("../schema/destinations.schema.json");
 
@@ -46,26 +47,63 @@ describe("bin/scrape.js tests", function () {
         assert.ok(!detectDuplicatesInArray(airport), "found duplicated values inside array");
       });
     });
-
   });
+  describe("isValidDestination", function() {
+    it("should return true when a valid destination is provided", function() {
+      var destination = {
+        "city": {
+          "name": "Rio de Janeiro",
+          "url": "/wiki/Rio_de_Janeiro"
+        },
+        "airport": {
+          "name": "Galeão International Airport",
+          "url": "/wiki/Gale%C3%A3o_International_Airport"
+        }
+      };
 
+      assert.ok(isValidDestination(destination));
+    });
+    it("should return false when no url is available", function() {
+      var destination = {
+        "city": {
+          "name": "Rio de Janeiro",
+          "url": "/wiki/Rio_de_Janeiro"
+        },
+        "airport": {
+          "name": ""
+        }
+      };
+
+      assert.ifError(isValidDestination(destination));
+    });
+    it("should return false when no airport is available", function() {
+      var destination = {
+        "city": {
+          "name": "Rio de Janeiro",
+          "url": "/wiki/Rio_de_Janeiro"
+        }
+      };
+
+      assert.ifError(isValidDestination(destination));
+    });
+  });
   describe("Update airports with number of airlines, setAirportAirlinesNumber fn", function() {
 
     it("should include the number of airlines that fly to a destination.", function () {
       var airportAirlines = getAirportAirlines(destinationsRaw);
       var airports = reduceAirports(airportsRaw);
-      
+
       var airportsUpdated = setAirportAirlinesNumber(airports, airportAirlines);
-      
+
       var expectedFlyingAirlines = airportAirlines.Amsterdam_Airport_Schiphol.length;
       var actualFlyingAirlines = airportsUpdated.Amsterdam_Airport_Schiphol.airlinesFlying;
 
       assert.equal(actualFlyingAirlines, expectedFlyingAirlines);
-      
+
     });
 
   });
-  
+
   describe("helper fn", function () {
 
     it("has to detect duplicates", function () {
@@ -124,7 +162,7 @@ describe("bin/scrape.js tests", function () {
         assert.ok(airport.name, "there is no name");
         if (airport.url !== undefined) {
           assert.ok((airport.url).indexOf("/wiki/") === -1, "the city url has some '/wiki/' href left.");
-          
+
         }
       });
     });
@@ -252,7 +290,7 @@ describe("bin/scrape.js tests", function () {
 
             assert.ok((hub.link).indexOf("/wiki/") === -1, "the hubs have some '/wiki/' urls left.");
             // console.log(JSON.stringify(hub.link,null, 2));
-            
+
           });
         }
       });
