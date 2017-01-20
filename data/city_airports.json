@@ -15,7 +15,6 @@
     "Sch%C3%B6nefeld_Airport",
     "Berlin-Schonefeld_International_Airport",
     "Tegel_International_Airport",
-    "Tegel",
     "Baden"
   ],
   "Brussels": [
@@ -319,8 +318,7 @@
     "Nice-C%C3%B4te_d%27Azur_Airport",
     "Nice_Airport",
     "Nice_Cote_d%27Azur_Airport",
-    "Cote_d%27Azur_Airport",
-    "C%C3%B4te_d%27Azur_International_Airport"
+    "Cote_d%27Azur_Airport"
   ],
   "Strasbourg": [
     "Strasbourg_International_Airport",
@@ -332,12 +330,10 @@
     "Toulouse-Blagnac_Airport",
     "Toulouse_%E2%80%93_Blagnac_Airport",
     "Toulouse_Airport",
-    "Toulouse_Blagnac_Airport",
-    "Toulouse_Blagnac_International_Airport"
+    "Toulouse_Blagnac_Airport"
   ],
   "Tbilisi": [
     "Tbilisi_International_Airport",
-    "Heydar_Aliyev_International_Airport",
     "Shota_Rustaveli_Tbilisi_International_Airport",
     "Tbilisi_Airport"
   ],
@@ -381,9 +377,6 @@
     "Mykonos_Island_National_Airport",
     "Mykonos_Airport"
   ],
-  "Skyros": [
-    "Skyros_Island_National_Airport"
-  ],
   "Thessaloniki": [
     "Thessaloniki_Airport",
     "Thessaloniki_International_Airport",
@@ -419,8 +412,7 @@
   ],
   "Bari": [
     "Bari_Karol_Wojty%C5%82a_Airport",
-    "Bari_Airport",
-    "Bari_International_Airport"
+    "Bari_Airport"
   ],
   "Catania": [
     "Catania%E2%80%93Fontanarossa_Airport",
@@ -463,8 +455,7 @@
   "Venice": [
     "Venice_Marco_Polo_Airport",
     "Marco_Polo_Airport",
-    "Treviso_Airport",
-    "Marco_Polo_International_Airport"
+    "Treviso_Airport"
   ],
   "Amman": [
     "Queen_Alia_International_Airport"
@@ -639,8 +630,7 @@
   "Bologna": [
     "Bologna_Guglielmo_Marconi_Airport",
     "Bologna_Airport",
-    "Guglielmo_Marconi_Airport",
-    "Guglielmo_Marconi_International_Airport"
+    "Guglielmo_Marconi_Airport"
   ],
   "Bristol": [
     "Bristol_Airport"
@@ -698,10 +688,6 @@
   ],
   "Leeds_city_centre": [
     "Leeds_Bradford_Airport"
-  ],
-  "Liverpool": [
-    "Liverpool_John_Lennon_Airport",
-    "Liverpool_Airport"
   ],
   "M%C3%A1laga": [
     "M%C3%A1laga_Airport",
@@ -968,7 +954,8 @@
     "Gran_Canaria_Airport"
   ],
   "Leipzig": [
-    "Leipzig/Halle_Airport"
+    "Leipzig/Halle_Airport",
+    "Leipzig"
   ],
   "Linz": [
     "Linz_Airport"
@@ -2005,8 +1992,7 @@
     "Athens_International_Airport"
   ],
   "Kai_Tak_Airport": [
-    "Leonardo_da_Vinci%E2%80%93Fiumicino_Airport",
-    "Hang_Nadim_Airport"
+    "Leonardo_da_Vinci%E2%80%93Fiumicino_Airport"
   ],
   "Auckland": [
     "Auckland_Airport"
@@ -2916,27 +2902,11 @@
   "Westerland,_Germany": [
     "Sylt_Airport"
   ],
-  "Patras": [
-    "Araxos_Airport"
-  ],
-  "Samos_Island": [
-    "Samos_International_Airport"
-  ],
-  "Cagliari": [
-    "Cagliari-Elmas_Airport",
-    "Cagliari_Elmas_Airport",
-    "Cagliari_Airport"
-  ],
   "Florence": [
     "Peretola_Airport",
     "Florence_Airport",
     "Florence_Peretola_Airport",
     "Florence_Airport,_Peretola"
-  ],
-  "Rimini": [
-    "Federico_Fellini_International_Airport",
-    "Federico_Fellini_Airport",
-    "Rimini_Airport"
   ],
   "Ponta_Delgada": [
     "Jo%C3%A3o_Paulo_II_Airport"
@@ -2945,9 +2915,6 @@
     "Gran_Canaria_Airport",
     "Las_Palmas_Airport",
     "Gran_Canaria_International_Airport"
-  ],
-  "Menorca": [
-    "Menorca_Airport"
   ],
   "Santa_Cruz_de_la_Palma": [
     "La_Palma_Airport"
@@ -2981,13 +2948,28 @@
   "Zweibr%C3%BCcken": [
     "Zweibr%C3%BCcken_Airport"
   ],
+  "Patras": [
+    "Araxos_Airport"
+  ],
+  "Samos_Island": [
+    "Samos_International_Airport"
+  ],
   "Volos": [
     "Volos_Airport",
-    "Nea_Anchialos_National_Airport",
-    "International_Airport_of_Central_Greece"
+    "Nea_Anchialos_National_Airport"
   ],
   "Guernsey": [
     "Guernsey_Airport"
+  ],
+  "Cagliari": [
+    "Cagliari-Elmas_Airport",
+    "Cagliari_Elmas_Airport",
+    "Cagliari_Airport"
+  ],
+  "Rimini": [
+    "Federico_Fellini_International_Airport",
+    "Federico_Fellini_Airport",
+    "Rimini_Airport"
   ],
   "Terceira_Island": [
     "Lajes_Field"
@@ -2997,6 +2979,9 @@
   ],
   "Ciudad_Real": [
     "Don_Quijote_Airport"
+  ],
+  "Menorca": [
+    "Menorca_Airport"
   ],
   "Arvidsjaur": [
     "Arvidsjaur_Airport"
@@ -3813,8 +3798,7 @@
   "Turin": [
     "Turin_Caselle_Airport",
     "Turin_Airport",
-    "Caselle_Airport",
-    "Turin_International_Airport"
+    "Caselle_Airport"
   ],
   "Trieste": [
     "Trieste_%E2%80%93_Friuli_Venezia_Giulia_Airport",
@@ -3959,6 +3943,7 @@
   ],
   "Cincinnati": [
     "Cincinnati/Northern_Kentucky_International_Airport",
+    "Northern_Kentucky_International_Airport",
     "Cincinnati-Northern_Kentucky_International_Airport"
   ],
   "Clermont-Ferrand": [
@@ -4341,16 +4326,16 @@
     "Kempegowda_International_Airport"
   ],
   "Kempegowda_International_Airport": [
-    "Mangalore_International_Airport",
+    "Mangaluru_Airport",
     "Hubli_Airport",
     "Chennai_International_Airport"
   ],
-  "Mangalore_International_Airport": [
+  "Mangaluru_Airport": [
     "Cochin_International_Airport"
   ],
   "Cochin_International_Airport": [
     "Calicut_International_Airport",
-    "Agatti_Aerodrome",
+    "Agatti_Airport",
     "Netaji_Subhas_Chandra_Bose_International_Airport"
   ],
   "Calicut_International_Airport": [
@@ -4367,9 +4352,9 @@
     "Rajmata_Vijaya_Raje_Scindia_Airport"
   ],
   "Devi_Ahilyabai_Holkar_Airport": [
-    "Khajuraho_Civil_Aerodrome"
+    "Khajuraho_airport"
   ],
-  "Khajuraho_Civil_Aerodrome": [
+  "Khajuraho_airport": [
     "Aurangabad_Airport"
   ],
   "Aurangabad_Airport": [
@@ -4491,7 +4476,7 @@
   "Domodedovo_International_Airport": [
     "King_Fahd_International_Airport",
     "Sheremetyevo_International_Airport",
-    "Kigali_International_Airport"
+    "Pulkovo_International_Airport"
   ],
   "King_Fahd_International_Airport": [
     "King_Abdulaziz_International_Airport"
@@ -4521,7 +4506,7 @@
   "Bandaranaike_International_Airport": [
     "Suvarnabhumi_Airport",
     "Khartoum_International_Airport",
-    "Stockholm_Arlanda_Airport"
+    "Stockholm-Arlanda_Airport"
   ],
   "Suvarnabhumi_Airport": [
     "Abu_Dhabi_International_Airport",
@@ -4532,7 +4517,7 @@
   "Abu_Dhabi_International_Airport": [
     "Dubai_International_Airport",
     "Al_Maktoum_International_Airport",
-    "Gatwick_Airport"
+    "Logan_International_Airport"
   ],
   "Dubai_International_Airport": [
     "Sharjah_International_Airport",
@@ -4632,7 +4617,7 @@
   "Hubli_Airport": [
     "Cochin_International_Airport"
   ],
-  "Agatti_Aerodrome": [
+  "Agatti_Airport": [
     "Raja_Bhoj_Airport"
   ],
   "Rajmata_Vijaya_Raje_Scindia_Airport": [
@@ -4874,8 +4859,7 @@
   "Gatwick_Airport": [
     "Heathrow_Airport",
     "London_Heathrow_Airport",
-    "Stansted_Airport",
-    "Logan_International_Airport"
+    "Stansted_Airport"
   ],
   "Parma": [
     "Parma_Airport"
@@ -4887,7 +4871,7 @@
     "Beijing_Capital_International_Airport",
     "Cadjehoun_Airport",
     "Viracopos_International_Airport",
-    "Campinas_International_Airport"
+    "Viracopos-Campinas_International_Airport"
   ],
   "Beijing_Capital_International_Airport": [
     "Chengdu_Shuangliu_International_Airport",
@@ -4906,7 +4890,7 @@
     "Hong_Kong_International_Airport",
     "Sheremetyevo_International_Airport",
     "Athens_International_Airport",
-    "Kai_Tak_Airport"
+    "Hang_Nadim_Airport"
   ],
   "Rodrigues": [
     "Sir_Ga%C3%ABtan_Duval_Airport"
@@ -5401,7 +5385,7 @@
   ],
   "M%C3%A1laga_Airport": [
     "Malta_International_Airport",
-    "Seville_Airport"
+    "Palma_Airport"
   ],
   "Melilla": [
     "Melilla_Airport"
@@ -5749,6 +5733,10 @@
   "Paderborn": [
     "Paderborn_Lippstadt_Airport"
   ],
+  "Liverpool": [
+    "Liverpool_Airport",
+    "Liverpool_John_Lennon_Airport"
+  ],
   "Plymouth": [
     "Plymouth_Airport",
     "Plymouth_City_Airport"
@@ -5973,6 +5961,9 @@
     "Bacolod-Silay_International_Airport",
     "Bacolod%E2%80%93Silay_International_Airport"
   ],
+  "Bagdogra": [
+    "Bagdogra_Airport"
+  ],
   "Balikpapan": [
     "Sultan_Aji_Muhammad_Sulaiman_Airport",
     "Sultan_Aji_Muhammad_Sulaiman_International_Airport"
@@ -6155,6 +6146,11 @@
   ],
   "Solo,_Central_Java": [
     "Adisumarmo_International_Airport"
+  ],
+  "Srinagar": [
+    "Srinagar_Airport",
+    "Sheikh_ul_Alam_Airport",
+    "Srinagar_International_Airport"
   ],
   "Subang,_Indonesia": [
     "Sultan_Abdul_Aziz_Shah_Airport"
@@ -6572,7 +6568,7 @@
     "Comiso_Airport"
   ],
   "Vila_do_Porto": [
-    "Santa_Maria_Airport"
+    "Santa_Maria_Airport_(Azores)"
   ],
   "Timi%C5%9Foara": [
     "Traian_Vuia_International_Airport",
@@ -8632,6 +8628,9 @@
     "Dallas/Fort_Worth_International_Airport",
     "Dallas-Fort_Worth_International_Airport"
   ],
+  "Derry": [
+    "City_of_Derry_Airport"
+  ],
   "East_Midlands": [
     "East_Midlands_Airport"
   ],
@@ -8671,9 +8670,6 @@
   ],
   "Kirkwall": [
     "Kirkwall_Airport"
-  ],
-  "Derry": [
-    "City_of_Derry_Airport"
   ],
   "Mah%C3%A9bourg": [
     "Sir_Seewoosagur_Ramgoolam_International_Airport"
@@ -8938,6 +8934,9 @@
   "Francisco_de_S%C3%A1_Carneiro_Airport": [
     "Domodedovo_International_Airport"
   ],
+  "Pulkovo_International_Airport": [
+    "Kigali_International_Airport"
+  ],
   "Kigali_International_Airport": [
     "L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport"
   ],
@@ -8967,9 +8966,19 @@
   "Madrid-Barajas_Airport": [
     "M%C3%A1laga_Airport"
   ],
+  "Palma_Airport": [
+    "Seville_Airport"
+  ],
   "Seville_Airport": [
-    "Gothenburg-Landvetter_Airport",
     "Tenerife_South_Airport"
+  ],
+  "Tenerife_South_Airport": [
+    "Gran_Canaria_Airport",
+    "Z%C3%BCrich_Airport"
+  ],
+  "Gran_Canaria_Airport": [
+    "Gothenburg-Landvetter_Airport",
+    "Palma_de_Mallorca_Airport"
   ],
   "Gothenburg-Landvetter_Airport": [
     "Stockholm-Bromma_Airport",
@@ -9039,9 +9048,6 @@
   ],
   "Greece": [
     "Greece"
-  ],
-  "Hungary": [
-    "Hungary"
   ],
   "Israel": [
     "Israel"
@@ -9187,6 +9193,9 @@
   "Calbayog": [
     "Calbayog_Airport"
   ],
+  "Metro_Cebu": [
+    "Mactan-Cebu_International_Airport"
+  ],
   "Iloilo_City": [
     "Iloilo_International_Airport"
   ],
@@ -9234,7 +9243,7 @@
   "Subic_Bay": [
     "Subic_Bay_International_Airport"
   ],
-  "Tablas": [
+  "Tablas_Island": [
     "Tugdan_Airport"
   ],
   "Tandag,_Surigao_del_Sur": [
@@ -10169,7 +10178,7 @@
   "Ibrahim_Nasir_International_Airport": [
     "Sir_Seewoosagur_Ramgoolam_International_Airport",
     "Nouakchott_International_Airport",
-    "Guadalajara_International_Airport",
+    "Miguel_Hidalgo_y_Costilla_International_Airport",
     "Muscat_International_Airport"
   ],
   "Sir_Seewoosagur_Ramgoolam_International_Airport": [
@@ -10198,16 +10207,10 @@
   "Ibiza_Airport": [
     "Gran_Canaria_Airport"
   ],
-  "Gran_Canaria_Airport": [
-    "Palma_de_Mallorca_Airport"
-  ],
-  "Tenerife_South_Airport": [
-    "Z%C3%BCrich_Airport"
-  ],
   "Z%C3%BCrich_Airport": [
     "Phuket_International_Airport",
     "Damascus_International_Airport",
-    "Taoyuan_International_Airport"
+    "Taiwan_Taoyuan_International_Airport"
   ],
   "Phuket_International_Airport": [
     "Antalya_Airport",
@@ -10485,9 +10488,6 @@
   ],
   "Wacca_Airport": [
     "Charles_de_Gaulle_Airport"
-  ],
-  "Antanarivo": [
-    "Ivato_International_Airport"
   ],
   "Pointe_Noire_Airport": [
     "Sheremetyevo_International_Airport"
@@ -11278,11 +11278,6 @@
     "Kushok_Bakula_Rimpochee_Airport",
     "Leh_Kushok_Bakula_Rimpochee_Airport"
   ],
-  "Srinagar": [
-    "Sheikh_ul_Alam_Airport",
-    "Srinagar_Airport",
-    "Srinagar_International_Airport"
-  ],
   "Ranchi": [
     "Birsa_Munda_Airport"
   ],
@@ -11328,9 +11323,6 @@
   "Dehradun": [
     "Jolly_Grant_Airport"
   ],
-  "Bagdogra": [
-    "Bagdogra_Airport"
-  ],
   "Vadodara": [
     "Civil_Airport_Harni"
   ],
@@ -11349,9 +11341,6 @@
   "Gorgan": [
     "Gorgan_Airport"
   ],
-  "Jam,_Iran": [
-    "Jam_Airport"
-  ],
   "Kerman": [
     "Kerman_Airport"
   ],
@@ -11366,9 +11355,6 @@
     "Kish_International_Airport",
     "Kish_Airport"
   ],
-  "Lavan_Island": [
-    "Lavan_Airport"
-  ],
   "Qeshm": [
     "Dayrestan_Airport"
   ],
@@ -11380,9 +11366,6 @@
   ],
   "Shahrekord": [
     "Shahrekord_Airport"
-  ],
-  "Sirri_Island": [
-    "Iran"
   ],
   "Urmia": [
     "Urmia_Airport"
@@ -11885,7 +11868,7 @@
   "Brisbane_Airport": [
     "Sydney_Airport"
   ],
-  "Campinas_International_Airport": [
+  "Viracopos-Campinas_International_Airport": [
     "Phnom_Penh_International_Airport"
   ],
   "Phnom_Penh_International_Airport": [
@@ -12000,7 +11983,7 @@
   "Penang_International_Airport": [
     "Ibrahim_Nasir_International_Airport"
   ],
-  "Guadalajara_International_Airport": [
+  "Miguel_Hidalgo_y_Costilla_International_Airport": [
     "Chinggis_Khaan_International_Airport"
   ],
   "Chinggis_Khaan_International_Airport": [
@@ -12064,10 +12047,11 @@
   "Barcelona%E2%80%93El_Prat_Airport": [
     "Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport"
   ],
-  "Stockholm_Arlanda_Airport": [
-    "EuroAirport_Basel-Mulhouse-Freiburg"
+  "Stockholm-Arlanda_Airport": [
+    "EuroAirport_Basel-Mulhouse-Freiburg",
+    "Stokmarknes_Airport,_Skagen"
   ],
-  "Taoyuan_International_Airport": [
+  "Taiwan_Taoyuan_International_Airport": [
     "Suvarnabhumi_Airport"
   ],
   "Chiang_Mai_International_Airport": [
@@ -12100,18 +12084,9 @@
   "Da_Nang_International_Airport": [
     "Noi_Bai_International_Airport"
   ],
-  "Cairns_Airport": [
-    "Melbourne_Airport"
-  ],
   "S%C3%A3o_Paulo-Guarulhos_International_Airport": [
-    "Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport",
+    "Munich_Airport",
     "Singapore_Changi_Airport"
-  ],
-  "Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport": [
-    "Orly_Airport"
-  ],
-  "Orly_Airport": [
-    "Munich_Airport"
   ],
   "Hang_Nadim_Airport": [
     "Mehrabad_International_Airport"
@@ -12120,12 +12095,6 @@
     "Baghdad_International_Airport"
   ],
   "Kumamoto_Airport": [
-    "Nagoya_Airfield"
-  ],
-  "Nagoya_Airfield": [
-    "Itami_Airport"
-  ],
-  "Itami_Airport": [
     "Jomo_Kenyatta_International_Airport"
   ],
   "Senai_International_Airport": [
@@ -12162,9 +12131,6 @@
     "Gothenburg-Landvetter_Airport"
   ],
   "Lule%C3%A5_Airport": [
-    "Don_Mueang_International_Airport"
-  ],
-  "Don_Mueang_International_Airport": [
     "Abu_Dhabi_International_Airport"
   ],
   "Denver_International_Airport": [
@@ -12428,6 +12394,9 @@
   "Tarakan": [
     "Juwata_International_Airport"
   ],
+  "Trang,_Thailand": [
+    "Trang_Airport"
+  ],
   "Tolitoli_Regency": [
     "Sultan_Bantilan_Airport"
   ],
@@ -12578,6 +12547,12 @@
   "Los_Mochis,_Sinaloa": [
     "Federal_del_Valle_del_Fuerte_International_Airport"
   ],
+  "Khanbogd,_%C3%96mn%C3%B6govi": [
+    "Khanbumbat_Airport"
+  ],
+  "Ulan-Bator": [
+    "Chinggis_Khaan_International_Airport"
+  ],
   "Altai": [
     "Altai_Airport"
   ],
@@ -12587,17 +12562,11 @@
   "Bulgan": [
     "Bulgan_Airport"
   ],
-  "Khanbogd,_%C3%96mn%C3%B6govi": [
-    "Khanbumbat_Airport"
-  ],
-  "Khovd": [
+  "Khovd_(city)": [
     "Khovd_Airport"
   ],
   "M%C3%B6r%C3%B6n": [
     "M%C3%B6r%C3%B6n_Airport"
-  ],
-  "Ulan-Bator": [
-    "Chinggis_Khaan_International_Airport"
   ],
   "Burgas_Airport": [
     "Sofia_Airport"
@@ -12732,6 +12701,9 @@
   ],
   "Paros": [
     "Paros_National_Airport"
+  ],
+  "Skyros": [
+    "Skyros_Island_National_Airport"
   ],
   "Olympic_Airlines": [
     "Flag_carrier"
@@ -12906,9 +12878,6 @@
   ],
   "Caticlan": [
     "Godofredo_P._Ramos_Airport"
-  ],
-  "Tablas_Island": [
-    "Tugdan_Airport"
   ],
   "Rock_Sound": [
     "Rock_Sound_International_Airport"
@@ -13920,6 +13889,9 @@
   "Belgaum_Airport": [
     "Mangalore_International_Airport"
   ],
+  "Mangalore_International_Airport": [
+    "Cochin_International_Airport"
+  ],
   "Pune_International_Airport": [
     "Sri_Guru_Ram_Dass_Jee_International_Airport"
   ],
@@ -14236,9 +14208,6 @@
   "Tak_(town)": [
     "Tak_Airport"
   ],
-  "Trang,_Thailand": [
-    "Trang_Airport"
-  ],
   "Vientiene": [
     "Wattay_International_Airport"
   ],
@@ -14457,9 +14426,6 @@
   ],
   "Mesa_Airlines": [
     "LaGuardia_Airport"
-  ],
-  "Dushanbe_International_Airport": [
-    "Enfidha-Hammamet_International_Airport"
   ],
   "Kaluga": [
     "Grabtsevo_Airport"
@@ -14830,9 +14796,6 @@
   ],
   "Stavanger_Airport,_Sola": [
     "Stockholm-Arlanda_Airport"
-  ],
-  "Stockholm-Arlanda_Airport": [
-    "Stokmarknes_Airport,_Skagen"
   ],
   "Stokmarknes_Airport,_Skagen": [
     "Svolv%C3%A6r_Airport,_Helle"

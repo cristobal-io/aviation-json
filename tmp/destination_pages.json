@@ -1715,11 +1715,6 @@
     "scraper": "default"
   },
   {
-    "name": "SN Brussels Airlines",
-    "destinationsLink": "/wiki/SN_Brussels_Airlines_destinations",
-    "scraper": "default"
-  },
-  {
     "name": "Solomon Airlines",
     "destinationsLink": "/wiki/Solomon_Airlines_destinations",
     "scraper": "table"

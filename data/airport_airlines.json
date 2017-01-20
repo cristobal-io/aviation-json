@@ -271,7 +271,6 @@
     "Saudia",
     "Scandinavian Airlines",
     "Singapore Airlines Cargo",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Swiss Global Air Lines",
@@ -368,7 +367,6 @@
     "Scandinavian Airlines",
     "Singapore Airlines Cargo",
     "SkyEurope",
-    "SN Brussels Airlines",
     "South African Airways",
     "Swiss International Air Lines",
     "Syrian Air",
@@ -486,7 +484,6 @@
     "Norwegian Air Shuttle",
     "Olympic Airlines",
     "Oman Air",
-    "Pakistan International Airlines",
     "Panair do Brasil",
     "Pegasus Airlines",
     "Philippine Airlines",
@@ -501,7 +498,6 @@
     "SAS Group",
     "Saudia",
     "Scandinavian Airlines",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Star1 Airlines",
@@ -573,7 +569,6 @@
     "Iraqi Airways",
     "Jet2.com",
     "KLM",
-    "Korean Air",
     "Montenegro Airlines",
     "Nigeria Airways",
     "Norwegian Air Shuttle",
@@ -689,7 +684,6 @@
     "Scandinavian Airlines",
     "Shaheen Air",
     "SkyEurope",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Swiss Global Air Lines",
@@ -850,7 +844,6 @@
     "Scandinavian Airlines",
     "Singapore Airlines Cargo",
     "SkyWork Airlines",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Star1 Airlines",
@@ -896,7 +889,6 @@
     "Nordic Regional Airlines",
     "Northwest Airlines",
     "Régional Compagnie Aérienne Européenne",
-    "SN Brussels Airlines",
     "Sudan Airways",
     "Syphax Airlines",
     "TACV",
@@ -1092,7 +1084,6 @@
     "Saudia",
     "Scandinavian Airlines",
     "SkyWork Airlines",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Swiss International Air Lines",
@@ -1869,6 +1860,7 @@
     "Airways International Cymru",
     "Alitalia",
     "British Airways",
+    "Brussels Airlines",
     "Centralwings",
     "Cimber Sterling",
     "EasyJet",
@@ -2118,6 +2110,7 @@
     "Czech Airlines",
     "EasyJet",
     "El Al",
+    "Emirates",
     "Etihad Airways",
     "Finnair",
     "Flydubai",
@@ -2664,7 +2657,6 @@
     "Régional Compagnie Aérienne Européenne",
     "Royal Air Maroc",
     "Ryanair",
-    "SN Brussels Airlines",
     "Star1 Airlines",
     "Syphax Airlines",
     "TAP Portugal",
@@ -2817,12 +2809,14 @@
     "Arkia",
     "Austrian Airlines",
     "Azerbaijan Airlines",
+    "Belavia",
     "British Midland International",
     "British Airways",
     "China Southern Airlines",
     "Czech Airlines",
     "Etihad Airways",
     "Flydubai",
+    "Gulf Air",
     "Iraqi Airways",
     "Israir Airlines",
     "KLM",
@@ -2901,7 +2895,6 @@
     "SAS Group",
     "Scandinavian Airlines",
     "SkyWork Airlines",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Swiss International Air Lines",
@@ -2916,6 +2909,7 @@
   "Hannover_Airport": [
     "Aegean Airlines",
     "Air Astana",
+    "Air Berlin",
     "Air VIA",
     "Alitalia",
     "ASL Airlines Belgium",
@@ -3012,7 +3006,6 @@
     "Novair",
     "Olympic Air",
     "Olympic Airlines",
-    "Pakistan International Airlines",
     "Pegasus Airlines",
     "Pulkovo",
     "Qatar Airways",
@@ -3147,12 +3140,6 @@
     "TUIfly Belgium",
     "Volotea",
     "Vueling"
-  ],
-  "Skyros_Island_National_Airport": [
-    "Aegean Airlines",
-    "Olympic Air",
-    "Olympic Airlines",
-    "Sky Express (Greece)"
   ],
   "Thessaloniki_Airport": [
     "Aegean Airlines",
@@ -3778,7 +3765,6 @@
     "SAS Commuter",
     "SAS Group",
     "Scandinavian Airlines",
-    "SN Brussels Airlines",
     "Swiss International Air Lines",
     "TAP Portugal",
     "Thai Airways",
@@ -3948,7 +3934,6 @@
     "Royal Jordanian",
     "S7 Airlines",
     "Singapore Airlines Cargo",
-    "SN Brussels Airlines",
     "Swiss International Air Lines",
     "TAP Portugal",
     "Tatarstan Airlines",
@@ -4057,6 +4042,7 @@
     "Philippine Airlines",
     "Royal Air Maroc",
     "Royal Brunei Airlines",
+    "Royal Jordanian",
     "Scandinavian Airlines",
     "Scoot",
     "Shaheen Air",
@@ -4252,7 +4238,6 @@
     "Germania",
     "Germanwings",
     "Iberia",
-    "Korean Air",
     "Norwegian Air Shuttle",
     "Pegasus Airlines",
     "Royal Air Maroc",
@@ -4461,7 +4446,6 @@
     "Norwegian Air Shuttle",
     "Qatar Airways",
     "Ryanair",
-    "SN Brussels Airlines",
     "Swiss Global Air Lines",
     "Thomas Cook Airlines",
     "Turkish Airlines",
@@ -4653,7 +4637,6 @@
     "Luxair",
     "Norwegian Air Shuttle",
     "Portugália",
-    "SN Brussels Airlines",
     "Spanair",
     "Swiss Global Air Lines",
     "Swiss International Air Lines",
@@ -4721,7 +4704,6 @@
     "KLM",
     "Lufthansa",
     "Ryanair",
-    "SN Brussels Airlines",
     "Thomas Cook Airlines",
     "WOW air"
   ],
@@ -4924,6 +4906,7 @@
     "Air Nostrum",
     "Alitalia",
     "British Airways",
+    "Brussels Airlines",
     "Condor Flugdienst",
     "EasyJet",
     "EasyJet Switzerland",
@@ -5059,18 +5042,6 @@
     "Emirates",
     "Monarch Airlines",
     "Primera Air Destinations"
-  ],
-  "Liverpool_John_Lennon_Airport": [
-    "Aer Lingus",
-    "Blue Air",
-    "British Airways",
-    "Czech Airlines",
-    "EasyJet",
-    "List of KLM Cityhopper",
-    "KLM",
-    "Ryanair",
-    "Vueling",
-    "Wizz Air"
   ],
   "M%C3%A1laga_Airport": [
     "Aer Lingus",
@@ -5212,7 +5183,6 @@
     "Norwegian Air Shuttle",
     "Ryanair",
     "SAS Group",
-    "SN Brussels Airlines",
     "TAP Portugal",
     "Thomas Cook Airlines",
     "United Airlines",
@@ -6687,7 +6657,6 @@
     "Luxair",
     "Monarch Airlines",
     "Neos",
-    "Niki",
     "Norwegian Air Shuttle",
     "Palmair",
     "Portugália",
@@ -6784,7 +6753,6 @@
     "Panair do Brasil",
     "Scandinavian Airlines",
     "SCAT Air",
-    "SN Brussels Airlines",
     "TAROM",
     "Tatarstan Airlines",
     "Travel Service Airlines",
@@ -6818,7 +6786,6 @@
     "Germanwings",
     "Holidays Czech Airlines",
     "LTU International",
-    "Niki",
     "Olympic Air",
     "Olympic Airlines",
     "SmartWings and Travel Service",
@@ -6980,7 +6947,6 @@
     "Scandinavian Airlines",
     "Skyservice",
     "SmartWings and Travel Service",
-    "SN Brussels Airlines",
     "South African Airways",
     "Spanair",
     "Sun D'Or",
@@ -7916,7 +7882,6 @@
     "Ethiopian Airlines",
     "Flydubai",
     "Kenya Airways",
-    "SN Brussels Airlines",
     "South African Airways"
   ],
   "Canc%C3%BAn_International_Airport": [
@@ -8017,7 +7982,6 @@
     "Royal Air Maroc",
     "Royal Jordanian",
     "Saudia",
-    "SN Brussels Airlines",
     "Swiss International Air Lines",
     "Syphax Airlines",
     "TAP Portugal",
@@ -8061,7 +8025,6 @@
     "KLM",
     "Nigeria Airways",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "Turkish Airlines"
   ],
   "Cadjehoun_Airport": [
@@ -8527,7 +8490,8 @@
     "Pegasus Airlines",
     "Ryanair",
     "Transaero",
-    "Ural Airlines"
+    "Ural Airlines",
+    "Wizz Air"
   ],
   "Entebbe_International_Airport": [
     "Aeroflot",
@@ -8551,7 +8515,6 @@
     "Martinair Cargo",
     "Precision Air",
     "Qatar Airways",
-    "SN Brussels Airlines",
     "South African Airways",
     "Sudan Airways",
     "Turkish Airlines"
@@ -8570,8 +8533,7 @@
     "Kenya Airways",
     "KLM",
     "Nigeria Airways",
-    "Royal Air Maroc",
-    "SN Brussels Airlines"
+    "Royal Air Maroc"
   ],
   "Gelendzhik_Airport": [
     "Aeroflot",
@@ -8607,7 +8569,6 @@
     "SAS Commuter",
     "SAS Group",
     "Scandinavian Airlines",
-    "SN Brussels Airlines",
     "Swiss Global Air Lines",
     "Swiss International Air Lines",
     "TAP Portugal",
@@ -9161,6 +9122,7 @@
     "Philippine Airlines",
     "Qantas",
     "Qatar Airways",
+    "Royal Jordanian",
     "Saudia",
     "Scandinavian Airlines",
     "Shaheen Air",
@@ -9311,7 +9273,6 @@
     "KLM",
     "Martinair Cargo",
     "Qatar Airways",
-    "SN Brussels Airlines",
     "South African Airways",
     "Turkish Airlines"
   ],
@@ -9586,7 +9547,6 @@
     "Lufthansa",
     "Nigeria Airways",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "South African Airways",
     "TAAG Angola Airlines",
     "TAP Portugal",
@@ -9654,7 +9614,6 @@
     "Portugália",
     "Régional Compagnie Aérienne Européenne",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "Spanair",
     "Swiss Global Air Lines",
     "Swiss International Air Lines",
@@ -10076,7 +10035,6 @@
     "Jat Airways",
     "Jazz Aviation",
     "KLM",
-    "Korean Air",
     "Lufthansa CityLine",
     "Lufthansa",
     "Olympic Airlines",
@@ -10275,7 +10233,6 @@
     "Saudia",
     "Scandinavian Airlines",
     "Singapore Airlines Cargo",
-    "SN Brussels Airlines",
     "South African Airways",
     "Sudan Airways",
     "Swiss International Air Lines",
@@ -10369,6 +10326,7 @@
   ],
   "Noyabrsk_Airport": [
     "Aeroflot",
+    "S7 Airlines",
     "UTair Aviation"
   ],
   "Odessa_International_Airport": [
@@ -10772,7 +10730,6 @@
     "SkyEurope",
     "Skyservice",
     "SmartWings and Travel Service",
-    "SN Brussels Airlines",
     "South African Airways",
     "Sudan Airways",
     "Swiss Global Air Lines",
@@ -10968,6 +10925,7 @@
   ],
   "Incheon_International_Airport": [
     "Aeroflot",
+    "Aeroméxico",
     "Air Astana",
     "Air Canada",
     "Air China",
@@ -11308,6 +11266,7 @@
     "Jat Airways",
     "Kenya Airways",
     "KLM",
+    "Korean Air",
     "LOT Polish Airlines",
     "Lufthansa",
     "Malaysia Airlines",
@@ -11513,7 +11472,6 @@
     "Lion Air Group",
     "LOT Polish Airlines",
     "Lufthansa Cargo",
-    "Lufthansa",
     "Malaysia Airlines",
     "MIAT Mongolian Airlines",
     "Northwest Airlines",
@@ -12398,9 +12356,7 @@
     "China Eastern Airlines",
     "List of Cathay Dragon",
     "Garuda Indonesia",
-    "Korean Air",
     "Malaysia Airlines",
-    "Philippine Airlines",
     "United Airlines",
     "Varig"
   ],
@@ -12473,7 +12429,6 @@
     "Clickair",
     "SAS Braathens",
     "Skyservice",
-    "SN Brussels Airlines",
     "Spanair",
     "Transavia France",
     "Virgin Express"
@@ -12632,7 +12587,6 @@
   "Guadalajara_International_Airport": [
     "Aeromar",
     "American Airlines",
-    "Korean Air",
     "Lufthansa Cargo",
     "MexicanaLink",
     "VivaAerobús",
@@ -13187,7 +13141,6 @@
     "Lufthansa",
     "Northwest Airlines",
     "Pan Am",
-    "Royal Jordanian",
     "SkyWest Airlines",
     "Southwest Airlines",
     "Spirit Airlines",
@@ -13266,6 +13219,7 @@
     "Cathay Pacific",
     "Copa Airlines",
     "Delta Air Lines",
+    "Korean Air",
     "United Airlines",
     "US Airways"
   ],
@@ -13589,7 +13543,6 @@
     "America West Airlines",
     "America West Express",
     "American Airlines",
-    "American Eagle Airlines",
     "Continental Airlines",
     "Delta Air Lines",
     "Delta Connection",
@@ -13661,7 +13614,6 @@
     "Iran Air",
     "Kenya Airways",
     "KLM",
-    "Korean Air",
     "Norwegian Air Shuttle",
     "Pegasus Airlines",
     "Rossiya",
@@ -14264,8 +14216,7 @@
   "Malpensa_International_Airport": [
     "Aerosvit",
     "Airways International Cymru",
-    "Pulkovo",
-    "SN Brussels Airlines"
+    "Pulkovo"
   ],
   "Naples_Airport": [
     "Aerosvit",
@@ -14326,6 +14277,7 @@
     "Turkish Airlines",
     "Turkmenistan Airlines",
     "Ukraine International Airlines",
+    "Wizz Air",
     "Wizz Air Ukraine"
   ],
   "Sevastopol_International_Airport": [
@@ -14514,8 +14466,7 @@
   "Francisco_S%C3%A1_Carneiro_Airport": [
     "Aigle Azur",
     "Air Berlin",
-    "Portugália",
-    "SN Brussels Airlines"
+    "Portugália"
   ],
   "Port_Bouet_Airport": [
     "Air Algérie",
@@ -14537,7 +14488,6 @@
     "Middle East Airlines",
     "Nigeria Airways",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "South African Airways",
     "TAP Portugal",
     "Tunisair",
@@ -14852,6 +14802,7 @@
     "Transaero",
     "Turkish Airlines",
     "Ukraine International Airlines",
+    "Ural Airlines",
     "Uzbekistan Airways"
   ],
   "Kempegowda_International_Airport": [
@@ -15373,6 +15324,7 @@
     "Gulf Air",
     "Pakistan International Airlines",
     "Qatar Airways",
+    "Saudia",
     "Shaheen Air"
   ],
   "Chatrapati_Shivaji_International_Airport": [
@@ -15451,6 +15403,7 @@
     "Bahrain Air",
     "Flydubai",
     "Gulf Air",
+    "Iran Air",
     "Iraqi Airways",
     "Jazeera Airways",
     "Kuwait Airways",
@@ -15849,19 +15802,6 @@
     "TUIfly Belgium",
     "TUIfly"
   ],
-  "Al_Massira_Airport": [
-    "Air Berlin",
-    "ASL Airlines Belgium",
-    "British Airways",
-    "First Choice Airways",
-    "Hello",
-    "Niki",
-    "Pulkovo",
-    "Transavia France",
-    "Travel Service Airlines",
-    "TUIfly",
-    "Ukraine International Airlines"
-  ],
   "Juan_Gualberto_G%C3%B3mez_Airport": [
     "Air Berlin",
     "Air Canada",
@@ -15935,21 +15875,6 @@
     "Lufthansa",
     "Turkish Airlines"
   ],
-  "C%C3%B4te_d%27Azur_Airport": [
-    "Air Berlin",
-    "Baboo",
-    "Flyglobespan",
-    "Monarch Airlines",
-    "Portugália",
-    "Rossiya",
-    "SAS Braathens",
-    "SAS Group",
-    "Spanair",
-    "Star1 Airlines",
-    "Syphax Airlines",
-    "Travel Service Airlines",
-    "Virgin Express"
-  ],
   "Nuremberg_Airport": [
     "Air Berlin",
     "Air France",
@@ -15992,12 +15917,6 @@
     "Lufthansa CityLine",
     "Lufthansa"
   ],
-  "Araxos_Airport": [
-    "Air Berlin",
-    "Austrian Airlines",
-    "Niki",
-    "Transaero"
-  ],
   "Budapest_Liszt_Ferenc_International_Airport": [
     "Air Berlin",
     "Air France",
@@ -16027,18 +15946,14 @@
     "MyAir",
     "SkyEurope"
   ],
-  "Cagliari-Elmas_Airport": [
+  "Bologna_Airport": [
     "Air Berlin",
-    "Air Dolomiti",
-    "Air One",
-    "Alitalia",
+    "Air Moldova",
     "ASL Airlines Belgium",
-    "British Airways",
-    "Lufthansa CityLine",
-    "Lufthansa",
-    "Luxair",
-    "SkyWork Airlines",
-    "Travel Service Airlines"
+    "Belle Air",
+    "Danube Wings",
+    "Emirates",
+    "MyAir"
   ],
   "Peretola_Airport": [
     "Air Berlin",
@@ -16053,9 +15968,7 @@
     "Lufthansa CityLine",
     "Lufthansa",
     "Meridiana",
-    "Niki",
     "SAS Group",
-    "SN Brussels Airlines",
     "Swiss Global Air Lines"
   ],
   "Olbia_-_Costa_Smeralda_Airport": [
@@ -16066,14 +15979,6 @@
     "Transavia France",
     "Travel Service Airlines",
     "Volotea"
-  ],
-  "Federico_Fellini_International_Airport": [
-    "Air Berlin",
-    "Alitalia",
-    "Neos",
-    "Pulkovo",
-    "Thomas Cook Airlines Belgium",
-    "Yakutia"
   ],
   "Jo%C3%A3o_Paulo_II_Airport": [
     "Air Berlin",
@@ -16091,49 +15996,6 @@
   "El_Matorral_Airport": [
     "Air Berlin",
     "Niki"
-  ],
-  "Barajas_Airport": [
-    "Air Berlin",
-    "Air Polonia",
-    "ASL Airlines Belgium",
-    "Azores Airlines",
-    "Malév Hungarian Airlines",
-    "MyAir",
-    "Nigeria Airways",
-    "PLUNA",
-    "Royal Air Maroc",
-    "SAS Braathens",
-    "SN Brussels Airlines",
-    "Spanair",
-    "Travel Service Airlines"
-  ],
-  "Menorca_Airport": [
-    "Air Berlin",
-    "Air Europa",
-    "Air Nostrum",
-    "Air One",
-    "BA CityFlyer",
-    "Blue Air",
-    "Blue Panorama",
-    "British Airways",
-    "Condor Flugdienst",
-    "EasyJet",
-    "First Choice Airways",
-    "Jet2.com",
-    "Meridiana",
-    "Monarch Airlines",
-    "Niki",
-    "Norwegian Air Shuttle",
-    "Palmair",
-    "Ryanair",
-    "SkyWork Airlines",
-    "Thomas Cook Airlines Belgium",
-    "Thomas Cook Airlines",
-    "TUI Airlines Netherlands",
-    "TUIfly Belgium",
-    "TUIfly",
-    "Volotea",
-    "Vueling"
   ],
   "La_Palma_Airport": [
     "Air Berlin",
@@ -16219,6 +16081,21 @@
     "Monarch Airlines",
     "Niki"
   ],
+  "C%C3%B4te_d%27Azur_Airport": [
+    "Air Berlin",
+    "Baboo",
+    "Flyglobespan",
+    "Monarch Airlines",
+    "Portugália",
+    "Rossiya",
+    "SAS Braathens",
+    "SAS Group",
+    "Spanair",
+    "Star1 Airlines",
+    "Syphax Airlines",
+    "Travel Service Airlines",
+    "Virgin Express"
+  ],
   "Memmingen_Airport": [
     "Air Berlin",
     "Germanwings",
@@ -16252,6 +16129,12 @@
     "Air Berlin",
     "BA CityFlyer"
   ],
+  "Araxos_Airport": [
+    "Air Berlin",
+    "Austrian Airlines",
+    "Niki",
+    "Transaero"
+  ],
   "Volos_Airport": [
     "Air Berlin"
   ],
@@ -16260,6 +16143,27 @@
     "Air France",
     "British Airways",
     "KLM"
+  ],
+  "Cagliari-Elmas_Airport": [
+    "Air Berlin",
+    "Air Dolomiti",
+    "Air One",
+    "Alitalia",
+    "ASL Airlines Belgium",
+    "British Airways",
+    "Lufthansa CityLine",
+    "Lufthansa",
+    "Luxair",
+    "SkyWork Airlines",
+    "Travel Service Airlines"
+  ],
+  "Federico_Fellini_International_Airport": [
+    "Air Berlin",
+    "Alitalia",
+    "Neos",
+    "Pulkovo",
+    "Thomas Cook Airlines Belgium",
+    "Yakutia"
   ],
   "Verona_Airport": [
     "Air Berlin",
@@ -16281,6 +16185,19 @@
   ],
   "Skopje_Airport": [
     "Air Berlin"
+  ],
+  "Al_Massira_Airport": [
+    "Air Berlin",
+    "ASL Airlines Belgium",
+    "British Airways",
+    "First Choice Airways",
+    "Hello",
+    "Niki",
+    "Pulkovo",
+    "Transavia France",
+    "Travel Service Airlines",
+    "TUIfly",
+    "Ukraine International Airlines"
   ],
   "Lajes_Field": [
     "Air Berlin",
@@ -16308,6 +16225,34 @@
   ],
   "Don_Quijote_Airport": [
     "Air Berlin"
+  ],
+  "Menorca_Airport": [
+    "Air Berlin",
+    "Air Europa",
+    "Air Nostrum",
+    "Air One",
+    "BA CityFlyer",
+    "Blue Air",
+    "Blue Panorama",
+    "British Airways",
+    "Condor Flugdienst",
+    "EasyJet",
+    "First Choice Airways",
+    "Jet2.com",
+    "Meridiana",
+    "Monarch Airlines",
+    "Niki",
+    "Norwegian Air Shuttle",
+    "Palmair",
+    "Ryanair",
+    "SkyWork Airlines",
+    "Thomas Cook Airlines Belgium",
+    "Thomas Cook Airlines",
+    "TUI Airlines Netherlands",
+    "TUIfly Belgium",
+    "TUIfly",
+    "Volotea",
+    "Vueling"
   ],
   "Murcia_San_Javier_Airport": [
     "Air Berlin"
@@ -17504,7 +17449,6 @@
     "China Cargo Airlines",
     "Emirates",
     "Japan Airlines",
-    "Korean Air",
     "Lion Air Group",
     "Singapore Airlines Cargo",
     "Transaero",
@@ -18678,6 +18622,7 @@
     "Hainan Airlines",
     "Hong Kong Airlines",
     "Jetstar Asia Airways",
+    "Lion Air Group",
     "Sichuan Airlines",
     "Tianjin Airlines",
     "Tigerair",
@@ -18732,6 +18677,7 @@
   "Pulkovo_International_Airport": [
     "Air China",
     "Arkia",
+    "Brussels Airlines",
     "Lufthansa",
     "S7 Airlines"
   ],
@@ -19262,6 +19208,7 @@
     "Hainan Airlines",
     "Hong Kong Airlines",
     "Korean Air",
+    "Lion Air Group",
     "Royal Brunei Airlines",
     "Shenzhen Airlines",
     "Sichuan Airlines",
@@ -19414,7 +19361,6 @@
     "Brussels Airlines",
     "Condor Flugdienst",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "Thomas Cook Airlines",
     "Transavia",
     "TUI Airlines Netherlands",
@@ -19525,7 +19471,6 @@
     "Livingston Energy Flight",
     "Neos",
     "SmartWings and Travel Service",
-    "SN Brussels Airlines",
     "Spanair",
     "TAP Portugal",
     "Transavia",
@@ -19797,6 +19742,7 @@
     "Air France",
     "Alitalia",
     "Gol Transportes Aéreos",
+    "Korean Air",
     "LATAM Brasil",
     "Lufthansa Cargo",
     "Lufthansa",
@@ -20016,7 +19962,6 @@
     "Lufthansa",
     "Nigeria Airways",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "South African Airways",
     "TAAG Angola Airlines",
     "TAP Portugal",
@@ -20148,7 +20093,6 @@
     "Nigeria Airways",
     "Panair do Brasil",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "Varig"
   ],
   "Prince_Said_Ibrahim_International_Airport": [
@@ -20178,7 +20122,6 @@
   "Nagoya_Airfield": [
     "Air France",
     "Japan Airlines",
-    "Korean Air",
     "Varig"
   ],
   "La_Tontouta_International_Airport": [
@@ -20278,7 +20221,6 @@
     "Lufthansa",
     "Nouvelair",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "TAROM",
     "Tunisair"
   ],
@@ -20374,7 +20316,6 @@
     "Ethiopian Airlines",
     "Kenya Airways",
     "Royal Air Maroc",
-    "SN Brussels Airlines",
     "Turkish Airlines"
   ],
   "King_Fahd_International_Airport": [
@@ -20665,7 +20606,8 @@
   ],
   "Surat_Airport": [
     "Air India",
-    "Air India Regional"
+    "Air India Regional",
+    "SpiceJet"
   ],
   "Vadodara_Airport": [
     "Air India"
@@ -20698,12 +20640,8 @@
     "Kingfisher Airlines",
     "Simplifly Deccan"
   ],
-  "Mangalore_International_Airport": [
-    "Air India",
-    "Indian",
-    "Jet Airways",
-    "Simplifly Deccan",
-    "SpiceJet"
+  "Mangaluru_Airport": [
+    "Air India"
   ],
   "Raja_Bhoj_Airport": [
     "Air India",
@@ -20719,7 +20657,7 @@
     "Kingfisher Airlines",
     "Simplifly Deccan"
   ],
-  "Khajuraho_Civil_Aerodrome": [
+  "Khajuraho_airport": [
     "Air India"
   ],
   "Aurangabad_Airport": [
@@ -20831,6 +20769,7 @@
   ],
   "Bagdogra_Airport": [
     "Air India",
+    "AirAsia Group",
     "Indian",
     "IndiGo",
     "Jet Airways",
@@ -20923,9 +20862,8 @@
     "Kingfisher Airlines",
     "Simplifly Deccan"
   ],
-  "Agatti_Aerodrome": [
-    "Air India Regional",
-    "Kingfisher Airlines"
+  "Agatti_Airport": [
+    "Air India Regional"
   ],
   "Rajmata_Vijaya_Raje_Scindia_Airport": [
     "Air India Regional"
@@ -21078,8 +21016,7 @@
     "Malév Hungarian Airlines",
     "Olympic Airlines",
     "Pulkovo",
-    "Qatar Airways",
-    "SN Brussels Airlines"
+    "Qatar Airways"
   ],
   "Chongjin_Airport": [
     "Air Koryo"
@@ -21171,6 +21108,7 @@
     "Jetstar Asia Airways",
     "Jetstar Pacific",
     "KLM",
+    "Korean Air",
     "Lufthansa",
     "Northwest Airlines",
     "Royal Brunei Airlines",
@@ -21688,14 +21626,6 @@
   "Rhodes_Airport": [
     "Air Moldova"
   ],
-  "Bologna_Airport": [
-    "Air Moldova",
-    "ASL Airlines Belgium",
-    "Belle Air",
-    "Danube Wings",
-    "Emirates",
-    "MyAir"
-  ],
   "Florence_Peretola_Airport": [
     "Air Moldova",
     "BA CityFlyer"
@@ -21823,7 +21753,6 @@
     "Japan Airlines",
     "Jetstar Asia Airways",
     "Jetstar",
-    "Korean Air",
     "Malaysia Airlines",
     "Philippine Airlines",
     "Qantas",
@@ -22509,6 +22438,7 @@
     "ASL Airlines Belgium",
     "Centralwings",
     "Finnair",
+    "List of KLM Cityhopper",
     "LOT Polish Airlines",
     "Lufthansa CityLine",
     "Lufthansa",
@@ -22535,6 +22465,19 @@
     "Scandinavian Airlines",
     "Wizz Air",
     "Wizz Air Ukraine"
+  ],
+  "Barajas_Airport": [
+    "Air Polonia",
+    "ASL Airlines Belgium",
+    "Azores Airlines",
+    "Malév Hungarian Airlines",
+    "MyAir",
+    "Nigeria Airways",
+    "PLUNA",
+    "Royal Air Maroc",
+    "SAS Braathens",
+    "Spanair",
+    "Travel Service Airlines"
   ],
   "Monastir_-_Habib_Bourguiba_International_Airport": [
     "Air Polonia"
@@ -22619,8 +22562,7 @@
     "Monarch Airlines",
     "Neos",
     "Pulkovo",
-    "Skyservice",
-    "SN Brussels Airlines"
+    "Skyservice"
   ],
   "Mal%C3%A9_International_Airport": [
     "Air Seychelles",
@@ -23672,7 +23614,6 @@
     "EgyptAir",
     "Garuda Indonesia",
     "JALways",
-    "Korean Air",
     "Lion Air Group",
     "Malaysia Airlines",
     "Philippine Airlines",
@@ -24094,6 +24035,13 @@
     "SilkAir",
     "Sriwijaya Air"
   ],
+  "Srinagar_Airport": [
+    "AirAsia Group",
+    "IndiGo",
+    "Kingfisher Airlines",
+    "Simplifly Deccan",
+    "SpiceJet"
+  ],
   "Sultan_Abdul_Aziz_Shah_Airport": [
     "AirAsia Group",
     "Balkan Bulgarian Airlines",
@@ -24147,6 +24095,7 @@
   ],
   "Trang_Airport": [
     "AirAsia Group",
+    "Lion Air Group",
     "Thai Airways"
   ],
   "Ubon_Ratchathani_Airport": [
@@ -24717,8 +24666,7 @@
     "List of Braathens",
     "MyAir",
     "Pulkovo",
-    "SAS Commuter",
-    "SN Brussels Airlines"
+    "SAS Commuter"
   ],
   "Southend_Airport": [
     "Airways International Cymru"
@@ -24948,8 +24896,11 @@
     "Alitalia",
     "Turkish Airlines"
   ],
-  "Santa_Maria_Airport": [
-    "Alitalia"
+  "Santa_Maria_Airport_(Azores)": [
+    "Alitalia",
+    "Azores Airlines",
+    "TAP Portugal",
+    "Viasa"
   ],
   "Traian_Vuia_International_Airport": [
     "Alitalia",
@@ -24980,6 +24931,7 @@
   "Detroit_Metropolitan_Airport": [
     "Alitalia",
     "Frontier Airlines",
+    "Royal Jordanian",
     "Virgin Atlantic"
   ],
   "Marseille_Airport": [
@@ -25876,6 +25828,9 @@
     "US Airways",
     "US Airways Express"
   ],
+  "Northern_Kentucky_International_Airport": [
+    "American Airlines"
+  ],
   "Jackson_Hole_Airport": [
     "American Airlines",
     "Delta Air Lines",
@@ -26719,7 +26674,6 @@
     "Finnair",
     "SAS Group",
     "SkyEurope",
-    "SN Brussels Airlines",
     "Volotea",
     "Wind Jet"
   ],
@@ -26764,7 +26718,6 @@
     "Iraqi Airways",
     "Nouvelair",
     "SAS Commuter",
-    "SN Brussels Airlines",
     "Vueling"
   ],
   "Maribor_Edvard_Rusjan_Airport": [
@@ -27457,11 +27410,6 @@
     "SATA Air Açores",
     "TAP Portugal",
     "TUI Airlines Netherlands"
-  ],
-  "Santa_Maria_Airport_(Azores)": [
-    "Azores Airlines",
-    "TAP Portugal",
-    "Viasa"
   ],
   "Humberside_Airport": [
     "Azores Airlines",
@@ -28216,6 +28164,17 @@
     "Blue Air",
     "Ryanair"
   ],
+  "Liverpool_John_Lennon_Airport": [
+    "Blue Air",
+    "British Airways",
+    "Czech Airlines",
+    "EasyJet",
+    "List of KLM Cityhopper",
+    "KLM",
+    "Ryanair",
+    "Vueling",
+    "Wizz Air"
+  ],
   "Milan-Linate": [
     "Blue Air"
   ],
@@ -28324,6 +28283,11 @@
     "British Airways",
     "Cimber Sterling",
     "Nordic Regional Airlines"
+  ],
+  "Landvetter_Airport": [
+    "BMI Regional",
+    "Cimber Sterling",
+    "Nouvelair"
   ],
   "Mahon_Airport": [
     "Bmibaby",
@@ -28458,8 +28422,7 @@
     "Wizz Air"
   ],
   "C%C3%B4te_d%27Azur_International_Airport": [
-    "List of Braathens",
-    "SN Brussels Airlines"
+    "List of Braathens"
   ],
   "Notodden_Airport,_Tuven": [
     "List of Braathens"
@@ -28488,8 +28451,7 @@
     "British Airways franchise",
     "Brussels Airlines",
     "Finnair",
-    "Nordic Regional Airlines",
-    "SN Brussels Airlines"
+    "Nordic Regional Airlines"
   ],
   "Sundsvall-H%C3%A4rn%C3%B6sand_Airport": [
     "List of Braathens",
@@ -28634,6 +28596,10 @@
     "Flybe franchise and codeshare",
     "Loganair"
   ],
+  "City_of_Derry_Airport": [
+    "British Airways",
+    "Ryanair"
+  ],
   "Durban_International_Airport": [
     "British Airways",
     "East African Airways",
@@ -28686,10 +28652,6 @@
     "British Airways",
     "Flybe franchise and codeshare",
     "Loganair"
-  ],
-  "City_of_Derry_Airport": [
-    "British Airways",
-    "Ryanair"
   ],
   "Matsapha_Airport": [
     "British Airways",
@@ -28825,6 +28787,9 @@
     "Brussels Airlines",
     "Novair"
   ],
+  "Palma_Airport": [
+    "Brussels Airlines"
+  ],
   "International_Civil_Aviation_Organization": [
     "Bulgaria Air"
   ],
@@ -28850,9 +28815,6 @@
     "Bulgaria Air"
   ],
   "Greece": [
-    "Bulgaria Air"
-  ],
-  "Hungary": [
     "Bulgaria Air"
   ],
   "Israel": [
@@ -29240,6 +29202,7 @@
   ],
   "Sunan_Shuofang_International_Airport": [
     "China Airlines",
+    "Lion Air Group",
     "Tianjin Airlines",
     "Tigerair",
     "XiamenAir"
@@ -29654,15 +29617,10 @@
     "Cimber Sterling",
     "SATA Air Açores"
   ],
-  "Landvetter_Airport": [
-    "Cimber Sterling",
-    "Nouvelair"
-  ],
   "Helsinki-Vantaa_Airport": [
     "City Airline",
     "Pulkovo",
-    "SAS Commuter",
-    "SN Brussels Airlines"
+    "SAS Commuter"
   ],
   "Moss_Airport,_Rygge": [
     "City Airline",
@@ -30457,8 +30415,7 @@
     "Thomas Cook Airlines Scandinavia"
   ],
   "Douala_Airport": [
-    "Ethiopian Airlines",
-    "SN Brussels Airlines"
+    "Ethiopian Airlines"
   ],
   "Toronto_Pearson_Airport": [
     "Ethiopian Airlines"
@@ -31493,6 +31450,11 @@
   "Augusto_C%C3%A9sar_Sandino_International_Airport": [
     "Iberia"
   ],
+  "Capodichino_Airport": [
+    "Iberia",
+    "Rossiya",
+    "Spanair"
+  ],
   "Vigo_Airport": [
     "Iberia",
     "Portugália",
@@ -31548,6 +31510,12 @@
   "Sheikh_ul_Alam_Airport": [
     "Indian"
   ],
+  "Mangalore_International_Airport": [
+    "Indian",
+    "Jet Airways",
+    "Simplifly Deccan",
+    "SpiceJet"
+  ],
   "Khajuraho_Airport": [
     "Indian",
     "Jet Airways"
@@ -31589,12 +31557,6 @@
     "Jet Airways",
     "Kingfisher Airlines",
     "Simplifly Deccan"
-  ],
-  "Srinagar_Airport": [
-    "IndiGo",
-    "Kingfisher Airlines",
-    "Simplifly Deccan",
-    "SpiceJet"
   ],
   "Kozhikode_International_Airport": [
     "IndiGo"
@@ -31639,9 +31601,6 @@
     "Iran Air",
     "Iran Aseman Airlines"
   ],
-  "Jam_Airport": [
-    "Iran Air"
-  ],
   "Kerman_Airport": [
     "Iran Air",
     "Iran Aseman Airlines",
@@ -31662,9 +31621,6 @@
     "Iran Air",
     "Mahan Air"
   ],
-  "Lavan_Airport": [
-    "Iran Air"
-  ],
   "Dayrestan_Airport": [
     "Iran Air",
     "Iran Aseman Airlines",
@@ -31683,10 +31639,6 @@
   ],
   "Shahrekord_Airport": [
     "Iran Air"
-  ],
-  "Iran": [
-    "Iran Air",
-    "Mahan Air"
   ],
   "Urmia_Airport": [
     "Iran Air",
@@ -32174,6 +32126,9 @@
     "Kenya Airways",
     "LAM Mozambique Airlines"
   ],
+  "Agatti_Aerodrome": [
+    "Kingfisher Airlines"
+  ],
   "Belgaum_Airport": [
     "Kingfisher Airlines",
     "Simplifly Deccan",
@@ -32260,10 +32215,6 @@
     "KLM",
     "Saudia"
   ],
-  "Campinas_International_Airport": [
-    "Korean Air",
-    "Qatar Airways"
-  ],
   "Mudanjiang_Hailang_Airport": [
     "Korean Air"
   ],
@@ -32276,9 +32227,6 @@
   "Navoi_International_Airport": [
     "Korean Air",
     "Uzbekistan Airways"
-  ],
-  "Itami_Airport": [
-    "Korean Air"
   ],
   "Gangneung_Airbase": [
     "Korean Air"
@@ -32720,6 +32668,9 @@
   "Kalaleh_Airport": [
     "Mahan Air"
   ],
+  "Iran": [
+    "Mahan Air"
+  ],
   "Zabol_Airport": [
     "Mahan Air"
   ],
@@ -32815,6 +32766,9 @@
   "Minatitl%C3%A1n/Coatzacoalcos_National_Airport": [
     "MexicanaLink"
   ],
+  "Khanbumbat_Airport": [
+    "MIAT Mongolian Airlines"
+  ],
   "Altai_Airport": [
     "MIAT Mongolian Airlines"
   ],
@@ -32822,9 +32776,6 @@
     "MIAT Mongolian Airlines"
   ],
   "Bulgan_Airport": [
-    "MIAT Mongolian Airlines"
-  ],
-  "Khanbumbat_Airport": [
     "MIAT Mongolian Airlines"
   ],
   "Khovd_Airport": [
@@ -32922,9 +32873,6 @@
   ],
   "Yola_Airport": [
     "Nigeria Airways"
-  ],
-  "International_Airport_of_Central_Greece": [
-    "Niki"
   ],
   "Keflavik_Airport": [
     "Niki"
@@ -33055,6 +33003,11 @@
     "Olympic Air",
     "Olympic Airlines"
   ],
+  "Skyros_Island_National_Airport": [
+    "Olympic Air",
+    "Olympic Airlines",
+    "Sky Express (Greece)"
+  ],
   "Flag_carrier": [
     "Olympic Airlines"
   ],
@@ -33100,6 +33053,9 @@
     "Oman Air"
   ],
   "Baku_International_Airport": [
+    "Pakistan International Airlines"
+  ],
+  "Leipzig": [
     "Pakistan International Airlines"
   ],
   "Kano_International_Airport": [
@@ -33673,6 +33629,9 @@
   "Rotorua_International_Airport": [
     "Qantas"
   ],
+  "Campinas_International_Airport": [
+    "Qatar Airways"
+  ],
   "Canberra_Airport": [
     "Qatar Airways",
     "Virgin Australia"
@@ -33786,10 +33745,6 @@
   ],
   "Catania_Airport": [
     "Rossiya"
-  ],
-  "Capodichino_Airport": [
-    "Rossiya",
-    "Spanair"
   ],
   "Chelyabinsk_Balandino_Airport": [
     "Rossiya"
@@ -33979,8 +33934,7 @@
     "Scandinavian Airlines"
   ],
   "Z%C3%BCrich_International_Airport": [
-    "SAS Commuter",
-    "SN Brussels Airlines"
+    "SAS Commuter"
   ],
   "Keflav%C3%ADk_Airport": [
     "SAS Group"
@@ -34373,24 +34327,6 @@
   ],
   "Page_Municipal_Airport": [
     "SkyWest Airlines"
-  ],
-  "Toulouse_Blagnac_International_Airport": [
-    "SN Brussels Airlines"
-  ],
-  "Tegel": [
-    "SN Brussels Airlines"
-  ],
-  "Bari_International_Airport": [
-    "SN Brussels Airlines"
-  ],
-  "Guglielmo_Marconi_International_Airport": [
-    "SN Brussels Airlines"
-  ],
-  "Turin_International_Airport": [
-    "SN Brussels Airlines"
-  ],
-  "Marco_Polo_International_Airport": [
-    "SN Brussels Airlines"
   ],
   "Uru_Harbour_Airport": [
     "Solomon Airlines"
