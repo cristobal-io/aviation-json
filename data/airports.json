@@ -959,7 +959,7 @@
   "RAF_Leuchars": {
     "latitude": "56°22′23″N",
     "longitude": "002°52′07″W",
-    "name": "",
+    "name": "Leuchars Station",
     "nickname": "EGQL",
     "iata": "",
     "icao": "",
@@ -2117,7 +2117,7 @@
   "RAF_Akrotiri": {
     "latitude": "34°35′26″N",
     "longitude": "032°59′16″E",
-    "name": "",
+    "name": "RAF Akrotiri",
     "nickname": "Near Limassol in Cyprus",
     "iata": "",
     "icao": "",
@@ -2580,7 +2580,7 @@
   "Ambatomainty_Airport": {
     "latitude": "17°41′11″S",
     "longitude": "45°37′27″E",
-    "name": "",
+    "name": "Ambatomainty Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -3537,7 +3537,7 @@
   "RAF_Ascension_Island": {
     "latitude": "07°58′10″S",
     "longitude": "014°23′38″W",
-    "name": "",
+    "name": "RAF Ascension Island",
     "nickname": "Georgetown in Saint Helena, Ascension and Tristan da Cunha",
     "iata": "",
     "icao": "",
@@ -5605,7 +5605,7 @@
   "Beica_Airport": {
     "latitude": "9°23′31″N",
     "longitude": "34°31′09″E",
-    "name": "",
+    "name": "Beica Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -5690,7 +5690,7 @@
   "RAF_Honington": {
     "latitude": "52°20′33″N",
     "longitude": "000°46′23″E",
-    "name": "",
+    "name": "RAF Honington",
     "nickname": "EGXH",
     "iata": "",
     "icao": "",
@@ -5763,7 +5763,7 @@
   "RAF_Benson": {
     "latitude": "51°36′59″N",
     "longitude": "001°05′45″W",
-    "name": "",
+    "name": "RAF Benson",
     "nickname": "EGUB",
     "iata": "",
     "icao": "",
@@ -8490,7 +8490,7 @@
   "Bradshaw_Army_Airfield": {
     "latitude": "19°45′22″N",
     "longitude": "155°32′49″W",
-    "name": "",
+    "name": "Pohakuloa Training Area",
     "nickname": "ʻ",
     "iata": "",
     "icao": "",
@@ -9996,7 +9996,7 @@
   "RAF_Brize_Norton": {
     "latitude": "51°45′00″N",
     "longitude": "001°35′01″W",
-    "name": "",
+    "name": "RAF Brize Norton",
     "nickname": "EGVN",
     "iata": "",
     "icao": "",
@@ -15410,7 +15410,7 @@
   "Naval_Surface_Warfare_Center_Dahlgren_Division": {
     "latitude": "38°19′30″N",
     "longitude": "77°02′00″W",
-    "name": "",
+    "name": "Naval Surface Warfare Center Dahlgren Division",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -15482,7 +15482,7 @@
   "King_Abdulaziz_Air_Base": {
     "latitude": "26°15′45.2″N",
     "longitude": "50°09′11.0″E",
-    "name": "",
+    "name": "King Abdulaziz Air Base",
     "nickname": "Dhahran International Airport",
     "iata": "",
     "icao": "",
@@ -16059,7 +16059,7 @@
   "Doomadgee_Airport": {
     "latitude": "17°56′24″S",
     "longitude": "138°49′18″E",
-    "name": "",
+    "name": "Doomadgee Airport",
     "nickname": "IATA: DMD",
     "iata": "DMD",
     "icao": "YDMG",
@@ -19846,7 +19846,7 @@
   "RAF_Fairford": {
     "latitude": "51°40′56″N",
     "longitude": "001°47′24″W",
-    "name": "",
+    "name": "RAF Fairford",
     "nickname": "EGVA",
     "iata": "",
     "icao": "",
@@ -21139,7 +21139,7 @@
   "Naval_Air_Station_Joint_Reserve_Base_Fort_Worth": {
     "latitude": "32°46′09″N",
     "longitude": "097°26′30″W",
-    "name": "",
+    "name": "Naval Air Station Joint Reserve Base Fort Worth",
     "nickname": "Near Fort Worth, Texas",
     "iata": "",
     "icao": "",
@@ -21874,7 +21874,7 @@
   "Gebe_Airport": {
     "latitude": "0°52′52″N",
     "longitude": "128°17′39″E",
-    "name": "",
+    "name": "Gebe Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -25218,7 +25218,7 @@
   "Shilavo_Airport": {
     "latitude": "6°04′40″N",
     "longitude": "44°45′50″E",
-    "name": "",
+    "name": "Shilavo Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -30822,7 +30822,7 @@
   "Kaben_Airport": {
     "latitude": "8°53′36″N",
     "longitude": "170°50′42″E",
-    "name": "",
+    "name": "Kaben",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -32644,7 +32644,7 @@
   "King_Khalid_Air_Base": {
     "latitude": "18°18′25″N",
     "longitude": "42°48′33″E",
-    "name": "",
+    "name": "King Khalid Air Base",
     "nickname": "King Khalid Air Base",
     "iata": "",
     "icao": "",
@@ -32704,7 +32704,7 @@
   "RAF_Marham": {
     "latitude": "52°38′54″N",
     "longitude": "000°33′02″E",
-    "name": "",
+    "name": "RAF Marham",
     "nickname": "EGYM",
     "iata": "",
     "icao": "",
@@ -32816,7 +32816,7 @@
   "Jam_Airport": {
     "latitude": "27°49′13″N",
     "longitude": "052°21′10″E",
-    "name": "",
+    "name": "Jam Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -34021,7 +34021,7 @@
   "Kamusi_Airport": {
     "latitude": "7°25′10.56″S",
     "longitude": "143°7′19.92″E",
-    "name": "",
+    "name": "Kamusi Airport",
     "nickname": "KUY",
     "iata": "KUY",
     "icao": "AYKS",
@@ -36268,7 +36268,7 @@
   "RAF_Lakenheath": {
     "latitude": "52°24′30″N",
     "longitude": "000°33′24″E",
-    "name": "",
+    "name": "RAF Lakenheath",
     "nickname": "EGUL",
     "iata": "",
     "icao": "",
@@ -36478,7 +36478,7 @@
   "RAF_Lossiemouth": {
     "latitude": "57°42′19″N",
     "longitude": "003°20′21″W",
-    "name": "",
+    "name": "RAF Lossiemouth",
     "nickname": "EGQS",
     "iata": "",
     "icao": "",
@@ -39014,7 +39014,7 @@
   "Sunshine_Coast_Airport": {
     "latitude": "26°36′12″S",
     "longitude": "153°05′30″E",
-    "name": "",
+    "name": "Sunshine Coast Airport",
     "nickname": "MCY",
     "iata": "MCY",
     "icao": "YBSU",
@@ -39312,7 +39312,7 @@
   "Mar%C3%A9_Airport": {
     "latitude": "21°28′53″S",
     "longitude": "168°2′15″E",
-    "name": "",
+    "name": "Maré Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -40085,7 +40085,7 @@
   "RAF_Mildenhall": {
     "latitude": "52°21′54″N",
     "longitude": "000°28′51″E",
-    "name": "",
+    "name": "RAF Mildenhall",
     "nickname": "EGUN",
     "iata": "",
     "icao": "",
@@ -40850,7 +40850,7 @@
   "Malabang_Airport": {
     "latitude": "07°37′00″N",
     "longitude": "124°03′27″E",
-    "name": "",
+    "name": "Malabang Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -41617,7 +41617,7 @@
   "RAF_Mount_Pleasant": {
     "latitude": "51°49′22″S",
     "longitude": "058°26′50″W",
-    "name": "",
+    "name": "RAF Mount Pleasant",
     "nickname": "EGYP",
     "iata": "",
     "icao": "",
@@ -43620,7 +43620,7 @@
   "Wild_Coast_Sun_Airport": {
     "latitude": "29°16′54″S28°34′24″S30°41′00″S29°54′23″S22°40′44″S25°43′03″S28°15′36″S28°15′00″S32°53′42″S29°05′38″S27°22′00″S26°14′17″S25°31′56″S28°16′21″S31°30′01″S33°58′05″S33°48′01″S30°59′15″S32°09′20″S32°10′36″S29°57′56″S29°36′52″S33°02′06″S23°43′36″S28°43′07″S26°30′00″S28°49′30″S33°46′10″S30°33′44″S34°00′24″S23°17′00″S32°11′41″S33°17′00″S29°07′25″S28°04′43″S28°14′00″S25°03′00″S26°30′30″S28°00′30″S24°21′17″S25°59′13″S25°56′23″S26°08′01″S26°14′31″S28°48′06″S29°40′59″S26°52′00″S33°38′58″S30°11′16″S25°26′26″S27°39′44″S26°04′54″S27°27′35″S28°34′48″S26°10′00″S28°21′30″S23°03′42″S31°17′00″S25°48′27″S27°04′45″S24°49′03″S25°28′24″S24°59′30″S30°51′00″S25°41′08″S27°37′33″S24°41′08″S34°09′26″S31°32′52″S28°22′06″S22°21′20″S25°23′30″S25°30′08″S27°46′22″S33°36′00″S26°53′14″S23°56′10″S27°50′58″S27°00′00″S29°38′48″S25°20′08″S34°05′17″S23°50′43″S23°55′35″S27°21′42″S33°35′00″S33°59′24″S31°37′00″S26°40′05″S25°39′13″S29°41′01″S31°55′00″S27°32′50″S28°44′25″S33°49′00″S25°39′00″S26°31′14″S27°39′00″S24°58′00″S29°41′22″S26°14′54″S33°58′47″S34°45′40″S34°03′00″S29°01′58″S29°19′03″S23°04′37″S26°46′29″S23°49′48″S28°19′10″S28°24′04″S22°26′53″S26°34′12″S31°24′00″S29°46′14″S32°57′48″S31°38′35″S26°58′00″S27°47′00″S27°59′52″S25°49′56″S25°35′56″S29°05′38″S33°54′04″S29°57′56″S24°21′17″S32°58′08″S23°09′35″S34°33′17″S23°50′43″S33°59′24″S25°49′40″S25°48′35″S",
     "longitude": "018°48′50″E016°32′06″E026°44′00″E022°19′00″E029°03′19″E030°58′30″E022°59′35″E028°20′00″E027°17′06″E026°18′14″E026°38′00″E028°18′21″E027°46′29″E026°08′08″E019°43′33″E018°36′17″E018°21′49″E022°07′50″E025°38′45″E018°52′55″E030°56′57″E031°06′59″E027°49′18″E027°41′18″E031°53′34″E029°59′00″E027°54′30″E018°44′00″E025°31′48″E022°22′30″E030°39′00″E024°32′28″E026°30′00″E030°34′56″E026°51′40″E029°06′00″E031°07′55″E028°23′30″E032°16′30″E031°03′01″E028°08′26″E027°55′29″E028°14′32″E028°09′05″E024°45′49″E017°05′35″E026°43′00″E018°28′18″E017°16′45″E031°55′49″E027°18′46″E027°43′32″E023°24′45″E029°45′10″E026°11′00″E023°26′30″E029°51′53″E029°31′00″E025°32′40″E029°46′42″E031°32′41″E031°33′56″E029°17′00″E030°21′00″E029°26′26″E032°02′39″E028°25′59″E022°03′41″E028°40′27″E032°14′53″E029°59′00″E031°05′57″E030°54′43″E029°58′35″E022°11′00″E027°30′19″E031°09′18″E032°18′35″E030°50′36″E030°23′52″E027°10′18″E023°19′43″E029°27′31″E029°29′04″E031°36′20″E026°53′00″E025°36′37″E029°31′00″E027°05′05″E028°13′27″E022°46′14″E026°53′00″E024°10′23″E032°05′36″E019°54′00″E027°17′00″E029°10′20″E023°00′00″E031°36′00″E017°56′20″E028°23′51″E18°49′11″E020°02′05″E020°29′00″E026°09′29″E026°49′20″E030°23′00″E029°20′16″E030°19′00″E031°25′01″E021°15′36″E029°20′15″E027°57′36″E023°09′00″E031°03′30″E017°58′12″E018°32′22″E024°44′00″E030°48′00″E026°40′10″E029°11′31″E026°02′32″E026°18′14″E018°29′00″E030°56′57″E031°03′01″E018°09′55″E029°41′47″E020°15′02″E029°27′31″E025°36′37″E028°13′15″E028°09′53″E",
-    "name": "",
+    "name": "List of airports in South Africa",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -44094,7 +44094,7 @@
   "Guantanamo_Bay_Naval_Base": {
     "latitude": "19°54′N",
     "longitude": "75°9′W",
-    "name": "",
+    "name": "Guantanamo Bay Naval Base",
     "nickname": " ",
     "iata": "",
     "icao": "",
@@ -44687,7 +44687,7 @@
   "RAF_Northolt": {
     "latitude": "51°33′11″N",
     "longitude": "000°25′06″W",
-    "name": "",
+    "name": "RAF Northolt",
     "nickname": "EGWU",
     "iata": "",
     "icao": "",
@@ -44819,7 +44819,7 @@
   "Chase_Field_Industrial_Complex": {
     "latitude": "28°21′51.69″N",
     "longitude": "97°39′35.32″W",
-    "name": "",
+    "name": "Chase Field Industrial Complex",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -46489,7 +46489,7 @@
   "Camp_Shorabak": {
     "latitude": "31°51′24″N",
     "longitude": "64°13′15″E",
-    "name": "",
+    "name": "Camp Shorabak",
     "nickname": "OAZI",
     "iata": "",
     "icao": "",
@@ -46710,7 +46710,7 @@
   "RAF_Odiham": {
     "latitude": "51°14′03″N",
     "longitude": "000°56′34″W",
-    "name": "",
+    "name": "RAF Odiham",
     "nickname": "EGVO",
     "iata": "",
     "icao": "",
@@ -46793,7 +46793,7 @@
   "Oecusse_Airport": {
     "latitude": "09°11′54″S",
     "longitude": "124°21′08″E",
-    "name": "",
+    "name": "Oecusse Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -47500,7 +47500,7 @@
   "Forward_Operating_Base_Salerno": {
     "latitude": "33°13′N",
     "longitude": "69°34′E",
-    "name": "",
+    "name": "Forward Operating Base Salerno",
     "nickname": "جمهوری",
     "iata": "",
     "icao": "",
@@ -49112,7 +49112,7 @@
   "Pauk_Airport": {
     "latitude": "21°26′56″N",
     "longitude": "94°29′13″E",
-    "name": "",
+    "name": "Pauk Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -49938,7 +49938,7 @@
   "Stevens_Field": {
     "latitude": "37°17′17″N",
     "longitude": "107°03′18″W",
-    "name": "",
+    "name": "Stevens Field",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -50549,7 +50549,7 @@
   "Puka-Puka_Airport": {
     "latitude": "14°48′33″S",
     "longitude": "138°48′39″W",
-    "name": "",
+    "name": "Puka-Puka Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -51244,7 +51244,7 @@
   "Pope_Field": {
     "latitude": "35°10′15″N",
     "longitude": "79°00′52″W",
-    "name": "",
+    "name": "Pope Field",
     "nickname": "near Fayetteville, North Carolina in United States",
     "iata": "",
     "icao": "",
@@ -53012,7 +53012,7 @@
   "RAF_Coningsby": {
     "latitude": "53°05′35″N",
     "longitude": "000°09′58″W",
-    "name": "",
+    "name": "RAF Coningsby",
     "nickname": "EGXC",
     "iata": "",
     "icao": "",
@@ -53148,7 +53148,7 @@
   "RAF_Wyton": {
     "latitude": "52°21′26″N",
     "longitude": "000°06′28″W",
-    "name": "",
+    "name": "RAF Wyton",
     "nickname": "EGUY",
     "iata": "",
     "icao": "",
@@ -53264,7 +53264,7 @@
   "Ramingining_Airport": {
     "latitude": "12°21′24″S",
     "longitude": "134°53′54″E",
-    "name": "",
+    "name": "Ramingining Airport",
     "nickname": "RAM",
     "iata": "RAM",
     "icao": "YRNG",
@@ -53881,7 +53881,7 @@
   "Reese_Air_Force_Base": {
     "latitude": "33°35′33″N",
     "longitude": "102°02′10″W",
-    "name": "",
+    "name": "Reese Air Force Base",
     "nickname": "Lubbock Army Airfield",
     "iata": "",
     "icao": "",
@@ -54781,7 +54781,7 @@
   "Rimatara_Airport": {
     "latitude": "22°38′19″S",
     "longitude": "152°48′19″W",
-    "name": "",
+    "name": "Rimatara Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -55156,7 +55156,7 @@
   "Naval_Station_Rota,_Spain": {
     "latitude": "36°37′15″N",
     "longitude": "6°19′54″W",
-    "name": "",
+    "name": "Naval Station Rota, Spain",
     "nickname": "Base Naval de Rota",
     "iata": "",
     "icao": "",
@@ -59500,7 +59500,7 @@
   "RAF_Scampton": {
     "latitude": "53°18′28″N",
     "longitude": "000°33′03″W",
-    "name": "",
+    "name": "RAF Scampton",
     "nickname": "EGXP",
     "iata": "",
     "icao": "",
@@ -61269,7 +61269,7 @@
   "Parchim_International_Airport": {
     "latitude": "53°25′43″N",
     "longitude": "11°46′55″E",
-    "name": "",
+    "name": "Parchim International Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -62251,7 +62251,7 @@
   "Telefomin_Airport": {
     "latitude": "5°07′34″S",
     "longitude": "141°38′30″E",
-    "name": "",
+    "name": "Telefomin Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -62709,7 +62709,7 @@
   "Tippi_Airport": {
     "latitude": "7°12′9″N",
     "longitude": "35°24′54″E",
-    "name": "",
+    "name": "Tippi Airport",
     "nickname": "TIE",
     "iata": "TIE",
     "icao": "HATP",
@@ -64069,7 +64069,7 @@
   "Touho_Airport": {
     "latitude": "20°47′25″S",
     "longitude": "165°15′34″E",
-    "name": "",
+    "name": "Touho Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -65623,7 +65623,7 @@
   "Uaxactun_Airport": {
     "latitude": "17°23′35″N",
     "longitude": "89°38′05″W",
-    "name": "",
+    "name": "Uaxactun Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -66037,7 +66037,7 @@
   "Quoin_Hill_Airfield": {
     "latitude": "17°32′24″S",
     "longitude": "168°26′31.2″E",
-    "name": "",
+    "name": "Quoin Hill Airfield",
     "nickname": "17°32′24″S 168°26′31.2″E﻿ / ﻿17.54000°S 168.442000°E﻿ / -17.54000; 168.442000",
     "iata": "",
     "icao": "",
@@ -66077,7 +66077,7 @@
   "Uljin_Airport": {
     "latitude": "36°46′12″N",
     "longitude": "129°27′55″E",
-    "name": "",
+    "name": "Uljin Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -67063,7 +67063,7 @@
   "Ouv%C3%A9a_Airport": {
     "latitude": "20°38′30″S",
     "longitude": "166°34′24″E",
-    "name": "",
+    "name": "Ouvéa Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -67910,7 +67910,7 @@
   "Viqueque_Airport": {
     "latitude": "8°53′2″S",
     "longitude": "126°22′23″E",
-    "name": "",
+    "name": "Viqueque Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -68772,7 +68772,7 @@
   "Wacca_Airport": {
     "latitude": "7°10′01″N",
     "longitude": "37°10′01″E",
-    "name": "",
+    "name": "Wacca Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -68826,7 +68826,7 @@
   "Wallops_Flight_Facility": {
     "latitude": "37°56′25″N37°56′19″N",
     "longitude": "75°27′59″W75°27′26″W",
-    "name": "",
+    "name": "Wallops Flight Facility",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -69241,7 +69241,7 @@
   "Whalsay_Airstrip": {
     "latitude": "60°22′36″N",
     "longitude": "0°55′38″W",
-    "name": "",
+    "name": "Whalsay Airstrip",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -69292,7 +69292,7 @@
   "Lucius_D._Clay_Kaserne": {
     "latitude": "50°02′58″N",
     "longitude": "08°19′28″E",
-    "name": "",
+    "name": "Lucius D. Clay Kaserne",
     "nickname": "Wiesbaden Air Base",
     "iata": "",
     "icao": "",
@@ -70131,7 +70131,7 @@
   "RAF_Waddington": {
     "latitude": "53°10′21″N",
     "longitude": "000°31′51″W",
-    "name": "",
+    "name": "RAF Waddington",
     "nickname": "EGXW",
     "iata": "",
     "icao": "",
@@ -70739,7 +70739,7 @@
   "Xingning_Air_Base": {
     "latitude": "24°09′00″N",
     "longitude": "115°45′25.2″E",
-    "name": "",
+    "name": "Xingning Air Base",
     "nickname": "",
     "iata": "",
     "icao": "",
@@ -72062,7 +72062,7 @@
   "RNAS_Yeovilton_(HMS_Heron)": {
     "latitude": "51°00′31″N",
     "longitude": "002°38′16″W",
-    "name": "",
+    "name": "RNAS Yeovilton (HMS Heron)",
     "nickname": "EGDY",
     "iata": "",
     "icao": "",
@@ -75301,7 +75301,7 @@
   "CFB_Goose_Bay": {
     "latitude": "53°19′09″N",
     "longitude": "060°25′33″W",
-    "name": "",
+    "name": "CFB Goose Bay",
     "nickname": "Goose Bay, Labrador in Canada",
     "iata": "",
     "icao": "",
@@ -75697,7 +75697,7 @@
   "Sayaboury_Airport": {
     "latitude": "19°14′35″N",
     "longitude": "101°42′32″E",
-    "name": "",
+    "name": "Sayaboury Airport",
     "nickname": "",
     "iata": "",
     "icao": "",
