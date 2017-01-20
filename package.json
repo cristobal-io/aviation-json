@@ -1,6 +1,6 @@
 {
   "name": "aviation-json",
-  "version": "0.1.0",
+  "version": "0.3.1",
   "description": "Module that uses aviation-scraper as a dev dependency to generate using a single command aviation files ready.",
   "main": "index.js",
   "keywords": [
@@ -20,7 +20,9 @@
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "lint": "make lint"
   },
-  "pre-commit": ["lint"],
+  "pre-commit": [
+    "lint"
+  ],
   "author": "Cristobal Gomez",
   "homepage": "https://github.com/cristobal-io/aviation-json",
   "repository": {
