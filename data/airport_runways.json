@@ -1077,6 +1077,14 @@
       "Surface": ""
     }
   ],
+  "Amalfi_Airport_(Colombia)": [
+    {
+      "Direction": "16/34",
+      "m": "950",
+      "ft": "3,117",
+      "Surface": "Grass"
+    }
+  ],
   "Alta_Floresta_Airport": [
     {
       "Direction": "04/22",
@@ -1624,8 +1632,8 @@
   "George_Downer_Airport": [
     {
       "Direction": "6/24",
-      "ft": "4,970",
-      "m": "1,515",
+      "ft": "5,001",
+      "m": "1,524",
       "Surface": "Asphalt"
     }
   ],
@@ -3229,6 +3237,14 @@
       "Direction": "08/26",
       "m": "2,500",
       "ft": "8,202",
+      "Surface": "Asphalt"
+    }
+  ],
+  "El_Troncal_Airport": [
+    {
+      "Direction": "08/26",
+      "m": "970",
+      "ft": "3,182",
       "Surface": "Asphalt"
     }
   ],
@@ -5866,8 +5882,8 @@
   "Big_Lake_Airport": [
     {
       "Direction": "7/25",
-      "ft": "2,435",
-      "m": "742",
+      "ft": "2,450",
+      "m": "747",
       "Surface": "Gravel"
     }
   ],
@@ -6058,8 +6074,8 @@
   "Birmingham%E2%80%93Shuttlesworth_International_Airport": [
     {
       "Direction": "6/24",
-      "ft": "11,998",
-      "m": "3,657",
+      "ft": "12,007",
+      "m": "3,660",
       "Surface": "Asphalt"
     },
     {
@@ -6448,7 +6464,7 @@
   "Wayne_County_Airport_(Ohio)": [
     {
       "Direction": "10/28",
-      "ft": "5,191",
+      "ft": "5,189",
       "m": "1,582",
       "Surface": "Asphalt"
     }
@@ -6464,8 +6480,8 @@
   "Banjul_International_Airport": [
     {
       "Direction": "14/32",
-      "ft": "11,811",
       "m": "3,600",
+      "ft": "11,811",
       "Surface": "Asphalt"
     }
   ],
@@ -8407,8 +8423,8 @@
   "Barter_Island_LRRS_Airport": [
     {
       "Direction": "7/25",
-      "ft": "4,820",
-      "m": "1,469",
+      "ft": "4,500",
+      "m": "1,372",
       "Surface": "Gravel"
     }
   ],
@@ -8533,19 +8549,7 @@
       "Direction": "1/19",
       "ft": "5,190",
       "m": "1,582",
-      "Surface": "Gravel"
-    },
-    {
-      "Direction": "9W/27W",
-      "ft": "1,500",
-      "m": "457",
-      "Surface": "Water"
-    },
-    {
-      "Direction": "18W/36W",
-      "ft": "2,000",
-      "m": "610",
-      "Surface": "Water"
+      "Surface": "Turf/Gravel"
     }
   ],
   "Bintulu_Airport": [
@@ -10209,6 +10213,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Carimagua_Airport": [
+    {
+      "Direction": "04/22",
+      "m": "1,200",
+      "ft": "3,937",
+      "Surface": "Asphalt"
+    }
+  ],
   "Carriel_Sur_International_Airport": [
     {
       "Direction": "02/20",
@@ -10629,10 +10641,10 @@
   ],
   "Central_Airport": [
     {
-      "Direction": "7/25",
+      "Direction": "8/26",
       "ft": "2,782",
       "m": "848",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Ciudad_Obreg%C3%B3n_International_Airport": [
@@ -11227,9 +11239,9 @@
   ],
   "Circle_Hot_Springs_Airport": [
     {
-      "Direction": "8/26",
-      "ft": "3,650",
-      "m": "1,113",
+      "Direction": "9/27",
+      "ft": "3,669",
+      "m": "1,118",
       "Surface": "Gravel"
     }
   ],
@@ -11276,7 +11288,7 @@
       "Direction": "9/27",
       "ft": "3,401",
       "m": "1,037",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Chaves_Airport": [
@@ -11384,7 +11396,7 @@
       "Direction": "3/21",
       "ft": "4,000",
       "m": "1,219",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Council_Airport": [
@@ -11393,6 +11405,14 @@
       "ft": "3,000",
       "m": "914",
       "Surface": "Gravel/Dirt"
+    }
+  ],
+  "Cimitarra_Airport": [
+    {
+      "Direction": "16/34",
+      "m": "1,400",
+      "ft": "4,593",
+      "Surface": "Gravel"
     }
   ],
   "Arthur_N._Neu_Airport": [
@@ -11802,7 +11822,7 @@
       "Direction": "13/31",
       "ft": "2,500",
       "m": "762",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Conakry_International_Airport": [
@@ -11846,13 +11866,13 @@
     },
     {
       "Direction": "6R/24L",
-      "ft": "9,955",
+      "ft": "9,956",
       "m": "3,034",
       "Surface": "Concrete"
     },
     {
       "Direction": "10/28",
-      "ft": "6,017",
+      "ft": "6,018",
       "m": "1,834",
       "Surface": "Asphalt/Concrete"
     }
@@ -12633,6 +12653,14 @@
       "Surface": "Asphalt"
     }
   ],
+  "Mandinga_Airport": [
+    {
+      "Direction": "09/27",
+      "m": "1,213",
+      "ft": "3,980",
+      "Surface": ""
+    }
+  ],
   "Cooch_Behar_Airport": [
     {
       "Direction": "04/22",
@@ -12853,6 +12881,14 @@
       "m": "2,800",
       "ft": "9,186",
       "Surface": "Asphalt/Concrete"
+    }
+  ],
+  "General_Navas_Pardo_Airport": [
+    {
+      "Direction": "09/27",
+      "m": "1,205",
+      "ft": "3,953",
+      "Surface": "Asphalt"
     }
   ],
   "Woodley_Airport": [
@@ -13713,6 +13749,14 @@
       "Surface": "Natural"
     }
   ],
+  "Cove%C3%B1as_Airport": [
+    {
+      "Direction": "06/24",
+      "m": "1,340",
+      "ft": "4,396",
+      "Surface": "Asphalt"
+    }
+  ],
   "Courchevel_Altiport": [
     {
       "Direction": "04/22",
@@ -14108,9 +14152,9 @@
   "Chefornak_Airport": [
     {
       "Direction": "16/34",
-      "ft": "2,500",
-      "m": "762",
-      "Surface": "Gravel/Dirt"
+      "ft": "3,230",
+      "m": "985",
+      "Surface": "Gravel"
     }
   ],
   "Corryong_Airport": [
@@ -14256,8 +14300,8 @@
   "Cape_Romanzof_LRRS_Airport": [
     {
       "Direction": "2/20",
-      "ft": "3,925",
-      "m": "1,196",
+      "ft": "3,955",
+      "m": "1,205",
       "Surface": "Gravel"
     }
   ],
@@ -14850,8 +14894,8 @@
   "Indira_Gandhi_International_Airport": [
     {
       "Direction": "10/28",
-      "m": "3,810",
-      "ft": "12,500",
+      "m": "88",
+      "ft": "289",
       "Surface": "Asphalt"
     },
     {
@@ -17034,6 +17078,14 @@
       "Surface": "Concrete"
     }
   ],
+  "El_Charco_Airport": [
+    {
+      "Direction": "16/34",
+      "m": "900",
+      "ft": "2,953",
+      "Surface": "Grass"
+    }
+  ],
   "El_Debba_Airport": [
     {
       "Direction": "18/36",
@@ -17348,9 +17400,9 @@
   ],
   "Cape_Newenham_LRRS_Airport": [
     {
-      "Direction": "14/32",
-      "ft": "3,950",
-      "m": "1,204",
+      "Direction": "15/33",
+      "ft": "3,945",
+      "m": "1,202",
       "Surface": "Gravel"
     }
   ],
@@ -18220,7 +18272,7 @@
     {
       "Direction": "6/24",
       "ft": "8,420",
-      "m": "1,981",
+      "m": "2,566",
       "Surface": "Asphalt/Concrete"
     },
     {
@@ -20258,8 +20310,8 @@
   "Manas_International_Airport": [
     {
       "Direction": "08/26",
-      "ft": "13,792",
       "m": "4,204",
+      "ft": "13,792",
       "Surface": "Concrete"
     }
   ],
@@ -24559,8 +24611,8 @@
   "Civil_Aerodrome_Khajuraho": [
     {
       "Direction": "01/19",
-      "ft": "7,460",
-      "m": "2,274",
+      "m": "1,829",
+      "ft": "6,001",
       "Surface": "Asphalt"
     }
   ],
@@ -25396,6 +25448,12 @@
       "ft": "8,202",
       "m": "2,500",
       "Surface": "Concrete"
+    },
+    {
+      "Direction": "08/26",
+      "ft": "4,921",
+      "m": "1,500",
+      "Surface": "Asphalt"
     }
   ],
   "Valley_International_Airport": [
@@ -26758,6 +26816,14 @@
       "Surface": "Concrete"
     }
   ],
+  "Jaime_Ort%C3%ADz_Betancur_Airport": [
+    {
+      "Direction": "17/35",
+      "m": "1,035",
+      "ft": "3,396",
+      "Surface": "Asphalt"
+    }
+  ],
   "Cataratas_del_Iguaz%C3%BA_International_Airport": [
     {
       "Direction": "13/31",
@@ -27587,7 +27653,7 @@
       "Direction": "15/33",
       "ft": "2,979",
       "m": "908",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Lockhart_River_Airport": [
@@ -29937,9 +30003,9 @@
   "Chignik_Lagoon_Airport": [
     {
       "Direction": "4/22",
-      "ft": "1,810",
-      "m": "552",
-      "Surface": "Gravel"
+      "ft": "2,200",
+      "m": "671",
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Kahramanmara%C5%9F_Airport": [
@@ -32346,10 +32412,10 @@
   ],
   "Brevig_Mission_Airport": [
     {
-      "Direction": "11/29",
-      "ft": "3,000",
+      "Direction": "12/30",
+      "ft": "2,990",
       "m": "914",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     },
     {
       "Direction": "4/22",
@@ -36086,8 +36152,8 @@
   "Cape_Lisburne_LRRS_Airport": [
     {
       "Direction": "8/26",
-      "ft": "4,805",
-      "m": "1,465",
+      "ft": "4,800",
+      "m": "1,463",
       "Surface": "Gravel"
     }
   ],
@@ -42281,6 +42347,14 @@
       "Surface": "Concrete"
     }
   ],
+  "Barranco_Minas_Airport": [
+    {
+      "Direction": "09/27",
+      "m": "900",
+      "ft": "2,953",
+      "Surface": "Asphalt"
+    }
+  ],
   "Begishevo_Airport": [
     {
       "Direction": "04/22",
@@ -42405,7 +42479,7 @@
   ],
   "Chenega_Bay_Airport": [
     {
-      "Direction": "15/33",
+      "Direction": "16/34",
       "ft": "3,000",
       "m": "914",
       "Surface": "Gravel"
@@ -50663,9 +50737,9 @@
   ],
   "Chicago_Executive_Airport": [
     {
-      "Direction": "6/24",
-      "ft": "3,660",
-      "m": "1,116",
+      "Direction": "16/34",
+      "ft": "5,001",
+      "m": "1,524",
       "Surface": "Asphalt"
     },
     {
@@ -50675,9 +50749,9 @@
       "Surface": "Asphalt"
     },
     {
-      "Direction": "16/34",
-      "ft": "5,000",
-      "m": "1,524",
+      "Direction": "6/24",
+      "ft": "3,677",
+      "m": "1,121",
       "Surface": "Asphalt"
     }
   ],
@@ -50780,6 +50854,14 @@
       "Direction": "09/27",
       "ft": "7,874",
       "m": "2,400",
+      "Surface": "Asphalt"
+    }
+  ],
+  "Velasquez_Airport": [
+    {
+      "Direction": "15/33",
+      "m": "1,680",
+      "ft": "5,512",
       "Surface": "Asphalt"
     }
   ],
@@ -57726,8 +57808,8 @@
   "Lamezia_Terme_International_Airport": [
     {
       "Direction": "10/28",
-      "ft": "7,920",
-      "m": "2,414",
+      "ft": "9,900",
+      "m": "3,017",
       "Surface": "Asphalt"
     }
   ],
@@ -61173,9 +61255,9 @@
   ],
   "Tungsten_(Cantung)_Airport": [
     {
-      "Direction": "10/28",
-      "ft": "3,700",
-      "m": "1,128",
+      "Direction": "12/30",
+      "ft": "4,127",
+      "m": "1,258",
       "Surface": "Gravel"
     }
   ],
@@ -64227,15 +64309,9 @@
   "Chevak_Airport": [
     {
       "Direction": "2/20",
-      "ft": "3,200",
-      "m": "975",
+      "ft": "3,220",
+      "m": "981",
       "Surface": "Gravel"
-    },
-    {
-      "Direction": "18W/36W",
-      "ft": "2,000",
-      "m": "610",
-      "Surface": "Water"
     }
   ],
   "Valen%C3%A7a_Airport": [
@@ -65830,9 +65906,9 @@
   "Beaver_Airport": [
     {
       "Direction": "5/23",
-      "ft": "3,954",
-      "m": "1,205",
-      "Surface": "Gravel"
+      "ft": "3,934",
+      "m": "1,199",
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Roben%E2%80%93Hood_Airport": [
@@ -65895,10 +65971,10 @@
   ],
   "Chandalar_Lake_Airport": [
     {
-      "Direction": "4/22",
+      "Direction": "3/21",
       "ft": "3,000",
       "m": "914",
-      "Surface": "Gravel"
+      "Surface": "Gravel/Dirt"
     }
   ],
   "Enid_Woodring_Regional_Airport": [
@@ -66555,26 +66631,6 @@
       "m": "1,819",
       "ft": "5,968",
       "Surface": "Asphalt"
-    }
-  ],
-  "Wonsan_Kalma_International_Airport": [
-    {
-      "Direction": "02/20",
-      "ft": "1,643",
-      "m": "501",
-      "Surface": "Asphalt"
-    },
-    {
-      "Direction": "15L/33R",
-      "ft": "11,497",
-      "m": "3,504",
-      "Surface": "Concrete"
-    },
-    {
-      "Direction": "15R/33L",
-      "ft": "10,252",
-      "m": "3,125",
-      "Surface": "Concrete"
     }
   ],
   "Wang-an_Airport": [
@@ -69645,8 +69701,8 @@
   "Merritt_Airport": [
     {
       "Direction": "03/21",
-      "ft": "4,000",
-      "m": "1,219",
+      "ft": "4,003",
+      "m": "1,220",
       "Surface": "Asphalt"
     }
   ],
@@ -72703,7 +72759,7 @@
   "T%C3%AAte-%C3%A0-la-Baleine_Airport": [
     {
       "Direction": "18/36",
-      "ft": "1,640",
+      "ft": "1,639",
       "m": "500",
       "Surface": "Gravel"
     }

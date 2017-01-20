@@ -323,14 +323,14 @@
     "dd_longitude": 146.58333333333334
   },
   "Abilene_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "32°24′47.7″N",
+    "longitude": "099°40′59.2″W",
     "name": "Abilene Regional Airport",
     "nickname": "IATA: ABI",
     "iata": "ABI",
     "icao": "KABI",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 32.41325,
+    "dd_longitude": -99.68311111111112,
     "airlinesFlying": 5
   },
   "Port_Bouet_Airport": {
@@ -342,7 +342,7 @@
     "icao": "DIAP",
     "dd_latitude": 5.261416666666666,
     "dd_longitude": -3.925777777777778,
-    "airlinesFlying": 25
+    "airlinesFlying": 24
   },
   "Kabri_Dar_Airport": {
     "latitude": "6°43′58.1″N",
@@ -749,14 +749,14 @@
     "airlinesFlying": 18
   },
   "Andakombe_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "7°8′13.99″S",
+    "longitude": "145°44′40.99″E",
     "name": "Andakombe Airport",
     "nickname": "IATA: ADC",
     "iata": "ADC",
     "icao": "AYAN",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -7.137219444444445,
+    "dd_longitude": 145.74471944444443
   },
   "Bole_International_Airport": {
     "latitude": "08°58′40″N",
@@ -792,14 +792,14 @@
     "airlinesFlying": 2
   },
   "Lenawee_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°52′04″N",
+    "longitude": "084°04′38″W",
     "name": "Lenawee County Airport",
     "nickname": "IATA: ADG",
     "iata": "ADG",
     "icao": "KADG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.867777777777775,
+    "dd_longitude": -84.07722222222222
   },
   "Aldan_Airport": {
     "latitude": "58°36′11″N",
@@ -896,14 +896,14 @@
     "airlinesFlying": 2
   },
   "Robert_F._Swinnie_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "33°27′06″N",
+    "longitude": "079°31′34″W",
     "name": "Robert F. Swinnie Airport",
     "nickname": "IATA: ADR",
     "iata": "ADR",
     "icao": "KPHH",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 33.45166666666667,
+    "dd_longitude": -79.5261111111111
   },
   "Addison_Airport": {
     "latitude": "32°58′07″N",
@@ -1145,14 +1145,24 @@
     "dd_longitude": 26.879722222222224
   },
   "United_States_Air_Force_Academy": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°01′N",
+    "longitude": "104°53′W",
     "name": "United States Air Force Academy",
     "nickname": "Integrity First, Service Before Self, Excellence in All We Do",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.016666666666666,
+    "dd_longitude": -104.88333333333334
+  },
+  "Amalfi_Airport_(Colombia)": {
+    "latitude": "6°53′40″N",
+    "longitude": "75°02′50″W",
+    "name": "Amalfi Airport",
+    "nickname": "IATA: AFI",
+    "iata": "AFI",
+    "icao": "SKAM",
+    "dd_latitude": 6.894444444444444,
+    "dd_longitude": -75.04722222222222
   },
   "Alta_Floresta_Airport": {
     "latitude": "09°51′59″S",
@@ -1455,7 +1465,7 @@
     "icao": "VOAT",
     "dd_latitude": 10.828055555555554,
     "dd_longitude": 72.17888888888889,
-    "airlinesFlying": 2
+    "airlinesFlying": 1
   },
   "Aggeneys_Airport": {
     "latitude": "29°16′54″S",
@@ -2568,14 +2578,14 @@
     "dd_longitude": -93.62166666666666
   },
   "Ambatomainty_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "17°41′11″S",
+    "longitude": "45°37′27″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": -17.68638888888889,
+    "dd_longitude": 45.62416666666667,
     "airlinesFlying": 1
   },
   "Ardmore_Airport_(New_Zealand)": {
@@ -2809,14 +2819,14 @@
     "airlinesFlying": 2
   },
   "Anthony_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°09′31″N",
+    "longitude": "098°04′47″W",
     "name": "Anthony Municipal Airport",
     "nickname": "IATA: ANY",
     "iata": "ANY",
     "icao": "KANY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.15861111111111,
+    "dd_longitude": -98.07972222222222
   },
   "Leipzig%E2%80%93Altenburg_Airport": {
     "latitude": "50°58′50″N",
@@ -3214,14 +3224,14 @@
     "airlinesFlying": 3
   },
   "Girdwood_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "60°57′58″N",
+    "longitude": "149°07′33″W",
     "name": "Girdwood Airport",
     "nickname": "IATA: AQY[1]",
     "iata": "AQY[1]",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 60.96611111111111,
+    "dd_longitude": -149.12583333333333
   },
   "Acadiana_Regional_Airport": {
     "latitude": "30°02′16″N",
@@ -3356,7 +3366,17 @@
     "icao": "ESSA",
     "dd_latitude": 59.651944444444446,
     "dd_longitude": 17.91861111111111,
-    "airlinesFlying": 23
+    "airlinesFlying": 22
+  },
+  "El_Troncal_Airport": {
+    "latitude": "7°01′16″N",
+    "longitude": "71°23′20″W",
+    "name": "El Troncal Airport",
+    "nickname": "IATA: ARQ",
+    "iata": "ARQ",
+    "icao": "SKAT",
+    "dd_latitude": 7.021111111111111,
+    "dd_longitude": -71.3888888888889
   },
   "Alto_R%C3%ADo_Senguer_Airport": {
     "latitude": "45°0′48.4″S",
@@ -3536,14 +3556,14 @@
     "airlinesFlying": 1
   },
   "Yamoussoukro_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "6°54′11″N",
+    "longitude": "5°21′56″W",
     "name": "Yamoussoukro Airport",
     "nickname": "IATA: ASK",
     "iata": "ASK",
     "icao": "DIYO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 6.9030555555555555,
+    "dd_longitude": -5.365555555555555
   },
   "Harrison_County_Airport_(Texas)": {
     "latitude": "32°31′14″N",
@@ -3764,7 +3784,7 @@
     "icao": "LGAV",
     "dd_latitude": 37.936388888888885,
     "dd_longitude": 23.947222222222223,
-    "airlinesFlying": 98
+    "airlinesFlying": 97
   },
   "Artigas_Airport": {
     "latitude": "30°24′03″S",
@@ -3820,14 +3840,14 @@
     "dd_longitude": 152.44166666666666
   },
   "Ohio_University_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°12′43″N",
+    "longitude": "082°13′45″W",
     "name": "Ohio University Airport\nGordon K. Bush Airport",
     "nickname": "Snyder Field",
     "iata": "ATO",
     "icao": "KUNI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.21194444444445,
+    "dd_longitude": -82.22916666666667
   },
   "Aitape_Airport": {
     "latitude": "3°8.65′S",
@@ -4308,14 +4328,14 @@
     "airlinesFlying": 1
   },
   "West_Memphis_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°08′06″N",
+    "longitude": "090°14′04″W",
     "name": "West Memphis Municipal Airport",
     "nickname": "IATA: AWM",
     "iata": "AWM",
     "icao": "KAWM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.135,
+    "dd_longitude": -90.23444444444445
   },
   "Ahvaz_International_Airport": {
     "latitude": "31°20′15″N",
@@ -4442,14 +4462,14 @@
     "dd_longitude": -73.97083333333333
   },
   "Arutua_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "15°14′47″S",
+    "longitude": "146°37′13″W",
     "name": "Arutua Airport",
     "nickname": "IATA: AXR",
     "iata": "AXR",
     "icao": "NTGU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -15.246388888888887,
+    "dd_longitude": -146.62027777777777
   },
   "Quartz_Mountain_Regional_Airport": {
     "latitude": "34°41′55.7″N",
@@ -4796,14 +4816,14 @@
     "airlinesFlying": 8
   },
   "Qionghai_Bo%27ao_Airport": {
-    "latitude": "19°9′37″N",
-    "longitude": "110°28′21″E",
+    "latitude": "19°8′26″N",
+    "longitude": "110°27′32″E",
     "name": "Qionghai Bo'ao Airport",
     "nickname": "IATA: BAR",
     "iata": "BAR",
     "icao": "ZJQH",
-    "dd_latitude": 19.160277777777775,
-    "dd_longitude": 110.4725
+    "dd_latitude": 19.140555555555554,
+    "dd_longitude": 110.4588888888889
   },
   "Balalae_Airport": {
     "latitude": "6°59′33″S",
@@ -4830,7 +4850,7 @@
     "latitude": "40°33′35″N",
     "longitude": "109°59′48″E",
     "name": "Baotou Airport",
-    "nickname": "包头机场",
+    "nickname": "IATA: BAV",
     "iata": "BAV",
     "icao": "ZBOW",
     "dd_latitude": 40.55972222222222,
@@ -5085,14 +5105,14 @@
     "dd_longitude": -99.64222222222223
   },
   "Wings_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°08′15″N",
+    "longitude": "075°15′54″W",
     "name": "Wings Field",
     "nickname": "IATA: BBX",
     "iata": "BBX",
     "icao": "KLOM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.1375,
+    "dd_longitude": -75.265
   },
   "Bambari_Airport": {
     "latitude": "05°50′49.6″N",
@@ -5126,14 +5146,14 @@
     "airlinesFlying": 1
   },
   "Virginia_Tech_Montgomery_Executive_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°12′28″N",
+    "longitude": "080°24′28″W",
     "name": "Virginia Tech Montgomery Executive Airport",
     "nickname": "IATA: BCB",
     "iata": "BCB",
     "icao": "KBCB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.20777777777778,
+    "dd_longitude": -80.40777777777778
   },
   "Bear_Creek_3_Airport": {
     "latitude": "63°34′18″N",
@@ -5440,8 +5460,8 @@
   "Vadodara_Airport": {
     "latitude": "22°19′46″N",
     "longitude": "73°13′10″E",
-    "name": "Vadodara International Airport",
-    "nickname": "વડોદરા હવાઈ મથક",
+    "name": "Vadodara airport",
+    "nickname": "IATA: BDQ",
     "iata": "BDQ",
     "icao": "VABO",
     "dd_latitude": 22.329444444444444,
@@ -5583,14 +5603,14 @@
     "dd_longitude": -86.42611111111111
   },
   "Beica_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "9°23′31″N",
+    "longitude": "34°31′09″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 9.391944444444444,
+    "dd_longitude": 34.51916666666666,
     "airlinesFlying": 1
   },
   "Kalimarau_Airport": {
@@ -6276,7 +6296,7 @@
     "latitude": "23°17′16″N",
     "longitude": "069°40′13″E",
     "name": "Bhuj Airport",
-    "nickname": "ભુજ હવાઇમથક",
+    "nickname": "IATA: BHJ",
     "iata": "BHJ",
     "icao": "VABJ",
     "dd_latitude": 23.28777777777778,
@@ -6407,7 +6427,7 @@
     "icao": "EGBB",
     "dd_latitude": 52.45388888888889,
     "dd_longitude": -1.7480555555555557,
-    "airlinesFlying": 36
+    "airlinesFlying": 35
   },
   "Beihai_Fucheng_Airport": {
     "latitude": "21°32′22″N",
@@ -6552,7 +6572,7 @@
     "icao": "LEBB",
     "dd_latitude": 43.301111111111105,
     "dd_longitude": -2.9105555555555553,
-    "airlinesFlying": 32
+    "airlinesFlying": 31
   },
   "Biarritz_%E2%80%93_Anglet_%E2%80%93_Bayonne_Airport": {
     "latitude": "43°28′06″N",
@@ -6681,21 +6701,21 @@
     "dd_longitude": -94.93472222222222
   },
   "Wayne_County_Airport_(Ohio)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°52′29″N",
+    "longitude": "081°53′18″W",
     "name": "Wayne County Airport",
     "nickname": "IATA: BJJ",
     "iata": "BJJ",
     "icao": "KBJJ",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.874722222222225,
+    "dd_longitude": -81.88833333333334
   },
   "Benjina_Airport": {
     "latitude": "6°3′58″S",
     "longitude": "134°16′26″E",
-    "name": "Benjina-Nangasuri Airport",
-    "nickname": "IATA: BJK",
-    "iata": "BJK",
+    "name": "Benjina-Slade Airport",
+    "nickname": "IATA: BJS",
+    "iata": "BJS",
     "icao": "WAPK",
     "dd_latitude": -6.066111111111111,
     "dd_longitude": 134.2738888888889
@@ -6709,7 +6729,7 @@
     "icao": "GBYD",
     "dd_latitude": 13.337961111111111,
     "dd_longitude": -16.652205555555554,
-    "airlinesFlying": 11
+    "airlinesFlying": 10
   },
   "Bujumbura_International_Airport": {
     "latitude": "03°19′26″S",
@@ -6720,7 +6740,7 @@
     "icao": "HBBA",
     "dd_latitude": -3.3238888888888884,
     "dd_longitude": 29.31861111111111,
-    "airlinesFlying": 10
+    "airlinesFlying": 9
   },
   "Bermejo_Airport": {
     "latitude": "22°46′24″S",
@@ -6930,14 +6950,14 @@
     "airlinesFlying": 95
   },
   "Cleveland_Burke_Lakefront_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°31′03″N",
+    "longitude": "81°41′00″W",
     "name": "Cleveland Burke Lakefront Airport",
     "nickname": "IATA: BKL",
     "iata": "BKL",
     "icao": "KBKL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.5175,
+    "dd_longitude": -81.68333333333334
   },
   "Bakelalan_Airport": {
     "latitude": "03°59′19″N",
@@ -7950,14 +7970,14 @@
     "airlinesFlying": 1
   },
   "Miley_Memorial_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42°35′06″N",
+    "longitude": "110°06′40″W",
     "name": "Miley Memorial Field",
     "nickname": "IATA: BPI",
     "iata": "BPI",
     "icao": "KBPI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 42.585,
+    "dd_longitude": -110.1111111111111
   },
   "Biangabip_Airport": {
     "latitude": "05°31′35″S",
@@ -8350,7 +8370,7 @@
     "icao": "EGGD",
     "dd_latitude": 51.382777777777775,
     "dd_longitude": -2.7191666666666667,
-    "airlinesFlying": 17
+    "airlinesFlying": 16
   },
   "Bathurst_Island_Airport": {
     "latitude": "11°46′09″S",
@@ -8371,7 +8391,7 @@
     "icao": "EBBR",
     "dd_latitude": 50.90138888888889,
     "dd_longitude": 4.484444444444445,
-    "airlinesFlying": 107
+    "airlinesFlying": 106
   },
   "Bremerhaven_Airport": {
     "latitude": "53°30′25″N",
@@ -9365,14 +9385,14 @@
     "dd_longitude": -97.34944444444444
   },
   "Bowman_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "46°11′13″N",
+    "longitude": "103°25′41″W",
     "name": "Bowman Municipal Airport",
     "nickname": "IATA: BWM",
     "iata": "BWM",
     "icao": "KBPP",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 46.18694444444444,
+    "dd_longitude": -103.42805555555556
   },
   "Brunei_International_Airport": {
     "latitude": "4°56′39″N",
@@ -9468,14 +9488,14 @@
     "dd_longitude": 139.58333333333334
   },
   "Bakel_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "14°50′50″N",
+    "longitude": "12°28′06″W",
     "name": "Bakel Airport",
     "nickname": "IATA: BXE",
     "iata": "BXE",
     "icao": "GOTB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 14.847222222222223,
+    "dd_longitude": -12.468333333333334
   },
   "Bendigo_Airport_(Victoria)": {
     "latitude": "36°44′22″S",
@@ -9856,14 +9876,14 @@
     "airlinesFlying": 11
   },
   "Benton_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°34′27″N",
+    "longitude": "122°24′27″W",
     "name": "Benton Field",
     "nickname": "Benton Airpark",
     "iata": "BZF[1]",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.57416666666667,
+    "dd_longitude": -122.4075
   },
   "Bydgoszcz_Ignacy_Jan_Paderewski_Airport": {
     "latitude": "53°05′48″N",
@@ -10080,14 +10100,14 @@
     "dd_longitude": -62.85416666666667
   },
   "Akron-Canton_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°54.90′N",
+    "longitude": "81°26.62′W",
     "name": "Akron–Canton Airport (CAK)",
     "nickname": "IATA: CAK",
     "iata": "CAK",
     "icao": "KCAK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.915,
+    "dd_longitude": -81.44366666666667
   },
   "Campbeltown_Airport": {
     "latitude": "55°26′15″N",
@@ -10266,14 +10286,14 @@
     "dd_longitude": 92.81972222222223
   },
   "Greater_Cumberland_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°36′56″N",
+    "longitude": "078°45′39″W",
     "name": "Greater Cumberland Regional Airport",
     "nickname": "IATA: CBE",
     "iata": "CBE",
     "icao": "KCBE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.61555555555556,
+    "dd_longitude": -78.76083333333334
   },
   "Council_Bluffs_Municipal_Airport": {
     "latitude": "41°15′36″N",
@@ -10508,7 +10528,7 @@
     "latitude": "11°08′N",
     "longitude": "75°57′E",
     "name": "Calicut International Airport",
-    "nickname": "കോഴിക്കോട് അന്താരാഷ്ട്ര വിമാനത്താവളം",
+    "nickname": "IATA: CCJ",
     "iata": "CCJ",
     "icao": "VOCL",
     "dd_latitude": 11.133333333333333,
@@ -10556,6 +10576,16 @@
     "icao": "OACC",
     "dd_latitude": 34.52638888888889,
     "dd_longitude": 65.27083333333333
+  },
+  "Carimagua_Airport": {
+    "latitude": "4°34′00″N",
+    "longitude": "71°20′10″W",
+    "name": "Carimagua Airport",
+    "nickname": "IATA: CCO",
+    "iata": "CCO",
+    "icao": "SKCI",
+    "dd_latitude": 4.566666666666666,
+    "dd_longitude": -71.33611111111111
   },
   "Carriel_Sur_International_Airport": {
     "latitude": "36°46′21.4″S",
@@ -11030,14 +11060,14 @@
     "dd_longitude": -85.13111111111111
   },
   "Bob_Sikes_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°46′43.80″N",
+    "longitude": "086°31′19.60″W",
     "name": "Bob Sikes Airport",
     "nickname": "IATA: CEW",
     "iata": "CEW",
     "icao": "KCEW",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.77883333333333,
+    "dd_longitude": -86.52211111111112
   },
   "Murray-Calloway_County_Airport": {
     "latitude": "36°39′52″N",
@@ -11209,14 +11239,14 @@
     "airlinesFlying": 41
   },
   "Coffeyville_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°05′39″N",
+    "longitude": "095°34′19″W",
     "name": "Coffeyville Municipal Airport",
     "nickname": "Coffeyville AAF",
     "iata": "CFV",
     "icao": "KCFV",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.094166666666666,
+    "dd_longitude": -95.57194444444444
   },
   "Craig_Seaplane_Base": {
     "latitude": "55°28′44″N",
@@ -11351,7 +11381,7 @@
     "icao": "ZHCC",
     "dd_latitude": 34.51972222222222,
     "dd_longitude": 113.84083333333332,
-    "airlinesFlying": 21
+    "airlinesFlying": 22
   },
   "Shah_Amanat_International_Airport": {
     "latitude": "22°14′59″N",
@@ -11522,14 +11552,14 @@
     "airlinesFlying": 1
   },
   "Jeonju_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°52′42″N",
+    "longitude": "127°07′10″E",
     "name": "Jeonju Airport",
     "nickname": "IATA: CHN",
     "iata": "CHN",
     "icao": "RKJU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.87833333333333,
+    "dd_longitude": 127.11944444444444
   },
   "Charlottesville%E2%80%93Albemarle_Airport": {
     "latitude": "38°08′19″N",
@@ -11752,6 +11782,16 @@
     "dd_latitude": 64.89777777777779,
     "dd_longitude": -163.70333333333332
   },
+  "Cimitarra_Airport": {
+    "latitude": "6°22′05″N",
+    "longitude": "73°58′15″W",
+    "name": "Cimitarra Airport",
+    "nickname": "IATA: CIM",
+    "iata": "CIM",
+    "icao": "SKCM",
+    "dd_latitude": 6.368055555555555,
+    "dd_longitude": -73.97083333333333
+  },
   "Arthur_N._Neu_Airport": {
     "latitude": "42°02′46″N",
     "longitude": "094°47′20″W",
@@ -11882,7 +11922,7 @@
     "latitude": "11°01′36″N",
     "longitude": "077°02′30″E",
     "name": "Coimbatore International Airport",
-    "nickname": "IATA: CJB",
+    "nickname": "கோயம்புத்தூர் பன்னாட்டு வானூர்தி நிலையம்",
     "iata": "CJB",
     "icao": "VOCB",
     "dd_latitude": 11.026666666666667,
@@ -12177,7 +12217,7 @@
     "icao": "GUCY",
     "dd_latitude": 9.576888888888888,
     "dd_longitude": -13.61196111111111,
-    "airlinesFlying": 13
+    "airlinesFlying": 12
   },
   "%C3%87anakkale_Airport": {
     "latitude": "40°08′15.80″N",
@@ -12336,14 +12376,14 @@
     "dd_longitude": -115.5213888888889
   },
   "Chehalis-Centralia_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "46°40′37.3000″N",
+    "longitude": "122°58′57.9000″W",
     "name": "Chehalis-Centralia Airport",
     "nickname": "IATA: CLS",
     "iata": "CLS",
     "icao": "KCLS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 46.677027777777774,
+    "dd_longitude": -122.98275
   },
   "Charlotte_Douglas_International_Airport": {
     "latitude": "35°12′50″N",
@@ -12377,14 +12417,14 @@
     "dd_longitude": -48.61
   },
   "Clearwater_Air_Park": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°58′36″N",
+    "longitude": "082°45′31″W",
     "name": "Clearwater Air Park",
     "nickname": "IATA: CLW",
     "iata": "CLW",
     "icao": "KCLW",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 27.976666666666667,
+    "dd_longitude": -82.75861111111111
   },
   "Clorinda_Airport": {
     "latitude": "25°18′17.1″S",
@@ -12482,14 +12522,14 @@
     "airlinesFlying": 4
   },
   "Port_Columbus_International_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°59′53″N",
+    "longitude": "082°53′31″W",
     "name": "John Glenn Columbus International Airport",
     "nickname": "IATA: CMH",
     "iata": "CMH",
     "icao": "KCMH",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 39.99805555555556,
+    "dd_longitude": -82.89194444444445,
     "airlinesFlying": 25
   },
   "University_of_Illinois_Willard_Airport": {
@@ -12552,7 +12592,7 @@
     "icao": "GMMN",
     "dd_latitude": 33.367222222222225,
     "dd_longitude": -7.589722222222222,
-    "airlinesFlying": 44
+    "airlinesFlying": 43
   },
   "Obbia_Airport": {
     "latitude": "5°21′05″N",
@@ -12700,14 +12740,14 @@
     "airlinesFlying": 11
   },
   "Cognac_%E2%80%93_Ch%C3%A2teaubernard_Air_Base": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "45°39′30″N",
+    "longitude": "000°19′03″W",
     "name": "Cognac - Châteaubernard Air Base",
     "nickname": "Base aérienne 709 Cognac-Châteaubernard",
     "iata": "CNG",
     "icao": "LFBG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 45.65833333333333,
+    "dd_longitude": -0.3175
   },
   "Claremont_Municipal_Airport": {
     "latitude": "43°22′14″N",
@@ -12741,14 +12781,14 @@
     "airlinesFlying": 2
   },
   "Blosser_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°32′57″N",
+    "longitude": "097°39′08″W",
     "name": "Blosser Municipal Airport",
     "nickname": "IATA: CNK",
     "iata": "CNK",
     "icao": "KCNK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.549166666666665,
+    "dd_longitude": -97.65222222222222
   },
   "Sindal_Airport": {
     "latitude": "57°30′17″N",
@@ -12822,17 +12862,17 @@
     "icao": "YBCS",
     "dd_latitude": -16.885833333333334,
     "dd_longitude": 145.7552777777778,
-    "airlinesFlying": 23
+    "airlinesFlying": 22
   },
   "Chanute_Martin_Johnson_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°40′08″N",
+    "longitude": "095°29′06″W",
     "name": "Chanute Martin Johnson Airport",
     "nickname": "IATA: CNU",
     "iata": "CNU",
     "icao": "KCNU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.66888888888889,
+    "dd_longitude": -95.485
   },
   "TSTC_Waco_Airport": {
     "latitude": "31°38′16″N",
@@ -12907,14 +12947,14 @@
     "airlinesFlying": 3
   },
   "Coeur_d%27Alene_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "47°46′28″N",
+    "longitude": "116°49′10″W",
     "name": "Coeur d'Alene Airport",
     "nickname": "Pappy Boyington Field",
     "iata": "COE",
     "icao": "KCOE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 47.77444444444444,
+    "dd_longitude": -116.81944444444444
   },
   "Patrick_Air_Force_Base": {
     "latitude": "28°14′06″N",
@@ -12925,6 +12965,16 @@
     "icao": "KCOF",
     "dd_latitude": 28.235,
     "dd_longitude": -80.61
+  },
+  "Mandinga_Airport": {
+    "latitude": "5°04′20″N",
+    "longitude": "76°40′35″W",
+    "name": "Mandinga Airport",
+    "nickname": "Condoto Airport",
+    "iata": "COG",
+    "icao": "SKCD",
+    "dd_latitude": 5.072222222222222,
+    "dd_longitude": -76.6763888888889
   },
   "Cooch_Behar_Airport": {
     "latitude": "26°30′00″N",
@@ -13152,17 +13202,27 @@
     "icao": "EKCH",
     "dd_latitude": 55.61805555555556,
     "dd_longitude": 12.65611111111111,
-    "airlinesFlying": 91
+    "airlinesFlying": 90
+  },
+  "General_Navas_Pardo_Airport": {
+    "latitude": "3°43′28″N",
+    "longitude": "75°27′55″W",
+    "name": "General Navas Pardo Airport",
+    "nickname": "Chaparral Airport",
+    "iata": "CPL",
+    "icao": "SKHA",
+    "dd_latitude": 3.7244444444444444,
+    "dd_longitude": -75.46527777777779
   },
   "Woodley_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "33°53′24″N",
+    "longitude": "118°14′37″W",
     "name": "Compton/Woodley Airport",
     "nickname": "IATA: CPM",
     "iata": "CPM",
     "icao": "KCPM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 33.89,
+    "dd_longitude": -118.24361111111111
   },
   "Desierto_de_Atacama_Airport": {
     "latitude": "27°15′40.49″S",
@@ -13544,14 +13604,14 @@
     "dd_longitude": -16.746111111111112
   },
   "Clinton-Sherman_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°20′23″N",
+    "longitude": "099°12′02″W",
     "name": "Clinton-Sherman Industrial Airpark",
     "nickname": "IATA: CSM",
     "iata": "CSM",
     "icao": "KCSM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.33972222222222,
+    "dd_longitude": -99.20055555555555
   },
   "Carson_Airport": {
     "latitude": "39°11′32″N",
@@ -13595,14 +13655,14 @@
     "airlinesFlying": 21
   },
   "Cheboksary_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "56°05′24″N",
+    "longitude": "047°20′50″E",
     "name": "Cheboksary International Airport",
     "nickname": "Шупашкар Аэропорчĕ",
     "iata": "CSY",
     "icao": "UWKS",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 56.09,
+    "dd_longitude": 47.34722222222222,
     "airlinesFlying": 1
   },
   "Brigadier_Hector_Eduardo_Ruiz_Airport": {
@@ -14012,6 +14072,16 @@
     "dd_latitude": -33.71,
     "dd_longitude": 136.505
   },
+  "Cove%C3%B1as_Airport": {
+    "latitude": "9°24′03″N",
+    "longitude": "75°41′30″W",
+    "name": "Coveñas Airport",
+    "nickname": "IATA: CVE",
+    "iata": "CVE",
+    "icao": "SKCV",
+    "dd_latitude": 9.400833333333333,
+    "dd_longitude": -75.69166666666668
+  },
   "Courchevel_Altiport": {
     "latitude": "45°23′51″N",
     "longitude": "06°38′04″E",
@@ -14030,7 +14100,8 @@
     "iata": "CVG",
     "icao": "KCVG",
     "dd_latitude": 39.04888888888889,
-    "dd_longitude": -84.66777777777779
+    "dd_longitude": -84.66777777777779,
+    "airlinesFlying": 1
   },
   "Caviahue_Airport": {
     "latitude": "37°51′4.6″S",
@@ -14489,14 +14560,14 @@
     "dd_longitude": -57.77055555555555
   },
   "Cheyenne_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°09′20″N",
+    "longitude": "104°48′38″W",
     "name": "Cheyenne Regional Airport",
     "nickname": "Jerry Olson Field",
     "iata": "CYS",
     "icao": "KCYS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.15555555555555,
+    "dd_longitude": -104.81055555555555
   },
   "Yakataga_Airport": {
     "latitude": "60°04′55″N",
@@ -15337,14 +15408,14 @@
     "dd_longitude": -109.50638888888889
   },
   "Naval_Surface_Warfare_Center_Dahlgren_Division": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "38°19′30″N",
+    "longitude": "77°02′00″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 38.325,
+    "dd_longitude": -77.03333333333333
   },
   "General_Guadalupe_Victoria_International_Airport": {
     "latitude": "24°07′27″N",
@@ -15639,14 +15710,14 @@
     "dd_longitude": -5.354444444444444
   },
   "Mawella_Lagoon_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "5°58′N",
+    "longitude": "80°41′E",
     "name": "Mawella Lagoon Airport",
     "nickname": "IATA: none",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 5.966666666666667,
+    "dd_longitude": 80.68333333333334
   },
   "Diyarbak%C4%B1r_Airport": {
     "latitude": "37°53′38″N",
@@ -16004,7 +16075,7 @@
     "icao": "UUDD",
     "dd_latitude": 55.40861111111111,
     "dd_longitude": 37.90611111111111,
-    "airlinesFlying": 46
+    "airlinesFlying": 45
   },
   "Don_Mueang_International_Airport": {
     "latitude": "13°54′45″N",
@@ -16015,13 +16086,13 @@
     "icao": "VTBD",
     "dd_latitude": 13.9125,
     "dd_longitude": 100.60666666666665,
-    "airlinesFlying": 22
+    "airlinesFlying": 21
   },
   "King_Fahd_International_Airport": {
     "latitude": "26°28′16.3″N",
     "longitude": "049°47′54.9″E",
     "name": "King Fahd International Airport",
-    "nickname": "Dammam Airport",
+    "nickname": "IATA: DMM",
     "iata": "DMM",
     "icao": "OEDF",
     "dd_latitude": 26.471194444444443,
@@ -16102,14 +16173,14 @@
     "airlinesFlying": 6
   },
   "Wad_Medani_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "15°23′15″N",
+    "longitude": "36°19′44″E",
     "name": "Wad Medani Airport",
     "nickname": "IATA: DNI",
     "iata": "DNI",
     "icao": "HSWD",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 15.3875,
+    "dd_longitude": 36.32888888888889,
     "airlinesFlying": 1
   },
   "Dnipropetrovsk_International_Airport": {
@@ -16134,14 +16205,14 @@
     "dd_longitude": -82.03944444444444
   },
   "Dalton_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°43′23″N",
+    "longitude": "084°52′13″W",
     "name": "Dalton Municipal Airport",
     "nickname": "IATA: DNN",
     "iata": "DNN",
     "icao": "KDNN",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.723055555555554,
+    "dd_longitude": -84.87027777777777
   },
   "Tribhuvannagar_Airport": {
     "latitude": "28°06′39″N",
@@ -16196,14 +16267,14 @@
     "airlinesFlying": 1
   },
   "Galegu_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "12°31′59″N",
+    "longitude": "35°04′01″E",
     "name": "Galegu Airport",
     "nickname": "IATA: DNX",
     "iata": "DNX",
     "icao": "HSGG",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 12.533055555555556,
+    "dd_longitude": 35.066944444444445,
     "airlinesFlying": 1
   },
   "Denizli_%C3%87ardak_Airport": {
@@ -16346,7 +16417,7 @@
   "Dover_Air_Force_Base": {
     "latitude": "39°07′42″N",
     "longitude": "075°27′53″W",
-    "name": "Dover AFBAirfield information",
+    "name": "Dover AFBDover AFBAirfield information",
     "nickname": "Dover AFB",
     "iata": "DOV",
     "icao": "KDOV",
@@ -16470,14 +16541,14 @@
     "dd_longitude": 20.768055555555556
   },
   "Drummond_Island_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "46°00′34″N",
+    "longitude": "083°44′38″W",
     "name": "Drummond Island Airport",
     "nickname": "IATA: DRE",
     "iata": "DRE",
     "icao": "KDRM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 46.00944444444445,
+    "dd_longitude": -83.74388888888889
   },
   "Deering_Airport": {
     "latitude": "66°04′10″N",
@@ -16820,7 +16891,7 @@
     "icao": "KDTW",
     "dd_latitude": 42.212500000000006,
     "dd_longitude": -83.35333333333332,
-    "airlinesFlying": 3
+    "airlinesFlying": 4
   },
   "Durant_Regional_Airport%E2%80%93Eaker_Field": {
     "latitude": "33°56′32″N",
@@ -16990,14 +17061,14 @@
     "dd_longitude": -98.90833333333335
   },
   "Davenport_Municipal_Airport_(Iowa)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°36′37″N",
+    "longitude": "090°35′18″W",
     "name": "Davenport Municipal Airport",
     "nickname": "IATA: DVN",
     "iata": "DVN",
     "icao": "KDVN",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.61027777777778,
+    "dd_longitude": -90.58833333333332
   },
   "Francisco_Bangoy_International_Airport": {
     "latitude": "07°07′32″N",
@@ -17064,14 +17135,14 @@
     "airlinesFlying": 1
   },
   "David_Wayne_Hooks_Memorial_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°03′43″N",
+    "longitude": "095°33′10″W",
     "name": "David Wayne Hooks Memorial Airport",
     "nickname": "IATA: DWH",
     "iata": "DWH",
     "icao": "KDWH",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.061944444444446,
+    "dd_longitude": -95.55277777777778
   },
   "Dwyer_Airport": {
     "latitude": "31°05′31″N",
@@ -17105,14 +17176,14 @@
     "dd_longitude": -90.10305555555556
   },
   "Danbury_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°22′18″N",
+    "longitude": "073°28′56″W",
     "name": "Danbury Municipal Airport",
     "nickname": "IATA: DXR",
     "iata": "DXR",
     "icao": "KDXR",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.37166666666667,
+    "dd_longitude": -73.48222222222222
   },
   "Dysart_Airport": {
     "latitude": "22°37′20″S",
@@ -17322,7 +17393,7 @@
     "icao": "HUEN",
     "dd_latitude": 0.04472222222222222,
     "dd_longitude": 32.44305555555555,
-    "airlinesFlying": 25
+    "airlinesFlying": 24
   },
   "El_Obeid_Airport": {
     "latitude": "13°09′11″N",
@@ -17481,6 +17552,16 @@
     "dd_longitude": -85.79555555555555,
     "airlinesFlying": 5
   },
+  "El_Charco_Airport": {
+    "latitude": "2°27′00″N",
+    "longitude": "78°05′40″W",
+    "name": "El Charco Airport",
+    "nickname": "IATA: ECR",
+    "iata": "ECR",
+    "icao": "SKEH",
+    "dd_latitude": 2.45,
+    "dd_longitude": -78.09444444444443
+  },
   "El_Debba_Airport": {
     "latitude": "18°00′50″N",
     "longitude": "30°57′35″E",
@@ -17505,7 +17586,7 @@
   "Elmendorf_Air_Force_Base": {
     "latitude": "61°15′05″N",
     "longitude": "149°48′23″W",
-    "name": "JB Elmendorf-RichardsonAirfield information",
+    "name": "JB Elmendorf-RichardsonJB Elmendorf-RichardsonAirfield information",
     "nickname": "Elmendorf Field",
     "iata": "EDF",
     "icao": "PAED",
@@ -17637,14 +17718,14 @@
     "dd_longitude": 147.66
   },
   "Newport_State_Airport_(Vermont)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "44°53′20″N",
+    "longitude": "072°13′45″W",
     "name": "Newport State Airport",
     "nickname": "IATA: EFK",
     "iata": "EFK",
     "icao": "KEFK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 44.888888888888886,
+    "dd_longitude": -72.22916666666667
   },
   "Cephalonia_International_Airport": {
     "latitude": "38°07′12″N",
@@ -17846,14 +17927,14 @@
     "airlinesFlying": 1
   },
   "Ein_Yahav_Airfield": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°37′17.39″N",
+    "longitude": "35°12′11.36″E",
     "name": "Ein Yahav Airfield",
     "nickname": "מנחת ספיר",
     "iata": "EIY",
     "icao": "LLEY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.621497222222224,
+    "dd_longitude": 35.20315555555556
   },
   "Yarigu%C3%ADes_Airport": {
     "latitude": "07°01′28″N",
@@ -18375,14 +18456,14 @@
     "dd_longitude": -7.651944444444445
   },
   "Nenana_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "64°32′50.28″N",
+    "longitude": "149°4′26.41″W",
     "name": "Nenana Municipal Airport",
     "nickname": "IATA: ENN",
     "iata": "ENN",
     "icao": "PANN",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 64.54729999999999,
+    "dd_longitude": -149.07400277777776
   },
   "Teniente_Amin_Ayub_Gonzalez_Airport": {
     "latitude": "27°13′37″S",
@@ -18538,14 +18619,14 @@
     "dd_longitude": -119.51694444444445
   },
   "%C3%89pinal_%E2%80%93_Mirecourt_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "48°19′29″N",
+    "longitude": "006°04′01″E",
     "name": "Épinal - Mirecourt Airport",
     "nickname": "Aéroport d'Épinal - Mirecourt",
     "iata": "EPL",
     "icao": "LFSG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 48.32472222222223,
+    "dd_longitude": 6.066944444444444
   },
   "Esperance_Airport": {
     "latitude": "33°41′04″S",
@@ -19701,14 +19782,14 @@
     "dd_longitude": -70.34722222222221
   },
   "Ferkess%C3%A9dougou_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "9°36′00″N",
+    "longitude": "5°12′00″W",
     "name": "Ferkessedougou Airport",
     "nickname": "IATA: FEK",
     "iata": "FEK",
     "icao": "DIFK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 9.6,
+    "dd_longitude": -5.2
   },
   "F%C3%BCrstenfeldbruck_Air_Base": {
     "latitude": "48°12′24″N",
@@ -19773,14 +19854,14 @@
     "dd_longitude": -1.7899999999999998
   },
   "Fairfield_Municipal_Airport_(Iowa)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°03′21″N",
+    "longitude": "091°58′51″W",
     "name": "Fairfield Municipal Airport",
     "nickname": "IATA: FFL",
     "iata": "FFL",
     "icao": "KFFL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.05583333333333,
+    "dd_longitude": -91.98083333333334
   },
   "Fergus_Falls_Municipal_Airport": {
     "latitude": "46°17′04″N",
@@ -19795,7 +19876,7 @@
   "Wright-Patterson_Air_Force_Base": {
     "latitude": "39°49′23″N",
     "longitude": "084°02′58″W",
-    "name": "Wright-Patterson AFBAirfield information",
+    "name": "Wright-Patterson AFBWright-Patterson AFBAirfield information",
     "nickname": "Wright-Patterson AFB",
     "iata": "FFO",
     "icao": "KFFO",
@@ -19903,7 +19984,7 @@
     "icao": "FZAA",
     "dd_latitude": -4.385750000000001,
     "dd_longitude": 15.444569444444445,
-    "airlinesFlying": 17
+    "airlinesFlying": 16
   },
   "Fillmore_Municipal_Airport": {
     "latitude": "38°57′29″N",
@@ -20200,7 +20281,7 @@
   "Otis_Air_National_Guard_Base": {
     "latitude": "41°39′31″N",
     "longitude": "070°31′17″W",
-    "name": "Otis ANGBAirfield information",
+    "name": "Otis ANGBOtis ANGBAirfield information",
     "nickname": "Otis ANGB",
     "iata": "FMH",
     "icao": "KFMH",
@@ -20279,7 +20360,7 @@
     "icao": "GFLL",
     "dd_latitude": 8.616444444444443,
     "dd_longitude": -13.195488888888889,
-    "airlinesFlying": 12
+    "airlinesFlying": 11
   },
   "Neubrandenburg_Airport": {
     "latitude": "53°36′7.8″N",
@@ -20300,7 +20381,7 @@
     "icao": "LPMA",
     "dd_latitude": 32.69416666666666,
     "dd_longitude": -16.778055555555554,
-    "airlinesFlying": 37
+    "airlinesFlying": 36
   },
   "Fane_Airport": {
     "latitude": "08°33.07′S",
@@ -20568,7 +20649,7 @@
     "icao": "EDDF",
     "dd_latitude": 50.03333333333333,
     "dd_longitude": 8.570555555555556,
-    "airlinesFlying": 141
+    "airlinesFlying": 139
   },
   "Forbes_Airport": {
     "latitude": "33°21′48″S",
@@ -20746,14 +20827,14 @@
     "airlinesFlying": 1
   },
   "Eastern_Slopes_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°59′28″N",
+    "longitude": "070°56′52″W",
     "name": "Eastern Slope Regional Airport",
     "nickname": "IATA: FRY",
     "iata": "FRY",
     "icao": "KIZG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.99111111111111,
+    "dd_longitude": -70.94777777777779
   },
   "Fritzlar_Air_Base": {
     "latitude": "51°07′00″N",
@@ -20798,14 +20879,14 @@
     "dd_longitude": -98.40222222222222
   },
   "Fort_Scott_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°47′54″N",
+    "longitude": "094°46′10″W",
     "name": "Fort Scott Municipal Airport",
     "nickname": "IATA: FSK",
     "iata": "FSK",
     "icao": "KFSK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.79833333333333,
+    "dd_longitude": -94.76944444444445
   },
   "Fort_Smith_Regional_Airport": {
     "latitude": "35°20′12″N",
@@ -21066,14 +21147,14 @@
     "dd_longitude": -97.44166666666668
   },
   "Fort_Lauderdale_Executive_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "26°11′50″N",
+    "longitude": "080°10′15″W",
     "name": "Fort Lauderdale Executive Airport",
     "nickname": "IATA: FXE",
     "iata": "FXE",
     "icao": "KFXE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 26.197222222222223,
+    "dd_longitude": -80.17083333333333
   },
   "Cuamba_Airport": {
     "latitude": "14°49′03″S",
@@ -21100,7 +21181,7 @@
     "latitude": "48°11′58.18″N",
     "longitude": "134°21′59.21″E",
     "name": "Fuyuan Dongji Airport",
-    "nickname": "抚远东极机场",
+    "nickname": "IATA: FYJ",
     "iata": "FYJ",
     "icao": "ZYFY",
     "dd_latitude": 48.19949444444444,
@@ -21417,14 +21498,14 @@
     "airlinesFlying": 7
   },
   "Galesburg_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°56′17″N",
+    "longitude": "090°25′52″W",
     "name": "Galesburg Municipal Airport",
     "nickname": "IATA: GBG",
     "iata": "GBG",
     "icao": "KGBG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.93805555555555,
+    "dd_longitude": -90.43111111111112
   },
   "Galbraith_Lake_Airport": {
     "latitude": "68°28′47″N",
@@ -21682,7 +21763,7 @@
     "icao": "MMGL",
     "dd_latitude": 20.521666666666665,
     "dd_longitude": -103.3111111111111,
-    "airlinesFlying": 7
+    "airlinesFlying": 6
   },
   "Gardner_Municipal_Airport_(Massachusetts)": {
     "latitude": "42°33′00″N",
@@ -21703,7 +21784,7 @@
     "icao": "EPGD",
     "dd_latitude": 54.3775,
     "dd_longitude": 18.46611111111111,
-    "airlinesFlying": 15
+    "airlinesFlying": 16
   },
   "Guasdualito_Airport": {
     "latitude": "7°12′40″N",
@@ -21791,14 +21872,14 @@
     "dd_longitude": 166.4727777777778
   },
   "Gebe_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "0°52′52″N",
+    "longitude": "128°17′39″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 0.8811111111111112,
+    "dd_longitude": 128.29416666666665
   },
   "Ge%C3%A7itkale_Air_Base": {
     "latitude": "35°14′00″N",
@@ -22935,7 +23016,7 @@
     "latitude": "15°22′51″N",
     "longitude": "073°49′53″E",
     "name": "Goa International Airport",
-    "nickname": "गोंय (दाबोळें) अंतराष्ट्रीय विमानतळ",
+    "nickname": "IATA: GOI",
     "iata": "GOI",
     "icao": "VOGO",
     "dd_latitude": 15.380833333333333,
@@ -23430,7 +23511,7 @@
   "Seymour_Johnson_Air_Force_Base": {
     "latitude": "35°20′22″N",
     "longitude": "077°57′38″W",
-    "name": "Seymour Johnson AFBAirfield information",
+    "name": "Seymour Johnson AFBSeymour Johnson AFBAirfield information",
     "nickname": "Seymour Johnson AFB",
     "iata": "GSB",
     "icao": "KGSB",
@@ -23823,8 +23904,8 @@
   },
   "Grissom_Air_Reserve_Base": {
     "latitude": "40°38′53″N",
-    "longitude": "086°09′08″W",
-    "name": "Grissom ARSAirfield information",
+    "longitude": "86°09′08″W",
+    "name": "Grissom ARSGrissom ARSAirfield information",
     "nickname": "Grissom ARB",
     "iata": "GUS",
     "icao": "KGUS",
@@ -23832,14 +23913,14 @@
     "dd_longitude": -86.15222222222222
   },
   "RAF_G%C3%BCtersloh": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "51°55′31.4″N",
+    "longitude": "8°18′23.3″E",
     "name": "RAF Gütersloh",
     "nickname": "IATA: GUT",
     "iata": "GUT",
     "icao": "ETUO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 51.92538888888889,
+    "dd_longitude": 8.306472222222222
   },
   "Grundarfj%C3%B6r%C3%B0ur_Airport": {
     "latitude": "64°59′30″N",
@@ -24259,14 +24340,14 @@
     "airlinesFlying": 2
   },
   "Marion_County_%E2%80%93_Rankin_Fite_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°07′03″N",
+    "longitude": "087°59′54″W",
     "name": "Marion County - Rankin Fite Airport",
     "nickname": "IATA: HAB",
     "iata": "HAB",
     "icao": "KHAB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.1175,
+    "dd_longitude": -87.99833333333333
   },
   "Hachijojima_Airport": {
     "latitude": "33°06′54″N",
@@ -24320,7 +24401,7 @@
     "icao": "EDDV",
     "dd_latitude": 52.46083333333333,
     "dd_longitude": 9.685,
-    "airlinesFlying": 25
+    "airlinesFlying": 26
   },
   "Haikou_Meilan_International_Airport": {
     "latitude": "19°56′05″N",
@@ -24353,7 +24434,7 @@
     "icao": "EDDH",
     "dd_latitude": 53.63027777777778,
     "dd_longitude": 9.99111111111111,
-    "airlinesFlying": 74
+    "airlinesFlying": 73
   },
   "Noi_Bai_International_Airport": {
     "latitude": "21°12′50.4″N",
@@ -24475,7 +24556,7 @@
     "latitude": "31°15′54″N",
     "longitude": "089°15′10″W",
     "name": "Hattiesburg Bobby L. Chain Municipal Airport",
-    "nickname": "(former Hattiesburg Army Airfield)",
+    "nickname": "(former Hattiesburg Army Air Field)",
     "iata": "HBG",
     "icao": "KHBG",
     "dd_latitude": 31.265,
@@ -24492,14 +24573,14 @@
     "dd_longitude": -110.13861111111112
   },
   "Hobart_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°59′29″N",
+    "longitude": "099°03′05″W",
     "name": "Hobart Regional Airport",
     "nickname": "IATA: HBR",
     "iata": "HBR",
     "icao": "KHBR",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.99138888888889,
+    "dd_longitude": -99.05138888888888
   },
   "Bulgan_Airport,_Khovd": {
     "latitude": "46°06′06″N",
@@ -24514,8 +24595,8 @@
   "Hubli_Airport": {
     "latitude": "15°21′42″N",
     "longitude": "075°05′05″E",
-    "name": "Hubli Airport",
-    "nickname": "ಹುಬ್ಬಳ್ಳಿ ವಿಮಾನ ನಿಲ್ದಾಣ",
+    "name": "Hubballi Airport",
+    "nickname": "IATA: HBX",
     "iata": "HBX",
     "icao": "VAHB",
     "dd_latitude": 15.361666666666666,
@@ -24546,7 +24627,7 @@
     "latitude": "24°47′02″N",
     "longitude": "107°41′59″E",
     "name": "Hechi Jinchengjiang Airport",
-    "nickname": "河池金城江机场",
+    "nickname": "IATA: HCJ",
     "iata": "HCJ",
     "icao": "ZGHC",
     "dd_latitude": 24.78388888888889,
@@ -24866,8 +24947,8 @@
     "latitude": "60°1′30″N",
     "longitude": "13°34′50″E",
     "name": "Hagfors Airport",
-    "nickname": "IATA: HAG",
-    "iata": "HAG",
+    "nickname": "IATA: HFS",
+    "iata": "HFS",
     "icao": "ESOH",
     "dd_latitude": 60.025,
     "dd_longitude": 13.580555555555556
@@ -25113,14 +25194,14 @@
     "dd_longitude": -111.97277777777778
   },
   "Lake_Havasu_City_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°34′16″N",
+    "longitude": "114°21′30″W",
     "name": "Lake Havasu City Airport",
     "nickname": "IATA: HII",
     "iata": "HII",
     "icao": "KHII",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 34.571111111111115,
+    "dd_longitude": -114.35833333333333,
     "airlinesFlying": 1
   },
   "Hiroshima_Airport": {
@@ -25135,14 +25216,14 @@
     "airlinesFlying": 15
   },
   "Shilavo_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "6°04′40″N",
+    "longitude": "44°45′50″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 6.0777777777777775,
+    "dd_longitude": 44.763888888888886,
     "airlinesFlying": 1
   },
   "Hingurakgoda_Airport": {
@@ -25210,7 +25291,7 @@
   "Civil_Aerodrome_Khajuraho": {
     "latitude": "24°49′02″N",
     "longitude": "079°55′07″E",
-    "name": "Khajuraho Airport",
+    "name": "Khajuraho airport",
     "nickname": "IATA: HJR",
     "iata": "HJR",
     "icao": "VEKO",
@@ -25384,14 +25465,14 @@
     "dd_longitude": 15.83373888888889
   },
   "Wheeling_Ohio_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°10′30″N",
+    "longitude": "080°38′47″W",
     "name": "Wheeling Ohio County Airport",
     "nickname": "IATA: HLG",
     "iata": "HLG",
     "icao": "KHLG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.175,
+    "dd_longitude": -80.6463888888889
   },
   "Ulanhot_Airport": {
     "latitude": "46°11′48″N",
@@ -26179,7 +26260,7 @@
   "Homestead_Air_Reserve_Base": {
     "latitude": "25°29′18″N",
     "longitude": "080°23′01″W",
-    "name": "Homestead ARBAirfield information",
+    "name": "Homestead ARBHomestead ARBAirfield information",
     "nickname": "Homestead ARB",
     "iata": "HST",
     "icao": "KHST",
@@ -26250,14 +26331,14 @@
     "airlinesFlying": 3
   },
   "Roscommon_County%E2%80%93Blodgett_Memorial_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "44°21′35″N",
+    "longitude": "084°40′16″W",
     "name": "Roscommon County–Blodgett Memorial Airport",
     "nickname": "IATA: HTL",
     "iata": "HTL",
     "icao": "KHTL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 44.359722222222224,
+    "dd_longitude": -84.67111111111112
   },
   "Khatgal_Airport": {
     "latitude": "50°26′22″N",
@@ -26374,14 +26455,14 @@
     "dd_longitude": -71.7625
   },
   "Redstone_Army_Airfield": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°40′43″N",
+    "longitude": "086°41′05″W",
     "name": "Redstone Army Airfield (AAF)",
     "nickname": "IATA: HUA",
     "iata": "HUA",
     "icao": "KHUA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.67861111111111,
+    "dd_longitude": -86.68472222222222
   },
   "Humacao_Airport": {
     "latitude": "18°08′17″N",
@@ -27103,7 +27184,7 @@
     "icao": "RKSI",
     "dd_latitude": 37.46333333333334,
     "dd_longitude": 126.44,
-    "airlinesFlying": 66
+    "airlinesFlying": 67
   },
   "Wichita_Dwight_D._Eisenhower_National_Airport": {
     "latitude": "37°39′0″N",
@@ -27158,14 +27239,14 @@
     "dd_longitude": -116.12333333333332
   },
   "Indiana_County%E2%80%93Jimmy_Stewart_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°37′56″N",
+    "longitude": "079°06′20″W",
     "name": "Indiana County–Jimmy Stewart Airport",
     "nickname": "Indiana County Airport (Jimmy Stewart Field)",
     "iata": "IDI",
     "icao": "KIDI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.632222222222225,
+    "dd_longitude": -79.10555555555555
   },
   "Independence_Municipal_Airport_(Kansas)": {
     "latitude": "37°09′30″N",
@@ -27189,14 +27270,14 @@
     "airlinesFlying": 6
   },
   "%C3%8Ele_d%27Yeu_Aerodrome": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "46°43′07″N",
+    "longitude": "002°23′28″W",
     "name": "Île d'Yeu Aerodrome",
     "nickname": "Aérodrome d'Ile d'Yeu - Grand Phare",
     "iata": "IDY",
     "icao": "LFEY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 46.718611111111116,
+    "dd_longitude": -2.391111111111111
   },
   "Zielona_G%C3%B3ra_Airport": {
     "latitude": "52°08′19″N",
@@ -27375,6 +27456,16 @@
     "dd_longitude": 124.21489444444445,
     "airlinesFlying": 1
   },
+  "Jaime_Ort%C3%ADz_Betancur_Airport": {
+    "latitude": "7°40′40″N",
+    "longitude": "76°41′00″W",
+    "name": "Jaime Ortiz Betancur Airport",
+    "nickname": "Chigorodó Airport",
+    "iata": "IGO",
+    "icao": "SKIG",
+    "dd_latitude": 7.677777777777778,
+    "dd_longitude": -76.68333333333334
+  },
   "Cataratas_del_Iguaz%C3%BA_International_Airport": {
     "latitude": "25°44′14″S",
     "longitude": "54°28′24″W",
@@ -27387,14 +27478,14 @@
     "airlinesFlying": 3
   },
   "Ingolstadt_Manching_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "48°42′56″N",
+    "longitude": "11°32′02″E",
     "name": "Ingolstadt Manching Airport",
     "nickname": "Fliegerhorst Ingolstadt/Manching",
     "iata": "IGS",
     "icao": "ETSI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 48.71555555555556,
+    "dd_longitude": 11.533888888888889
   },
   "Magas_Airport": {
     "latitude": "43°19′09″N",
@@ -27634,14 +27725,14 @@
     "dd_longitude": -154.91083333333333
   },
   "Willmar_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "45°07′04″N",
+    "longitude": "095°07′50″W",
     "name": "Willmar Municipal Airport",
     "nickname": "John L. Rice Field",
     "iata": "ILL",
     "icao": "KBDH",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 45.117777777777775,
+    "dd_longitude": -95.13055555555555
   },
   "Wilmington_International_Airport": {
     "latitude": "34°16′14″N",
@@ -28705,7 +28796,7 @@
     "icao": "VEBD",
     "dd_latitude": 26.68111111111111,
     "dd_longitude": 88.3286111111111,
-    "airlinesFlying": 7
+    "airlinesFlying": 8
   },
   "Chandigarh_International_Airport": {
     "latitude": "30°40′29″N",
@@ -28732,7 +28823,7 @@
   "Mangalore_Airport_(India)": {
     "latitude": "12°57′41″N",
     "longitude": "074°53′24″E",
-    "name": "Mangalore International Airport",
+    "name": "Mangaluru Airport",
     "nickname": "IATA: IXE",
     "iata": "IXE",
     "icao": "VOML",
@@ -28744,7 +28835,7 @@
     "latitude": "15°51′33″N",
     "longitude": "74°37′03″E",
     "name": "Belgaum Airport",
-    "nickname": "ಬೆಳಗಾವಿ ವಿಮಾನ ನಿಲ್ದಾಣ",
+    "nickname": "IATA: IXG",
     "iata": "IXG",
     "icao": "VOBM",
     "dd_latitude": 15.859166666666667,
@@ -28775,8 +28866,8 @@
   "Jammu_Airport": {
     "latitude": "32°41′21″N",
     "longitude": "074°50′15″E",
-    "name": "Jammu Airport",
-    "nickname": "جموں ہوائی اڈا",
+    "name": "Jammu airport",
+    "nickname": "IATA: IXJ",
     "iata": "IXJ",
     "icao": "VIJU",
     "dd_latitude": 32.689166666666665,
@@ -28807,8 +28898,8 @@
   "Madurai_Airport": {
     "latitude": "09°50′01″N",
     "longitude": "078°05′22″E",
-    "name": "Madurai International Airport",
-    "nickname": "மதுரை சர்வதேச வானூர்தி நிலையம்",
+    "name": "Madurai Airport",
+    "nickname": "IATA: IXM",
     "iata": "IXM",
     "icao": "VOMD",
     "dd_latitude": 9.83361111111111,
@@ -28881,7 +28972,7 @@
     "latitude": "19°51′46″N",
     "longitude": "75°23′53″E",
     "name": "Aurangabad Airport",
-    "nickname": "औरंगाबाद विमानतळ",
+    "nickname": "IATA: IXU",
     "iata": "IXU",
     "icao": "VAAU",
     "dd_latitude": 19.86277777777778,
@@ -29015,14 +29106,14 @@
     "dd_longitude": 80.07008333333333
   },
   "PAF_Base_Shahbaz": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "28°17′03″N",
+    "longitude": "068°26′58″E",
     "name": "Jacobabad Air Base",
     "nickname": "IATA: JAG",
     "iata": "JAG",
     "icao": "OPJA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 28.284166666666668,
+    "dd_longitude": 68.44944444444445
   },
   "Jaipur_International_Airport": {
     "latitude": "26°49′27″N",
@@ -29327,7 +29418,7 @@
     "icao": "OEJN",
     "dd_latitude": 21.679444444444446,
     "dd_longitude": 39.156666666666666,
-    "airlinesFlying": 42
+    "airlinesFlying": 43
   },
   "J%C3%A9r%C3%A9mie_Airport": {
     "latitude": "18°39′48″N",
@@ -30093,7 +30184,7 @@
     "latitude": "26°52′49″N",
     "longitude": "70°51′18″E",
     "name": "Jaisalmer Airport",
-    "nickname": "जैसलमेर हवाई अड्डा",
+    "nickname": "IATA: JSA",
     "iata": "JSA",
     "icao": "VIJR",
     "dd_latitude": 26.880277777777778,
@@ -30472,24 +30563,24 @@
     "dd_longitude": -133.9102777777778
   },
   "Gangneung_Air_Base": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°45′12″N",
+    "longitude": "128°56′37″E",
     "name": "Gangneung Airbase",
     "nickname": "강릉공항",
     "iata": "KAG",
     "icao": "RKNN",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.75333333333333,
+    "dd_longitude": 128.94361111111112
   },
   "Kaieteur_International_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "5°10′21″N",
+    "longitude": "59°29′29″W",
     "name": "Kaieteur Airport",
     "nickname": "IATA: KAI",
     "iata": "KAI",
     "icao": "SYKA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 5.1725,
+    "dd_longitude": -59.49138888888889
   },
   "Kajaani_Airport": {
     "latitude": "64°17′03″N",
@@ -30729,14 +30820,14 @@
     "dd_longitude": -11.761666666666667
   },
   "Kaben_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°53′36″N",
+    "longitude": "170°50′42″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 8.893333333333333,
+    "dd_longitude": 170.845
   },
   "Gusti_Syamsir_Alam_Airport": {
     "latitude": "03°17′45″S",
@@ -31313,14 +31404,14 @@
     "dd_longitude": 35.245
   },
   "Kelani_River-Peliyagoda_Waterdrome": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "6°58.12′N",
+    "longitude": "79°52.92′E",
     "name": "Kelani River-Peliyagoda Waterdrome",
     "nickname": "IATA: KEZ",
     "iata": "KEZ",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 6.968666666666667,
+    "dd_longitude": 79.882
   },
   "Kiffa_Airport": {
     "latitude": "16°35′23″N",
@@ -31478,7 +31569,7 @@
     "icao": "HRYR",
     "dd_latitude": -1.9663888888888887,
     "dd_longitude": 30.133055555555558,
-    "airlinesFlying": 14
+    "airlinesFlying": 13
   },
   "Kasongo_Lunda_Airport": {
     "latitude": "6°28′05″S",
@@ -31563,14 +31654,14 @@
     "dd_longitude": 36.40138888888889
   },
   "Khorramabad_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "33°26′07.36″N",
+    "longitude": "048°16′58.40″E",
     "name": "Khorramabad International Airport",
     "nickname": "فرودگاه خرم‌آباد",
     "iata": "KHD",
     "icao": "OICK",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 33.435377777777774,
+    "dd_longitude": 48.28288888888889,
     "airlinesFlying": 3
   },
   "Kherson_International_Airport": {
@@ -31615,7 +31706,7 @@
     "icao": "OPKC",
     "dd_latitude": 24.906666666666666,
     "dd_longitude": 67.16083333333334,
-    "airlinesFlying": 44
+    "airlinesFlying": 45
   },
   "Kauhajoki_Airfield": {
     "latitude": "62°27′49″N",
@@ -32723,15 +32814,14 @@
     "dd_longitude": 164.83777777777777
   },
   "Jam_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°49′13″N",
+    "longitude": "052°21′10″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null,
-    "airlinesFlying": 1
+    "dd_latitude": 27.82027777777778,
+    "dd_longitude": 52.35277777777778
   },
   "King_Island_Airport": {
     "latitude": "39°52′39″S",
@@ -32757,7 +32847,7 @@
     "latitude": "26°24′10″N",
     "longitude": "80°24′44″E",
     "name": "Kanpur Airport",
-    "nickname": "कानपुर हवाई अड्डा\nکانپور ہوائی اڈا",
+    "nickname": "IATA: KNU",
     "iata": "KNU",
     "icao": "VICX",
     "dd_latitude": 26.402777777777775,
@@ -32797,7 +32887,7 @@
   "Kona_International_Airport": {
     "latitude": "19°44′20″N",
     "longitude": "156°02′44″W",
-    "name": "Kona International Airport at KeāholeKona International AirportKona International Airport",
+    "name": "Ellison Onizuka Kona International Airport at KeāholeKona International AirportKona International Airport",
     "nickname": "Kahua Mokulele Kauʻāina o Kona",
     "iata": "KOA",
     "icao": "PHKO",
@@ -33947,7 +34037,7 @@
     "icao": "LGKV",
     "dd_latitude": 40.913333333333334,
     "dd_longitude": 24.61916666666667,
-    "airlinesFlying": 15
+    "airlinesFlying": 14
   },
   "King_Cove_Airport": {
     "latitude": "55°06′59″N",
@@ -34422,17 +34512,17 @@
     "icao": "FNLU",
     "dd_latitude": -8.858333333333333,
     "dd_longitude": 13.231111111111112,
-    "airlinesFlying": 24
+    "airlinesFlying": 23
   },
   "Lae_Nadzab_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "6°34′11.38″S",
+    "longitude": "146°43′33.59″E",
     "name": "Lae Nadzab Airport",
     "nickname": "IATA: LAE",
     "iata": "LAE",
     "icao": "AYNZ",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": -6.569827777777777,
+    "dd_longitude": 146.72599722222222,
     "airlinesFlying": 1
   },
   "Purdue_University_Airport": {
@@ -35132,14 +35222,14 @@
     "dd_longitude": 13.174166666666666
   },
   "Mason_County_Airport_(Michigan)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°57′45″N",
+    "longitude": "086°24′28″W",
     "name": "Mason County Airport",
     "nickname": "IATA: LDM",
     "iata": "LDM",
     "icao": "KLDM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.962500000000006,
+    "dd_longitude": -86.40777777777778
   },
   "Lamidanda_Airport": {
     "latitude": "27°15′11″N",
@@ -35560,14 +35650,14 @@
     "dd_longitude": -85.07249999999999
   },
   "Union_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "45°17′25″N",
+    "longitude": "118°00′26″W",
     "name": "La Grande/Union County Airport",
     "nickname": "IATA: LGD",
     "iata": "LGD",
     "icao": "KLGD",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 45.290277777777774,
+    "dd_longitude": -118.00722222222223
   },
   "Lake_Gregory_Airport": {
     "latitude": "20°06′32″S",
@@ -35715,7 +35805,7 @@
     "icao": "EGKK",
     "dd_latitude": 51.14805555555556,
     "dd_longitude": -0.19027777777777777,
-    "airlinesFlying": 77
+    "airlinesFlying": 76
   },
   "Lugh_Ganane_Airport": {
     "latitude": "3°48′45″N",
@@ -35959,14 +36049,14 @@
     "airlinesFlying": 1
   },
   "Loikaw_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "19°41′29″N",
+    "longitude": "097°12′53″E",
     "name": "Loikaw Airport",
     "nickname": "IATA: LIW",
     "iata": "LIW",
     "icao": "VYLK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 19.691388888888888,
+    "dd_longitude": 97.21472222222222
   },
   "Likoma_Airport": {
     "latitude": "12°04′33″S",
@@ -36146,14 +36236,14 @@
     "dd_longitude": -73.96194444444444
   },
   "Lake_County_Airport_(Oregon)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42°09′40″N",
+    "longitude": "120°23′57″W",
     "name": "Lake County Airport",
     "nickname": "IATA: LKV",
     "iata": "LKV",
     "icao": "KLKV",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 42.16111111111111,
+    "dd_longitude": -120.39916666666667
   },
   "Lekhwair_Airport": {
     "latitude": "22°48′20″N",
@@ -36427,14 +36517,14 @@
     "dd_longitude": -121.73305555555555
   },
   "Lake_Murray_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "7°0′35.71″S",
+    "longitude": "141°29′38.41″E",
     "name": "Lake Murray Airport",
     "nickname": "IATA: LMY",
     "iata": "LMY",
     "icao": "AYLM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -7.009919444444445,
+    "dd_longitude": 141.49400277777775
   },
   "Palm_Beach_County_Park_Airport": {
     "latitude": "26°35′35″N",
@@ -36783,7 +36873,7 @@
     "icao": "GCLP",
     "dd_latitude": 27.931944444444447,
     "dd_longitude": -15.386666666666667,
-    "airlinesFlying": 49
+    "airlinesFlying": 50
   },
   "El_Alto_International_Airport": {
     "latitude": "16°30′48″S",
@@ -36878,7 +36968,7 @@
     "icao": "EGGP",
     "dd_latitude": 53.33361111111111,
     "dd_longitude": -2.8497222222222223,
-    "airlinesFlying": 10
+    "airlinesFlying": 9
   },
   "Malekoula_Airport": {
     "latitude": "16°27′S",
@@ -36891,14 +36981,14 @@
     "dd_longitude": 167.81666666666666
   },
   "La_Porte_Municipal_Airport_(Indiana)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°34′21″N",
+    "longitude": "086°44′04″W",
     "name": "La Porte Municipal Airport",
     "nickname": "IATA: LPO",
     "iata": "LPO",
     "icao": "KPPO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.572500000000005,
+    "dd_longitude": -86.73444444444445
   },
   "Lappeenranta_Airport": {
     "latitude": "61°02′45″N",
@@ -37161,14 +37251,14 @@
     "dd_longitude": -66.67083333333333
   },
   "Losuia_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°30′18″S",
+    "longitude": "151°04′48″E",
     "name": "Losuia Airport",
     "nickname": "IATA: LSA",
     "iata": "LSA",
     "icao": "AYKA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -8.505,
+    "dd_longitude": 151.07999999999998
   },
   "La_Florida_Airport_(Chile)": {
     "latitude": "29°54′58″S",
@@ -37475,14 +37565,14 @@
     "airlinesFlying": 1
   },
   "St._Mary%27s_County_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "38°18′55″N",
+    "longitude": "076°33′00″W",
     "name": "St. Mary's County Regional Airport",
     "nickname": "Capt. Walter Francis Duke Regional Airport",
     "iata": "LTW",
     "icao": "none",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 38.31527777777777,
+    "dd_longitude": -76.55
   },
   "Cotopaxi_International_Airport": {
     "latitude": "00°54′25″S",
@@ -37684,14 +37774,14 @@
     "dd_longitude": 144.45166666666665
   },
   "Dumatubin_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "05°39′41″S",
+    "longitude": "132°43′53″E",
     "name": "Dumatubun Airport",
     "nickname": "IATA: LUV",
     "iata": "LUV",
     "icao": "LWAPL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -5.661388888888889,
+    "dd_longitude": 132.7313888888889
   },
   "Syukuran_Aminuddin_Amir_Airport": {
     "latitude": "01°02′20″S",
@@ -37774,8 +37864,7 @@
     "iata": "LVP",
     "icao": "OIBV",
     "dd_latitude": 26.810277777777777,
-    "dd_longitude": 53.35611111111111,
-    "airlinesFlying": 1
+    "dd_longitude": 53.35611111111111
   },
   "Lucas_do_Rio_Verde_Airport": {
     "latitude": "13°02′14″S",
@@ -37788,14 +37877,14 @@
     "dd_longitude": -55.94222222222222
   },
   "Las_Vegas_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°39′15″N",
+    "longitude": "105°08′33″W",
     "name": "Las Vegas Municipal Airport",
     "nickname": "IATA: LVS",
     "iata": "LVS",
     "icao": "KLVS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.65416666666667,
+    "dd_longitude": -105.14250000000001
   },
   "Greenbrier_Valley_Airport": {
     "latitude": "37°51′30″N",
@@ -37878,7 +37967,7 @@
     "icao": "UKLL",
     "dd_latitude": 49.8125,
     "dd_longitude": 23.95611111111111,
-    "airlinesFlying": 14
+    "airlinesFlying": 15
   },
   "Leeuwarden_Air_Base": {
     "latitude": "53°13′43″N",
@@ -38121,14 +38210,14 @@
     "airlinesFlying": 13
   },
   "Ely_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "47°49′28″N",
+    "longitude": "091°49′51″W",
     "name": "Ely Municipal Airport",
     "nickname": "IATA: LYU",
     "iata": "LYU",
     "icao": "KELO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 47.824444444444445,
+    "dd_longitude": -91.83083333333333
   },
   "Lydd_Airport": {
     "latitude": "50°57′22″N",
@@ -38213,14 +38302,14 @@
     "dd_longitude": 145.45499999999998
   },
   "Gwinnett_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "33°58′41″N",
+    "longitude": "083°57′45″W",
     "name": "Gwinnett County Airport",
     "nickname": "Briscoe Field",
     "iata": "LZU",
     "icao": "KLZU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 33.97805555555556,
+    "dd_longitude": -83.9625
   },
   "Nyingchi_Mainling_Airport": {
     "latitude": "29°18′12″N",
@@ -38370,7 +38459,7 @@
     "icao": "EGCC",
     "dd_latitude": 53.35388888888889,
     "dd_longitude": -2.275,
-    "airlinesFlying": 97
+    "airlinesFlying": 96
   },
   "Eduardo_Gomes_International_Airport": {
     "latitude": "03°02′28″S",
@@ -38717,14 +38806,14 @@
     "dd_longitude": -90.47194444444445
   },
   "McClellan_Airfield": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "38°40′04″N",
+    "longitude": "121°24′02″W",
     "name": "Sacramento Airport McClellan Airfield",
     "nickname": "IATA: MCC",
     "iata": "MCC",
     "icao": "KMCC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 38.66777777777777,
+    "dd_longitude": -121.40055555555556
   },
   "Mackinac_Island_Airport": {
     "latitude": "45°51′54″N",
@@ -39221,14 +39310,14 @@
     "airlinesFlying": 5
   },
   "Mar%C3%A9_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°28′53″S",
+    "longitude": "168°2′15″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -21.481388888888887,
+    "dd_longitude": 168.0375
   },
   "Melfi_Airport": {
     "latitude": "11°3′0″N",
@@ -39296,8 +39385,8 @@
   "Melbourne_Airport": {
     "latitude": "37°40′24″S",
     "longitude": "144°50′36″E",
-    "name": "Melbourne Airport",
-    "nickname": "Tullamarine Airport",
+    "name": "Melbourne Airport\nTullamarine airport",
+    "nickname": "IATA: MEL",
     "iata": "MEL",
     "icao": "YMML",
     "dd_latitude": -37.67333333333333,
@@ -39440,14 +39529,14 @@
     "dd_longitude": 27.244444444444447
   },
   "Mansfield_Lahm_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°49′17″N",
+    "longitude": "82°31′0″W",
     "name": "Mansfield Lahm Regional Airport",
     "nickname": "IATA: MFD",
     "iata": "MFD",
     "icao": "KMFD",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.82138888888889,
+    "dd_longitude": -82.51666666666667
   },
   "McAllen_Miller_International_Airport": {
     "latitude": "26°10′33″N",
@@ -39616,8 +39705,8 @@
   "Augusto_C._Sandino_International_Airport": {
     "latitude": "12°08′29″N",
     "longitude": "086°10′05″W",
-    "name": "Augusto C. Sandino International Airport",
-    "nickname": "Aeropuerto Internacional Augusto C. Sandino",
+    "name": "Augusto C. Sandino\nInternational Airport",
+    "nickname": "Aeropuerto Internacional\nAugusto C. Sandino",
     "iata": "MGA",
     "icao": "MNMG",
     "dd_latitude": 12.141388888888889,
@@ -39748,14 +39837,14 @@
     "dd_longitude": -83.80333333333333
   },
   "Mangaia_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°53′45″S",
+    "longitude": "157°54′24″W",
     "name": "Mangaia Airport",
     "nickname": "IATA: none",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -21.895833333333332,
+    "dd_longitude": -157.90666666666667
   },
   "Milingimbi_Airport": {
     "latitude": "12°05′40″S",
@@ -39788,14 +39877,14 @@
     "dd_longitude": 10.933333333333334
   },
   "Dayton%E2%80%93Wright_Brothers_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°35′20″N",
+    "longitude": "084°13′30″W",
     "name": "Dayton–Wright Brothers Airport",
     "nickname": "IATA: MGY",
     "iata": "MGY",
     "icao": "KMGY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.58888888888889,
+    "dd_longitude": -84.22500000000001
   },
   "Myeik_Airport": {
     "latitude": "12°26′23″N",
@@ -39942,14 +40031,14 @@
     "dd_longitude": -122.27222222222223
   },
   "Manchester%E2%80%93Boston_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42°55′57″N",
+    "longitude": "071°26′08″W",
     "name": "Manchester–Boston Regional Airport",
     "nickname": "IATA: MHT",
     "iata": "MHT",
     "icao": "KMHT",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 42.9325,
+    "dd_longitude": -71.43555555555555,
     "airlinesFlying": 1
   },
   "Mount_Hotham_Airport": {
@@ -40025,14 +40114,14 @@
     "dd_longitude": -101.35805555555555
   },
   "Crystal_Airport_(Minnesota)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "45°03′43″N",
+    "longitude": "093°21′14″W",
     "name": "Crystal Airport",
     "nickname": "IATA: MIC",
     "iata": "MIC",
     "icao": "KMIC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 45.06194444444444,
+    "dd_longitude": -93.35388888888889
   },
   "Manuel_Crescencio_Rej%C3%B3n_International_Airport": {
     "latitude": "20°56′13″N",
@@ -40129,14 +40218,14 @@
     "dd_longitude": 34.806666666666665
   },
   "Millard_Airport_(Nebraska)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°11′46″N",
+    "longitude": "096°06′44″W",
     "name": "Millard Airport",
     "nickname": "IATA: MIQ",
     "iata": "MIQ",
     "icao": "KMLE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.19611111111111,
+    "dd_longitude": -96.11222222222221
   },
   "Monastir_Habib_Bourguiba_International_Airport": {
     "latitude": "35°45′29″N",
@@ -40643,14 +40732,14 @@
     "airlinesFlying": 2
   },
   "McAlester_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°52′57″N",
+    "longitude": "095°47′00″W",
     "name": "McAlester Regional Airport",
     "nickname": "IATA: MLC",
     "iata": "MLC",
     "icao": "KMLC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.8825,
+    "dd_longitude": -95.78333333333333
   },
   "Ibrahim_Nasir_International_Airport": {
     "latitude": "04°11′30″N",
@@ -40759,14 +40848,14 @@
     "airlinesFlying": 1
   },
   "Malabang_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "07°37′00″N",
+    "longitude": "124°03′27″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 7.616666666666667,
+    "dd_longitude": 124.05749999999999
   },
   "Miles_City_Airport": {
     "latitude": "46°25′41″N",
@@ -41009,7 +41098,7 @@
   "McEntire_Joint_National_Guard_Base": {
     "latitude": "33°55′15″N",
     "longitude": "080°48′04″W",
-    "name": "McEntire ANGBAirfield information",
+    "name": "McEntire ANGBMcEntire ANGBAirfield information",
     "nickname": "Congaree Army Airfield",
     "iata": "MMT",
     "icao": "KMMT",
@@ -41369,14 +41458,14 @@
     "dd_longitude": 140.19666666666666
   },
   "Mount_Pleasant_Municipal_Airport_(Michigan)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°37′18″N",
+    "longitude": "084°44′15″W",
     "name": "Mount Pleasant Municipal Airport",
     "nickname": "IATA: MOP",
     "iata": "MOP",
     "icao": "KMOP",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.62166666666667,
+    "dd_longitude": -84.7375
   },
   "Morondava_Airport": {
     "latitude": "20°17′05″S",
@@ -41472,14 +41561,14 @@
     "dd_longitude": -80.17027777777778
   },
   "Sindhri_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "25°41′01″N",
+    "longitude": "69°02′00″E",
     "name": "Sindhri Airport",
     "nickname": "IATA: MPD",
     "iata": "MPD",
     "icao": "OPMP",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 25.683611111111112,
+    "dd_longitude": 69.03333333333333,
     "airlinesFlying": 1
   },
   "Godofredo_P._Ramos_Airport": {
@@ -41567,14 +41656,14 @@
     "dd_longitude": -94.96166666666667
   },
   "Edward_F._Knapp_State_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "44°12′13″N",
+    "longitude": "072°33′44″W",
     "name": "Edward F. Knapp State Airport",
     "nickname": "IATA: MPV",
     "iata": "MPV",
     "icao": "KMPV",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 44.203611111111115,
+    "dd_longitude": -72.56222222222222
   },
   "Mariupol_International_Airport": {
     "latitude": "47°04′21″N",
@@ -41607,14 +41696,14 @@
     "dd_longitude": -91.5111111111111
   },
   "Macomb_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°31′12″N",
+    "longitude": "090°39′09″W",
     "name": "Macomb Municipal Airport",
     "nickname": "IATA: MQB",
     "iata": "MQB",
     "icao": "KMQB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.519999999999996,
+    "dd_longitude": -90.6525
   },
   "Miquelon_Airport": {
     "latitude": "47°05′45″N",
@@ -41963,7 +42052,7 @@
     "icao": "LFML",
     "dd_latitude": 43.43666666666666,
     "dd_longitude": 5.215,
-    "airlinesFlying": 46
+    "airlinesFlying": 45
   },
   "Sir_Seewoosagur_Ramgoolam_International_Airport": {
     "latitude": "20°25′48.10″S",
@@ -42200,7 +42289,7 @@
   "Moshoeshoe_I_International_Airport": {
     "latitude": "29°27′44″S",
     "longitude": "027°33′09″E",
-    "name": "Moshoeshoe I International Airport",
+    "name": "Moshoeshoe International Airport",
     "nickname": "IATA: MSU",
     "iata": "MSU",
     "icao": "FXMM",
@@ -42488,7 +42577,7 @@
     "icao": "EDDM",
     "dd_latitude": 48.35388888888889,
     "dd_longitude": 11.786111111111111,
-    "airlinesFlying": 110
+    "airlinesFlying": 109
   },
   "Mueda_Airport": {
     "latitude": "11°40′22″S",
@@ -42552,14 +42641,14 @@
     "dd_longitude": 35.74861111111111
   },
   "Mauke_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "20°08′12″S",
+    "longitude": "157°20′41″W",
     "name": "Mauke Airport",
     "nickname": "IATA: none",
     "iata": "",
     "icao": "NCMK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -20.136666666666667,
+    "dd_longitude": -157.34472222222223
   },
   "Spence_Airport": {
     "latitude": "31°08′16″N",
@@ -42642,7 +42731,7 @@
     "icao": "OPMT",
     "dd_latitude": 30.203333333333333,
     "dd_longitude": 71.41916666666667,
-    "airlinesFlying": 7
+    "airlinesFlying": 8
   },
   "Mouyondzi_Airport": {
     "latitude": "4°00′53″S",
@@ -42727,14 +42816,14 @@
     "dd_longitude": -37.361666666666665
   },
   "Morrisville%E2%80%93Stowe_State_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "44°32′05″N",
+    "longitude": "072°36′50″W",
     "name": "Morrisville–Stowe State Airport",
     "nickname": "IATA: MVL",
     "iata": "MVL",
     "icao": "KMVL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 44.53472222222222,
+    "dd_longitude": -72.61388888888888
   },
   "Kayenta_Airport": {
     "latitude": "36°42′59″N",
@@ -42798,14 +42887,14 @@
     "dd_longitude": 14.257222222222222
   },
   "Mataiva_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "14°52′12″S",
+    "longitude": "148°42′40″W",
     "name": "Mataiva Airport",
     "nickname": "IATA: MVT",
     "iata": "MVT",
     "icao": "NTGV",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -14.870000000000001,
+    "dd_longitude": -148.7111111111111
   },
   "Meg%C3%A8ve_Altiport": {
     "latitude": "45°49′25″N",
@@ -42880,14 +42969,14 @@
     "dd_longitude": 116.02194444444444
   },
   "Lawrence_J._Timmerman_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°06′37″N",
+    "longitude": "088°02′04″W",
     "name": "Lawrence J. Timmerman Airport",
     "nickname": "IATA: MWC",
     "iata": "MWC",
     "icao": "KMWC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.11027777777778,
+    "dd_longitude": -88.03444444444445
   },
   "PAF_Base_M.M._Alam": {
     "latitude": "32°33′47″N",
@@ -43137,14 +43226,14 @@
     "dd_longitude": -3.8166666666666664
   },
   "Monticello_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42°13′13″N",
+    "longitude": "091°09′48″W",
     "name": "Monticello Regional Airport",
     "nickname": "IATA: MXO",
     "iata": "MXO",
     "icao": "KMXO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 42.22027777777778,
+    "dd_longitude": -91.16333333333334
   },
   "Milan%E2%80%93Malpensa_Airport": {
     "latitude": "45°37′48″N",
@@ -43529,14 +43618,14 @@
     "dd_longitude": -89.02377777777778
   },
   "Wild_Coast_Sun_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "29°16′54″S28°34′24″S30°41′00″S29°54′23″S22°40′44″S25°43′03″S28°15′36″S28°15′00″S32°53′42″S29°05′38″S27°22′00″S26°14′17″S25°31′56″S28°16′21″S31°30′01″S33°58′05″S33°48′01″S30°59′15″S32°09′20″S32°10′36″S29°57′56″S29°36′52″S33°02′06″S23°43′36″S28°43′07″S26°30′00″S28°49′30″S33°46′10″S30°33′44″S34°00′24″S23°17′00″S32°11′41″S33°17′00″S29°07′25″S28°04′43″S28°14′00″S25°03′00″S26°30′30″S28°00′30″S24°21′17″S25°59′13″S25°56′23″S26°08′01″S26°14′31″S28°48′06″S29°40′59″S26°52′00″S33°38′58″S30°11′16″S25°26′26″S27°39′44″S26°04′54″S27°27′35″S28°34′48″S26°10′00″S28°21′30″S23°03′42″S31°17′00″S25°48′27″S27°04′45″S24°49′03″S25°28′24″S24°59′30″S30°51′00″S25°41′08″S27°37′33″S24°41′08″S34°09′26″S31°32′52″S28°22′06″S22°21′20″S25°23′30″S25°30′08″S27°46′22″S33°36′00″S26°53′14″S23°56′10″S27°50′58″S27°00′00″S29°38′48″S25°20′08″S34°05′17″S23°50′43″S23°55′35″S27°21′42″S33°35′00″S33°59′24″S31°37′00″S26°40′05″S25°39′13″S29°41′01″S31°55′00″S27°32′50″S28°44′25″S33°49′00″S25°39′00″S26°31′14″S27°39′00″S24°58′00″S29°41′22″S26°14′54″S33°58′47″S34°45′40″S34°03′00″S29°01′58″S29°19′03″S23°04′37″S26°46′29″S23°49′48″S28°19′10″S28°24′04″S22°26′53″S26°34′12″S31°24′00″S29°46′14″S32°57′48″S31°38′35″S26°58′00″S27°47′00″S27°59′52″S25°49′56″S25°35′56″S29°05′38″S33°54′04″S29°57′56″S24°21′17″S32°58′08″S23°09′35″S34°33′17″S23°50′43″S33°59′24″S25°49′40″S25°48′35″S",
+    "longitude": "018°48′50″E016°32′06″E026°44′00″E022°19′00″E029°03′19″E030°58′30″E022°59′35″E028°20′00″E027°17′06″E026°18′14″E026°38′00″E028°18′21″E027°46′29″E026°08′08″E019°43′33″E018°36′17″E018°21′49″E022°07′50″E025°38′45″E018°52′55″E030°56′57″E031°06′59″E027°49′18″E027°41′18″E031°53′34″E029°59′00″E027°54′30″E018°44′00″E025°31′48″E022°22′30″E030°39′00″E024°32′28″E026°30′00″E030°34′56″E026°51′40″E029°06′00″E031°07′55″E028°23′30″E032°16′30″E031°03′01″E028°08′26″E027°55′29″E028°14′32″E028°09′05″E024°45′49″E017°05′35″E026°43′00″E018°28′18″E017°16′45″E031°55′49″E027°18′46″E027°43′32″E023°24′45″E029°45′10″E026°11′00″E023°26′30″E029°51′53″E029°31′00″E025°32′40″E029°46′42″E031°32′41″E031°33′56″E029°17′00″E030°21′00″E029°26′26″E032°02′39″E028°25′59″E022°03′41″E028°40′27″E032°14′53″E029°59′00″E031°05′57″E030°54′43″E029°58′35″E022°11′00″E027°30′19″E031°09′18″E032°18′35″E030°50′36″E030°23′52″E027°10′18″E023°19′43″E029°27′31″E029°29′04″E031°36′20″E026°53′00″E025°36′37″E029°31′00″E027°05′05″E028°13′27″E022°46′14″E026°53′00″E024°10′23″E032°05′36″E019°54′00″E027°17′00″E029°10′20″E023°00′00″E031°36′00″E017°56′20″E028°23′51″E18°49′11″E020°02′05″E020°29′00″E026°09′29″E026°49′20″E030°23′00″E029°20′16″E030°19′00″E031°25′01″E021°15′36″E029°20′15″E027°57′36″E023°09′00″E031°03′30″E017°58′12″E018°32′22″E024°44′00″E030°48′00″E026°40′10″E029°11′31″E026°02′32″E026°18′14″E018°29′00″E030°56′57″E031°03′01″E018°09′55″E029°41′47″E020°15′02″E029°27′31″E025°36′37″E028°13′15″E028°09′53″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 29.281666666666666,
+    "dd_longitude": 18.81388888888889
   },
   "Magong_Airport": {
     "latitude": "23°34′00″N",
@@ -43918,6 +44007,16 @@
     "dd_latitude": 39.7825,
     "dd_longitude": 116.38777777777779
   },
+  "Barranco_Minas_Airport": {
+    "latitude": "3°29′26″N",
+    "longitude": "69°48′35″W",
+    "name": "Barranco Minas Airport",
+    "nickname": "IATA: NBB",
+    "iata": "NBB",
+    "icao": "SKBM",
+    "dd_latitude": 3.4905555555555554,
+    "dd_longitude": -69.80972222222222
+  },
   "Begishevo_Airport": {
     "latitude": "55°33′48″N",
     "longitude": "052°5′42″E",
@@ -43979,7 +44078,7 @@
     "icao": "HKJK",
     "dd_latitude": -1.3186111111111112,
     "dd_longitude": 36.92583333333333,
-    "airlinesFlying": 47
+    "airlinesFlying": 46
   },
   "Changbaishan_Airport": {
     "latitude": "42°05′17″N",
@@ -43993,14 +44092,14 @@
     "airlinesFlying": 2
   },
   "Guantanamo_Bay_Naval_Base": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "19°54′N",
+    "longitude": "75°9′W",
     "name": "",
     "nickname": " ",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 19.9,
+    "dd_longitude": -75.15
   },
   "Nabire_Airport": {
     "latitude": "003°22′13″S",
@@ -44064,7 +44163,7 @@
     "icao": "EGNT",
     "dd_latitude": 55.03805555555555,
     "dd_longitude": -1.6897222222222223,
-    "airlinesFlying": 25
+    "airlinesFlying": 24
   },
   "Chenega_Bay_Airport": {
     "latitude": "60°04′38″N",
@@ -44097,14 +44196,14 @@
     "dd_longitude": -84.77222222222223
   },
   "Newcastle_Airport_(South_Africa)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°46′15″S",
+    "longitude": "29°58′41″E",
     "name": "Newcastle Airport (South Africa)",
     "nickname": "IATA: NCS[1]",
     "iata": "NCS[1]",
     "icao": "FANC[2]",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -27.770833333333332,
+    "dd_longitude": 29.978055555555553
   },
   "Nicoya_Guanacaste_Airport": {
     "latitude": "10°08′22″N",
@@ -44340,7 +44439,7 @@
   "Naval_Air_Engineering_Station_Lakehurst": {
     "latitude": "40°02′00″N",
     "longitude": "074°21′13″W",
-    "name": "JB MDL LakehurstLakehurst AirfieldLakehurst Airfield",
+    "name": "JB MDL LakehurstJB MDL LakehurstLakehurst AirfieldLakehurst Airfield",
     "nickname": "JB MDL Lakehurst",
     "iata": "NEL",
     "icao": "KNEL",
@@ -44429,7 +44528,7 @@
     "icao": "ZSNB",
     "dd_latitude": 29.826666666666668,
     "dd_longitude": 121.46194444444444,
-    "airlinesFlying": 16
+    "airlinesFlying": 17
   },
   "Auguste_George_Airport": {
     "latitude": "18°43′39″N",
@@ -44452,14 +44551,14 @@
     "dd_longitude": 13.559166666666668
   },
   "Marine_Corps_Air_Station_Kaneohe_Bay": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°26′45″N21°26′45″N",
+    "longitude": "157°46′11″W157°46′11″W",
     "name": "MCAS Kaneohe Bay",
     "nickname": "IATA: NGF",
     "iata": "NGF",
     "icao": "PHNG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 21.445833333333333,
+    "dd_longitude": 157.76972222222224
   },
   "Gau_Airport": {
     "latitude": "18°06′56″S",
@@ -44596,14 +44695,14 @@
     "dd_longitude": -0.41833333333333333
   },
   "Nuku_Hiva_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°47′42″S",
+    "longitude": "140°13′20″W",
     "name": "Nuku Hiva Airport",
     "nickname": "IATA: NHV",
     "iata": "NHV",
     "icao": "NTMD",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -8.795,
+    "dd_longitude": -140.22222222222223
   },
   "Naval_Outlying_Field_Barin": {
     "latitude": "30°23′21″N",
@@ -44708,24 +44807,24 @@
     "dd_longitude": 17.684722222222224
   },
   "Naval_Air_Station_Jacksonville": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°14′09″N29°21′16″N31°09′43″N",
+    "longitude": "081°40′50″W081°18′42″W081°33′44″W",
     "name": "NAS Jacksonville",
     "nickname": "Towers Field",
     "iata": "NIP",
     "icao": "KNIP",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.235833333333336,
+    "dd_longitude": 81.68055555555556
   },
   "Chase_Field_Industrial_Complex": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "28°21′51.69″N",
+    "longitude": "97°39′35.32″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 28.364358333333335,
+    "dd_longitude": -97.65981111111111
   },
   "Niau_Airport": {
     "latitude": "16°07′10″S",
@@ -44777,7 +44876,7 @@
     "icao": "ORNI",
     "dd_latitude": 31.989722222222223,
     "dd_longitude": 44.40416666666667,
-    "airlinesFlying": 11
+    "airlinesFlying": 12
   },
   "Naval_Air_Facility_El_Centro": {
     "latitude": "32°49′45″N",
@@ -44840,7 +44939,7 @@
     "icao": "RJNA",
     "dd_latitude": 35.255,
     "dd_longitude": 136.92444444444445,
-    "airlinesFlying": 4
+    "airlinesFlying": 3
   },
   "Nkongsamba_Airport": {
     "latitude": "04°57′00″N",
@@ -45007,14 +45106,14 @@
     "dd_longitude": 15.327222222222222
   },
   "Nelspruit_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "25°30′00″S",
+    "longitude": "30°54′50″E",
     "name": "Nelspruit Airport",
     "nickname": "IATA: NLP",
     "iata": "NLP",
     "icao": "FANS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -25.5,
+    "dd_longitude": 30.913888888888888
   },
   "Xinyuan_Nalati_Airport": {
     "latitude": "43°25′59″N",
@@ -45273,7 +45372,7 @@
     "icao": "USRO",
     "dd_latitude": 63.18333333333333,
     "dd_longitude": 75.27,
-    "airlinesFlying": 2
+    "airlinesFlying": 3
   },
   "Sinop_Airport": {
     "latitude": "42°00′57″N",
@@ -45382,14 +45481,14 @@
     "airlinesFlying": 2
   },
   "Nanga_Pinoh_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "0°03′49″N",
+    "longitude": "111°28′23″E",
     "name": "Nanga Pinoh Airport",
     "nickname": "Bandar Udara Nanga Pinoh",
     "iata": "NPO",
     "icao": "WIOG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 0.06361111111111112,
+    "dd_longitude": 111.47305555555556
   },
   "Novo_Progresso_Airport": {
     "latitude": "7°7′33″S",
@@ -45464,14 +45563,14 @@
     "airlinesFlying": 2
   },
   "Naval_Air_Station_Key_West": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "24°34′33″N",
+    "longitude": "081°41′20″W",
     "name": "Naval Air Station Key West",
     "nickname": "IATA: NQX[1]",
     "iata": "NQX[1]",
     "icao": "KNQX",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 24.575833333333332,
+    "dd_longitude": -81.6888888888889
   },
   "Cornwall_Airport_Newquay": {
     "latitude": "50°26′27″N",
@@ -45495,14 +45594,14 @@
     "dd_longitude": 146.51222222222222
   },
   "Naval_Station_Mayport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°23′31″N",
+    "longitude": "081°25′25″W",
     "name": "Naval Station Mayport",
     "nickname": "Admiral David L. McDonald Field",
     "iata": "NRB",
     "icao": "KNRB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.391944444444444,
+    "dd_longitude": -81.42361111111111
   },
   "NASA_Crows_Landing_Airport": {
     "latitude": "37°24′29″N",
@@ -45588,14 +45687,14 @@
     "dd_longitude": -65.64333333333335
   },
   "Naval_Outlying_Landing_Field_Imperial_Beach": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "32°33′48″N",
+    "longitude": "117°06′42″W",
     "name": "Naval Outlying Landing Field Imperial Beach",
     "nickname": "Ream Field",
     "iata": "NRS",
     "icao": "KNRS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 32.56333333333333,
+    "dd_longitude": -117.11166666666666
   },
   "Narita_International_Airport": {
     "latitude": "35°45′55″N",
@@ -45606,17 +45705,17 @@
     "icao": "RJAA",
     "dd_latitude": 35.765277777777776,
     "dd_longitude": 140.38555555555556,
-    "airlinesFlying": 77
+    "airlinesFlying": 76
   },
   "Naval_Air_Station_Whiting_Field_%E2%80%93_North": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "30°43′27″N",
+    "longitude": "087°01′19″W",
     "name": "NAS Whiting Field - North",
     "nickname": "IATA: NSE",
     "iata": "NSE",
     "icao": "KNSE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 30.724166666666665,
+    "dd_longitude": -87.02194444444444
   },
   "Noshahr_Airport": {
     "latitude": "36°39′48″N",
@@ -45638,7 +45737,7 @@
     "icao": "FKYS",
     "dd_latitude": 3.7225,
     "dd_longitude": 11.553333333333335,
-    "airlinesFlying": 9
+    "airlinesFlying": 8
   },
   "Alykel_Airport": {
     "latitude": "69°18′36″N",
@@ -46243,24 +46342,24 @@
     "airlinesFlying": 6
   },
   "Zhalantun_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "47°51′57″N",
+    "longitude": "122°46′3″E",
     "name": "Zhalantun Chengjisihan Airport",
     "nickname": "扎兰屯成吉思汗机场",
     "iata": "NZL",
     "icao": "ZBZL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 47.865833333333335,
+    "dd_longitude": 122.7675
   },
   "Naval_Air_Station_North_Island": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "32°41′57″N32°41′57″N",
+    "longitude": "117°12′55″W117°12′55″W",
     "name": "NAS North Island",
     "nickname": "Halsey Field",
     "iata": "NZY",
     "icao": "KNZY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 32.69916666666666,
+    "dd_longitude": 117.21527777777779
   },
   "Forward_Operating_Base_Shank": {
     "latitude": "33°55′19″N",
@@ -46692,14 +46791,14 @@
     "dd_longitude": 101.9931
   },
   "Oecusse_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "09°11′54″S",
+    "longitude": "124°21′08″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -9.198333333333334,
+    "dd_longitude": 124.35222222222221
   },
   "Oryol_Yuzhny_Airport": {
     "latitude": "52°56′6″N",
@@ -47419,14 +47518,14 @@
     "dd_longitude": -110.84777777777778
   },
   "Columbus_Municipal_Airport_(Nebraska)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°26′53″N",
+    "longitude": "097°20′34″W",
     "name": "Columbus Municipal Airport",
     "nickname": "IATA: OLU",
     "iata": "OLU",
     "icao": "KOLU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.448055555555555,
+    "dd_longitude": -97.34277777777777
   },
   "Olive_Branch_Airport": {
     "latitude": "34°58′44″N",
@@ -47729,7 +47828,7 @@
     "icao": "KONT",
     "dd_latitude": 34.05611111111111,
     "dd_longitude": -117.60111111111111,
-    "airlinesFlying": 18
+    "airlinesFlying": 17
   },
   "Enrique_Adolfo_Jim%C3%A9nez_Airport": {
     "latitude": "09°21′24″N",
@@ -48092,7 +48191,7 @@
     "icao": "LFPO",
     "dd_latitude": 48.723333333333336,
     "dd_longitude": 2.3794444444444447,
-    "airlinesFlying": 29
+    "airlinesFlying": 28
   },
   "Orange_Walk_Airport": {
     "latitude": "18°02′46″N",
@@ -48176,7 +48275,7 @@
     "icao": "ENGM",
     "dd_latitude": 60.20277777777778,
     "dd_longitude": 11.08388888888889,
-    "airlinesFlying": 47
+    "airlinesFlying": 46
   },
   "Mosul_International_Airport": {
     "latitude": "36°18′21″N",
@@ -48192,7 +48291,7 @@
   "Osan_Air_Base": {
     "latitude": "37°05′26″N",
     "longitude": "127°01′47″E",
-    "name": "Osan ABAirfield information",
+    "name": "Osan ABOsan ABAirfield information",
     "nickname": "Osan AB",
     "iata": "OSN",
     "icao": "RKSO",
@@ -48242,14 +48341,14 @@
     "dd_longitude": 2.8622222222222224
   },
   "Ohio_State_University_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°04′47″N",
+    "longitude": "083°04′23″W",
     "name": "Ohio State University Airport",
     "nickname": "IATA: OSU",
     "iata": "OSU",
     "icao": "KOSU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.07972222222222,
+    "dd_longitude": -83.07305555555556
   },
   "Orsk_Airport": {
     "latitude": "51°4′18″N",
@@ -49011,14 +49110,14 @@
     "airlinesFlying": 5
   },
   "Pauk_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°26′56″N",
+    "longitude": "94°29′13″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 21.448888888888888,
+    "dd_longitude": 94.48694444444445
   },
   "Paulo_Afonso_Airport": {
     "latitude": "09°24′08″S",
@@ -49067,7 +49166,7 @@
     "latitude": "21°38′55″N",
     "longitude": "069°39′26″E",
     "name": "Porbandar Airport",
-    "nickname": "પોરબંદર એરપોર્ટ",
+    "nickname": "IATA: PBD",
     "iata": "PBD",
     "icao": "VAPR",
     "dd_latitude": 21.648611111111112,
@@ -49210,14 +49309,14 @@
     "dd_longitude": -157.7111111111111
   },
   "Pondok_Cabe_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "6°20′13.05″S",
+    "longitude": "106°45′53.99″E",
     "name": "Pondok Cabe Airport",
     "nickname": "Bandar Udara Pondok Cabe",
     "iata": "PCB",
     "icao": "WIHP",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -6.3369583333333335,
+    "dd_longitude": 106.76499722222222
   },
   "Prairie_du_Chien_Municipal_Airport": {
     "latitude": "43°01′09″N",
@@ -49837,14 +49936,14 @@
     "dd_longitude": -151.83166666666665
   },
   "Stevens_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°17′17″N",
+    "longitude": "107°03′18″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.28805555555555,
+    "dd_longitude": -107.05499999999999
   },
   "Kirk_Field": {
     "latitude": "36°03′50″N",
@@ -49857,14 +49956,14 @@
     "dd_longitude": -90.50916666666667
   },
   "Grand_Canyon_Caverns_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°31′37″N",
+    "longitude": "113°14′51″W",
     "name": "Grand Canyon Caverns Airport",
     "nickname": "IATA: PGS",
     "iata": "PGS",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.526944444444446,
+    "dd_longitude": -113.2475
   },
   "Persian_Gulf_Airport": {
     "latitude": "27°22′46″N",
@@ -50108,14 +50207,14 @@
     "dd_longitude": -89.33694444444444
   },
   "Pine_Cay_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°52′36″N",
+    "longitude": "072°05′38″W",
     "name": "Pine Cay Airport",
     "nickname": "IATA: PIC",
     "iata": "PIC",
     "icao": "MBPI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 21.87666666666667,
+    "dd_longitude": -72.09388888888888
   },
   "St._Pete%E2%80%93Clearwater_International_Airport": {
     "latitude": "27°54′36″N",
@@ -50417,14 +50516,14 @@
     "dd_longitude": -90.74166666666667
   },
   "Pakokku_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "21°20′40″N",
+    "longitude": "95°06′08″E",
     "name": "Pakokku Airport",
     "nickname": "IATA: PKK",
     "iata": "PKK",
     "icao": "VYPU",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 21.344444444444445,
+    "dd_longitude": 95.10222222222221
   },
   "Iskandar_Airport": {
     "latitude": "2°42′18″S",
@@ -50448,14 +50547,14 @@
     "dd_longitude": 2.6092222222222223
   },
   "Puka-Puka_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "14°48′33″S",
+    "longitude": "138°48′39″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -14.809166666666668,
+    "dd_longitude": -138.81083333333333
   },
   "Pokhara_Airport": {
     "latitude": "28°12′03″N",
@@ -51659,7 +51758,7 @@
   "Pristina_International_Airport": {
     "latitude": "42°34′22″N",
     "longitude": "021°02′09″E",
-    "name": "Pristina International Airport",
+    "name": "Prishtina International Airport",
     "nickname": "Aeroporti Ndërkombëtar i Prishtinës",
     "iata": "PRN",
     "icao": "BKPR",
@@ -52676,15 +52775,25 @@
     "dd_longitude": 108.01722222222222,
     "airlinesFlying": 2
   },
+  "Velasquez_Airport": {
+    "latitude": "5°56′20″N",
+    "longitude": "74°27′25″W",
+    "name": "Velasquez Airport",
+    "nickname": "IATA: PYA",
+    "iata": "PYA",
+    "icao": "SKVL",
+    "dd_latitude": 5.938888888888889,
+    "dd_longitude": -74.45694444444445
+  },
   "Jeypore_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "18°52′49″N",
+    "longitude": "82°33′08″E",
     "name": "Jeypore Airport",
     "nickname": "ଜୟପୁର୍ ବିମାନ ବନ୍ଦର",
     "iata": "PYB",
     "icao": "VEJP",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 18.880277777777778,
+    "dd_longitude": 82.55222222222221
   },
   "Play%C3%B3n_Chico_Airport": {
     "latitude": "09°18′35″N",
@@ -52698,14 +52807,14 @@
     "airlinesFlying": 1
   },
   "Tongareva_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "09°00′52″S",
+    "longitude": "158°01′57″W",
     "name": "Tongareva Airport",
     "nickname": "IATA: PYE",
     "iata": "PYE",
     "icao": "NCPY",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -9.014444444444445,
+    "dd_longitude": -158.03250000000003
   },
   "Cacique_Aramare_Airport": {
     "latitude": "5°37′10″N",
@@ -52788,14 +52897,14 @@
     "dd_longitude": -77.6875
   },
   "Pai_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "19°22′13″N",
+    "longitude": "98°26′09″E",
     "name": "Pai Airport",
     "nickname": "IATA: PYY",
     "iata": "PYY",
     "icao": "VTCI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 19.37027777777778,
+    "dd_longitude": 98.43583333333333
   },
   "Paz_de_Ariporo_Airport": {
     "latitude": "5°52′30″N",
@@ -53068,14 +53177,14 @@
     "airlinesFlying": 1
   },
   "John_H._Batten_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42°45′38″N",
+    "longitude": "087°48′55″W",
     "name": "John H. Batten Airport",
     "nickname": "Batten International Airport",
     "iata": "RAC",
     "icao": "KRAC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 42.760555555555555,
+    "dd_longitude": -87.81527777777778
   },
   "Arar_Domestic_Airport": {
     "latitude": "30°54′23″N",
@@ -53585,14 +53694,14 @@
     "dd_longitude": -74.83611111111111
   },
   "Red_Dog_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "68°01′56″N",
+    "longitude": "162°53′57″W",
     "name": "Red Dog Airport",
     "nickname": "IATA: RDB",
     "iata": "RDB",
     "icao": "PADG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 68.03222222222222,
+    "dd_longitude": -162.89916666666667
   },
   "Reden%C3%A7%C3%A3o_Airport": {
     "latitude": "08°01′50″S",
@@ -53661,7 +53770,7 @@
     "latitude": "23°37′17″N",
     "longitude": "087°14′36″E",
     "name": "Kazi Nazrul Islam Airport",
-    "nickname": "কাজী নজরুল ইসলাম বিমানবন্দর",
+    "nickname": "IATA: RDP",
     "iata": "RDP",
     "icao": "VEDG[1]",
     "dd_latitude": 23.62138888888889,
@@ -54321,7 +54430,7 @@
     "name": "Rizhao Shanzihe Airport",
     "nickname": "IATA: RIZ",
     "iata": "RIZ",
-    "icao": "",
+    "icao": "ZSRZ",
     "dd_latitude": 35.39972222222222,
     "dd_longitude": 119.31666666666666,
     "airlinesFlying": 2
@@ -54330,7 +54439,7 @@
     "latitude": "17°06′37″N",
     "longitude": "081°49′06″E",
     "name": "Rajahmundry Airport",
-    "nickname": "రాజమండ్రి విమానాశ్రయము",
+    "nickname": "IATA: RJA",
     "iata": "RJA",
     "icao": "VORY",
     "dd_latitude": 17.110277777777778,
@@ -54400,14 +54509,14 @@
     "dd_longitude": 12.131388888888889
   },
   "York_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "34°59′16″N",
+    "longitude": "081°03′26″W",
     "name": "Rock Hill/York County Airport",
     "nickname": "Rock Hill/York County Airport",
     "iata": "RKH",
     "icao": "KUZA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 34.98777777777778,
+    "dd_longitude": -81.05722222222222
   },
   "Rokot_Airport": {
     "latitude": "2°06′00″S",
@@ -54494,14 +54603,14 @@
     "airlinesFlying": 1
   },
   "Richland_Airport_(Washington)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "46°18′20″N",
+    "longitude": "119°18′15″W",
     "name": "Richland Airport",
     "nickname": "IATA: RLD",
     "iata": "RLD",
     "icao": "KRLD",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 46.30555555555555,
+    "dd_longitude": -119.30416666666666
   },
   "Rostock%E2%80%93Laage_Airport": {
     "latitude": "53°55′06″N",
@@ -54670,14 +54779,14 @@
     "dd_longitude": 7.602258333333333
   },
   "Rimatara_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "22°38′19″S",
+    "longitude": "152°48′19″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -22.63861111111111,
+    "dd_longitude": -152.8052777777778
   },
   "Regi%C3%B3n_de_Murcia_International_Airport": {
     "latitude": "37°47′25.17″N",
@@ -54874,7 +54983,7 @@
     "icao": "GLRB",
     "dd_latitude": 6.233888888888889,
     "dd_longitude": -10.362222222222222,
-    "airlinesFlying": 14
+    "airlinesFlying": 13
   },
   "Greater_Rochester_International_Airport": {
     "latitude": "43°7′8″N",
@@ -54973,7 +55082,7 @@
   "Roman_Tmetuchl_International_Airport": {
     "latitude": "07°22′02″N",
     "longitude": "134°32′39″E",
-    "name": "Roman Tmetuchl International Airport",
+    "name": "Palau International Airport",
     "nickname": "IATA: ROR",
     "iata": "ROR",
     "icao": "PTRO",
@@ -55307,21 +55416,21 @@
     "latitude": "17°00′49″N",
     "longitude": "073°19′40″E",
     "name": "Ratnagiri Airport",
-    "nickname": "रत्नागिरी विमानतळ",
+    "nickname": "IATA: RTC",
     "iata": "RTC",
     "icao": "VARG",
     "dd_latitude": 17.01361111111111,
     "dd_longitude": 73.32777777777777
   },
   "Frans_Sales_Lega_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°35′46″S",
+    "longitude": "120°28′41″E",
     "name": "Frans Sales Lega Airport",
     "nickname": "IATA: RTG",
     "iata": "RTG",
     "icao": "WATG",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -8.596111111111112,
+    "dd_longitude": 120.47805555555556
   },
   "Spirit_Lake_Municipal_Airport": {
     "latitude": "43°23′14.867″N",
@@ -55636,14 +55745,14 @@
     "dd_longitude": -77.89194444444445
   },
   "Rawlins_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°48′20″N",
+    "longitude": "107°12′0″W",
     "name": "Rawlins Municipal Airport",
     "nickname": "Harvey Field",
     "iata": "RWL",
     "icao": "KRWL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.80555555555555,
+    "dd_longitude": -107.2
   },
   "Rivne_International_Airport": {
     "latitude": "50°36′26″N",
@@ -55802,14 +55911,14 @@
     "dd_longitude": -77.70944444444444
   },
   "Shively_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41°26′41″N",
+    "longitude": "106°49′25″W",
     "name": "Shively Field",
     "nickname": "IATA: SAA",
     "iata": "SAA",
     "icao": "KSAA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 41.44472222222222,
+    "dd_longitude": -106.8236111111111
   },
   "Juancho_E._Yrausquin_Airport": {
     "latitude": "17°38′44″N",
@@ -55877,7 +55986,7 @@
     "latitude": "13°26′27″N",
     "longitude": "089°03′20″W",
     "name": "Monseñor Óscar Arnulfo Romero International Airport",
-    "nickname": "Comalapa International Airport",
+    "nickname": "El Salvador International Airport",
     "iata": "SAL",
     "icao": "MSLP",
     "dd_latitude": 13.440833333333334,
@@ -56144,14 +56253,14 @@
     "airlinesFlying": 4
   },
   "Sibi_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "29°34′28″N",
+    "longitude": "067°50′35″E",
     "name": "Sibi Airport",
     "nickname": "IATA: SBQ",
     "iata": "SBQ",
     "icao": "OPSB",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 29.574444444444445,
+    "dd_longitude": 67.84305555555555,
     "airlinesFlying": 1
   },
   "Saibai_Island_Airport": {
@@ -57018,35 +57127,35 @@
     "airlinesFlying": 1
   },
   "Siegerland_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "50°42′28″N",
+    "longitude": "8°04′59″E",
     "name": "Siegerland Airport",
     "nickname": "Siegerlandflughafen",
     "iata": "SGE",
     "icao": "EDGS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 50.70777777777778,
+    "dd_longitude": 8.083055555555555
   },
   "Springfield%E2%80%93Branson_National_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°14′44″N",
+    "longitude": "093°23′19″W",
     "name": "Springfield–Branson\nNational Airport",
     "nickname": "IATA: SGF",
     "iata": "SGF",
     "icao": "KSGF",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 37.245555555555555,
+    "dd_longitude": -93.38861111111112,
     "airlinesFlying": 1
   },
   "Springfield%E2%80%93Beckley_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°50′25″N",
+    "longitude": "083°50′25″W",
     "name": "Springfield–Beckley Municipal Airport",
     "nickname": "IATA: SGH",
     "iata": "SGH",
     "icao": "KSGH",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 39.84027777777778,
+    "dd_longitude": -83.84027777777777
   },
   "PAF_Base_Mushaf": {
     "latitude": "32°02′55″N",
@@ -57576,14 +57685,14 @@
     "airlinesFlying": 14
   },
   "Dabo_Singkep_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "0°28′44″S",
+    "longitude": "104°34′44″E",
     "name": "Dabo Airport",
     "nickname": "Bandar Udara Dabo",
     "iata": "SIQ",
     "icao": "WIDS",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -0.4788888888888889,
+    "dd_longitude": 104.57888888888888
   },
   "Sion_Airport": {
     "latitude": "46°13′10.53″N",
@@ -58065,7 +58174,7 @@
     "icao": "LGSY",
     "dd_latitude": 38.9675,
     "dd_longitude": 24.487222222222222,
-    "airlinesFlying": 4
+    "airlinesFlying": 3
   },
   "St._Catherine_International_Airport": {
     "latitude": "28°41′07″N",
@@ -58388,7 +58497,7 @@
     "icao": "LPAZ",
     "dd_latitude": 36.973888888888894,
     "dd_longitude": -25.171111111111113,
-    "airlinesFlying": 3
+    "airlinesFlying": 4
   },
   "Franco_Bianco_Airport": {
     "latitude": "52°44′4.2″S",
@@ -58690,14 +58799,14 @@
     "dd_longitude": -84.15194444444445
   },
   "Winston_Field_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "32°41.6033′N",
+    "longitude": "100°57.0283′W",
     "name": "Winston Field Airport",
     "nickname": "IATA: SNK",
     "iata": "SNK",
     "icao": "KSNK",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 32.69338833333333,
+    "dd_longitude": -100.95047166666667
   },
   "Shawnee_Regional_Airport": {
     "latitude": "35°21′26″N",
@@ -58893,7 +59002,7 @@
     "icao": "LBSF",
     "dd_latitude": 42.69499999999999,
     "dd_longitude": 23.40833333333333,
-    "airlinesFlying": 49
+    "airlinesFlying": 50
   },
   "Sogndal_Airport,_Hauk%C3%A5sen": {
     "latitude": "61°09′26″N",
@@ -59167,9 +59276,9 @@
   },
   "San_Pedro_Airport": {
     "latitude": "17°54′50″N",
-    "longitude": "087°58′16″W",
-    "name": "San Pedro Airport",
-    "nickname": "IATA: SPR",
+    "longitude": "87°58′16″W",
+    "name": "John Greif II Airport",
+    "nickname": "San Pedro Airport",
     "iata": "SPR",
     "icao": "",
     "dd_latitude": 17.913888888888888,
@@ -59668,14 +59777,14 @@
     "airlinesFlying": 43
   },
   "Malcolm_McKinnon_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31°09′07″N",
+    "longitude": "081°23′29″W",
     "name": "Malcolm McKinnon Airport",
     "nickname": "McKinnon St. Simons Island Airport",
     "iata": "SSI",
     "icao": "KSSI",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 31.151944444444442,
+    "dd_longitude": -81.3913888888889
   },
   "Sandnessj%C3%B8en_Airport,_Stokka": {
     "latitude": "65°57′24″N",
@@ -59699,14 +59808,14 @@
     "dd_longitude": -70.86861111111111
   },
   "Seoul_Air_Base": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°26′45″N",
+    "longitude": "127°06′50″E",
     "name": "Seoul Air Base",
     "nickname": "서울공항",
     "iata": "SSN",
     "icao": "RKSM",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.44583333333333,
+    "dd_longitude": 127.11388888888888
   },
   "La_Sarre_Airport": {
     "latitude": "48°55′00″N",
@@ -59925,7 +60034,7 @@
     "icao": "VASU",
     "dd_latitude": 21.117658333333335,
     "dd_longitude": 72.74525833333334,
-    "airlinesFlying": 2
+    "airlinesFlying": 3
   },
   "Stavropol_Shpakovskoye_Airport": {
     "latitude": "45°6′36″N",
@@ -59970,14 +60079,14 @@
     "dd_longitude": -50.51861111111111
   },
   "Witham_Field": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°10′54.10″N",
+    "longitude": "080°13′15.90″W",
     "name": "Witham Field",
     "nickname": "IATA: SUA",
     "iata": "SUA",
     "icao": "KSUA",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 27.181694444444446,
+    "dd_longitude": -80.22108333333334
   },
   "Juanda_International_Airport": {
     "latitude": "07°22′47″S",
@@ -60614,7 +60723,7 @@
     "icao": "LFST",
     "dd_latitude": 48.54194444444444,
     "dd_longitude": 7.634444444444444,
-    "airlinesFlying": 10
+    "airlinesFlying": 9
   },
   "West_Sale_Airport": {
     "latitude": "38°05′30″S",
@@ -60738,7 +60847,7 @@
     "icao": "VISR",
     "dd_latitude": 33.98713888888889,
     "dd_longitude": 74.77425,
-    "airlinesFlying": 4
+    "airlinesFlying": 5
   },
   "Soddu_Airport": {
     "latitude": "6°50′N",
@@ -60874,14 +60983,14 @@
     "dd_longitude": -22.758333333333333
   },
   "Pu%27er_Simao_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "22°47′36″N",
+    "longitude": "100°57′32″E",
     "name": "Pu'er Simao Airport",
     "nickname": "普洱思茅机场",
     "iata": "SYM",
     "icao": "ZPSM",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 22.793333333333337,
+    "dd_longitude": 100.9588888888889,
     "airlinesFlying": 1
   },
   "Stanton_Airfield": {
@@ -61158,14 +61267,14 @@
     "dd_longitude": 120.40055555555556
   },
   "Parchim_International_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "53°25′43″N",
+    "longitude": "11°46′55″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 53.42861111111111,
+    "dd_longitude": 11.781944444444445
   },
   "Shenzhen_Bao%27an_International_Airport": {
     "latitude": "22°38′22″N",
@@ -61534,7 +61643,7 @@
     "icao": "UGTB",
     "dd_latitude": 41.66916666666666,
     "dd_longitude": 44.95472222222222,
-    "airlinesFlying": 29
+    "airlinesFlying": 31
   },
   "Tabatinga_International_Airport": {
     "latitude": "04°15′25″S",
@@ -61729,7 +61838,7 @@
     "latitude": "08°43′27″N",
     "longitude": "078°01′33″E",
     "name": "Tuticorin Airport",
-    "nickname": "தூத்துக்குடி வானூர்தி நிலையம்",
+    "nickname": "IATA: TCR",
     "iata": "TCR",
     "icao": "VOTK",
     "dd_latitude": 8.724166666666667,
@@ -61820,14 +61929,14 @@
     "airlinesFlying": 2
   },
   "Tadjoura_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "11°47′N",
+    "longitude": "042°55′E",
     "name": "Tadjoura Airport",
     "nickname": "IATA: TDJ",
     "iata": "TDJ",
     "icao": "HDTJ",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 11.783333333333333,
+    "dd_longitude": 42.916666666666664
   },
   "Taldykorgan_Airport": {
     "latitude": "45°07′21″N",
@@ -62140,14 +62249,14 @@
     "dd_longitude": 149.32011111111112
   },
   "Telefomin_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "5°07′34″S",
+    "longitude": "141°38′30″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -5.12611111111111,
+    "dd_longitude": 141.64166666666665
   },
   "Tenerife-North_Airport": {
     "latitude": "28°28′58″N",
@@ -62776,14 +62885,14 @@
     "dd_longitude": -11.423333333333332
   },
   "Tari_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "5°50′42″S",
+    "longitude": "142°56′53″E",
     "name": "Tari Airport",
     "nickname": "IATA: TIZ",
     "iata": "TIZ",
     "icao": "AYTA",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": -5.845,
+    "dd_longitude": 142.94805555555556,
     "airlinesFlying": 1
   },
   "Capit%C3%A1n_Oriel_Lea_Plaza_Airport": {
@@ -62863,8 +62972,8 @@
   "H.A.S._Hanandjoeddin_Airport": {
     "latitude": "02°44′44″S",
     "longitude": "107°45′17″E",
-    "name": "H.A.S. Hanandjoeddin International Airport",
-    "nickname": "Bandar Udara Internasional H.A.S. Hanandjoeddin",
+    "name": "H.A.S. Hanandjoeddin Airport",
+    "nickname": "Bandar Udara H.A.S. Hanandjoeddin",
     "iata": "TJQ",
     "icao": "WIOD",
     "dd_latitude": -2.7455555555555557,
@@ -62956,8 +63065,8 @@
   "Radin_Inten_II_Airport": {
     "latitude": "05°14′33″S",
     "longitude": "105°10′44″E",
-    "name": "Radin Inten II International Airport",
-    "nickname": "Bandar Udara Internasional Radin Inten II",
+    "name": "Radin Inten II Airport",
+    "nickname": "Bandar Udara Radin Inten II",
     "iata": "TKG",
     "icao": "WILL (previous: WICT)",
     "dd_latitude": -5.2425,
@@ -63027,14 +63136,14 @@
     "dd_longitude": 28.884722222222223
   },
   "Takapoto_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "14°42′36″S",
+    "longitude": "145°14′47″W",
     "name": "Takapoto Airport",
     "nickname": "IATA: none",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -14.709999999999999,
+    "dd_longitude": -145.24638888888887
   },
   "Kigoma_Airport": {
     "latitude": "4°53′10″S",
@@ -63070,14 +63179,14 @@
     "airlinesFlying": 4
   },
   "Tak_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "16°53′46″N",
+    "longitude": "99°15′12″E",
     "name": "Tak Airport",
     "nickname": "IATA: TKT",
     "iata": "TKT",
     "icao": "VTPT",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 16.89611111111111,
+    "dd_longitude": 99.25333333333333,
     "airlinesFlying": 1
   },
   "Turku_Airport": {
@@ -63638,14 +63747,14 @@
     "dd_longitude": 80.86333333333333
   },
   "Raja_Haji_Fisabilillah_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "00°55′21″N",
+    "longitude": "104°31′56″E",
     "name": "Raja Haji Fisabilillah International Airport",
     "nickname": "Bandar Udara Internasional Raja Haji Fisabilillah",
     "iata": "TNJ",
     "icao": "WIDN",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 0.9225,
+    "dd_longitude": 104.53222222222222,
     "airlinesFlying": 2
   },
   "Tununak_Airport": {
@@ -63721,24 +63830,24 @@
     "airlinesFlying": 8
   },
   "Tungsten_(Cantung)_Airport": {
-    "latitude": "61°57′25″N",
-    "longitude": "128°12′10″W",
+    "latitude": "61°57′24″N",
+    "longitude": "128°12′09″W",
     "name": "Tungsten (Cantung) Airport",
     "nickname": "IATA: TNS",
     "iata": "TNS",
     "icao": "",
-    "dd_latitude": 61.956944444444446,
-    "dd_longitude": -128.20277777777775
+    "dd_latitude": 61.95666666666667,
+    "dd_longitude": -128.2025
   },
   "Dade-Collier_Training_and_Transition_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "25°51′42″N",
+    "longitude": "080°53′49″W",
     "name": "Dade-Collier Training and Transition Airport",
     "nickname": "IATA: TNT",
     "iata": "TNT",
     "icao": "KTNT",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 25.861666666666668,
+    "dd_longitude": -80.89694444444446
   },
   "Newton_Municipal_Airport_(Iowa)": {
     "latitude": "41°40′28″N",
@@ -63958,14 +64067,14 @@
     "dd_longitude": -56.32777777777778
   },
   "Touho_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "20°47′25″S",
+    "longitude": "165°15′34″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -20.790277777777778,
+    "dd_longitude": 165.25944444444445
   },
   "Toledo_Airport_(Brazil)": {
     "latitude": "24°41′07″S",
@@ -64022,13 +64131,13 @@
   "Taoyuan_International_Airport": {
     "latitude": "25°4′35″N",
     "longitude": "121°13′26″E",
-    "name": "Taipei Taoyuan International Airport",
+    "name": "Taiwan Taoyuan International Airport",
     "nickname": "臺灣桃園國際機場\n桃園機場",
     "iata": "TPE",
     "icao": "RCTP",
     "dd_latitude": 25.07638888888889,
     "dd_longitude": 121.2238888888889,
-    "airlinesFlying": 15
+    "airlinesFlying": 14
   },
   "Peter_O._Knight_Airport": {
     "latitude": "27°54′56″N",
@@ -64477,7 +64586,7 @@
     "icao": "UACC",
     "dd_latitude": 51.02194444444444,
     "dd_longitude": 71.46694444444445,
-    "airlinesFlying": 21
+    "airlinesFlying": 22
   },
   "Treviso_Airport": {
     "latitude": "45°39′03″N",
@@ -64583,7 +64692,7 @@
     "icao": "VTST",
     "dd_latitude": 7.508744444444445,
     "dd_longitude": 99.61657777777778,
-    "airlinesFlying": 2
+    "airlinesFlying": 3
   },
   "Townsville_Airport": {
     "latitude": "19°15′12″S",
@@ -65402,7 +65511,7 @@
   "Incirlik_Air_Base": {
     "latitude": "37°00′07″N",
     "longitude": "035°25′33″E",
-    "name": "Incirlik Air Base",
+    "name": "Incirlik Air BaseIncirlik Air Base",
     "nickname": "Incirlik AB",
     "iata": "",
     "icao": "",
@@ -65430,14 +65539,14 @@
     "dd_longitude": -139.55511111111113
   },
   "Suai_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "09°18′14″S",
+    "longitude": "125°17′12″E",
     "name": "Suai Airport\n(Covalima Airport)",
     "nickname": "IATA: UAI",
     "iata": "UAI",
     "icao": "WPDB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -9.30388888888889,
+    "dd_longitude": 125.28666666666666
   },
   "Narsarsuaq_Airport": {
     "latitude": "61°09′39″N",
@@ -65512,14 +65621,14 @@
     "dd_longitude": 37.53
   },
   "Uaxactun_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "17°23′35″N",
+    "longitude": "89°38′05″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 17.393055555555556,
+    "dd_longitude": -89.63472222222222
   },
   "Uberaba_Airport": {
     "latitude": "19°45′53″S",
@@ -65729,20 +65838,20 @@
     "dd_longitude": 126.71388888888889
   },
   "Waukesha_County_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°02′28″N",
+    "longitude": "088°14′13″W",
     "name": "Waukesha County International Airport",
     "nickname": "Greater Milwaukee Airport",
     "iata": "UES",
     "icao": "KUES",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.04111111111111,
+    "dd_longitude": -88.23694444444445
   },
   "Quetta_International_Airport": {
     "latitude": "30°14′24″N",
     "longitude": "66°56′24″E",
     "name": "Quetta International Airport",
-    "nickname": "کوئٹہ بین الاقوامی ہوائی اڈا ; د کوټی نړیوال هوایی ډګر",
+    "nickname": "کويته ميان اُستماني بالي پٹ",
     "iata": "UET",
     "icao": "OPQT",
     "dd_latitude": 30.240000000000002,
@@ -65885,14 +65994,14 @@
     "dd_longitude": 102.55666666666666
   },
   "Quillayute_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "47°56′12″N",
+    "longitude": "124°33′45″W",
     "name": "Quillayute Airport",
     "nickname": "IATA: UIL",
     "iata": "UIL",
     "icao": "KUIL",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 47.93666666666666,
+    "dd_longitude": -124.5625
   },
   "Quincy_Regional_Airport": {
     "latitude": "39°56′34″N",
@@ -65966,14 +66075,14 @@
     "dd_longitude": 165.7625
   },
   "Uljin_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "36°46′12″N",
+    "longitude": "129°27′55″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 36.769999999999996,
+    "dd_longitude": 129.46527777777777
   },
   "Uiju_Airfield": {
     "latitude": "40°09′06.20″N",
@@ -66584,14 +66693,14 @@
     "airlinesFlying": 2
   },
   "Rouen_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "49°23′27″N",
+    "longitude": "001°11′02″E",
     "name": "Rouen Airport",
     "nickname": "Aéroport de Rouen - Vallée de Seine",
     "iata": "URO",
     "icao": "LFOP",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 49.39083333333333,
+    "dd_longitude": 1.183888888888889,
     "airlinesFlying": 1
   },
   "Kursk_Vostochny_Airport": {
@@ -66952,14 +67061,14 @@
     "dd_longitude": -99.74361111111111
   },
   "Ouv%C3%A9a_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "20°38′30″S",
+    "longitude": "166°34′24″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -20.641666666666666,
+    "dd_longitude": 166.57333333333332
   },
   "Hewanorra_International_Airport": {
     "latitude": "13°44′00″N",
@@ -67413,7 +67522,7 @@
     "icao": "LLOV",
     "dd_latitude": 29.940277777777776,
     "dd_longitude": 34.93583333333333,
-    "airlinesFlying": 8
+    "airlinesFlying": 9
   },
   "Fagernes_Airport,_Leirin": {
     "latitude": "61°00′56″N",
@@ -67586,7 +67695,7 @@
     "latitude": "16°31′44″N",
     "longitude": "80°47′45″E",
     "name": "Vijayawada Airport",
-    "nickname": "విజయవాడ విమానాశ్రయము",
+    "nickname": "IATA: VGA",
     "iata": "VGA",
     "icao": "VOBZ",
     "dd_latitude": 16.528888888888886,
@@ -67734,7 +67843,7 @@
     "icao": "LOWW",
     "dd_latitude": 48.11027777777778,
     "dd_longitude": 16.56972222222222,
-    "airlinesFlying": 102
+    "airlinesFlying": 101
   },
   "Juan_Pablo_P%C3%A9rez_Alfonzo_Airport": {
     "latitude": "8°37′25″N",
@@ -67799,14 +67908,14 @@
     "airlinesFlying": 1
   },
   "Viqueque_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°53′2″S",
+    "longitude": "126°22′23″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -8.883888888888889,
+    "dd_longitude": 126.37305555555555
   },
   "Virginia_Airport": {
     "latitude": "29°46′14″S",
@@ -67936,14 +68045,14 @@
     "airlinesFlying": 1
   },
   "Valle_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "35°38′58″N",
+    "longitude": "112°08′31″W",
     "name": "Valle Airport",
     "nickname": "IATA: VLE",
     "iata": "VLE",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 35.64944444444444,
+    "dd_longitude": -112.14194444444445
   },
   "Villa_Gesell_Airport": {
     "latitude": "37°14′07″S",
@@ -68081,14 +68190,14 @@
     "dd_longitude": 144.82266666666666
   },
   "Venice_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°04′18″N",
+    "longitude": "082°26′25″W",
     "name": "Venice Municipal Airport",
     "nickname": "IATA: VNC",
     "iata": "VNC",
     "icao": "KVNC",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 27.071666666666665,
+    "dd_longitude": -82.44027777777778
   },
   "Meucon_Airport": {
     "latitude": "47°43′10″N",
@@ -68314,14 +68423,14 @@
     "airlinesFlying": 28
   },
   "Vero_Beach_Municipal_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "27°39′20″N",
+    "longitude": "080°25′04.60″W",
     "name": "Vero Beach Regional Airport",
     "nickname": "IATA: VRB",
     "iata": "VRB",
     "icao": "KVRB",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 27.655555555555555,
+    "dd_longitude": -80.41794444444444
   },
   "Virac_Airport": {
     "latitude": "13°34′35″N",
@@ -68418,14 +68527,14 @@
     "dd_longitude": -7.889166666666666
   },
   "Hartness_State_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "43°20′37″N",
+    "longitude": "072°31′02″W",
     "name": "Hartness State Airport",
     "nickname": "IATA: VSF",
     "iata": "VSF",
     "icao": "KVSF",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 43.343611111111116,
+    "dd_longitude": -72.51722222222222
   },
   "Luhansk_International_Airport": {
     "latitude": "48°25′4.8″N",
@@ -68462,7 +68571,7 @@
     "latitude": "17°59′18″N",
     "longitude": "102°33′48″E",
     "name": "Wattay International Airport",
-    "nickname": "ສະໜາມບິນສາກົນວັດໄຕ",
+    "nickname": "ສະໜາມບິນສາກົນວັດໄຕ\nท่าอากาศยานนานาชาติวัตไต",
     "iata": "VTE",
     "icao": "VLVT",
     "dd_latitude": 17.988333333333333,
@@ -68661,14 +68770,14 @@
     "dd_longitude": -168.095
   },
   "Wacca_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "7°10′01″N",
+    "longitude": "37°10′01″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null,
+    "dd_latitude": 7.166944444444445,
+    "dd_longitude": 37.16694444444444,
     "airlinesFlying": 1
   },
   "Wadi_al-Dawasir_Domestic_Airport": {
@@ -68715,14 +68824,14 @@
     "airlinesFlying": 1
   },
   "Wallops_Flight_Facility": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "37°56′25″N37°56′19″N",
+    "longitude": "75°27′59″W75°27′26″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 37.94027777777777,
+    "dd_longitude": 75.46638888888889
   },
   "Ambatondrazaka_Airport": {
     "latitude": "17°47′43″S",
@@ -69016,14 +69125,14 @@
     "airlinesFlying": 1
   },
   "Northern_Aroostook_Regional_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "47°17′08″N",
+    "longitude": "068°18′46″W",
     "name": "Northern Aroostook Regional Airport",
     "nickname": "IATA: WFK",
     "iata": "WFK",
     "icao": "KFVE",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 47.285555555555554,
+    "dd_longitude": -68.31277777777777
   },
   "Wagga_Wagga_Airport": {
     "latitude": "35°09′55″S",
@@ -69130,14 +69239,14 @@
     "dd_longitude": -118.41343055555556
   },
   "Whalsay_Airstrip": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "60°22′36″N",
+    "longitude": "0°55′38″W",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 60.376666666666665,
+    "dd_longitude": -0.9272222222222222
   },
   "Wharton_Regional_Airport": {
     "latitude": "29°15′15″N",
@@ -69232,14 +69341,14 @@
     "dd_longitude": 143.38055555555556
   },
   "Wairoa_Aerodrome": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "39°00′25″S",
+    "longitude": "177°24′54″E",
     "name": "Wairoa Aerodrome",
     "nickname": "IATA: WIR",
     "iata": "WIR",
     "icao": "NZWO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -39.00694444444444,
+    "dd_longitude": 177.415
   },
   "Woja_Airport": {
     "latitude": "7°27′03″N",
@@ -69655,8 +69764,8 @@
   "Wonsan_Kalma_International_Airport": {
     "latitude": "39°9′59″N",
     "longitude": "127°29′3″E",
-    "name": "Wonsan Kalma International Airport",
-    "nickname": "원산갈마국제공항",
+    "name": "Kalma Airport",
+    "nickname": "IATA: WOS",
     "iata": "WOS",
     "icao": "ZKWS",
     "dd_latitude": 39.16638888888889,
@@ -69724,14 +69833,14 @@
     "dd_longitude": -124.53333333333333
   },
   "Wipim_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "8°47′17″S",
+    "longitude": "142°52′58″E",
     "name": "Wipim Airport",
     "nickname": "IATA: none",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -8.788055555555555,
+    "dd_longitude": 142.8827777777778
   },
   "Capit%C3%A1n_Fuentes_Mart%C3%ADnez_Airport": {
     "latitude": "53°15′13.3″S",
@@ -69867,14 +69976,14 @@
     "dd_longitude": -164.91444444444446
   },
   "Washington_County_Airport_(Pennsylvania)": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40°08′11″N",
+    "longitude": "080°17′25″W",
     "name": "Washington County Airport",
     "nickname": "IATA: WSG",
     "iata": "WSG",
     "icao": "KAFJ",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 40.13638888888889,
+    "dd_longitude": -80.29027777777777
   },
   "Brookhaven_Airport": {
     "latitude": "40°49′19″N",
@@ -70071,14 +70180,14 @@
     "airlinesFlying": 1
   },
   "Whitianga_Aerodrome": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "36°50′00″S",
+    "longitude": "175°42′00″E",
     "name": "Whitianga Aerodrome",
     "nickname": "IATA: WTZ",
     "iata": "WTZ",
     "icao": "NZWT",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": -36.833333333333336,
+    "dd_longitude": 175.7
   },
   "Wuhai_Airport": {
     "latitude": "39°47′31″N",
@@ -70183,7 +70292,7 @@
     "icao": "ZSWX",
     "dd_latitude": 31.494444444444447,
     "dd_longitude": 120.42944444444444,
-    "airlinesFlying": 4
+    "airlinesFlying": 5
   },
   "Wuzhou_Changzhoudao_Airport": {
     "latitude": "23°27′24″N",
@@ -70628,14 +70737,14 @@
     "airlinesFlying": 4
   },
   "Xingning_Air_Base": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "24°09′00″N",
+    "longitude": "115°45′25.2″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 24.15,
+    "dd_longitude": 115.757
   },
   "Xi%27an_Xianyang_International_Airport": {
     "latitude": "34°26′49″N",
@@ -73075,13 +73184,13 @@
   },
   "Merritt_Airport": {
     "latitude": "50°07′22″N",
-    "longitude": "120°44′50″W",
+    "longitude": "120°44′42″W",
     "name": "Merritt Airport",
     "nickname": "Saunders Field",
     "iata": "YMB",
     "icao": "",
     "dd_latitude": 50.12277777777778,
-    "dd_longitude": -120.74722222222222
+    "dd_longitude": -120.745
   },
   "Mould_Bay_Airport": {
     "latitude": "76°14′21″N",
@@ -73552,14 +73661,14 @@
     "dd_longitude": -80.83833333333332
   },
   "Yotvata_Airfield": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "29°54′04″N",
+    "longitude": "35°04′03″E",
     "name": "Yotvata Airfield",
     "nickname": "מנחת יטבתה",
     "iata": "YOT",
     "icao": "LLYO",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 29.90111111111111,
+    "dd_longitude": 35.0675
   },
   "Ottawa_Macdonald%E2%80%93Cartier_International_Airport": {
     "latitude": "45°19′21″N",
@@ -75440,7 +75549,7 @@
   "Zagreb_Airport": {
     "latitude": "45°44′35″N",
     "longitude": "016°04′08″E",
-    "name": "Franjo Tuđman International Airport",
+    "name": "Franjo Tuđman\nInternational Airport",
     "nickname": "Međunarodna zračna luka Dr. Franjo Tuđman",
     "iata": "ZAG",
     "icao": "LDZA",
@@ -75586,14 +75695,14 @@
     "airlinesFlying": 2
   },
   "Sayaboury_Airport": {
-    "latitude": "",
-    "longitude": "",
+    "latitude": "19°14′35″N",
+    "longitude": "101°42′32″E",
     "name": "",
     "nickname": "",
     "iata": "",
     "icao": "",
-    "dd_latitude": null,
-    "dd_longitude": null
+    "dd_latitude": 19.243055555555557,
+    "dd_longitude": 101.7088888888889
   },
   "General_Leobardo_C._Ruiz_International_Airport": {
     "latitude": "22°53′49.60″N",
