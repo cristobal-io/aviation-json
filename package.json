@@ -17,8 +17,10 @@
   ],
   "scripts": {
     "test": "make test",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "lint": "make lint"
   },
+  "pre-commit": ["lint"],
   "author": "Cristobal Gomez",
   "homepage": "https://github.com/cristobal-io/aviation-json",
   "repository": {
@@ -42,7 +44,8 @@
     "coveralls": "2.11.9",
     "eslint": "2.5.3",
     "mocha": "2.4.5",
-    "mocha-lcov-reporter": "1.2.0"
+    "mocha-lcov-reporter": "1.2.0",
+    "pre-commit": "^1.2.2"
   },
   "dependencies": {
     "commander": "2.9.0",
